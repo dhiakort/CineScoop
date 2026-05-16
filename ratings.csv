@@ -1,0 +1,1201 @@
+rating_id,movie_id,user_id,rating_value,review,review_date,likes,dislikes,watch_completed,device_used,watch_duration,favorite_scene,recommendation,created_at
+1,146,13,9.0,"Great movie, a must-see.",2022-12-13,1209,454,False,Laptop,137,Emotional breakdown,False,2022-12-15 17:44:14
+2,855,415,3.1,"Great movie, a must-see.",2021-02-01,4737,349,False,Mobile,148,Monologue,False,2023-09-15 16:58:11
+3,805,451,5.8,"Great movie, loved it.",2022-08-06,4175,124,False,Laptop,60,Opening scene,True,2024-10-18 13:52:23
+4,647,330,6.3,"Great movie, not my type.",2020-08-25,2394,174,False,Desktop,181,Emotional breakdown,False,2023-01-07 05:28:06
+5,962,274,8.3,"Great movie, not my type.",2022-01-26,4749,282,True,Console,43,Opening scene,False,2022-11-05 01:16:25
+6,813,458,6.3,"Great movie, a must-see.",2021-10-01,3267,422,False,Laptop,74,Flashback,False,2021-10-06 01:09:19
+7,645,407,3.3,"Disappointing movie, meh.",2023-04-21,829,293,False,Mobile,148,Final scene,True,2020-02-06 01:48:12
+8,776,204,5.4,"Great movie, meh.",2020-12-13,2069,475,True,Tablet,31,Reunion,False,2023-05-16 02:01:31
+9,712,294,3.0,"Great movie, a must-see.",2021-12-23,204,278,True,Mobile,185,Plot twist,True,2020-02-24 12:05:40
+10,887,269,3.0,"Disappointing movie, loved it.",2020-01-27,4032,151,True,Console,108,Reunion,False,2021-01-18 12:01:51
+11,304,76,6.0,"Disappointing movie, not my type.",2021-04-05,2463,195,False,Smart TV,131,Final battle,True,2023-01-26 12:03:27
+12,466,492,6.8,"Great movie, loved it.",2024-03-03,2094,62,True,Mobile,25,Flashback,True,2024-01-17 21:16:30
+13,636,415,9.5,"Disappointing movie, highly recommend.",2020-08-02,2824,392,False,Smart TV,129,Reunion,False,2024-11-12 14:48:23
+14,461,304,1.2,"Great movie, not my type.",2023-12-11,4825,384,False,Tablet,164,Final battle,True,2024-10-23 19:37:53
+15,641,112,7.7,"Great movie, loved it.",2023-06-06,1779,394,True,Laptop,11,Chase scene,False,2021-04-09 06:01:16
+16,627,419,-1.7,"Disappointing movie, highly recommend.",2021-07-25,3838,178,False,Smart TV,124,Emotional breakdown,True,2024-07-26 09:50:45
+17,92,486,4.8,"Great movie, highly recommend.",2023-03-27,1657,26,True,Smart TV,139,Climax,True,2023-03-13 07:43:15
+18,887,15,5.9,"Great movie, meh.",2022-09-27,106,274,False,Console,30,Final battle,True,2022-09-01 09:19:44
+19,901,119,1.5,"Great movie, not my type.",2023-03-03,818,68,False,Mobile,189,Reunion,True,2020-10-17 03:54:42
+20,894,233,10.0,"Great movie, a must-see.",2021-02-11,1247,477,False,Tablet,61,Flashback,True,2020-01-15 00:59:25
+21,547,211,5.7,"Great movie, meh.",2022-02-10,3872,453,True,Smart TV,165,Chase scene,False,2024-10-11 06:40:29
+22,299,96,4.1,"Great movie, not my type.",2024-10-27,4666,327,False,Console,133,Plot twist,False,2020-07-21 12:02:14
+23,743,83,9.8,"Great movie, meh.",2020-02-09,139,451,False,Console,175,Opening scene,False,2020-06-21 03:39:39
+24,969,195,7.6,"Disappointing movie, worth watching.",2020-11-10,3994,466,False,Desktop,96,Final scene,False,2020-12-03 11:40:41
+25,624,362,4.1,"Great movie, worth watching.",2024-05-03,3223,64,True,Tablet,57,Monologue,True,2022-12-23 23:26:25
+26,55,339,8.5,"Disappointing movie, loved it.",2024-01-12,686,327,True,Smart TV,61,Chase scene,True,2023-04-11 13:33:03
+27,710,478,5.7,"Great movie, worth watching.",2022-08-05,2414,461,False,Mobile,190,Reunion,False,2023-03-04 17:31:47
+28,298,124,1.2,"Great movie, worth watching.",2024-11-07,1147,200,True,Console,87,Monologue,False,2020-10-24 20:11:37
+29,869,172,1.9,"Great movie, loved it.",2020-09-10,2854,135,True,Tablet,45,Flashback,False,2021-04-04 05:21:33
+30,99,67,7.0,"Great movie, not my type.",2023-07-08,2178,3,False,Mobile,169,Flashback,False,2022-08-14 10:45:11
+31,871,394,2.2,"Great movie, loved it.",2022-02-14,4855,91,True,Tablet,104,Final battle,False,2020-04-12 22:42:09
+32,645,284,3.7,"Great movie, meh.",2022-01-21,188,181,False,Smart TV,184,Emotional breakdown,True,2023-07-14 09:34:29
+33,531,153,2.0,"Disappointing movie, worth watching.",2023-07-02,4058,274,True,Desktop,99,Final scene,False,2024-03-21 04:58:16
+34,372,65,3.6,"Great movie, loved it.",2020-07-28,126,339,True,Smart TV,216,Plot twist,False,2020-08-14 22:53:22
+35,319,209,2.0,"Disappointing movie, loved it.",2020-01-21,817,149,False,Desktop,155,Final battle,True,2024-09-27 20:15:51
+36,321,267,3.3,"Great movie, highly recommend.",2020-03-15,3889,37,True,Tablet,135,Final battle,False,2023-11-17 10:12:52
+37,854,309,1.0,"Great movie, a must-see.",2022-08-19,2067,7,True,Console,59,Opening scene,True,2021-10-21 01:55:25
+38,268,424,1.9,"Great movie, loved it.",2022-01-05,4628,125,False,Tablet,74,Emotional breakdown,True,2023-11-11 17:28:08
+39,538,8,9.4,"Great movie, a must-see.",2023-03-14,358,6,True,Smart TV,158,Monologue,True,2020-09-25 17:32:00
+40,8,358,14.7,"Great movie, worth watching.",2024-07-28,4291,376,False,Console,51,Climax,True,2021-01-15 02:03:54
+41,556,33,9.1,"Great movie, worth watching.",2021-12-19,3828,193,False,Desktop,38,Emotional breakdown,False,2020-06-28 22:04:37
+42,575,31,5.0,"Great movie, worth watching.",2023-12-05,1365,425,False,Desktop,179,Monologue,False,2021-06-18 07:19:37
+43,172,361,8.9,"Great movie, meh.",2024-08-21,2206,315,False,Smart TV,165,Final battle,True,2024-03-25 23:14:15
+44,369,186,8.6,"Great movie, worth watching.",2024-11-08,2150,204,True,Console,142,Final scene,True,2023-02-22 19:01:22
+45,329,492,9.2,"Disappointing movie, meh.",2021-10-14,706,139,True,Console,220,Final scene,False,2020-07-15 18:20:40
+46,675,81,6.9,"Great movie, loved it.",2024-11-24,785,140,False,Smart TV,148,Final battle,True,2024-10-04 15:40:10
+47,526,144,4.0,"Great movie, not my type.",2022-10-09,351,430,True,Laptop,54,Reunion,True,2024-09-13 11:47:34
+48,861,12,9.8,"Disappointing movie, highly recommend.",2020-09-21,184,182,False,Mobile,30,Final scene,False,2022-04-25 21:42:20
+49,458,165,7.2,"Great movie, a must-see.",2022-12-25,3060,447,False,Laptop,16,Monologue,False,2023-10-24 00:00:06
+50,348,356,6.9,"Great movie, not my type.",2021-05-23,1533,150,False,Tablet,183,Opening scene,True,2021-06-04 18:44:02
+51,403,459,6.9,"Great movie, a must-see.",2023-01-20,2945,414,False,Console,134,Climax,False,2024-08-16 09:29:24
+52,249,488,9.1,"Great movie, worth watching.",2022-08-05,4395,308,True,Laptop,34,Opening scene,True,2023-04-09 20:29:19
+53,643,395,7.1,"Great movie, worth watching.",2020-11-05,1285,99,True,Smart TV,209,Final scene,False,2022-08-08 06:49:52
+54,444,285,8.0,"Great movie, not my type.",2023-06-15,2948,372,False,Smart TV,45,Emotional breakdown,False,2024-06-13 17:23:01
+55,743,490,4.8,"Great movie, loved it.",2023-09-06,3283,158,False,Mobile,67,Opening scene,True,2020-03-11 11:16:25
+56,657,136,4.1,"Disappointing movie, loved it.",2024-06-05,4792,135,False,Smart TV,126,Opening scene,False,2020-12-23 09:23:02
+57,337,342,7.7,"Disappointing movie, highly recommend.",2023-10-11,867,436,True,Laptop,36,Final scene,False,2020-04-18 20:28:54
+58,896,187,6.9,"Great movie, worth watching.",2021-10-17,845,340,True,Desktop,175,Climax,False,2020-10-22 19:29:54
+59,985,456,5.2,"Great movie, highly recommend.",2023-08-23,3774,150,True,Tablet,23,Chase scene,True,2024-09-11 19:09:28
+60,102,133,3.0,"Great movie, not my type.",2022-10-07,2504,397,False,Tablet,188,Monologue,True,2024-07-03 12:40:47
+61,93,359,9.3,"Great movie, not my type.",2022-12-11,4288,345,True,Laptop,84,Plot twist,True,2024-07-21 10:10:46
+62,69,464,7.2,"Great movie, meh.",2020-06-07,530,68,False,Mobile,104,Emotional breakdown,False,2022-01-05 20:51:34
+63,771,476,3.7,"Great movie, not my type.",2023-10-11,3066,289,True,Console,53,Reunion,True,2021-01-16 16:15:28
+64,888,108,2.0,"Great movie, a must-see.",2024-05-04,1401,377,True,Console,76,Emotional breakdown,True,2021-03-26 11:44:33
+65,58,494,7.7,"Great movie, not my type.",2020-02-25,3139,91,False,Smart TV,207,Plot twist,False,2020-05-20 04:32:52
+66,422,103,2.2,"Disappointing movie, highly recommend.",2023-05-21,272,66,True,Mobile,107,Opening scene,False,2023-04-27 09:17:13
+67,213,144,13.6,"Great movie, meh.",2023-04-08,3003,203,False,Mobile,191,Reunion,True,2024-09-22 15:02:51
+68,176,170,2.4,"Great movie, highly recommend.",2022-11-21,1865,484,False,Mobile,131,Climax,True,2023-09-12 01:16:46
+69,763,407,6.9,"Disappointing movie, highly recommend.",2021-12-08,2734,147,False,Desktop,53,Chase scene,True,2022-12-12 07:02:48
+70,416,459,1.7,"Disappointing movie, highly recommend.",2020-05-12,4348,467,True,Tablet,103,Climax,True,2022-01-17 15:02:48
+71,384,215,6.1,"Great movie, worth watching.",2021-06-12,2930,205,True,Laptop,104,Final scene,True,2024-03-18 08:56:13
+72,628,289,8.0,"Great movie, loved it.",2024-01-02,2828,366,False,Tablet,192,Plot twist,True,2024-01-15 19:47:08
+73,416,323,4.5,"Disappointing movie, a must-see.",2022-08-12,214,52,False,Smart TV,13,Emotional breakdown,False,2023-06-26 10:33:38
+74,784,314,6.7,"Great movie, a must-see.",2024-07-28,4839,254,True,Desktop,61,Climax,False,2021-01-09 07:01:03
+75,409,123,7.2,"Great movie, not my type.",2024-08-27,825,378,True,Tablet,204,Plot twist,False,2024-02-25 21:51:51
+76,94,433,3.7,"Great movie, worth watching.",2024-07-04,1094,417,True,Desktop,50,Monologue,False,2020-05-01 22:49:08
+77,652,148,9.4,"Disappointing movie, meh.",2024-03-06,2353,122,True,Desktop,69,Climax,True,2020-01-04 06:08:28
+78,540,481,6.4,"Great movie, a must-see.",2021-06-02,4800,428,False,Laptop,34,Plot twist,False,2021-03-20 10:24:07
+79,652,482,5.4,"Great movie, meh.",2024-05-14,3999,409,False,Smart TV,24,Monologue,False,2023-10-12 06:24:04
+80,927,141,1.0,"Great movie, highly recommend.",2024-01-13,2015,458,True,Tablet,24,Climax,False,2021-02-24 10:27:30
+81,860,371,2.5,"Great movie, worth watching.",2023-03-19,1192,149,False,Laptop,181,Monologue,False,2023-08-07 17:46:47
+82,187,354,3.7,"Disappointing movie, a must-see.",2023-03-20,1310,84,True,Desktop,145,Plot twist,True,2024-12-26 02:12:32
+83,962,476,3.9,"Disappointing movie, loved it.",2020-07-05,3975,348,True,Laptop,190,Chase scene,True,2020-05-10 02:10:19
+84,347,474,2.4,"Disappointing movie, a must-see.",2023-08-22,215,267,True,Laptop,190,Plot twist,False,2020-05-14 05:44:39
+85,709,97,2.8,"Disappointing movie, a must-see.",2021-06-18,1919,106,False,Laptop,174,Final scene,False,2024-02-24 19:01:21
+86,249,391,1.3,"Disappointing movie, loved it.",2023-06-19,2830,30,True,Smart TV,217,Flashback,True,2021-03-24 22:43:12
+87,15,3,5.3,"Great movie, highly recommend.",2024-07-20,2486,257,False,Tablet,184,Flashback,False,2023-12-21 11:10:47
+88,635,51,3.4,"Great movie, meh.",2023-06-02,4554,326,False,Laptop,44,Climax,False,2020-12-06 10:52:08
+89,694,350,4.3,"Great movie, a must-see.",2020-02-24,508,456,False,Smart TV,199,Reunion,True,2022-02-05 13:42:26
+90,457,216,9.1,"Great movie, loved it.",2022-01-24,2564,291,False,Smart TV,133,Opening scene,True,2021-07-27 08:10:53
+91,296,432,7.9,"Great movie, worth watching.",2020-07-11,2217,435,True,Desktop,114,Final battle,False,2021-05-28 01:44:42
+92,928,459,8.6,"Disappointing movie, highly recommend.",2022-03-27,2183,97,True,Mobile,165,Final battle,False,2023-09-08 20:58:01
+93,634,468,9.0,"Great movie, highly recommend.",2021-03-12,1338,377,False,Smart TV,160,Flashback,False,2023-09-15 01:27:28
+94,667,321,7.0,"Disappointing movie, not my type.",2021-01-15,245,235,True,Console,20,Final battle,True,2020-03-10 09:33:49
+95,10,191,4.5,"Great movie, highly recommend.",2020-12-17,3951,157,True,Mobile,81,Chase scene,True,2020-11-25 23:03:28
+96,174,358,2.7,"Great movie, a must-see.",2024-03-01,2320,291,True,Mobile,192,Reunion,False,2020-05-03 04:04:03
+97,470,21,7.0,"Great movie, highly recommend.",2020-06-12,76,111,True,Smart TV,196,Monologue,False,2024-06-02 12:26:00
+98,790,221,5.0,"Great movie, a must-see.",2020-05-17,1867,176,True,Smart TV,113,Opening scene,False,2020-05-24 04:59:29
+99,486,27,7.2,"Great movie, loved it.",2023-02-04,2743,62,True,Mobile,191,Reunion,True,2023-02-09 06:48:23
+100,632,99,-2.7,"Great movie, a must-see.",2020-11-09,4087,95,False,Smart TV,65,Final battle,True,2023-04-16 02:11:09
+101,8,225,2.3,"Great movie, a must-see.",2022-12-24,1448,153,True,Laptop,142,Reunion,True,2024-07-22 18:08:20
+102,785,484,3.1,"Disappointing movie, meh.",2020-10-24,4711,121,True,Laptop,35,Chase scene,True,2020-10-20 21:32:07
+103,169,428,7.5,"Great movie, highly recommend.",2024-03-22,1513,264,False,Smart TV,197,Final battle,False,2024-05-20 04:51:22
+104,272,326,2.7,"Great movie, worth watching.",2023-07-09,1423,245,True,Laptop,191,Reunion,False,2023-05-18 02:56:05
+105,39,172,1.6,"Great movie, meh.",2021-12-15,1215,419,False,Desktop,14,Reunion,False,2023-08-20 16:14:42
+106,395,234,5.1,"Great movie, loved it.",2021-05-02,4123,312,True,Console,101,Final battle,True,2021-12-25 03:22:29
+107,591,92,1.5,"Disappointing movie, not my type.",2023-02-27,3173,329,True,Mobile,31,Flashback,True,2024-06-24 03:43:08
+108,391,330,8.6,"Great movie, loved it.",2023-10-14,904,500,True,Mobile,151,Chase scene,True,2021-10-01 23:36:11
+109,675,336,7.0,"Great movie, not my type.",2021-07-01,4330,213,True,Desktop,65,Final scene,False,2020-07-13 22:25:41
+110,506,220,1.1,"Great movie, loved it.",2020-11-02,2783,425,True,Console,165,Opening scene,True,2020-07-21 19:11:23
+111,50,355,7.4,"Great movie, a must-see.",2022-07-10,2552,409,True,Laptop,156,Chase scene,True,2021-05-07 13:04:25
+112,50,191,1.1,"Great movie, loved it.",2024-01-15,3268,47,True,Console,139,Final battle,False,2024-09-07 13:31:33
+113,270,313,1.1,"Great movie, not my type.",2023-05-19,766,498,True,Tablet,121,Flashback,False,2022-01-23 21:50:02
+114,286,97,8.4,"Great movie, meh.",2020-06-27,3651,181,True,Desktop,168,Emotional breakdown,True,2024-04-27 17:25:02
+115,929,102,9.5,"Great movie, a must-see.",2024-07-15,2949,451,False,Tablet,104,Plot twist,False,2020-06-08 08:42:44
+116,506,146,2.8,"Great movie, loved it.",2020-03-02,3753,279,True,Console,16,Plot twist,False,2024-02-28 00:07:00
+117,256,325,2.3,"Great movie, worth watching.",2022-02-27,3317,4,True,Laptop,128,Emotional breakdown,False,2024-09-26 11:07:56
+118,411,205,14.5,"Disappointing movie, a must-see.",2024-01-09,1829,401,False,Console,181,Reunion,True,2023-11-05 04:44:10
+119,478,354,8.6,"Great movie, highly recommend.",2022-05-25,308,86,False,Mobile,200,Climax,False,2023-06-24 10:37:09
+120,925,47,7.4,"Great movie, loved it.",2023-05-28,4719,459,True,Desktop,181,Final scene,False,2022-06-07 19:04:34
+121,44,91,3.1,"Great movie, highly recommend.",2022-05-09,1833,374,True,Console,183,Flashback,True,2023-11-21 01:39:54
+122,64,263,4.0,"Great movie, not my type.",2024-05-15,3214,385,True,Mobile,145,Plot twist,False,2021-12-19 00:00:10
+123,293,478,6.3,"Great movie, a must-see.",2021-04-10,3272,370,True,Smart TV,27,Climax,True,2023-08-13 23:00:52
+124,536,477,6.5,"Disappointing movie, not my type.",2022-09-20,3651,257,True,Console,89,Climax,False,2023-06-18 04:48:36
+125,224,286,8.4,"Great movie, highly recommend.",2022-12-10,2758,9,True,Laptop,150,Reunion,True,2024-04-24 08:24:24
+126,618,387,1.2,"Disappointing movie, loved it.",2024-07-02,1125,309,False,Smart TV,67,Climax,True,2020-06-22 06:01:30
+127,18,239,9.0,"Disappointing movie, highly recommend.",2022-12-17,4064,264,False,Mobile,29,Emotional breakdown,True,2024-12-25 20:51:14
+128,934,493,3.1,"Great movie, highly recommend.",2021-10-17,1220,308,False,Smart TV,79,Final battle,True,2021-08-18 16:06:19
+129,667,252,7.8,"Disappointing movie, a must-see.",2020-08-26,2527,113,True,Mobile,220,Plot twist,False,2020-11-23 01:28:32
+130,439,229,5.0,"Disappointing movie, a must-see.",2021-12-11,3966,407,False,Console,25,Plot twist,False,2023-04-07 12:04:17
+131,186,498,3.3,"Great movie, highly recommend.",2023-12-08,1227,315,False,Tablet,116,Final battle,False,2024-12-06 22:16:41
+132,248,214,3.7,"Great movie, worth watching.",2023-11-12,4058,242,True,Mobile,205,Reunion,True,2022-07-01 02:31:42
+133,262,393,1.8,"Disappointing movie, meh.",2020-01-27,4818,79,False,Tablet,183,Monologue,True,2022-10-21 13:53:08
+134,457,267,3.2,"Great movie, not my type.",2023-07-11,2135,0,True,Desktop,86,Flashback,True,2022-06-04 06:28:17
+135,675,450,1.1,"Great movie, worth watching.",2023-06-26,3535,493,False,Desktop,155,Plot twist,False,2023-06-13 05:29:23
+136,780,129,4.1,"Disappointing movie, a must-see.",2024-11-17,4689,126,False,Smart TV,168,Emotional breakdown,False,2021-07-22 09:40:10
+137,186,352,1.4,"Great movie, a must-see.",2022-05-16,3258,183,True,Laptop,179,Opening scene,True,2024-12-21 14:24:49
+138,708,448,6.5,"Disappointing movie, worth watching.",2024-09-11,1202,443,False,Mobile,100,Monologue,True,2022-11-21 08:14:01
+139,135,422,6.2,"Great movie, meh.",2021-09-11,2545,138,True,Smart TV,25,Climax,False,2024-01-10 22:27:32
+140,538,198,7.3,"Great movie, loved it.",2024-01-18,3697,205,True,Smart TV,178,Climax,False,2021-05-15 14:06:07
+141,360,229,5.9,"Great movie, loved it.",2020-06-14,1004,429,False,Desktop,26,Flashback,True,2023-08-28 02:15:47
+142,541,370,5.5,"Disappointing movie, meh.",2021-02-19,961,203,False,Tablet,208,Final battle,False,2021-05-24 21:42:25
+143,633,371,5.9,"Great movie, not my type.",2023-07-06,622,257,True,Desktop,89,Flashback,True,2021-05-16 12:41:56
+144,951,283,4.8,"Great movie, highly recommend.",2023-08-03,2192,265,False,Tablet,166,Climax,False,2023-09-12 22:11:12
+145,980,162,10.0,"Disappointing movie, highly recommend.",2024-04-10,574,114,False,Desktop,74,Emotional breakdown,False,2021-05-16 03:04:22
+146,897,162,5.7,"Disappointing movie, highly recommend.",2024-02-27,4634,170,True,Tablet,33,Final scene,True,2023-01-14 14:30:41
+147,438,500,7.0,"Great movie, worth watching.",2020-07-28,2439,160,True,Laptop,60,Plot twist,False,2022-03-12 10:00:54
+148,229,493,4.2,"Great movie, meh.",2021-12-03,270,51,True,Smart TV,86,Reunion,False,2022-10-03 09:37:37
+149,685,310,4.2,"Great movie, not my type.",2023-01-08,780,359,False,Mobile,102,Reunion,True,2022-09-07 05:02:04
+150,921,137,8.2,"Great movie, not my type.",2021-07-28,3857,315,True,Tablet,138,Reunion,True,2023-11-28 09:42:19
+151,737,159,9.1,"Disappointing movie, meh.",2023-04-25,1083,401,False,Tablet,204,Plot twist,True,2020-07-27 22:50:01
+152,282,72,8.8,"Disappointing movie, loved it.",2021-02-03,1432,136,False,Smart TV,64,Emotional breakdown,True,2023-10-22 15:34:57
+153,174,31,6.2,"Great movie, worth watching.",2020-02-05,151,110,True,Console,161,Final scene,True,2024-10-27 01:06:23
+154,911,2,8.0,"Great movie, a must-see.",2024-06-10,4014,218,True,Tablet,153,Opening scene,False,2024-01-08 01:19:46
+155,991,438,1.3,"Great movie, meh.",2022-07-17,138,40,True,Mobile,219,Chase scene,True,2021-07-01 11:31:16
+156,201,96,1.9,"Disappointing movie, a must-see.",2022-10-11,1065,295,True,Console,131,Final scene,True,2024-07-27 19:51:42
+157,49,309,8.8,"Disappointing movie, not my type.",2023-06-23,4661,65,True,Smart TV,156,Chase scene,True,2023-01-19 00:56:56
+158,77,216,14.0,"Great movie, meh.",2021-12-14,147,319,False,Smart TV,63,Final scene,False,2022-11-28 06:41:17
+159,917,312,5.4,"Disappointing movie, loved it.",2023-01-04,3044,100,False,Desktop,215,Opening scene,False,2021-03-26 11:27:47
+160,177,475,3.8,"Great movie, meh.",2024-11-23,4419,8,False,Laptop,136,Opening scene,False,2023-05-18 22:21:20
+161,365,50,7.1,"Disappointing movie, meh.",2022-01-27,2727,456,False,Console,210,Chase scene,True,2020-11-19 06:23:12
+162,581,51,6.6,"Great movie, loved it.",2020-12-13,3279,254,False,Console,16,Final scene,False,2021-02-17 10:43:32
+163,871,500,4.4,"Disappointing movie, meh.",2021-10-09,1182,302,True,Mobile,212,Monologue,True,2022-09-27 20:20:30
+164,527,405,2.8,"Great movie, highly recommend.",2021-08-01,1755,231,False,Desktop,202,Final battle,True,2020-06-18 17:26:36
+165,658,353,3.8,"Great movie, not my type.",2022-09-15,4515,39,True,Smart TV,15,Final scene,False,2020-05-01 10:03:47
+166,74,284,1.9,"Great movie, highly recommend.",2023-01-01,304,495,False,Laptop,219,Emotional breakdown,False,2020-12-28 23:08:43
+167,197,341,3.3,"Disappointing movie, meh.",2024-05-22,2665,84,False,Smart TV,73,Final scene,False,2021-06-27 11:27:05
+168,279,138,1.9,"Great movie, meh.",2024-09-15,501,32,True,Laptop,58,Climax,True,2022-03-19 08:06:31
+169,826,221,2.0,"Great movie, loved it.",2021-03-09,309,306,False,Console,97,Climax,False,2020-03-04 12:52:50
+170,423,366,6.1,"Great movie, meh.",2020-01-03,526,84,True,Desktop,188,Opening scene,True,2023-08-19 12:21:23
+171,641,200,6.9,"Disappointing movie, loved it.",2021-07-17,2518,50,False,Desktop,88,Chase scene,False,2021-03-26 16:01:47
+172,499,136,7.0,"Great movie, worth watching.",2024-11-28,4680,398,True,Smart TV,196,Final scene,False,2020-10-25 23:17:10
+173,538,329,1.6,"Great movie, a must-see.",2023-08-06,702,13,False,Desktop,129,Chase scene,True,2020-06-19 02:58:58
+174,359,380,5.1,"Great movie, meh.",2020-06-11,2753,46,False,Laptop,101,Emotional breakdown,True,2024-07-09 07:40:20
+175,144,71,1.9,"Great movie, worth watching.",2022-09-16,1405,290,True,Console,51,Opening scene,True,2024-02-21 14:11:24
+176,322,397,2.0,"Great movie, worth watching.",2020-05-21,2749,430,False,Laptop,202,Final battle,True,2020-05-12 12:08:46
+177,382,117,1.5,"Disappointing movie, highly recommend.",2021-01-01,946,57,True,Mobile,82,Reunion,False,2022-03-03 09:15:29
+178,658,245,5.5,"Disappointing movie, a must-see.",2022-11-20,1131,378,True,Tablet,131,Opening scene,True,2023-01-24 09:36:29
+179,410,319,9.4,"Great movie, loved it.",2023-12-06,2879,206,False,Console,209,Chase scene,True,2020-04-12 00:54:28
+180,708,223,8.1,"Great movie, worth watching.",2023-12-13,1556,111,False,Laptop,16,Opening scene,False,2020-02-20 09:31:20
+181,49,337,9.5,"Disappointing movie, highly recommend.",2020-02-05,3961,417,True,Console,82,Climax,True,2022-10-24 07:15:41
+182,735,466,2.2,"Disappointing movie, a must-see.",2021-04-04,3328,458,True,Tablet,113,Final scene,False,2022-11-10 13:37:31
+183,41,250,2.0,"Great movie, meh.",2024-06-03,900,60,False,Tablet,149,Flashback,True,2021-10-02 06:31:07
+184,330,332,4.3,"Great movie, worth watching.",2023-05-05,1722,206,True,Console,87,Emotional breakdown,False,2023-12-19 06:28:04
+185,832,144,5.2,"Great movie, highly recommend.",2024-11-01,2924,330,False,Console,26,Final battle,False,2024-05-21 09:17:03
+186,62,80,7.6,"Great movie, loved it.",2022-03-09,2513,479,True,Tablet,165,Plot twist,False,2023-07-02 09:19:34
+187,774,204,8.1,"Disappointing movie, loved it.",2024-02-14,555,269,True,Console,135,Flashback,True,2022-08-15 09:37:26
+188,449,498,5.7,"Great movie, not my type.",2021-12-08,838,327,True,Smart TV,116,Flashback,False,2022-02-27 06:50:21
+189,284,322,7.9,"Great movie, not my type.",2024-08-21,244,370,False,Laptop,210,Opening scene,False,2023-11-02 09:40:40
+190,383,173,-2.9,"Great movie, highly recommend.",2022-02-05,3856,88,False,Laptop,54,Final battle,True,2024-11-18 11:24:28
+191,708,66,3.3,"Great movie, meh.",2021-06-28,856,255,False,Smart TV,172,Monologue,False,2023-06-05 20:25:19
+192,935,80,7.8,"Disappointing movie, a must-see.",2021-09-24,1107,400,True,Mobile,57,Climax,True,2022-02-01 13:18:57
+193,585,208,1.4,"Great movie, meh.",2020-11-04,2282,262,False,Tablet,22,Final scene,False,2023-04-15 05:23:02
+194,57,294,3.1,"Disappointing movie, loved it.",2022-07-24,1598,404,True,Mobile,105,Opening scene,False,2022-01-13 18:24:58
+195,644,59,7.1,"Great movie, loved it.",2024-05-09,2877,64,True,Tablet,74,Final scene,False,2020-02-24 00:51:02
+196,814,455,-1.3,"Great movie, meh.",2020-05-02,3374,73,True,Desktop,34,Emotional breakdown,True,2023-06-04 19:24:30
+197,605,406,2.6,"Disappointing movie, loved it.",2023-06-08,660,486,False,Console,213,Plot twist,False,2021-03-02 15:52:02
+198,924,147,3.0,"Disappointing movie, not my type.",2023-03-06,1174,287,False,Smart TV,168,Final scene,False,2024-10-07 23:25:31
+199,955,151,2.5,"Disappointing movie, not my type.",2023-12-21,3859,341,False,Desktop,138,Monologue,True,2020-02-03 06:02:41
+200,359,89,7.2,"Great movie, loved it.",2021-06-06,1211,107,False,Tablet,95,Opening scene,False,2022-09-26 00:25:41
+201,248,323,2.7,"Great movie, not my type.",2024-05-14,283,142,True,Console,53,Reunion,True,2023-12-24 11:20:40
+202,319,67,5.2,"Great movie, loved it.",2023-01-05,989,454,False,Console,107,Final battle,False,2024-12-25 01:19:30
+203,686,195,1.7,"Great movie, not my type.",2022-05-10,676,300,True,Smart TV,60,Flashback,False,2020-03-20 21:26:29
+204,947,450,12.3,"Great movie, worth watching.",2021-08-27,1530,385,False,Tablet,180,Chase scene,False,2023-01-10 17:48:57
+205,912,183,8.9,"Great movie, not my type.",2022-07-24,1927,90,True,Console,113,Flashback,True,2020-02-27 15:32:21
+206,117,93,4.1,"Great movie, worth watching.",2024-02-13,4889,149,True,Desktop,43,Final scene,True,2022-04-18 08:04:35
+207,454,170,8.1,"Great movie, highly recommend.",2023-07-12,3969,82,True,Console,76,Emotional breakdown,True,2023-07-01 15:37:35
+208,222,121,10.0,"Great movie, meh.",2021-08-17,1787,200,True,Smart TV,172,Final scene,True,2023-07-17 12:24:41
+209,531,13,-1.3,"Great movie, worth watching.",2020-01-02,1527,415,True,Tablet,103,Opening scene,True,2023-11-27 00:17:30
+210,895,3,6.6,"Disappointing movie, worth watching.",2023-02-09,1163,349,True,Desktop,215,Flashback,False,2023-03-16 18:14:37
+211,180,324,2.3,"Great movie, loved it.",2024-05-28,4674,167,False,Desktop,137,Reunion,True,2024-04-24 23:48:15
+212,963,203,7.6,"Great movie, worth watching.",2022-01-22,3861,89,True,Laptop,98,Final scene,True,2023-02-22 16:01:37
+213,819,260,-1.5,"Great movie, a must-see.",2020-10-07,1893,201,True,Tablet,47,Chase scene,False,2022-03-06 15:23:38
+214,266,70,4.5,"Disappointing movie, meh.",2023-03-06,1209,52,False,Smart TV,70,Climax,False,2020-02-13 19:55:37
+215,193,398,8.9,"Great movie, a must-see.",2022-02-03,3232,173,True,Tablet,11,Monologue,False,2021-05-27 18:50:20
+216,900,55,3.0,"Great movie, meh.",2020-12-11,3803,165,True,Console,157,Reunion,False,2022-08-03 21:05:32
+217,88,109,9.2,"Disappointing movie, worth watching.",2021-12-19,972,298,True,Laptop,77,Reunion,False,2022-01-25 13:59:13
+218,444,298,7.3,"Great movie, highly recommend.",2023-08-24,3444,332,False,Smart TV,168,Final scene,True,2024-07-27 13:37:28
+219,416,32,7.7,"Great movie, a must-see.",2024-12-19,2846,351,True,Smart TV,70,Flashback,True,2022-04-22 08:09:18
+220,622,54,8.7,"Disappointing movie, not my type.",2023-08-25,2224,362,False,Desktop,56,Climax,True,2021-11-10 04:41:06
+221,830,367,8.1,"Disappointing movie, loved it.",2020-11-24,4721,14,True,Smart TV,123,Plot twist,True,2023-06-04 01:42:11
+222,606,476,4.3,"Great movie, highly recommend.",2024-12-07,1926,86,False,Mobile,16,Chase scene,False,2021-12-11 02:13:20
+223,666,219,7.6,"Great movie, worth watching.",2020-12-15,637,309,True,Tablet,68,Plot twist,False,2022-08-21 02:44:22
+224,893,134,8.8,"Great movie, meh.",2024-03-11,2479,55,False,Tablet,149,Final scene,True,2021-01-13 17:08:36
+225,970,331,6.3,"Great movie, loved it.",2020-03-17,2487,177,False,Mobile,182,Monologue,False,2024-11-04 18:42:41
+226,527,498,1.8,"Great movie, a must-see.",2024-10-07,874,471,False,Smart TV,73,Reunion,False,2020-04-07 16:27:07
+227,806,115,4.7,"Great movie, highly recommend.",2023-02-14,88,163,False,Desktop,67,Flashback,True,2023-11-26 22:53:15
+228,392,241,1.7,"Disappointing movie, highly recommend.",2023-10-25,3070,493,True,Mobile,54,Final battle,False,2024-10-10 00:42:43
+229,398,319,7.9,"Great movie, not my type.",2021-01-09,729,283,False,Desktop,166,Plot twist,True,2024-02-21 12:56:28
+230,566,474,9.0,"Great movie, loved it.",2023-12-09,4025,493,False,Mobile,209,Final battle,True,2022-06-08 03:28:21
+231,335,410,1.0,"Disappointing movie, highly recommend.",2022-12-08,4435,432,False,Mobile,68,Final scene,False,2021-07-16 10:18:22
+232,451,215,8.4,"Great movie, highly recommend.",2022-03-12,506,315,False,Tablet,60,Reunion,True,2021-09-11 20:20:10
+233,520,387,5.7,"Great movie, worth watching.",2024-10-14,3982,262,True,Smart TV,61,Emotional breakdown,False,2024-10-04 19:29:56
+234,794,239,4.7,"Great movie, not my type.",2024-03-05,2736,364,False,Desktop,134,Reunion,True,2023-07-06 16:31:06
+235,79,237,8.3,"Great movie, worth watching.",2022-10-25,2726,177,True,Laptop,78,Emotional breakdown,True,2023-11-19 16:39:21
+236,515,399,6.9,"Great movie, worth watching.",2020-10-19,3782,360,True,Laptop,95,Emotional breakdown,False,2020-08-19 06:44:53
+237,788,316,3.7,"Great movie, loved it.",2020-05-06,583,182,False,Smart TV,194,Opening scene,False,2023-07-05 09:58:09
+238,564,489,9.6,"Disappointing movie, highly recommend.",2022-03-24,3972,325,False,Mobile,61,Emotional breakdown,False,2023-07-13 07:03:28
+239,809,494,6.9,"Great movie, not my type.",2022-02-22,3,298,True,Tablet,190,Emotional breakdown,True,2024-05-01 15:10:52
+240,820,495,3.1,"Great movie, a must-see.",2020-05-04,512,255,True,Laptop,49,Final scene,True,2021-01-19 04:52:20
+241,91,388,7.3,"Disappointing movie, loved it.",2022-01-03,767,155,False,Smart TV,182,Flashback,True,2024-10-02 22:22:23
+242,330,65,3.2,"Great movie, highly recommend.",2022-10-16,2825,245,False,Smart TV,106,Monologue,False,2022-03-27 12:14:12
+243,216,422,9.5,"Great movie, loved it.",2024-05-24,3394,175,True,Laptop,20,Plot twist,False,2024-04-26 01:35:08
+244,302,46,2.9,"Great movie, not my type.",2022-11-28,2154,411,True,Desktop,103,Final scene,True,2022-02-16 21:30:47
+245,906,321,9.8,"Great movie, meh.",2021-12-21,347,490,False,Mobile,150,Climax,True,2024-03-03 12:42:01
+246,906,223,7.0,"Great movie, highly recommend.",2024-07-15,4268,58,True,Console,216,Opening scene,True,2021-04-18 17:15:56
+247,409,296,7.1,"Great movie, worth watching.",2022-08-20,2592,122,False,Tablet,89,Chase scene,True,2020-10-21 21:12:22
+248,299,466,8.0,"Great movie, worth watching.",2024-10-23,3212,83,False,Mobile,179,Climax,True,2024-12-09 19:09:03
+249,231,37,5.3,"Disappointing movie, a must-see.",2020-10-02,4927,329,True,Console,58,Final scene,False,2023-03-17 12:39:15
+250,630,175,3.1,"Great movie, highly recommend.",2020-07-28,3938,115,True,Desktop,143,Climax,False,2023-06-27 06:48:18
+251,554,343,1.5,"Disappointing movie, not my type.",2023-09-20,4709,360,True,Desktop,152,Emotional breakdown,False,2022-12-06 00:04:00
+252,697,473,2.0,"Great movie, meh.",2022-11-10,2480,396,False,Laptop,89,Flashback,True,2020-08-09 01:23:06
+253,818,373,8.4,"Great movie, highly recommend.",2021-11-05,1393,52,False,Tablet,94,Final scene,True,2021-06-25 08:47:57
+254,643,306,9.4,"Great movie, highly recommend.",2021-03-01,2247,54,True,Desktop,173,Flashback,True,2024-02-02 04:58:48
+255,903,306,5.1,"Great movie, not my type.",2022-06-04,1275,220,True,Tablet,24,Opening scene,False,2024-07-25 20:47:13
+256,213,360,1.2,"Great movie, not my type.",2023-07-14,4362,318,True,Mobile,52,Flashback,False,2023-03-04 06:13:19
+257,374,296,9.0,"Disappointing movie, loved it.",2022-07-12,3258,81,True,Laptop,53,Final scene,False,2024-01-19 23:36:19
+258,896,153,1.7,"Great movie, worth watching.",2023-07-28,1605,386,False,Laptop,191,Climax,False,2023-05-25 16:22:34
+259,439,466,3.8,"Great movie, a must-see.",2022-11-16,3982,370,True,Smart TV,40,Monologue,False,2022-01-13 14:38:46
+260,793,298,4.7,"Great movie, highly recommend.",2022-10-21,42,160,True,Smart TV,115,Monologue,False,2020-05-28 05:27:16
+261,387,491,6.5,"Disappointing movie, meh.",2024-01-26,2452,352,False,Tablet,11,Reunion,True,2024-12-26 05:32:23
+262,33,367,3.7,"Great movie, a must-see.",2020-11-21,1333,14,True,Desktop,95,Climax,True,2021-04-18 00:11:37
+263,837,345,7.5,"Great movie, worth watching.",2023-07-08,2655,489,True,Smart TV,140,Flashback,False,2024-08-21 02:20:42
+264,100,68,7.1,"Disappointing movie, loved it.",2024-04-24,4474,160,True,Console,68,Emotional breakdown,False,2024-10-21 19:43:39
+265,864,386,1.6,"Disappointing movie, a must-see.",2024-12-11,1172,68,False,Console,183,Emotional breakdown,True,2021-01-19 22:02:04
+266,562,46,5.5,"Great movie, worth watching.",2020-02-03,2352,457,False,Desktop,63,Reunion,True,2024-09-20 22:06:59
+267,892,28,13.7,"Great movie, loved it.",2023-11-28,835,316,False,Console,78,Opening scene,True,2022-10-16 11:49:33
+268,213,135,9.2,"Great movie, meh.",2022-03-03,134,366,False,Desktop,14,Monologue,False,2020-09-06 17:40:59
+269,973,209,3.9,"Great movie, loved it.",2023-03-11,2694,17,False,Smart TV,40,Emotional breakdown,True,2024-01-19 06:29:23
+270,855,230,7.8,"Great movie, not my type.",2024-07-22,242,439,False,Mobile,181,Reunion,False,2020-04-25 11:52:06
+271,176,419,5.9,"Great movie, not my type.",2024-06-25,2949,301,False,Laptop,50,Flashback,False,2020-12-14 18:39:54
+272,135,454,2.2,"Great movie, a must-see.",2023-10-22,2062,306,True,Tablet,15,Monologue,True,2023-07-04 00:00:10
+273,729,116,4.2,"Disappointing movie, loved it.",2022-06-19,3143,298,True,Smart TV,209,Flashback,True,2022-10-09 06:35:22
+274,950,326,6.9,"Great movie, loved it.",2024-12-24,2200,303,True,Desktop,197,Monologue,False,2024-08-28 00:07:35
+275,529,46,6.7,"Great movie, meh.",2020-02-24,1888,119,False,Laptop,93,Climax,True,2021-02-09 07:10:17
+276,84,323,12.9,"Great movie, highly recommend.",2021-08-17,3974,395,False,Desktop,72,Monologue,False,2024-11-02 16:46:04
+277,197,346,9.5,"Disappointing movie, loved it.",2021-03-02,2500,144,False,Console,218,Plot twist,False,2020-10-16 16:49:56
+278,797,288,1.9,"Great movie, not my type.",2020-01-26,2383,497,True,Console,97,Final scene,True,2020-12-26 20:11:32
+279,302,85,2.2,"Great movie, meh.",2020-09-26,1828,436,True,Desktop,136,Flashback,False,2021-05-02 07:56:58
+280,61,430,4.1,"Great movie, a must-see.",2020-08-08,1826,125,False,Laptop,39,Plot twist,False,2024-03-25 05:03:05
+281,644,450,4.0,"Great movie, meh.",2023-10-14,4530,188,False,Tablet,54,Final battle,True,2023-08-01 20:03:26
+282,169,23,5.6,"Great movie, a must-see.",2020-08-27,3092,221,False,Console,172,Emotional breakdown,True,2023-03-27 18:08:07
+283,775,357,3.2,"Disappointing movie, highly recommend.",2020-04-09,2099,473,False,Laptop,186,Final scene,False,2020-10-05 18:05:53
+284,846,270,3.6,"Great movie, a must-see.",2022-05-22,4783,142,False,Desktop,100,Chase scene,False,2021-11-25 01:18:31
+285,257,403,8.5,"Great movie, not my type.",2022-07-08,4661,131,True,Smart TV,218,Reunion,False,2020-05-10 08:19:26
+286,711,411,4.3,"Disappointing movie, a must-see.",2022-03-11,1102,360,False,Smart TV,107,Emotional breakdown,True,2024-10-08 00:16:15
+287,85,244,9.4,"Disappointing movie, loved it.",2020-04-25,3578,359,False,Smart TV,76,Monologue,True,2024-04-16 15:30:57
+288,136,384,8.0,"Disappointing movie, a must-see.",2022-03-06,2108,59,True,Smart TV,205,Opening scene,True,2024-11-07 08:48:06
+289,191,148,5.3,"Great movie, not my type.",2021-01-15,2437,467,True,Laptop,133,Emotional breakdown,True,2023-01-22 01:54:27
+290,242,83,3.1,"Great movie, meh.",2024-08-15,1718,115,False,Desktop,34,Opening scene,False,2024-04-21 14:23:22
+291,699,476,5.9,"Disappointing movie, not my type.",2021-03-03,4320,309,False,Smart TV,35,Opening scene,False,2024-10-23 22:37:33
+292,997,364,7.0,"Great movie, loved it.",2024-05-06,4598,61,False,Console,153,Plot twist,False,2021-11-01 13:16:12
+293,206,337,9.3,"Great movie, a must-see.",2022-04-26,2528,100,True,Smart TV,154,Flashback,True,2024-08-05 20:00:17
+294,52,425,9.3,"Great movie, worth watching.",2022-03-09,1605,423,True,Mobile,166,Final battle,False,2021-02-13 06:14:08
+295,301,332,3.0,"Great movie, meh.",2023-03-10,2084,245,True,Laptop,198,Opening scene,False,2020-03-03 05:23:31
+296,635,416,5.9,"Great movie, highly recommend.",2020-03-10,913,291,True,Tablet,205,Climax,False,2022-11-20 11:11:02
+297,452,197,6.1,"Disappointing movie, worth watching.",2024-04-03,737,478,False,Tablet,139,Final scene,False,2020-07-13 11:54:58
+298,58,477,2.0,"Disappointing movie, a must-see.",2022-01-25,1179,238,False,Tablet,25,Final battle,True,2021-02-13 04:21:53
+299,483,189,1.8,"Disappointing movie, not my type.",2023-09-12,3862,440,False,Desktop,159,Flashback,True,2024-05-28 14:40:52
+300,814,47,7.7,"Great movie, a must-see.",2024-02-28,3181,116,True,Desktop,37,Climax,True,2024-03-07 13:12:54
+301,486,498,2.2,"Disappointing movie, loved it.",2024-01-24,1684,488,True,Mobile,49,Reunion,True,2021-08-01 11:02:24
+302,802,233,7.1,"Great movie, meh.",2022-03-28,1248,294,True,Smart TV,82,Reunion,False,2022-08-13 07:51:04
+303,443,309,1.8,"Great movie, highly recommend.",2021-07-11,1845,181,False,Desktop,62,Flashback,True,2022-07-14 14:55:24
+304,764,433,2.1,"Great movie, not my type.",2020-08-10,3606,301,True,Smart TV,216,Emotional breakdown,False,2021-03-10 23:48:10
+305,709,23,4.2,"Disappointing movie, worth watching.",2022-05-20,3685,272,True,Tablet,79,Plot twist,False,2020-10-27 20:59:25
+306,41,356,6.8,"Great movie, loved it.",2024-08-08,566,55,False,Mobile,41,Emotional breakdown,False,2022-04-19 19:23:11
+307,950,48,1.9,"Great movie, meh.",2022-05-26,1503,130,True,Mobile,98,Opening scene,False,2021-11-15 19:50:03
+308,721,269,4.7,"Great movie, loved it.",2021-06-17,3024,456,False,Laptop,175,Plot twist,False,2022-06-09 20:35:28
+309,383,392,6.5,"Great movie, meh.",2023-05-05,2862,375,False,Desktop,171,Final scene,True,2022-04-13 16:10:51
+310,489,168,4.6,"Great movie, meh.",2024-06-02,3711,267,False,Tablet,56,Emotional breakdown,True,2020-09-04 10:33:00
+311,557,440,4.6,"Great movie, loved it.",2022-06-04,880,433,True,Console,50,Chase scene,False,2023-02-21 22:41:36
+312,632,304,2.4,"Disappointing movie, highly recommend.",2020-01-24,1203,372,False,Laptop,174,Reunion,True,2022-02-26 17:54:31
+313,360,232,1.5,"Disappointing movie, loved it.",2021-07-03,1812,350,True,Mobile,83,Chase scene,False,2022-02-20 15:10:45
+314,578,426,9.7,"Great movie, worth watching.",2023-08-11,4346,487,True,Tablet,155,Plot twist,True,2024-10-09 01:04:05
+315,468,40,8.5,"Great movie, meh.",2023-01-20,3767,51,False,Tablet,127,Final scene,True,2024-08-16 22:14:30
+316,222,498,6.7,"Great movie, worth watching.",2023-06-20,1387,251,False,Tablet,22,Final battle,True,2020-07-21 19:58:41
+317,835,227,5.2,"Great movie, not my type.",2020-02-17,1764,67,False,Console,182,Reunion,False,2020-09-01 12:06:00
+318,540,467,4.0,"Great movie, highly recommend.",2023-01-27,169,51,True,Desktop,202,Climax,True,2020-03-23 12:35:53
+319,224,448,9.8,"Great movie, meh.",2020-02-27,627,389,True,Console,106,Final scene,True,2022-12-19 03:00:50
+320,392,469,5.2,"Great movie, highly recommend.",2020-02-10,2497,40,True,Tablet,68,Climax,True,2021-06-04 18:24:16
+321,792,70,9.2,"Great movie, loved it.",2023-02-14,3654,74,True,Mobile,134,Opening scene,True,2022-05-28 09:50:52
+322,610,200,-2.5,"Disappointing movie, meh.",2021-12-03,4245,339,True,Smart TV,214,Chase scene,True,2022-12-15 11:39:53
+323,995,169,1.0,"Disappointing movie, a must-see.",2021-07-07,2007,494,False,Desktop,68,Final battle,False,2022-05-17 14:31:07
+324,865,352,9.7,"Disappointing movie, not my type.",2020-12-07,1067,7,True,Mobile,209,Monologue,False,2023-07-27 23:50:52
+325,474,144,3.8,"Disappointing movie, meh.",2023-09-01,4087,466,True,Laptop,25,Opening scene,False,2024-07-08 01:44:37
+326,937,198,4.8,"Great movie, not my type.",2021-10-13,259,323,True,Console,165,Reunion,False,2024-10-03 20:02:16
+327,812,366,5.4,"Disappointing movie, loved it.",2022-05-27,2627,326,False,Console,87,Reunion,False,2023-08-23 03:15:44
+328,835,461,6.7,"Disappointing movie, worth watching.",2023-09-24,4767,108,True,Laptop,128,Plot twist,True,2021-08-25 12:27:20
+329,264,388,7.6,"Disappointing movie, a must-see.",2024-05-14,2501,175,False,Console,25,Plot twist,True,2020-03-21 03:54:19
+330,240,197,4.7,"Great movie, loved it.",2022-06-07,4539,283,True,Desktop,44,Plot twist,False,2022-12-08 06:22:24
+331,428,264,8.3,"Great movie, loved it.",2024-12-25,3402,417,False,Tablet,181,Emotional breakdown,False,2024-11-05 21:00:50
+332,227,431,7.3,"Disappointing movie, worth watching.",2023-11-13,599,405,True,Smart TV,182,Flashback,False,2020-02-10 02:07:59
+333,81,183,7.7,"Great movie, worth watching.",2021-02-12,1993,312,False,Desktop,150,Final battle,True,2022-09-15 23:58:25
+334,346,20,6.2,"Disappointing movie, loved it.",2023-11-12,185,188,False,Console,165,Climax,True,2022-02-02 20:38:35
+335,850,48,1.6,"Great movie, a must-see.",2021-01-02,1139,235,False,Desktop,45,Opening scene,False,2022-07-19 09:09:28
+336,659,212,6.7,"Great movie, loved it.",2021-07-28,1619,478,True,Tablet,217,Flashback,False,2021-12-21 03:05:19
+337,253,41,7.7,"Disappointing movie, loved it.",2024-08-03,2263,55,False,Desktop,120,Chase scene,True,2024-04-01 12:42:51
+338,264,375,4.4,"Great movie, loved it.",2021-12-17,518,211,False,Smart TV,191,Climax,False,2022-01-12 17:18:42
+339,486,133,3.2,"Disappointing movie, a must-see.",2021-09-19,3967,410,True,Console,88,Emotional breakdown,False,2024-09-19 17:11:11
+340,948,409,3.6,"Disappointing movie, meh.",2022-03-04,174,4,True,Smart TV,172,Final scene,False,2020-02-25 15:28:33
+341,330,410,3.5,"Great movie, meh.",2020-12-12,3605,360,False,Tablet,42,Reunion,True,2021-04-19 10:51:15
+342,949,476,14.0,"Great movie, worth watching.",2022-12-12,1600,304,False,Console,56,Emotional breakdown,False,2021-08-27 15:42:47
+343,224,55,2.6,"Great movie, loved it.",2023-01-04,1809,48,True,Mobile,123,Emotional breakdown,True,2023-04-22 06:23:35
+344,201,211,2.3,"Great movie, worth watching.",2020-06-03,2783,219,False,Smart TV,66,Monologue,False,2024-08-03 14:59:04
+345,237,166,9.6,"Disappointing movie, meh.",2024-11-19,686,467,True,Smart TV,210,Chase scene,True,2022-07-06 23:58:30
+346,219,313,4.8,"Great movie, worth watching.",2020-07-03,1263,0,True,Laptop,117,Monologue,False,2024-05-05 21:44:30
+347,493,170,1.9,"Great movie, worth watching.",2020-12-19,3601,440,False,Mobile,108,Reunion,True,2021-12-18 10:54:47
+348,406,266,4.0,"Disappointing movie, not my type.",2022-10-08,1683,50,True,Mobile,91,Reunion,False,2022-01-06 12:47:53
+349,129,51,5.7,"Great movie, highly recommend.",2021-07-08,1390,118,False,Console,41,Monologue,False,2021-03-20 21:05:27
+350,839,182,4.6,"Great movie, not my type.",2021-10-17,3586,40,False,Laptop,84,Emotional breakdown,False,2022-04-01 00:29:41
+351,300,401,4.0,"Great movie, not my type.",2023-08-10,992,331,False,Tablet,220,Emotional breakdown,True,2024-04-04 12:15:12
+352,776,90,9.0,"Great movie, worth watching.",2023-04-02,2723,233,False,Tablet,186,Monologue,False,2023-01-15 01:11:52
+353,929,444,4.0,"Great movie, not my type.",2023-01-13,4715,328,False,Mobile,141,Emotional breakdown,True,2023-02-02 13:32:39
+354,420,191,4.1,"Disappointing movie, not my type.",2022-08-09,878,332,False,Mobile,56,Chase scene,True,2022-04-19 13:33:18
+355,528,433,2.9,"Great movie, highly recommend.",2020-01-03,4523,337,True,Mobile,141,Flashback,True,2023-11-07 16:56:35
+356,125,304,2.9,"Great movie, worth watching.",2023-02-19,778,259,True,Laptop,37,Final scene,False,2024-03-04 13:21:00
+357,100,435,5.7,"Great movie, not my type.",2023-12-01,840,261,True,Laptop,120,Flashback,False,2021-03-14 04:19:38
+358,802,45,4.0,"Great movie, worth watching.",2024-02-26,3307,446,False,Smart TV,213,Final battle,False,2023-04-03 06:05:54
+359,630,394,8.2,"Great movie, highly recommend.",2021-06-05,4005,346,False,Desktop,210,Emotional breakdown,False,2024-04-16 13:42:23
+360,65,48,8.8,"Great movie, not my type.",2022-02-13,1757,305,True,Tablet,53,Flashback,True,2022-05-18 22:12:26
+361,177,274,1.8,"Great movie, a must-see.",2020-04-26,2734,12,True,Desktop,82,Reunion,True,2023-05-19 13:54:40
+362,985,259,5.0,"Great movie, a must-see.",2023-12-11,2495,362,False,Laptop,46,Final battle,False,2021-10-18 21:11:06
+363,777,66,9.0,"Great movie, not my type.",2023-05-27,327,460,False,Mobile,65,Final battle,False,2020-04-10 21:24:23
+364,56,280,7.3,"Great movie, loved it.",2024-07-23,1795,279,False,Smart TV,85,Flashback,False,2020-04-10 02:10:21
+365,763,123,6.8,"Great movie, meh.",2021-05-28,714,13,False,Smart TV,208,Flashback,True,2024-12-24 19:28:26
+366,860,196,4.3,"Great movie, highly recommend.",2023-08-21,403,443,True,Laptop,69,Plot twist,False,2023-11-16 14:16:19
+367,868,49,1.3,"Great movie, loved it.",2022-04-19,3843,461,True,Console,207,Final battle,True,2020-01-07 21:58:58
+368,282,19,6.6,"Great movie, loved it.",2021-08-24,928,470,False,Desktop,185,Climax,True,2021-02-22 00:27:25
+369,405,145,9.1,"Disappointing movie, loved it.",2022-08-17,4163,255,False,Laptop,150,Monologue,False,2022-09-21 22:46:31
+370,635,376,8.9,"Great movie, highly recommend.",2020-05-28,4905,44,False,Laptop,85,Reunion,True,2024-01-13 18:45:58
+371,963,91,8.2,"Great movie, a must-see.",2020-01-18,1672,485,True,Tablet,181,Monologue,False,2023-09-28 13:34:42
+372,621,293,5.7,"Disappointing movie, worth watching.",2023-06-02,1870,25,False,Desktop,76,Final battle,True,2022-03-02 23:28:26
+373,383,433,1.9,"Disappointing movie, worth watching.",2024-05-20,3060,243,False,Mobile,73,Final scene,False,2020-01-18 08:50:40
+374,697,291,2.5,"Great movie, a must-see.",2022-04-17,3474,277,False,Tablet,27,Climax,False,2023-08-13 04:07:40
+375,963,439,2.8,"Great movie, highly recommend.",2022-12-08,987,176,True,Console,141,Plot twist,False,2024-11-19 18:45:55
+376,372,126,9.8,"Great movie, highly recommend.",2020-09-25,2717,295,True,Smart TV,22,Opening scene,True,2022-02-22 14:02:13
+377,415,367,3.3,"Great movie, meh.",2021-04-03,1675,153,True,Smart TV,26,Chase scene,False,2020-09-19 15:55:52
+378,403,84,8.6,"Great movie, not my type.",2024-11-27,2411,372,True,Console,166,Climax,True,2020-02-16 04:31:57
+379,274,278,7.9,"Great movie, highly recommend.",2023-06-01,4016,350,False,Desktop,30,Plot twist,True,2022-11-02 21:55:46
+380,957,141,6.3,"Great movie, not my type.",2022-02-20,3247,200,True,Tablet,33,Chase scene,False,2023-01-14 10:59:44
+381,545,462,7.2,"Great movie, worth watching.",2023-09-12,3674,236,True,Console,128,Final battle,True,2020-10-19 18:12:54
+382,711,336,8.8,"Great movie, meh.",2023-01-22,4009,326,True,Mobile,42,Climax,False,2024-07-25 05:47:17
+383,314,173,2.6,"Great movie, worth watching.",2020-12-01,1797,310,False,Laptop,173,Opening scene,False,2022-07-11 18:19:47
+384,612,45,6.9,"Great movie, meh.",2022-10-21,4187,249,False,Laptop,191,Plot twist,True,2020-04-24 18:09:10
+385,388,284,8.7,"Great movie, meh.",2021-08-12,3048,496,False,Laptop,104,Chase scene,False,2023-12-23 12:56:20
+386,220,3,6.2,"Great movie, a must-see.",2021-01-17,914,113,True,Desktop,54,Emotional breakdown,False,2022-01-09 02:08:10
+387,432,202,3.8,"Great movie, meh.",2020-10-09,2582,189,False,Desktop,35,Chase scene,True,2023-07-06 04:51:42
+388,260,252,14.9,"Disappointing movie, meh.",2024-01-16,575,31,True,Desktop,75,Emotional breakdown,False,2022-02-21 14:41:37
+389,246,307,6.4,"Great movie, worth watching.",2021-10-25,1663,125,True,Console,60,Monologue,False,2023-09-17 06:35:46
+390,816,205,5.7,"Disappointing movie, loved it.",2020-08-07,4565,445,False,Laptop,36,Reunion,False,2021-12-05 07:21:02
+391,503,414,8.5,"Great movie, loved it.",2021-08-18,4018,119,False,Desktop,39,Final scene,True,2023-09-09 19:25:01
+392,683,101,9.4,"Disappointing movie, loved it.",2022-01-18,3232,237,True,Console,49,Reunion,False,2021-09-03 01:28:25
+393,451,234,7.7,"Great movie, not my type.",2023-11-23,1875,359,False,Mobile,146,Final battle,True,2022-11-19 14:16:58
+394,441,257,9.5,"Great movie, worth watching.",2020-06-07,3980,143,True,Console,118,Climax,False,2021-07-04 01:45:15
+395,248,78,3.5,"Great movie, worth watching.",2023-06-04,4326,274,False,Laptop,38,Final scene,False,2023-02-07 04:37:19
+396,22,205,3.1,"Great movie, a must-see.",2023-07-28,1670,306,False,Tablet,205,Climax,False,2024-06-02 00:29:08
+397,567,476,7.1,"Disappointing movie, meh.",2022-09-25,67,13,False,Tablet,185,Final scene,True,2022-11-26 10:44:01
+398,953,168,1.6,"Disappointing movie, loved it.",2023-12-08,2824,369,False,Smart TV,79,Plot twist,False,2022-04-13 09:39:36
+399,402,52,7.4,"Great movie, loved it.",2024-11-15,3739,72,True,Desktop,46,Reunion,False,2023-12-22 02:48:20
+400,957,124,-2.6,"Disappointing movie, not my type.",2022-12-02,3901,431,False,Laptop,130,Reunion,True,2024-12-02 10:06:16
+401,367,124,8.8,"Great movie, highly recommend.",2020-07-17,576,79,True,Tablet,97,Opening scene,True,2020-07-20 19:43:05
+402,974,179,4.3,"Great movie, loved it.",2021-10-22,1284,442,True,Smart TV,75,Emotional breakdown,False,2023-06-06 06:11:08
+403,99,156,7.7,"Great movie, a must-see.",2020-04-20,4684,294,False,Console,31,Flashback,False,2024-10-07 06:03:15
+404,565,41,3.9,"Great movie, highly recommend.",2023-01-12,3566,306,False,Console,26,Opening scene,False,2021-07-04 20:50:04
+405,828,72,5.7,"Disappointing movie, loved it.",2020-02-15,1562,12,False,Laptop,213,Final scene,True,2024-03-03 08:20:08
+406,559,226,9.0,"Great movie, loved it.",2024-07-05,4139,295,True,Mobile,209,Climax,False,2020-06-05 02:32:22
+407,49,165,4.4,"Great movie, meh.",2020-10-04,1226,334,False,Mobile,77,Monologue,False,2024-10-14 10:16:39
+408,959,283,1.6,"Disappointing movie, highly recommend.",2024-04-18,3505,180,False,Tablet,27,Final scene,True,2023-11-28 01:43:23
+409,260,262,5.1,"Disappointing movie, not my type.",2023-03-08,224,439,True,Smart TV,110,Opening scene,False,2022-11-13 03:23:00
+410,880,50,2.2,"Great movie, meh.",2021-06-02,3416,202,False,Tablet,120,Opening scene,False,2020-06-20 00:53:32
+411,874,185,6.8,"Great movie, not my type.",2024-10-07,3901,293,True,Laptop,34,Final scene,False,2023-05-08 14:09:56
+412,581,432,6.3,"Great movie, worth watching.",2020-12-26,4640,374,False,Mobile,161,Final battle,True,2021-08-14 08:31:04
+413,932,392,7.9,"Disappointing movie, meh.",2021-03-03,825,38,True,Desktop,121,Reunion,True,2021-08-15 06:40:59
+414,566,56,8.0,"Great movie, highly recommend.",2024-09-08,800,134,False,Desktop,73,Flashback,True,2021-05-13 06:51:12
+415,756,452,2.6,"Great movie, a must-see.",2023-06-13,4525,201,False,Laptop,18,Emotional breakdown,True,2020-01-23 11:58:35
+416,590,337,4.1,"Great movie, loved it.",2020-06-16,3051,442,True,Mobile,90,Chase scene,True,2024-12-24 10:29:34
+417,110,287,6.7,"Great movie, meh.",2022-10-24,873,409,False,Laptop,143,Final battle,False,2020-05-09 13:26:05
+418,910,306,6.9,"Disappointing movie, highly recommend.",2020-01-28,3331,470,False,Tablet,46,Reunion,False,2023-09-18 11:18:54
+419,803,161,7.0,"Great movie, meh.",2023-04-16,4065,217,False,Smart TV,164,Final scene,False,2024-10-02 05:42:14
+420,283,145,9.3,"Disappointing movie, loved it.",2020-07-06,1511,195,False,Smart TV,140,Chase scene,True,2024-11-13 03:19:24
+421,908,83,5.9,"Disappointing movie, a must-see.",2024-01-22,3064,384,True,Desktop,32,Emotional breakdown,True,2021-02-22 06:22:27
+422,117,418,2.0,"Disappointing movie, not my type.",2024-05-16,1537,152,False,Tablet,157,Plot twist,False,2021-12-06 07:49:39
+423,911,413,7.7,"Great movie, loved it.",2023-09-06,1393,177,False,Console,143,Chase scene,True,2020-04-21 22:48:20
+424,713,349,7.1,"Great movie, a must-see.",2023-05-01,3699,99,False,Desktop,157,Reunion,True,2023-06-14 10:28:31
+425,604,293,8.3,"Disappointing movie, worth watching.",2022-05-05,2693,63,True,Laptop,19,Final scene,False,2022-06-11 02:37:57
+426,972,340,2.1,"Great movie, loved it.",2023-04-10,4482,128,True,Mobile,119,Final battle,False,2020-11-22 12:16:38
+427,932,61,3.7,"Great movie, not my type.",2022-03-01,789,419,False,Tablet,166,Final battle,False,2023-11-04 12:43:19
+428,79,180,8.9,"Great movie, loved it.",2022-01-24,726,103,False,Mobile,171,Flashback,True,2020-10-01 15:07:36
+429,384,247,6.8,"Disappointing movie, a must-see.",2020-05-19,2936,50,False,Laptop,186,Emotional breakdown,False,2024-04-18 15:54:13
+430,393,282,1.3,"Disappointing movie, not my type.",2023-12-03,4239,25,False,Desktop,143,Monologue,True,2023-09-10 16:08:54
+431,480,366,2.5,"Great movie, loved it.",2024-01-15,143,403,False,Console,108,Chase scene,False,2022-01-08 00:42:00
+432,387,344,1.0,"Great movie, meh.",2024-10-02,4191,42,False,Desktop,64,Opening scene,True,2021-08-21 12:15:45
+433,143,414,10.0,"Disappointing movie, not my type.",2021-07-20,2654,30,False,Desktop,47,Reunion,True,2022-10-02 08:29:14
+434,366,108,3.9,"Great movie, meh.",2022-05-19,1687,26,False,Desktop,154,Flashback,True,2022-06-04 06:43:42
+435,356,415,6.5,"Disappointing movie, highly recommend.",2023-01-23,208,312,False,Desktop,129,Chase scene,True,2022-02-09 20:44:15
+436,118,470,8.7,"Great movie, loved it.",2024-02-23,1639,222,False,Tablet,89,Opening scene,True,2022-05-27 05:27:02
+437,44,212,2.1,"Great movie, worth watching.",2021-04-17,2127,104,False,Tablet,165,Final scene,True,2024-11-20 10:59:36
+438,308,189,8.9,"Disappointing movie, a must-see.",2020-11-16,2283,444,False,Smart TV,55,Final scene,False,2024-08-15 11:25:23
+439,323,53,2.5,"Great movie, meh.",2024-11-11,3568,103,True,Tablet,135,Reunion,False,2022-08-02 06:05:47
+440,4,41,2.5,"Disappointing movie, meh.",2024-08-12,1722,328,False,Desktop,28,Chase scene,False,2024-04-27 10:18:43
+441,795,389,4.0,"Disappointing movie, loved it.",2024-12-21,1892,316,False,Laptop,61,Monologue,True,2022-03-12 09:13:02
+442,639,439,2.7,"Disappointing movie, a must-see.",2021-02-12,517,250,True,Console,83,Reunion,False,2020-07-18 23:36:40
+443,579,415,7.4,"Great movie, a must-see.",2023-02-12,3897,399,False,Tablet,36,Opening scene,True,2020-01-26 06:52:01
+444,167,92,9.0,"Disappointing movie, a must-see.",2022-02-06,790,440,False,Laptop,141,Plot twist,True,2021-03-18 11:58:16
+445,102,135,9.8,"Great movie, worth watching.",2021-07-24,1045,58,False,Smart TV,91,Plot twist,False,2020-06-21 01:17:20
+446,128,428,6.6,"Great movie, not my type.",2024-09-26,264,392,True,Console,41,Emotional breakdown,True,2021-03-14 17:19:11
+447,201,465,2.6,"Disappointing movie, a must-see.",2022-07-20,332,106,True,Console,109,Final scene,True,2020-01-28 10:28:05
+448,582,233,3.2,"Great movie, a must-see.",2022-06-11,1127,232,False,Tablet,173,Climax,False,2020-03-07 10:27:18
+449,23,347,13.4,"Great movie, not my type.",2024-10-03,4912,370,False,Mobile,133,Monologue,False,2023-10-13 18:36:38
+450,580,112,7.0,"Great movie, meh.",2020-11-19,2378,287,False,Smart TV,109,Final battle,True,2021-11-03 19:44:42
+451,9,19,2.3,"Great movie, not my type.",2022-09-25,3247,463,True,Tablet,63,Emotional breakdown,True,2021-03-16 01:08:32
+452,794,418,6.3,"Great movie, loved it.",2023-09-12,4418,426,False,Desktop,27,Final battle,False,2021-02-02 22:42:44
+453,415,182,8.8,"Great movie, loved it.",2022-08-07,3297,375,False,Console,212,Chase scene,True,2020-01-11 11:28:31
+454,68,340,1.4,"Disappointing movie, meh.",2021-08-11,4696,212,True,Laptop,171,Monologue,False,2024-07-20 14:38:12
+455,340,445,5.7,"Great movie, worth watching.",2020-05-19,2265,393,False,Desktop,199,Final battle,True,2022-12-28 17:27:02
+456,435,72,6.8,"Great movie, loved it.",2020-09-02,2232,24,True,Smart TV,41,Chase scene,True,2022-01-12 01:35:22
+457,15,341,1.7,"Disappointing movie, meh.",2022-12-06,4926,352,False,Desktop,210,Reunion,False,2020-03-06 13:19:28
+458,139,164,7.2,"Great movie, meh.",2021-05-11,1735,307,False,Mobile,84,Climax,False,2020-09-03 14:18:45
+459,645,142,2.2,"Great movie, meh.",2023-09-21,2764,384,True,Tablet,213,Reunion,True,2020-10-04 17:41:35
+460,105,85,2.4,"Great movie, not my type.",2020-05-06,4398,20,False,Mobile,51,Opening scene,False,2024-12-01 19:27:43
+461,253,184,8.8,"Great movie, a must-see.",2024-02-03,3843,174,True,Desktop,40,Flashback,True,2021-11-28 11:57:13
+462,245,256,12.6,"Great movie, meh.",2021-08-25,3920,471,False,Laptop,127,Climax,False,2021-08-03 15:08:02
+463,702,59,3.9,"Disappointing movie, worth watching.",2021-06-13,4713,467,False,Smart TV,123,Chase scene,True,2021-04-03 03:22:05
+464,610,213,5.5,"Great movie, meh.",2022-03-05,3377,335,False,Desktop,32,Emotional breakdown,False,2021-01-19 19:01:13
+465,658,494,6.9,"Great movie, worth watching.",2020-06-27,3120,327,False,Desktop,219,Reunion,False,2023-02-07 12:19:26
+466,903,465,7.4,"Great movie, a must-see.",2022-03-06,4219,386,True,Desktop,45,Emotional breakdown,True,2022-09-22 10:46:11
+467,844,367,6.4,"Great movie, meh.",2022-10-28,3328,181,False,Tablet,90,Monologue,True,2021-06-06 03:42:38
+468,509,1,9.8,"Disappointing movie, not my type.",2022-02-05,1607,475,True,Smart TV,81,Opening scene,True,2022-05-15 16:13:00
+469,905,485,5.1,"Disappointing movie, worth watching.",2021-08-21,171,490,True,Console,78,Final scene,True,2022-02-28 00:43:22
+470,129,195,9.5,"Disappointing movie, not my type.",2022-03-15,1251,373,True,Desktop,113,Chase scene,False,2022-04-13 15:26:32
+471,664,484,7.9,"Great movie, meh.",2022-07-16,1523,197,False,Console,59,Opening scene,True,2021-04-08 04:31:39
+472,794,288,7.6,"Great movie, worth watching.",2020-08-01,1400,328,False,Console,133,Final battle,False,2020-05-28 19:18:39
+473,97,439,5.9,"Great movie, a must-see.",2023-02-14,340,407,True,Laptop,82,Final scene,False,2021-07-01 13:32:56
+474,189,431,2.4,"Great movie, meh.",2023-02-10,693,385,True,Laptop,107,Reunion,True,2022-10-06 19:56:12
+475,162,375,4.0,"Great movie, highly recommend.",2024-09-11,354,216,True,Desktop,24,Plot twist,False,2023-12-27 23:48:47
+476,73,41,2.7,"Disappointing movie, meh.",2021-04-28,4326,320,False,Console,156,Emotional breakdown,True,2021-10-21 04:02:29
+477,157,76,2.8,"Disappointing movie, meh.",2024-03-08,1837,295,False,Mobile,37,Final battle,True,2024-10-16 23:30:58
+478,815,125,5.9,"Great movie, not my type.",2024-08-13,3584,482,True,Desktop,110,Opening scene,False,2021-03-19 12:51:55
+479,777,435,8.5,"Great movie, meh.",2022-09-13,2775,235,False,Desktop,16,Reunion,True,2020-07-17 02:19:43
+480,693,499,8.6,"Great movie, loved it.",2020-10-17,3596,72,True,Desktop,161,Monologue,True,2020-04-01 00:33:17
+481,244,473,6.8,"Great movie, highly recommend.",2024-12-18,951,386,True,Console,172,Flashback,False,2021-04-01 20:21:00
+482,466,386,9.6,"Great movie, a must-see.",2022-04-28,1399,225,True,Laptop,52,Final scene,True,2021-12-17 08:41:16
+483,781,475,2.0,"Disappointing movie, not my type.",2024-04-22,3346,414,True,Smart TV,24,Monologue,False,2020-11-21 13:14:08
+484,247,260,1.9,"Great movie, meh.",2022-08-23,2410,39,True,Desktop,131,Reunion,True,2021-07-28 23:21:38
+485,275,63,7.5,"Great movie, loved it.",2021-09-12,685,410,False,Desktop,90,Flashback,True,2020-07-10 08:45:27
+486,421,422,5.5,"Disappointing movie, worth watching.",2021-11-20,480,405,True,Mobile,55,Final scene,True,2022-09-25 21:55:21
+487,702,62,8.6,"Great movie, highly recommend.",2020-02-10,3145,23,True,Desktop,206,Emotional breakdown,True,2022-11-26 18:25:32
+488,167,262,6.3,"Disappointing movie, highly recommend.",2024-02-28,1151,354,True,Smart TV,119,Plot twist,True,2023-08-27 12:25:03
+489,147,232,1.9,"Disappointing movie, loved it.",2024-09-09,3838,262,False,Mobile,149,Final battle,True,2024-04-10 15:42:57
+490,455,383,1.4,"Disappointing movie, meh.",2022-08-08,13,321,True,Desktop,142,Climax,True,2021-02-23 02:44:19
+491,859,262,2.6,"Great movie, meh.",2022-12-08,171,140,False,Smart TV,107,Final scene,False,2024-11-19 09:09:50
+492,336,289,4.7,"Great movie, highly recommend.",2020-02-19,3699,214,True,Desktop,80,Emotional breakdown,True,2020-05-04 19:23:05
+493,683,45,2.8,"Disappointing movie, not my type.",2023-02-16,34,198,True,Tablet,185,Reunion,False,2023-05-26 22:34:43
+494,934,70,8.2,"Great movie, loved it.",2023-03-17,2535,393,True,Laptop,37,Monologue,False,2024-07-20 04:14:49
+495,288,131,9.1,"Great movie, worth watching.",2022-08-25,3778,87,True,Desktop,209,Final scene,False,2021-11-13 04:01:45
+496,996,299,13.6,"Disappointing movie, meh.",2022-02-16,1290,442,True,Mobile,169,Opening scene,True,2023-01-23 12:27:52
+497,540,472,4.4,"Disappointing movie, meh.",2024-06-26,4544,294,True,Smart TV,141,Chase scene,True,2022-08-02 11:44:29
+498,91,424,9.1,"Great movie, not my type.",2022-07-28,2279,51,False,Smart TV,111,Reunion,False,2023-02-11 14:49:50
+499,968,58,9.7,"Disappointing movie, not my type.",2020-02-17,144,354,False,Console,144,Final scene,True,2022-10-14 15:40:37
+500,828,96,8.2,"Disappointing movie, meh.",2022-03-12,3771,215,True,Smart TV,17,Plot twist,True,2022-10-26 20:32:41
+501,265,275,1.4,"Disappointing movie, not my type.",2024-12-07,82,419,False,Desktop,81,Climax,True,2024-10-28 21:53:31
+502,554,192,3.0,"Disappointing movie, meh.",2020-02-23,1969,112,True,Mobile,154,Opening scene,False,2020-01-08 15:59:52
+503,896,216,4.1,"Great movie, meh.",2024-11-27,130,54,False,Mobile,96,Reunion,False,2020-03-27 11:28:35
+504,501,20,7.1,"Great movie, loved it.",2022-10-02,1171,349,False,Console,164,Final scene,True,2022-07-07 12:38:54
+505,70,399,6.4,"Disappointing movie, worth watching.",2024-07-09,4346,386,True,Tablet,44,Reunion,False,2020-07-23 06:24:28
+506,688,495,5.3,"Great movie, not my type.",2022-03-20,3367,366,False,Console,211,Climax,False,2024-02-12 08:45:34
+507,648,315,5.2,"Great movie, meh.",2022-02-23,1132,132,False,Desktop,213,Flashback,False,2020-06-02 17:51:30
+508,346,478,4.0,"Disappointing movie, a must-see.",2024-02-18,4396,272,False,Tablet,142,Final scene,False,2020-02-08 18:07:58
+509,591,103,5.7,"Great movie, meh.",2020-05-06,179,51,True,Smart TV,169,Monologue,False,2021-09-24 05:34:42
+510,783,476,1.7,"Disappointing movie, not my type.",2021-05-16,4365,223,True,Smart TV,122,Climax,True,2023-11-06 15:58:14
+511,239,25,5.5,"Disappointing movie, a must-see.",2022-05-13,4096,145,True,Desktop,26,Opening scene,False,2022-10-13 17:26:06
+512,499,236,8.2,"Disappointing movie, not my type.",2024-01-19,622,355,False,Tablet,124,Reunion,True,2023-01-20 18:23:07
+513,95,386,1.4,"Great movie, meh.",2021-06-16,3259,68,True,Mobile,195,Final scene,True,2021-09-01 11:29:48
+514,938,441,6.3,"Great movie, highly recommend.",2020-05-10,2246,37,False,Tablet,206,Reunion,True,2020-06-24 14:57:10
+515,509,191,4.9,"Great movie, worth watching.",2020-03-04,3694,163,True,Laptop,64,Final scene,True,2022-04-15 00:07:47
+516,233,329,5.3,"Great movie, meh.",2023-03-01,1773,78,False,Laptop,165,Plot twist,True,2021-11-15 15:58:23
+517,431,252,5.3,"Great movie, not my type.",2024-06-07,1525,141,True,Smart TV,139,Chase scene,True,2023-11-18 19:32:35
+518,746,19,9.0,"Great movie, meh.",2022-07-26,2822,271,False,Console,201,Flashback,False,2023-05-12 02:49:44
+519,596,92,3.5,"Disappointing movie, not my type.",2024-11-05,4583,487,False,Mobile,112,Emotional breakdown,True,2021-11-17 15:56:13
+520,335,56,1.8,"Great movie, worth watching.",2022-11-03,2242,145,False,Console,134,Flashback,False,2023-07-25 06:37:28
+521,675,370,1.7,"Disappointing movie, highly recommend.",2024-09-15,1466,254,False,Laptop,117,Opening scene,False,2024-09-26 16:42:24
+522,449,342,7.4,"Great movie, highly recommend.",2022-11-23,249,340,False,Tablet,146,Chase scene,False,2021-03-27 02:25:13
+523,269,396,4.7,"Great movie, a must-see.",2020-06-08,703,67,True,Smart TV,28,Plot twist,True,2024-09-21 15:39:03
+524,545,384,8.5,"Great movie, a must-see.",2020-11-09,3577,429,False,Mobile,210,Final battle,False,2020-12-12 18:15:39
+525,425,238,1.3,"Great movie, a must-see.",2022-12-28,1351,94,False,Smart TV,29,Climax,False,2023-06-11 04:44:42
+526,958,377,6.4,"Great movie, worth watching.",2022-02-13,4448,122,True,Mobile,218,Climax,True,2023-12-04 02:13:41
+527,83,257,1.5,"Great movie, loved it.",2024-01-02,4371,130,False,Console,90,Emotional breakdown,False,2023-11-16 07:18:43
+528,661,111,2.3,"Great movie, highly recommend.",2021-03-22,543,281,True,Tablet,109,Final scene,False,2024-09-08 11:37:32
+529,657,6,5.7,"Great movie, not my type.",2021-03-19,3712,456,False,Laptop,79,Emotional breakdown,False,2021-08-04 20:12:29
+530,55,321,2.3,"Great movie, loved it.",2024-05-12,4619,277,True,Laptop,25,Reunion,False,2020-10-10 14:33:12
+531,998,28,8.3,"Great movie, a must-see.",2023-12-11,4112,458,False,Desktop,78,Chase scene,False,2023-04-03 04:46:33
+532,701,144,8.2,"Disappointing movie, worth watching.",2023-05-19,2012,350,True,Laptop,142,Final battle,True,2021-03-02 05:48:04
+533,350,336,1.9,"Great movie, a must-see.",2020-04-13,4174,142,True,Smart TV,84,Final battle,False,2022-03-08 15:00:00
+534,785,276,8.7,"Great movie, highly recommend.",2024-01-25,378,105,True,Desktop,195,Reunion,True,2023-04-10 14:32:47
+535,294,123,2.4,"Disappointing movie, loved it.",2022-07-09,1795,39,True,Desktop,45,Plot twist,True,2024-11-26 11:51:16
+536,249,229,7.4,"Great movie, highly recommend.",2022-09-11,4407,89,True,Laptop,118,Chase scene,False,2024-10-14 17:09:08
+537,278,106,1.8,"Great movie, highly recommend.",2021-06-12,4107,256,True,Console,167,Climax,True,2020-08-18 03:17:07
+538,131,473,8.0,"Disappointing movie, not my type.",2023-01-15,4081,425,True,Smart TV,74,Emotional breakdown,False,2023-06-21 19:28:04
+539,106,119,8.6,"Great movie, not my type.",2024-08-07,959,344,True,Desktop,86,Climax,False,2022-06-20 23:51:27
+540,908,119,6.1,"Great movie, a must-see.",2022-09-07,815,413,True,Laptop,13,Plot twist,False,2024-11-12 16:45:30
+541,139,194,2.7,"Great movie, a must-see.",2020-03-16,581,310,True,Tablet,88,Climax,True,2020-03-08 17:49:28
+542,834,84,9.4,"Great movie, highly recommend.",2023-04-14,3392,478,False,Laptop,136,Opening scene,False,2024-06-19 22:39:00
+543,746,376,7.1,"Great movie, meh.",2022-04-24,1963,176,False,Desktop,58,Final scene,False,2020-03-03 02:55:07
+544,904,479,9.9,"Great movie, highly recommend.",2020-09-28,1146,91,True,Mobile,101,Plot twist,True,2021-01-18 18:15:36
+545,736,184,4.5,"Great movie, loved it.",2020-05-14,3137,36,False,Mobile,13,Final battle,False,2023-09-06 08:51:29
+546,845,181,9.1,"Disappointing movie, highly recommend.",2023-04-19,360,404,False,Tablet,92,Opening scene,False,2024-09-21 23:32:23
+547,474,368,-1.7,"Great movie, highly recommend.",2023-01-08,2853,27,True,Console,88,Emotional breakdown,True,2023-04-05 23:29:50
+548,856,488,1.5,"Great movie, worth watching.",2022-02-22,3501,311,False,Console,200,Emotional breakdown,False,2022-07-18 13:24:29
+549,407,396,6.7,"Great movie, not my type.",2024-02-09,1358,365,False,Mobile,14,Opening scene,True,2020-04-25 14:16:12
+550,459,262,3.4,"Disappointing movie, not my type.",2021-09-26,1460,97,True,Desktop,93,Monologue,True,2021-08-14 05:41:46
+551,145,446,10.0,"Disappointing movie, highly recommend.",2020-06-09,971,241,False,Tablet,104,Flashback,False,2023-02-02 22:41:03
+552,37,10,9.0,"Great movie, highly recommend.",2024-07-06,2196,255,True,Laptop,65,Plot twist,False,2024-11-19 02:18:03
+553,132,203,9.7,"Great movie, worth watching.",2020-06-23,2847,324,False,Console,144,Opening scene,True,2024-08-12 15:49:21
+554,472,169,1.9,"Disappointing movie, worth watching.",2024-03-07,4023,27,False,Smart TV,75,Reunion,False,2020-02-22 06:40:34
+555,90,126,5.6,"Great movie, a must-see.",2020-09-10,1449,315,True,Desktop,113,Chase scene,False,2023-01-03 15:55:51
+556,983,493,9.7,"Great movie, not my type.",2020-02-02,3458,185,True,Tablet,21,Emotional breakdown,False,2024-08-03 05:30:36
+557,239,41,6.6,"Great movie, worth watching.",2023-08-11,3427,434,True,Tablet,187,Opening scene,False,2020-09-14 19:52:24
+558,11,313,9.7,"Great movie, highly recommend.",2020-12-28,4555,95,True,Mobile,190,Opening scene,False,2022-09-14 09:14:23
+559,576,415,3.1,"Great movie, worth watching.",2023-04-04,2145,296,True,Laptop,171,Final scene,False,2024-02-17 21:25:07
+560,676,244,3.9,"Great movie, a must-see.",2022-11-09,4845,491,False,Smart TV,180,Climax,True,2020-07-26 18:57:48
+561,588,341,2.4,"Great movie, worth watching.",2020-01-07,2864,273,True,Console,189,Monologue,False,2022-07-21 07:16:47
+562,297,316,1.9,"Disappointing movie, loved it.",2022-04-10,4567,468,True,Mobile,165,Climax,False,2021-08-28 14:32:50
+563,215,148,1.4,"Great movie, worth watching.",2021-09-03,4562,45,False,Console,131,Final battle,False,2023-11-04 03:00:14
+564,292,23,2.6,"Great movie, worth watching.",2023-02-16,2546,163,False,Smart TV,37,Flashback,True,2024-05-21 16:00:01
+565,812,32,14.3,"Disappointing movie, highly recommend.",2021-12-04,2263,422,True,Smart TV,12,Final battle,True,2021-11-19 05:06:22
+566,677,326,6.0,"Disappointing movie, worth watching.",2023-08-05,2183,147,True,Console,124,Reunion,False,2022-07-03 16:46:58
+567,760,452,9.3,"Great movie, highly recommend.",2022-12-21,4467,381,True,Desktop,111,Emotional breakdown,False,2022-08-02 20:37:06
+568,299,264,5.2,"Disappointing movie, worth watching.",2024-01-28,4185,403,True,Desktop,143,Climax,False,2022-07-04 18:30:34
+569,651,412,8.0,"Great movie, worth watching.",2023-07-14,4753,60,False,Console,156,Final scene,True,2023-08-22 00:43:53
+570,515,416,6.7,"Great movie, not my type.",2022-09-24,3475,190,False,Tablet,179,Emotional breakdown,False,2023-07-16 06:44:42
+571,812,413,14.6,"Great movie, meh.",2023-09-05,1574,335,True,Tablet,70,Plot twist,True,2022-08-25 09:44:05
+572,949,341,7.5,"Great movie, not my type.",2022-08-02,3659,125,False,Smart TV,113,Opening scene,False,2021-02-15 06:08:04
+573,255,112,1.0,"Great movie, meh.",2024-10-06,4160,268,True,Desktop,192,Climax,False,2022-08-13 19:48:13
+574,57,263,5.7,"Great movie, highly recommend.",2023-10-24,4768,371,True,Console,182,Final scene,True,2023-03-07 21:42:41
+575,86,178,7.7,"Great movie, loved it.",2020-10-27,4030,158,False,Mobile,173,Monologue,False,2024-12-13 15:07:07
+576,721,226,7.8,"Great movie, meh.",2022-10-13,1962,131,True,Tablet,105,Opening scene,False,2020-07-05 20:44:49
+577,711,396,4.5,"Disappointing movie, loved it.",2024-07-06,4584,340,False,Mobile,31,Plot twist,True,2020-06-28 12:27:28
+578,64,33,7.1,"Great movie, highly recommend.",2023-02-01,2193,402,False,Console,166,Final scene,True,2020-08-26 02:58:33
+579,888,312,6.0,"Disappointing movie, worth watching.",2020-04-04,4548,298,False,Mobile,90,Opening scene,True,2022-07-04 20:05:30
+580,244,152,1.8,"Great movie, a must-see.",2020-05-14,2829,186,False,Smart TV,31,Climax,True,2021-06-12 18:04:26
+581,813,387,3.7,"Great movie, not my type.",2023-04-01,1608,195,True,Desktop,141,Reunion,False,2024-07-11 00:03:28
+582,960,151,3.4,"Great movie, a must-see.",2020-02-19,717,211,False,Desktop,111,Chase scene,False,2020-07-21 13:39:27
+583,865,414,6.6,"Great movie, meh.",2020-04-09,528,158,False,Desktop,80,Chase scene,False,2022-10-03 21:52:20
+584,222,178,9.3,"Great movie, worth watching.",2022-12-25,621,426,False,Mobile,106,Plot twist,True,2024-12-09 20:46:25
+585,373,51,8.0,"Great movie, highly recommend.",2020-01-10,4774,53,True,Tablet,206,Chase scene,True,2024-05-25 15:45:01
+586,751,313,6.0,"Disappointing movie, highly recommend.",2022-01-20,778,196,True,Desktop,155,Climax,True,2023-03-11 18:14:08
+587,893,283,4.9,"Great movie, highly recommend.",2024-03-23,2400,293,True,Desktop,140,Plot twist,True,2020-07-06 07:48:34
+588,116,263,2.9,"Great movie, worth watching.",2022-06-04,3395,252,True,Tablet,125,Reunion,True,2024-07-01 15:39:51
+589,88,49,5.3,"Great movie, worth watching.",2021-04-23,2672,289,True,Desktop,197,Plot twist,False,2021-02-12 07:22:27
+590,172,365,7.8,"Great movie, meh.",2022-06-23,180,394,False,Console,187,Opening scene,False,2020-05-26 14:42:31
+591,93,388,8.5,"Great movie, loved it.",2024-03-03,4392,333,True,Smart TV,83,Reunion,True,2020-07-07 12:08:38
+592,500,3,2.9,"Great movie, meh.",2023-04-05,1330,111,True,Desktop,74,Climax,False,2021-08-28 17:46:13
+593,403,263,7.7,"Disappointing movie, a must-see.",2022-03-17,3974,481,False,Tablet,98,Final scene,True,2022-05-15 09:44:05
+594,454,218,3.8,"Disappointing movie, a must-see.",2023-10-10,275,197,False,Desktop,203,Emotional breakdown,True,2021-10-08 20:08:17
+595,307,428,3.4,"Disappointing movie, meh.",2022-02-19,4810,188,False,Mobile,202,Monologue,False,2023-06-26 08:31:08
+596,735,279,8.1,"Great movie, highly recommend.",2023-07-06,2836,405,True,Mobile,190,Reunion,True,2021-01-10 06:42:53
+597,460,228,9.9,"Great movie, loved it.",2023-03-10,4243,128,True,Tablet,39,Emotional breakdown,True,2024-11-22 07:00:20
+598,770,218,5.9,"Great movie, loved it.",2020-09-06,174,370,False,Console,138,Opening scene,True,2021-01-19 04:22:11
+599,642,59,1.0,"Great movie, worth watching.",2021-11-12,2123,251,True,Desktop,22,Climax,False,2024-03-19 18:00:10
+600,323,45,1.2,"Great movie, worth watching.",2023-10-18,1115,432,False,Tablet,156,Final scene,True,2022-10-23 23:42:16
+601,951,109,2.5,"Disappointing movie, worth watching.",2022-01-18,36,438,False,Tablet,174,Opening scene,True,2021-08-25 17:06:31
+602,109,403,4.1,"Great movie, worth watching.",2022-07-01,4147,261,False,Laptop,51,Opening scene,False,2020-06-03 05:08:41
+603,881,262,4.7,"Disappointing movie, loved it.",2024-10-23,3741,494,False,Laptop,81,Final battle,True,2023-02-12 18:57:03
+604,241,208,3.7,"Great movie, worth watching.",2023-03-23,2817,314,True,Mobile,47,Emotional breakdown,False,2024-05-17 22:13:17
+605,779,118,7.3,"Great movie, meh.",2023-09-22,3492,321,False,Mobile,95,Chase scene,True,2024-12-25 10:43:39
+606,946,455,6.4,"Great movie, highly recommend.",2024-05-15,4068,26,True,Tablet,32,Final scene,True,2020-04-12 06:14:25
+607,835,115,9.1,"Disappointing movie, not my type.",2021-04-09,90,490,False,Console,32,Emotional breakdown,False,2024-12-18 20:27:26
+608,254,419,9.4,"Great movie, meh.",2021-09-15,462,192,True,Mobile,97,Chase scene,True,2020-02-28 22:33:48
+609,513,318,8.3,"Great movie, highly recommend.",2024-03-24,3165,166,False,Mobile,131,Plot twist,True,2023-11-13 13:19:35
+610,123,143,3.0,"Great movie, a must-see.",2020-12-01,760,290,True,Mobile,37,Opening scene,False,2021-09-06 05:17:53
+611,278,121,2.4,"Disappointing movie, loved it.",2022-02-22,4209,311,True,Console,158,Flashback,False,2022-02-15 19:07:22
+612,292,447,3.1,"Great movie, highly recommend.",2021-05-12,4935,365,False,Laptop,162,Plot twist,True,2022-10-09 01:33:02
+613,623,450,1.6,"Great movie, a must-see.",2023-10-18,765,308,True,Desktop,58,Final battle,False,2023-10-25 05:24:51
+614,395,148,1.2,"Great movie, meh.",2020-08-12,23,172,True,Console,120,Chase scene,True,2024-02-02 12:28:07
+615,59,295,1.9,"Great movie, highly recommend.",2022-10-06,208,276,False,Smart TV,65,Flashback,False,2024-05-12 22:22:45
+616,546,101,6.3,"Great movie, meh.",2023-07-24,2721,131,True,Smart TV,128,Monologue,True,2021-07-17 17:32:46
+617,128,4,5.2,"Great movie, loved it.",2023-12-21,1952,90,True,Mobile,163,Flashback,True,2021-01-16 20:49:33
+618,124,238,7.6,"Great movie, worth watching.",2022-06-17,4458,58,True,Console,199,Final scene,True,2021-12-15 14:26:06
+619,904,186,8.7,"Great movie, loved it.",2022-05-05,2156,199,False,Tablet,210,Opening scene,True,2022-11-05 11:38:28
+620,903,211,3.8,"Great movie, a must-see.",2022-09-10,3608,290,False,Mobile,162,Reunion,True,2022-10-28 19:01:54
+621,69,425,6.9,"Great movie, loved it.",2020-06-10,2463,159,False,Desktop,176,Emotional breakdown,True,2020-07-12 07:35:57
+622,845,315,5.1,"Great movie, worth watching.",2024-11-02,3747,461,False,Tablet,200,Reunion,False,2022-12-05 08:41:19
+623,187,8,9.7,"Great movie, a must-see.",2023-10-19,4045,4,False,Smart TV,210,Monologue,True,2020-03-09 11:48:03
+624,815,243,4.9,"Disappointing movie, highly recommend.",2024-07-24,4190,24,True,Laptop,45,Climax,False,2020-07-14 05:13:54
+625,930,311,6.8,"Great movie, highly recommend.",2020-08-21,3665,88,False,Smart TV,95,Monologue,True,2021-03-26 13:06:12
+626,344,336,8.1,"Great movie, highly recommend.",2020-11-27,4512,65,True,Desktop,175,Climax,True,2020-03-11 21:14:02
+627,283,425,10.0,"Great movie, a must-see.",2020-08-04,4460,473,False,Desktop,69,Final battle,True,2022-07-10 22:32:14
+628,332,436,4.7,"Great movie, loved it.",2023-06-07,872,397,False,Laptop,70,Plot twist,False,2022-10-05 03:22:09
+629,841,361,8.8,"Disappointing movie, loved it.",2023-02-13,3145,99,True,Console,22,Plot twist,True,2021-02-14 17:45:50
+630,526,24,5.2,"Disappointing movie, highly recommend.",2022-06-16,2153,496,True,Desktop,216,Emotional breakdown,True,2021-02-18 17:12:56
+631,710,100,3.6,"Disappointing movie, loved it.",2020-10-10,2180,357,False,Console,103,Flashback,False,2023-10-25 22:24:09
+632,353,104,4.7,"Disappointing movie, highly recommend.",2021-01-08,2499,499,False,Console,132,Chase scene,True,2023-06-13 11:55:51
+633,634,370,9.5,"Disappointing movie, worth watching.",2021-05-06,1057,118,False,Mobile,113,Reunion,False,2021-04-22 23:12:47
+634,819,437,9.6,"Disappointing movie, loved it.",2024-10-15,1309,469,True,Mobile,27,Emotional breakdown,True,2024-03-15 00:53:50
+635,997,316,9.4,"Great movie, not my type.",2023-07-21,2102,64,True,Console,192,Final battle,True,2023-12-28 07:04:02
+636,80,21,6.5,"Great movie, a must-see.",2023-01-02,2716,95,True,Smart TV,159,Emotional breakdown,False,2023-09-26 12:45:22
+637,92,11,2.8,"Great movie, not my type.",2021-03-15,4336,117,True,Console,163,Opening scene,True,2022-04-06 09:17:33
+638,557,279,-0.8,"Great movie, meh.",2023-06-15,3875,406,False,Smart TV,89,Plot twist,False,2024-03-18 18:06:16
+639,434,121,7.9,"Great movie, a must-see.",2022-11-08,2123,232,False,Laptop,190,Final battle,True,2023-01-24 16:16:43
+640,826,239,5.9,"Great movie, worth watching.",2021-04-21,2183,347,False,Console,156,Chase scene,False,2023-11-26 09:34:19
+641,538,182,8.1,"Great movie, meh.",2022-05-11,658,358,False,Desktop,40,Emotional breakdown,False,2021-10-24 18:05:16
+642,136,195,7.5,"Disappointing movie, loved it.",2020-05-08,4383,66,False,Tablet,211,Chase scene,False,2020-03-07 23:38:22
+643,331,136,4.3,"Great movie, worth watching.",2022-12-19,915,428,True,Tablet,54,Opening scene,False,2023-08-21 21:13:03
+644,967,318,9.7,"Disappointing movie, loved it.",2024-12-07,2091,204,False,Desktop,23,Flashback,False,2021-10-04 19:05:48
+645,676,401,6.8,"Great movie, worth watching.",2024-11-19,686,261,True,Console,92,Opening scene,False,2021-10-17 09:34:40
+646,962,165,4.1,"Great movie, highly recommend.",2022-02-22,709,135,False,Desktop,127,Monologue,False,2023-11-14 05:04:30
+647,958,481,7.4,"Disappointing movie, not my type.",2021-05-08,4140,424,True,Smart TV,78,Emotional breakdown,False,2022-02-23 08:37:38
+648,464,176,-2.1,"Great movie, worth watching.",2021-09-09,2633,166,False,Smart TV,214,Opening scene,True,2021-11-05 04:04:58
+649,632,499,7.2,"Great movie, a must-see.",2024-02-07,646,65,True,Smart TV,165,Plot twist,True,2024-10-17 19:45:14
+650,25,290,7.3,"Disappointing movie, meh.",2020-03-23,2529,449,True,Tablet,119,Reunion,False,2020-11-13 16:12:44
+651,561,82,6.0,"Great movie, a must-see.",2020-11-01,58,306,False,Tablet,66,Emotional breakdown,False,2024-11-14 05:23:42
+652,850,307,11.5,"Disappointing movie, a must-see.",2022-04-02,968,82,False,Desktop,74,Plot twist,False,2022-07-14 18:14:29
+653,64,219,5.3,"Great movie, a must-see.",2020-04-21,707,137,True,Desktop,40,Final battle,False,2022-12-16 05:01:56
+654,882,178,4.4,"Disappointing movie, not my type.",2024-06-27,2881,162,True,Desktop,109,Final scene,False,2022-01-12 16:52:13
+655,745,201,1.5,"Great movie, loved it.",2022-10-19,1632,491,True,Console,146,Monologue,False,2023-09-19 16:00:06
+656,32,205,6.7,"Great movie, meh.",2021-09-12,2335,488,False,Console,60,Opening scene,False,2021-11-07 23:27:06
+657,972,131,8.8,"Great movie, worth watching.",2023-01-15,1326,254,False,Console,45,Opening scene,True,2022-01-06 20:39:18
+658,824,403,1.0,"Great movie, worth watching.",2024-08-16,4595,262,True,Mobile,77,Monologue,False,2024-02-12 19:01:47
+659,368,443,3.4,"Disappointing movie, not my type.",2024-05-21,360,157,True,Smart TV,137,Final battle,False,2020-11-17 16:29:31
+660,835,296,7.8,"Disappointing movie, meh.",2023-10-19,1315,68,True,Console,61,Flashback,True,2020-07-18 16:18:43
+661,15,158,7.3,"Great movie, worth watching.",2020-10-23,4766,158,False,Console,162,Final battle,False,2020-06-21 18:11:49
+662,978,456,5.5,"Great movie, not my type.",2023-08-09,839,221,False,Desktop,209,Flashback,False,2023-12-13 14:35:21
+663,848,215,2.9,"Great movie, worth watching.",2023-02-21,930,48,False,Laptop,104,Final scene,False,2021-05-03 15:07:27
+664,535,253,3.7,"Great movie, meh.",2021-05-24,1671,88,False,Mobile,12,Final battle,True,2020-03-22 17:33:12
+665,711,61,8.1,"Great movie, a must-see.",2020-01-03,735,379,True,Mobile,216,Final battle,False,2022-08-09 22:35:05
+666,321,352,5.3,"Great movie, a must-see.",2021-04-25,4101,28,True,Console,27,Climax,False,2022-12-18 04:16:54
+667,799,245,7.7,"Disappointing movie, not my type.",2020-10-06,3779,264,False,Tablet,78,Plot twist,False,2022-03-11 08:11:43
+668,318,348,5.2,"Great movie, highly recommend.",2022-11-10,3264,207,False,Laptop,170,Climax,True,2023-12-06 18:29:09
+669,135,402,7.8,"Disappointing movie, loved it.",2023-01-17,3360,482,True,Desktop,87,Chase scene,False,2021-10-15 11:55:56
+670,48,282,2.6,"Disappointing movie, worth watching.",2024-12-11,3189,358,True,Desktop,152,Chase scene,False,2020-03-15 16:12:26
+671,709,68,6.9,"Great movie, a must-see.",2024-05-04,2402,413,False,Laptop,24,Chase scene,False,2023-06-03 11:15:57
+672,503,325,6.5,"Great movie, not my type.",2020-09-25,1058,127,True,Mobile,184,Opening scene,True,2021-10-16 17:00:26
+673,654,247,7.6,"Great movie, not my type.",2022-11-11,1659,2,True,Desktop,56,Climax,True,2021-09-18 03:25:39
+674,22,105,8.2,"Great movie, worth watching.",2021-12-05,1864,85,False,Desktop,67,Chase scene,False,2021-05-03 12:54:03
+675,529,110,6.0,"Great movie, a must-see.",2024-10-21,4873,138,True,Console,52,Plot twist,True,2021-03-17 23:19:27
+676,773,440,9.9,"Great movie, not my type.",2020-01-17,768,392,False,Desktop,47,Final battle,True,2021-08-25 22:20:45
+677,968,349,8.7,"Disappointing movie, meh.",2022-05-09,3658,67,True,Tablet,17,Opening scene,False,2024-10-22 20:39:31
+678,822,135,8.0,"Disappointing movie, a must-see.",2024-11-28,3706,102,True,Desktop,135,Chase scene,False,2020-09-07 14:53:17
+679,867,114,2.3,"Great movie, highly recommend.",2023-11-01,4511,126,True,Console,126,Flashback,True,2023-12-22 12:30:48
+680,373,489,5.6,"Great movie, not my type.",2020-12-24,2598,239,True,Desktop,69,Emotional breakdown,True,2024-04-16 18:02:11
+681,253,274,7.5,"Great movie, a must-see.",2020-06-14,4867,374,False,Console,127,Reunion,True,2024-03-15 23:56:33
+682,123,79,7.7,"Great movie, meh.",2023-03-09,4431,18,False,Desktop,50,Chase scene,True,2023-06-14 03:55:28
+683,734,126,9.1,"Disappointing movie, not my type.",2020-02-04,3655,164,False,Smart TV,187,Reunion,False,2023-05-16 07:23:07
+684,45,456,4.8,"Great movie, a must-see.",2024-10-26,4162,288,True,Console,135,Final battle,False,2023-11-16 16:57:53
+685,757,365,5.6,"Great movie, a must-see.",2024-03-08,15,500,True,Laptop,64,Plot twist,False,2020-09-16 03:49:20
+686,724,161,14.2,"Great movie, worth watching.",2020-04-17,80,97,False,Smart TV,62,Final battle,True,2023-12-08 03:09:59
+687,729,293,4.3,"Great movie, a must-see.",2024-09-21,4468,55,False,Console,103,Final scene,False,2021-03-23 05:41:37
+688,137,448,8.5,"Great movie, worth watching.",2024-04-26,4710,432,False,Desktop,157,Final battle,True,2023-03-01 08:27:53
+689,472,288,4.7,"Disappointing movie, worth watching.",2024-02-28,3174,296,True,Laptop,203,Chase scene,False,2023-01-15 20:24:44
+690,628,486,5.8,"Great movie, a must-see.",2022-05-19,526,61,False,Mobile,20,Final battle,False,2022-11-06 14:49:11
+691,331,172,9.0,"Great movie, loved it.",2020-09-16,1110,172,False,Desktop,67,Opening scene,True,2021-11-24 15:59:59
+692,822,93,5.4,"Great movie, highly recommend.",2022-03-16,1205,123,True,Mobile,189,Chase scene,True,2022-02-24 12:24:55
+693,240,278,2.4,"Great movie, loved it.",2023-03-15,3610,238,True,Console,156,Monologue,False,2023-01-12 06:44:59
+694,309,488,4.5,"Great movie, not my type.",2022-01-20,3121,405,True,Smart TV,186,Monologue,False,2024-09-16 03:27:44
+695,298,388,9.8,"Great movie, loved it.",2020-08-16,1581,199,True,Smart TV,71,Final scene,True,2024-02-03 00:01:02
+696,494,436,7.3,"Great movie, highly recommend.",2024-03-24,3347,104,False,Console,74,Final battle,False,2020-04-06 05:20:03
+697,751,264,1.8,"Great movie, worth watching.",2021-08-28,2115,332,False,Smart TV,77,Emotional breakdown,False,2022-08-06 14:33:58
+698,507,364,6.4,"Disappointing movie, not my type.",2023-02-15,2554,12,False,Tablet,152,Reunion,False,2024-10-24 08:08:55
+699,6,349,7.9,"Great movie, loved it.",2024-03-07,3708,192,True,Laptop,43,Emotional breakdown,True,2020-09-16 16:55:49
+700,506,289,1.3,"Great movie, highly recommend.",2021-02-06,3324,111,False,Console,211,Monologue,True,2022-07-16 02:02:11
+701,984,463,4.5,"Great movie, meh.",2020-10-07,1572,162,False,Desktop,214,Monologue,False,2022-04-16 21:11:51
+702,555,95,9.0,"Disappointing movie, highly recommend.",2021-06-23,1086,29,True,Smart TV,72,Climax,True,2024-02-18 05:32:48
+703,666,61,2.4,"Great movie, meh.",2023-07-26,3821,262,True,Mobile,59,Final battle,False,2021-10-24 08:03:39
+704,625,111,8.9,"Disappointing movie, not my type.",2023-11-18,2112,271,True,Smart TV,198,Final battle,False,2023-10-20 03:35:18
+705,833,168,1.6,"Great movie, a must-see.",2024-12-14,2869,127,False,Mobile,155,Chase scene,True,2022-07-18 09:48:43
+706,356,325,8.3,"Disappointing movie, a must-see.",2020-02-02,3783,186,True,Laptop,125,Final scene,False,2021-03-28 10:30:50
+707,747,338,7.4,"Great movie, a must-see.",2024-04-23,963,338,True,Desktop,131,Climax,False,2022-05-22 18:51:23
+708,952,162,6.6,"Disappointing movie, loved it.",2022-09-05,2705,128,False,Tablet,122,Climax,True,2024-07-15 21:31:33
+709,196,289,1.1,"Great movie, not my type.",2021-09-01,3282,218,True,Tablet,203,Flashback,False,2020-10-23 18:53:54
+710,983,20,5.1,"Disappointing movie, loved it.",2020-08-13,2246,272,True,Desktop,112,Final battle,False,2022-05-09 00:43:45
+711,187,305,1.7,"Great movie, a must-see.",2020-11-27,2661,382,False,Laptop,86,Final battle,False,2024-03-26 04:34:14
+712,858,168,-2.6,"Great movie, worth watching.",2022-02-03,3994,395,False,Laptop,172,Reunion,True,2023-10-08 17:47:02
+713,359,276,3.3,"Great movie, meh.",2022-04-11,859,249,False,Laptop,59,Final battle,False,2021-07-28 02:56:02
+714,555,345,8.4,"Disappointing movie, meh.",2020-05-15,4846,498,False,Mobile,206,Climax,False,2022-01-17 17:45:38
+715,620,250,4.2,"Great movie, worth watching.",2023-10-20,3906,275,True,Tablet,192,Reunion,True,2024-07-11 02:06:36
+716,563,491,7.8,"Great movie, meh.",2022-12-16,1590,405,True,Mobile,131,Flashback,False,2022-06-15 09:57:30
+717,946,350,5.2,"Great movie, meh.",2022-12-11,4522,369,True,Smart TV,148,Emotional breakdown,False,2022-12-08 05:54:29
+718,723,187,3.8,"Disappointing movie, a must-see.",2023-06-05,3873,232,True,Mobile,174,Emotional breakdown,False,2021-07-13 19:36:34
+719,84,277,1.5,"Great movie, loved it.",2021-01-02,4573,166,False,Tablet,70,Final battle,False,2022-12-14 01:25:43
+720,412,325,3.8,"Great movie, worth watching.",2023-06-11,4413,107,True,Console,215,Plot twist,True,2020-05-19 07:41:09
+721,367,436,3.6,"Great movie, worth watching.",2024-11-06,65,481,False,Tablet,121,Emotional breakdown,True,2022-08-20 14:58:44
+722,788,45,-2.6,"Great movie, highly recommend.",2020-01-01,1681,458,True,Console,117,Reunion,False,2020-08-18 00:32:45
+723,524,423,4.7,"Great movie, meh.",2024-02-13,1176,488,False,Console,134,Reunion,False,2020-03-28 23:38:48
+724,303,479,7.9,"Great movie, worth watching.",2021-10-04,2961,489,True,Smart TV,61,Flashback,False,2024-03-16 02:37:29
+725,886,203,7.7,"Great movie, a must-see.",2021-10-25,1555,108,True,Mobile,219,Opening scene,False,2020-02-15 14:48:58
+726,929,151,11.9,"Great movie, not my type.",2022-10-04,3992,380,False,Mobile,126,Monologue,True,2020-03-07 07:07:54
+727,327,438,7.1,"Great movie, worth watching.",2020-08-10,585,326,True,Console,66,Flashback,False,2020-05-04 12:17:35
+728,751,378,4.7,"Great movie, loved it.",2021-04-20,3718,345,True,Console,43,Flashback,False,2020-03-26 16:18:44
+729,640,481,8.6,"Disappointing movie, a must-see.",2022-06-21,137,34,True,Mobile,178,Final scene,True,2022-11-19 22:37:22
+730,133,165,2.7,"Great movie, worth watching.",2020-02-25,4688,198,False,Smart TV,155,Flashback,True,2022-10-28 09:16:23
+731,695,340,6.3,"Great movie, highly recommend.",2020-03-02,1677,258,False,Mobile,171,Flashback,True,2021-12-21 13:01:54
+732,295,483,2.2,"Great movie, highly recommend.",2020-05-14,4434,248,False,Smart TV,46,Final battle,True,2020-09-10 17:27:20
+733,307,90,4.1,"Great movie, meh.",2024-07-27,1164,93,True,Laptop,24,Emotional breakdown,False,2022-02-15 02:01:22
+734,987,442,4.4,"Great movie, loved it.",2021-12-28,3370,386,True,Tablet,12,Reunion,False,2024-11-16 04:45:15
+735,343,389,5.7,"Great movie, meh.",2021-09-21,4716,341,False,Mobile,128,Emotional breakdown,True,2020-05-15 15:01:02
+736,314,267,14.8,"Great movie, not my type.",2021-03-12,2808,109,True,Tablet,196,Chase scene,True,2024-04-05 22:52:25
+737,781,409,2.5,"Disappointing movie, worth watching.",2022-09-07,3731,120,True,Desktop,10,Final battle,False,2023-05-14 15:23:59
+738,798,486,1.3,"Great movie, a must-see.",2022-02-18,2583,355,True,Mobile,64,Final scene,False,2020-01-27 03:44:59
+739,21,142,7.8,"Disappointing movie, highly recommend.",2024-09-02,4758,300,True,Smart TV,20,Final scene,False,2020-01-24 16:59:30
+740,899,490,4.6,"Great movie, a must-see.",2022-09-22,2483,79,True,Smart TV,57,Flashback,False,2023-09-12 14:21:23
+741,710,223,8.6,"Great movie, worth watching.",2024-03-16,4044,174,True,Mobile,164,Plot twist,True,2022-03-23 13:52:28
+742,320,313,3.5,"Great movie, worth watching.",2020-07-13,475,313,False,Desktop,58,Monologue,True,2022-10-18 14:04:44
+743,295,93,7.7,"Great movie, meh.",2022-08-16,3681,318,True,Mobile,55,Chase scene,True,2022-10-08 16:24:45
+744,989,110,4.4,"Great movie, not my type.",2022-11-12,1671,111,False,Desktop,171,Chase scene,False,2023-11-14 06:03:55
+745,793,368,9.6,"Great movie, loved it.",2021-08-26,3531,182,False,Console,213,Reunion,True,2022-11-21 17:36:31
+746,225,326,1.3,"Great movie, loved it.",2022-09-04,2198,342,False,Console,42,Final scene,True,2023-09-15 13:07:39
+747,22,236,3.8,"Disappointing movie, meh.",2022-06-12,793,22,False,Smart TV,216,Final scene,True,2024-09-13 19:55:24
+748,907,54,1.8,"Great movie, highly recommend.",2023-02-24,4118,224,True,Laptop,126,Opening scene,True,2021-07-17 06:41:07
+749,365,389,4.7,"Disappointing movie, highly recommend.",2023-01-12,566,398,True,Tablet,169,Flashback,False,2024-01-11 08:15:21
+750,783,78,8.7,"Great movie, meh.",2020-10-27,2436,363,False,Mobile,158,Opening scene,True,2021-03-16 22:06:02
+751,964,418,7.3,"Disappointing movie, not my type.",2022-10-27,1147,61,True,Desktop,217,Opening scene,True,2022-09-20 18:48:52
+752,652,32,3.9,"Great movie, worth watching.",2020-08-05,644,377,True,Console,177,Chase scene,False,2021-02-26 02:33:44
+753,396,391,9.0,"Disappointing movie, highly recommend.",2024-09-16,4378,481,True,Smart TV,15,Emotional breakdown,False,2022-06-20 06:06:35
+754,110,114,9.8,"Disappointing movie, not my type.",2020-10-19,4092,98,False,Mobile,70,Emotional breakdown,True,2022-05-23 00:28:57
+755,875,211,3.3,"Disappointing movie, loved it.",2023-12-05,4811,138,True,Tablet,150,Final battle,True,2020-05-11 07:48:39
+756,289,284,6.9,"Great movie, highly recommend.",2023-09-28,2049,373,False,Console,142,Chase scene,False,2024-05-02 05:08:10
+757,455,369,5.4,"Disappointing movie, highly recommend.",2024-01-14,3553,447,False,Desktop,95,Climax,False,2024-04-25 23:46:52
+758,291,131,9.1,"Great movie, meh.",2024-01-13,3604,250,False,Console,46,Final battle,True,2024-04-01 13:13:46
+759,284,152,2.8,"Disappointing movie, meh.",2024-05-06,2717,227,False,Smart TV,57,Plot twist,False,2021-06-07 22:16:36
+760,874,234,2.1,"Great movie, loved it.",2024-09-27,1587,84,True,Smart TV,209,Plot twist,False,2020-03-06 14:59:28
+761,268,334,4.6,"Disappointing movie, loved it.",2022-08-28,906,112,False,Mobile,96,Monologue,False,2023-12-11 04:10:11
+762,808,43,8.6,"Great movie, meh.",2020-01-24,2501,6,True,Desktop,179,Chase scene,True,2020-04-08 21:52:34
+763,491,328,2.9,"Great movie, worth watching.",2022-01-26,445,64,True,Smart TV,179,Reunion,True,2024-04-13 12:26:36
+764,287,328,7.8,"Great movie, not my type.",2024-05-20,580,310,False,Laptop,187,Emotional breakdown,True,2021-12-21 09:18:51
+765,323,372,3.9,"Great movie, not my type.",2023-04-16,2582,297,False,Desktop,148,Plot twist,True,2024-11-18 16:42:25
+766,112,204,9.6,"Disappointing movie, a must-see.",2021-09-26,284,308,True,Mobile,96,Chase scene,True,2023-09-06 09:38:50
+767,476,234,1.1,"Great movie, meh.",2024-02-03,2135,452,True,Tablet,105,Chase scene,False,2023-06-04 05:59:27
+768,495,351,6.8,"Disappointing movie, loved it.",2020-08-12,1848,178,True,Desktop,141,Plot twist,False,2022-07-06 18:13:14
+769,310,342,6.4,"Great movie, a must-see.",2024-03-05,1750,433,True,Laptop,220,Chase scene,False,2023-01-11 18:27:28
+770,419,379,8.4,"Great movie, worth watching.",2022-10-18,1789,117,False,Smart TV,34,Chase scene,False,2023-10-27 12:37:46
+771,757,398,2.8,"Great movie, worth watching.",2024-02-26,2345,329,True,Tablet,64,Emotional breakdown,True,2024-01-17 07:05:48
+772,752,42,7.3,"Great movie, not my type.",2022-05-25,3670,268,False,Laptop,125,Plot twist,True,2020-08-03 17:05:06
+773,414,316,3.3,"Great movie, worth watching.",2023-10-16,672,258,False,Console,24,Final battle,False,2021-12-19 17:43:29
+774,275,488,8.4,"Disappointing movie, loved it.",2020-10-26,4798,298,False,Console,188,Final scene,False,2020-02-16 09:10:24
+775,82,160,2.2,"Great movie, a must-see.",2022-02-06,1363,268,False,Laptop,154,Plot twist,False,2020-09-04 01:47:15
+776,354,232,7.2,"Disappointing movie, loved it.",2020-01-01,2550,330,True,Smart TV,112,Opening scene,True,2021-09-21 11:16:42
+777,671,292,6.2,"Great movie, worth watching.",2023-04-04,2743,26,True,Mobile,151,Reunion,False,2023-01-09 21:49:08
+778,756,297,4.2,"Great movie, worth watching.",2022-05-22,377,425,False,Smart TV,48,Monologue,True,2021-06-19 16:17:51
+779,546,258,9.2,"Great movie, highly recommend.",2024-12-26,3429,144,False,Mobile,54,Final battle,True,2021-05-19 12:02:22
+780,617,459,6.8,"Disappointing movie, not my type.",2021-08-05,1849,171,True,Tablet,79,Plot twist,False,2020-02-08 16:50:56
+781,547,243,1.5,"Disappointing movie, not my type.",2021-10-17,2295,254,False,Smart TV,138,Flashback,True,2020-10-14 08:26:07
+782,274,193,6.2,"Disappointing movie, loved it.",2022-07-24,361,62,False,Tablet,138,Emotional breakdown,False,2023-08-17 19:21:14
+783,751,71,3.8,"Great movie, worth watching.",2024-04-02,1859,328,False,Mobile,166,Final scene,True,2021-07-24 00:15:50
+784,555,474,9.4,"Great movie, meh.",2022-12-15,2337,67,True,Tablet,146,Plot twist,False,2024-01-22 06:28:05
+785,479,38,5.9,"Great movie, highly recommend.",2023-05-13,952,353,True,Mobile,74,Reunion,False,2022-06-13 10:27:24
+786,227,354,4.5,"Great movie, meh.",2024-11-25,928,106,True,Console,217,Climax,True,2021-01-10 05:06:03
+787,237,252,6.4,"Great movie, worth watching.",2020-05-21,4400,228,True,Tablet,195,Opening scene,True,2021-04-07 10:49:28
+788,854,360,6.1,"Disappointing movie, not my type.",2023-12-24,2842,305,True,Mobile,55,Final scene,True,2024-11-20 04:39:09
+789,910,13,1.6,"Disappointing movie, a must-see.",2022-08-09,57,338,False,Mobile,195,Flashback,False,2024-11-03 02:14:38
+790,160,276,2.2,"Great movie, not my type.",2022-10-08,4473,430,True,Tablet,153,Plot twist,True,2021-09-01 22:01:45
+791,702,112,9.5,"Great movie, not my type.",2023-12-25,1627,483,False,Mobile,86,Opening scene,False,2023-11-14 02:38:18
+792,907,187,9.0,"Great movie, meh.",2022-09-04,4137,56,True,Mobile,111,Final scene,False,2021-10-06 05:59:15
+793,66,381,6.6,"Great movie, a must-see.",2024-10-07,1205,21,True,Mobile,184,Monologue,True,2020-08-06 07:09:46
+794,817,73,6.9,"Great movie, not my type.",2022-12-15,4250,121,True,Mobile,169,Chase scene,False,2020-01-17 17:13:19
+795,780,482,3.4,"Disappointing movie, a must-see.",2021-05-20,2458,47,False,Laptop,94,Monologue,False,2023-12-16 01:09:13
+796,598,67,5.6,"Disappointing movie, loved it.",2020-06-15,561,305,True,Mobile,84,Plot twist,False,2024-12-26 05:59:15
+797,993,159,-0.8,"Disappointing movie, a must-see.",2021-06-02,2638,310,False,Desktop,37,Opening scene,False,2021-07-27 17:18:18
+798,918,34,9.5,"Great movie, not my type.",2024-10-14,716,353,False,Tablet,172,Monologue,False,2021-10-14 04:46:55
+799,21,155,2.5,"Great movie, meh.",2024-11-03,475,485,True,Console,89,Final battle,True,2020-09-24 04:22:58
+800,607,326,2.6,"Great movie, highly recommend.",2023-07-18,1319,432,False,Mobile,91,Climax,True,2020-05-20 13:01:52
+801,374,141,-0.6,"Great movie, meh.",2024-12-11,713,243,True,Smart TV,42,Opening scene,False,2023-04-27 00:56:33
+802,849,226,6.0,"Great movie, worth watching.",2023-04-06,1354,446,False,Smart TV,39,Plot twist,True,2021-06-18 20:03:55
+803,180,350,9.3,"Great movie, not my type.",2020-01-05,1955,422,True,Smart TV,148,Climax,True,2022-01-14 05:29:19
+804,686,43,7.7,"Great movie, highly recommend.",2024-09-07,1370,259,False,Mobile,77,Final battle,False,2020-05-08 10:53:17
+805,226,415,7.4,"Disappointing movie, meh.",2024-10-05,2518,422,False,Console,90,Flashback,False,2023-11-10 23:14:12
+806,237,29,14.6,"Disappointing movie, meh.",2022-09-25,666,256,True,Smart TV,179,Monologue,False,2021-06-01 13:08:38
+807,156,185,9.6,"Disappointing movie, meh.",2024-10-09,516,494,False,Desktop,123,Plot twist,True,2021-02-06 19:55:13
+808,714,272,4.4,"Great movie, not my type.",2024-06-28,485,438,True,Desktop,12,Monologue,True,2022-04-18 22:19:48
+809,508,489,8.4,"Great movie, worth watching.",2023-10-12,535,108,True,Console,81,Reunion,False,2020-09-07 21:23:56
+810,961,305,1.9,"Great movie, highly recommend.",2020-12-09,332,373,False,Laptop,139,Plot twist,False,2020-01-15 14:50:04
+811,821,352,6.9,"Disappointing movie, highly recommend.",2024-12-26,1805,397,True,Tablet,216,Plot twist,False,2024-12-19 13:12:11
+812,98,189,4.2,"Disappointing movie, loved it.",2023-06-07,833,253,False,Desktop,219,Monologue,False,2020-03-22 05:16:01
+813,920,460,6.8,"Disappointing movie, loved it.",2021-08-27,2737,438,True,Laptop,68,Emotional breakdown,True,2020-03-05 17:30:47
+814,274,7,9.8,"Great movie, meh.",2023-12-17,2139,445,True,Desktop,98,Final battle,True,2021-07-10 05:07:40
+815,309,300,2.3,"Great movie, highly recommend.",2023-12-08,2280,448,False,Tablet,129,Final scene,True,2023-11-20 13:39:50
+816,860,417,7.7,"Great movie, worth watching.",2020-06-12,659,427,False,Console,176,Flashback,True,2022-06-28 22:12:47
+817,758,119,1.1,"Great movie, loved it.",2020-06-19,4606,469,True,Console,109,Monologue,False,2022-05-08 07:43:31
+818,929,488,2.9,"Great movie, highly recommend.",2021-10-01,1862,10,True,Laptop,37,Opening scene,True,2024-02-03 03:41:19
+819,13,252,4.1,"Great movie, not my type.",2021-02-28,3410,464,True,Smart TV,139,Chase scene,False,2021-01-11 06:19:59
+820,268,477,7.8,"Great movie, a must-see.",2020-09-05,1877,283,True,Laptop,172,Monologue,True,2023-02-08 14:41:05
+821,596,453,3.9,"Great movie, highly recommend.",2023-04-26,1175,465,False,Mobile,88,Reunion,True,2022-06-10 04:34:19
+822,446,418,5.7,"Great movie, meh.",2024-08-06,430,107,True,Desktop,144,Plot twist,True,2021-08-02 09:39:16
+823,245,449,8.9,"Great movie, highly recommend.",2021-07-12,2808,281,False,Laptop,56,Chase scene,False,2024-01-06 07:46:46
+824,254,62,1.3,"Great movie, a must-see.",2024-12-01,2668,382,True,Smart TV,70,Monologue,True,2023-04-16 20:49:53
+825,273,463,6.2,"Disappointing movie, a must-see.",2023-02-18,540,369,True,Desktop,85,Opening scene,False,2021-02-24 09:26:06
+826,238,111,4.2,"Great movie, worth watching.",2023-01-06,2634,164,False,Console,110,Plot twist,False,2024-02-09 03:54:56
+827,663,181,5.2,"Disappointing movie, loved it.",2020-12-15,2062,289,True,Desktop,202,Plot twist,False,2023-06-05 17:40:23
+828,720,54,6.7,"Disappointing movie, worth watching.",2023-05-11,3707,140,False,Tablet,99,Final scene,True,2022-01-16 13:55:12
+829,233,244,8.5,"Great movie, worth watching.",2022-04-16,919,92,True,Smart TV,110,Plot twist,True,2023-01-21 01:38:21
+830,544,106,8.3,"Great movie, loved it.",2023-04-05,1963,33,True,Desktop,113,Emotional breakdown,False,2023-05-16 08:43:18
+831,618,103,4.6,"Great movie, worth watching.",2020-07-01,4262,126,False,Mobile,52,Monologue,False,2022-01-20 06:48:53
+832,703,300,2.8,"Great movie, meh.",2023-05-16,4910,479,True,Smart TV,66,Final scene,False,2023-03-26 03:47:20
+833,299,77,7.3,"Great movie, not my type.",2020-09-18,4940,423,True,Tablet,198,Flashback,True,2020-04-14 02:37:05
+834,423,199,5.0,"Disappointing movie, meh.",2023-11-25,3668,178,False,Mobile,86,Chase scene,False,2023-12-06 00:49:17
+835,350,116,9.0,"Great movie, not my type.",2024-08-20,829,356,False,Desktop,127,Reunion,True,2022-04-19 13:42:57
+836,52,386,-0.1,"Great movie, worth watching.",2021-12-07,4551,297,True,Tablet,138,Flashback,True,2022-07-08 19:11:04
+837,112,258,9.5,"Great movie, meh.",2023-03-13,4698,269,False,Tablet,66,Emotional breakdown,True,2020-06-28 21:50:51
+838,653,320,5.2,"Great movie, not my type.",2024-06-26,16,18,False,Tablet,167,Chase scene,False,2024-03-19 07:54:41
+839,409,398,9.9,"Disappointing movie, not my type.",2021-12-23,4993,483,True,Laptop,123,Final scene,True,2024-07-18 12:14:41
+840,826,452,4.8,"Great movie, not my type.",2021-10-13,3159,117,False,Desktop,131,Plot twist,False,2020-01-26 14:23:23
+841,12,132,1.1,"Disappointing movie, worth watching.",2024-04-25,4100,293,True,Mobile,26,Flashback,False,2021-09-21 04:00:51
+842,915,329,13.0,"Great movie, loved it.",2024-12-24,4399,348,False,Mobile,142,Climax,False,2023-12-03 13:27:16
+843,42,455,2.5,"Disappointing movie, loved it.",2020-03-06,1470,347,False,Smart TV,109,Reunion,True,2023-06-03 15:44:52
+844,369,288,4.9,"Disappointing movie, not my type.",2022-08-27,429,152,True,Laptop,217,Monologue,True,2021-10-06 06:43:46
+845,535,136,1.2,"Disappointing movie, not my type.",2024-02-15,3319,392,False,Laptop,152,Emotional breakdown,False,2023-05-06 14:13:53
+846,323,291,6.0,"Disappointing movie, meh.",2023-01-24,2637,153,False,Desktop,22,Final scene,True,2023-05-28 12:44:20
+847,826,73,6.3,"Great movie, a must-see.",2023-02-17,4949,430,True,Console,119,Reunion,True,2023-04-23 03:46:02
+848,30,474,1.7,"Great movie, not my type.",2023-11-02,429,91,True,Mobile,16,Plot twist,False,2022-03-07 16:10:08
+849,255,176,3.9,"Great movie, highly recommend.",2021-05-11,3288,95,True,Desktop,199,Opening scene,True,2022-05-27 20:52:01
+850,591,130,2.0,"Great movie, not my type.",2022-05-12,1304,168,False,Mobile,123,Reunion,False,2023-12-20 17:14:26
+851,311,435,6.4,"Great movie, meh.",2021-07-05,4188,474,False,Smart TV,183,Flashback,True,2020-12-22 23:12:45
+852,921,51,3.6,"Disappointing movie, highly recommend.",2022-04-26,1452,261,False,Laptop,157,Final scene,False,2023-01-20 21:37:52
+853,22,213,6.4,"Great movie, loved it.",2024-03-08,3869,36,True,Smart TV,87,Final scene,True,2023-02-22 03:14:42
+854,433,130,4.8,"Disappointing movie, not my type.",2024-09-15,4216,160,True,Desktop,163,Final battle,True,2023-08-20 01:21:12
+855,985,344,5.9,"Disappointing movie, meh.",2024-12-27,2792,108,False,Desktop,157,Flashback,True,2021-10-24 14:46:48
+856,805,253,2.8,"Disappointing movie, highly recommend.",2022-02-09,1586,84,False,Console,185,Final scene,False,2022-02-26 00:52:16
+857,785,69,9.5,"Great movie, highly recommend.",2024-07-12,4476,192,True,Console,187,Plot twist,True,2022-09-16 16:04:39
+858,235,153,8.7,"Disappointing movie, a must-see.",2023-11-10,3250,239,False,Tablet,66,Climax,False,2020-12-21 08:06:21
+859,904,215,1.6,"Great movie, worth watching.",2022-04-05,948,373,False,Laptop,49,Chase scene,False,2023-02-15 08:03:14
+860,336,326,7.4,"Disappointing movie, a must-see.",2023-09-09,1014,438,False,Desktop,135,Plot twist,False,2020-07-19 15:51:21
+861,270,60,3.0,"Great movie, meh.",2020-11-04,2620,475,True,Laptop,174,Final scene,True,2021-10-17 06:02:37
+862,156,75,1.7,"Great movie, highly recommend.",2022-11-11,340,110,False,Mobile,137,Climax,False,2021-01-14 04:32:29
+863,193,396,3.5,"Great movie, highly recommend.",2024-08-22,1195,274,False,Smart TV,148,Reunion,False,2024-12-08 03:24:57
+864,896,21,6.8,"Great movie, worth watching.",2022-09-15,3434,398,False,Console,110,Final battle,True,2024-01-14 19:53:57
+865,357,477,3.9,"Great movie, highly recommend.",2020-12-27,4888,388,False,Desktop,30,Reunion,True,2022-07-26 12:30:45
+866,567,351,4.0,"Disappointing movie, a must-see.",2020-02-27,1068,311,True,Console,147,Monologue,True,2020-05-06 06:35:40
+867,687,167,6.6,"Great movie, a must-see.",2022-05-12,352,412,False,Smart TV,76,Monologue,False,2024-09-28 20:49:44
+868,880,23,4.5,"Disappointing movie, loved it.",2023-09-17,4422,491,False,Laptop,173,Monologue,False,2022-01-13 01:09:50
+869,398,297,-1.2,"Great movie, highly recommend.",2022-11-21,1087,53,True,Desktop,10,Flashback,False,2023-04-02 17:57:32
+870,901,47,14.9,"Disappointing movie, worth watching.",2023-08-15,496,176,True,Laptop,136,Final scene,True,2022-04-18 09:06:45
+871,797,74,9.4,"Great movie, highly recommend.",2021-03-12,1805,471,True,Desktop,189,Emotional breakdown,False,2020-05-25 02:27:11
+872,498,141,2.6,"Great movie, highly recommend.",2020-12-27,2671,154,False,Smart TV,175,Monologue,False,2020-03-22 09:48:26
+873,715,38,1.2,"Great movie, loved it.",2020-01-16,837,126,False,Tablet,183,Final scene,False,2021-01-20 20:40:21
+874,963,49,7.4,"Great movie, highly recommend.",2023-04-28,4042,88,True,Smart TV,20,Plot twist,True,2022-01-10 09:59:01
+875,106,82,1.7,"Great movie, meh.",2021-11-25,2542,102,False,Mobile,80,Emotional breakdown,False,2020-02-06 19:01:16
+876,245,43,9.2,"Great movie, not my type.",2023-08-15,2828,196,False,Tablet,166,Monologue,True,2023-04-07 04:02:36
+877,290,268,7.7,"Great movie, worth watching.",2020-10-19,4886,0,False,Mobile,27,Chase scene,False,2020-09-16 01:50:40
+878,723,84,5.3,"Great movie, worth watching.",2022-07-15,4408,399,True,Mobile,88,Reunion,False,2021-06-25 00:32:51
+879,530,376,2.6,"Disappointing movie, worth watching.",2024-07-27,4679,221,False,Console,181,Flashback,False,2021-03-08 15:10:16
+880,886,453,6.3,"Great movie, meh.",2020-04-08,1132,156,True,Tablet,28,Monologue,False,2024-11-10 12:01:22
+881,406,302,8.3,"Great movie, a must-see.",2020-06-24,3331,316,False,Console,144,Climax,False,2020-07-24 18:06:12
+882,284,495,3.0,"Great movie, highly recommend.",2021-06-18,385,94,False,Tablet,53,Final battle,False,2022-08-14 01:19:46
+883,305,30,3.7,"Disappointing movie, meh.",2023-06-13,1269,216,True,Tablet,24,Chase scene,False,2022-04-01 23:01:28
+884,165,157,5.2,"Great movie, meh.",2020-06-25,1785,36,True,Laptop,190,Flashback,True,2023-05-16 12:24:50
+885,740,309,8.0,"Great movie, worth watching.",2022-12-06,2104,86,False,Laptop,89,Final battle,True,2024-11-16 20:26:49
+886,942,496,8.1,"Great movie, worth watching.",2023-02-06,2290,427,False,Tablet,165,Final scene,False,2024-02-19 09:44:54
+887,39,209,7.4,"Great movie, a must-see.",2023-02-24,87,150,True,Laptop,118,Flashback,True,2021-06-26 16:59:25
+888,516,493,3.4,"Great movie, worth watching.",2022-08-03,3171,177,False,Laptop,59,Monologue,False,2022-02-06 00:21:16
+889,114,182,8.1,"Great movie, loved it.",2023-05-15,3960,3,True,Tablet,158,Reunion,True,2020-12-05 21:15:12
+890,390,65,-1.9,"Disappointing movie, loved it.",2020-04-26,3868,276,False,Tablet,186,Climax,True,2022-05-28 07:23:41
+891,954,35,2.5,"Great movie, loved it.",2024-07-08,4516,181,False,Desktop,84,Opening scene,False,2020-01-09 10:50:05
+892,765,407,9.5,"Great movie, not my type.",2020-06-18,4206,22,False,Laptop,50,Chase scene,True,2024-11-21 16:05:21
+893,540,321,5.6,"Great movie, not my type.",2020-03-04,879,210,False,Tablet,180,Opening scene,True,2024-10-22 22:11:33
+894,900,437,1.8,"Great movie, a must-see.",2023-11-19,774,423,False,Laptop,38,Emotional breakdown,False,2024-12-07 12:51:05
+895,759,400,1.6,"Disappointing movie, not my type.",2023-11-28,2503,145,True,Smart TV,129,Chase scene,True,2020-04-10 20:09:27
+896,966,483,5.2,"Disappointing movie, a must-see.",2023-07-24,528,55,False,Smart TV,112,Monologue,True,2023-01-20 12:19:42
+897,59,190,4.9,"Great movie, highly recommend.",2020-08-18,1290,346,False,Mobile,82,Flashback,True,2020-08-10 17:46:01
+898,154,234,6.4,"Great movie, not my type.",2021-01-04,4812,459,False,Laptop,212,Final scene,False,2023-06-26 04:06:30
+899,300,448,4.3,"Great movie, meh.",2024-09-09,1600,411,False,Laptop,85,Chase scene,True,2024-01-22 12:56:33
+900,281,55,8.4,"Great movie, a must-see.",2022-12-26,3723,100,True,Smart TV,172,Reunion,False,2024-10-16 20:08:33
+901,83,177,9.4,"Great movie, worth watching.",2021-03-26,3940,446,False,Desktop,162,Final battle,False,2024-05-25 19:31:13
+902,996,395,8.4,"Great movie, meh.",2023-06-19,3346,151,False,Mobile,146,Final battle,False,2022-04-09 01:37:27
+903,111,325,6.2,"Great movie, meh.",2022-02-03,3976,161,False,Desktop,220,Chase scene,False,2020-07-02 04:07:02
+904,603,52,9.0,"Great movie, not my type.",2024-07-20,3438,472,False,Desktop,207,Flashback,True,2021-03-26 05:24:59
+905,213,500,5.4,"Great movie, loved it.",2021-05-07,3444,297,True,Desktop,21,Opening scene,False,2023-09-23 19:28:10
+906,433,235,2.1,"Great movie, highly recommend.",2022-12-23,3839,412,True,Mobile,50,Final scene,True,2024-12-25 08:43:22
+907,300,41,8.9,"Great movie, not my type.",2020-06-02,9,220,False,Smart TV,52,Monologue,False,2021-01-02 08:20:23
+908,481,356,6.9,"Great movie, a must-see.",2024-03-05,1241,441,True,Console,23,Opening scene,False,2022-12-22 19:57:30
+909,663,232,3.8,"Disappointing movie, meh.",2020-02-17,20,107,False,Desktop,10,Reunion,False,2021-02-16 00:17:53
+910,742,220,4.8,"Great movie, highly recommend.",2024-02-26,4005,312,False,Desktop,41,Final battle,False,2023-02-05 07:02:16
+911,399,357,4.1,"Great movie, a must-see.",2024-10-18,18,382,True,Tablet,181,Reunion,False,2024-11-04 07:27:51
+912,418,360,2.5,"Disappointing movie, highly recommend.",2024-07-28,515,350,True,Desktop,35,Plot twist,True,2022-01-28 18:59:24
+913,851,121,6.4,"Great movie, a must-see.",2024-09-03,2179,203,True,Console,202,Monologue,True,2022-12-15 09:00:47
+914,480,291,7.2,"Disappointing movie, a must-see.",2022-02-22,3826,421,False,Tablet,119,Reunion,True,2024-07-06 02:14:10
+915,242,299,9.4,"Disappointing movie, meh.",2024-08-26,3150,42,True,Desktop,44,Final battle,False,2022-09-23 00:35:29
+916,154,194,7.0,"Great movie, a must-see.",2020-12-04,1838,432,True,Console,25,Final scene,True,2022-06-21 16:05:25
+917,682,458,5.2,"Great movie, loved it.",2021-01-09,1057,399,True,Mobile,153,Emotional breakdown,True,2022-03-16 07:07:05
+918,784,282,4.9,"Great movie, not my type.",2021-03-09,880,80,False,Smart TV,196,Opening scene,True,2024-05-04 01:06:43
+919,581,182,8.2,"Great movie, meh.",2021-03-06,2167,299,True,Console,79,Chase scene,False,2020-12-24 12:27:59
+920,927,464,1.8,"Great movie, meh.",2021-03-02,4840,251,False,Console,182,Chase scene,False,2020-09-07 23:35:10
+921,357,412,8.9,"Disappointing movie, worth watching.",2021-02-26,936,362,False,Desktop,81,Emotional breakdown,False,2020-06-03 16:11:03
+922,540,327,1.3,"Great movie, not my type.",2024-01-17,4050,470,True,Desktop,97,Plot twist,False,2023-04-05 08:09:57
+923,61,456,9.0,"Great movie, meh.",2021-07-12,4658,392,False,Laptop,57,Emotional breakdown,False,2020-08-24 05:50:56
+924,491,432,6.9,"Great movie, meh.",2022-12-14,4719,487,True,Mobile,196,Flashback,True,2020-11-08 15:03:11
+925,720,221,7.5,"Disappointing movie, meh.",2023-03-27,4075,27,True,Desktop,197,Chase scene,True,2020-03-14 05:06:01
+926,548,106,1.1,"Disappointing movie, loved it.",2020-05-23,1854,326,True,Laptop,70,Monologue,False,2020-06-26 07:05:43
+927,71,362,8.9,"Disappointing movie, not my type.",2021-02-08,4817,236,True,Laptop,148,Monologue,False,2021-09-15 14:04:13
+928,937,483,9.8,"Disappointing movie, worth watching.",2024-08-22,3269,258,True,Console,160,Opening scene,True,2023-11-24 14:39:27
+929,289,81,7.5,"Great movie, loved it.",2023-09-26,3016,76,False,Desktop,206,Final scene,True,2021-09-11 09:04:14
+930,126,442,7.4,"Disappointing movie, loved it.",2022-12-04,4771,183,False,Smart TV,53,Plot twist,True,2022-05-02 05:23:45
+931,570,335,5.6,"Great movie, highly recommend.",2020-09-17,4966,77,True,Tablet,34,Opening scene,False,2022-09-11 07:05:21
+932,617,428,6.7,"Great movie, not my type.",2022-11-27,3251,357,True,Laptop,200,Flashback,True,2022-05-16 15:31:21
+933,242,485,5.6,"Disappointing movie, not my type.",2023-09-08,3019,97,True,Smart TV,130,Monologue,True,2020-01-28 21:59:07
+934,813,219,2.4,"Great movie, not my type.",2022-05-14,4756,393,True,Mobile,117,Monologue,True,2022-11-22 02:24:18
+935,631,59,11.2,"Disappointing movie, a must-see.",2022-02-20,3086,147,True,Desktop,201,Opening scene,False,2023-02-28 19:00:07
+936,491,335,3.4,"Great movie, a must-see.",2021-06-06,2201,439,False,Tablet,40,Final scene,True,2020-07-23 20:51:18
+937,845,250,9.2,"Disappointing movie, loved it.",2023-06-07,2786,273,True,Desktop,195,Chase scene,True,2022-11-20 23:52:23
+938,938,480,9.8,"Disappointing movie, highly recommend.",2023-12-20,3053,464,False,Desktop,44,Plot twist,True,2022-07-19 07:22:22
+939,127,215,6.6,"Great movie, meh.",2023-08-16,1293,389,True,Smart TV,68,Final scene,False,2020-09-17 17:43:17
+940,146,239,8.6,"Great movie, not my type.",2022-07-10,2910,184,True,Laptop,51,Monologue,False,2020-04-09 15:27:59
+941,613,206,3.7,"Disappointing movie, a must-see.",2020-07-13,4241,489,False,Desktop,97,Plot twist,True,2024-04-13 18:14:00
+942,890,321,-2.7,"Great movie, loved it.",2023-03-04,1554,290,True,Console,14,Climax,True,2020-06-14 20:41:21
+943,459,454,8.4,"Great movie, meh.",2020-07-24,390,39,False,Mobile,158,Final battle,True,2023-11-09 01:44:26
+944,607,171,-0.2,"Great movie, highly recommend.",2024-05-02,2427,329,False,Tablet,71,Emotional breakdown,True,2021-02-17 16:19:37
+945,472,426,3.6,"Disappointing movie, loved it.",2022-06-14,1831,420,True,Tablet,114,Opening scene,True,2021-06-05 23:50:05
+946,510,323,6.2,"Great movie, highly recommend.",2024-03-18,4701,35,True,Mobile,218,Emotional breakdown,True,2020-03-15 02:39:01
+947,361,461,6.8,"Great movie, meh.",2024-07-22,420,362,False,Tablet,45,Plot twist,True,2020-10-09 14:36:47
+948,935,363,9.7,"Great movie, a must-see.",2022-04-09,3157,408,False,Smart TV,139,Climax,False,2022-07-27 06:55:54
+949,489,107,3.2,"Disappointing movie, meh.",2020-05-15,811,195,False,Desktop,70,Chase scene,True,2022-04-24 20:53:02
+950,124,466,2.1,"Great movie, highly recommend.",2024-05-01,31,55,True,Desktop,160,Emotional breakdown,True,2020-08-22 23:32:06
+951,549,254,7.6,"Great movie, a must-see.",2023-07-21,1936,230,True,Tablet,19,Chase scene,True,2023-04-25 14:45:23
+952,84,131,3.1,"Great movie, a must-see.",2022-07-24,1354,64,True,Console,147,Chase scene,False,2023-07-02 01:39:31
+953,315,401,9.2,"Disappointing movie, highly recommend.",2021-07-04,4968,115,False,Laptop,35,Emotional breakdown,True,2022-02-18 11:39:52
+954,941,153,1.5,"Great movie, loved it.",2023-06-14,63,282,False,Tablet,154,Emotional breakdown,False,2022-10-28 10:57:24
+955,763,359,9.1,"Great movie, a must-see.",2022-07-25,544,82,True,Smart TV,14,Opening scene,True,2022-03-06 19:01:56
+956,301,13,6.7,"Great movie, worth watching.",2024-12-26,2214,87,True,Mobile,47,Final battle,False,2021-03-02 18:19:14
+957,262,90,2.7,"Disappointing movie, highly recommend.",2024-09-21,2944,237,False,Console,141,Flashback,True,2022-02-22 22:15:28
+958,153,107,1.4,"Disappointing movie, not my type.",2020-11-07,3196,376,True,Laptop,123,Flashback,False,2024-08-17 18:23:13
+959,762,444,8.8,"Great movie, a must-see.",2024-06-28,2022,414,False,Smart TV,172,Final scene,False,2020-06-09 03:18:15
+960,432,476,1.5,"Great movie, a must-see.",2021-01-18,4199,150,False,Console,18,Reunion,False,2020-05-10 23:09:23
+961,765,414,9.0,"Great movie, not my type.",2024-04-08,4070,169,False,Laptop,184,Opening scene,True,2022-06-01 16:34:00
+962,889,220,2.8,"Disappointing movie, a must-see.",2022-01-21,2626,459,True,Laptop,109,Emotional breakdown,True,2023-01-28 08:30:26
+963,743,258,9.0,"Great movie, not my type.",2024-04-11,444,181,True,Laptop,70,Chase scene,False,2020-03-15 11:23:16
+964,650,252,7.1,"Disappointing movie, loved it.",2022-01-08,1648,219,True,Tablet,149,Plot twist,False,2020-03-04 03:01:17
+965,355,153,7.8,"Great movie, meh.",2022-07-01,3232,184,True,Smart TV,172,Final scene,True,2020-10-14 13:55:27
+966,934,474,2.8,"Great movie, highly recommend.",2022-12-11,4038,230,True,Console,157,Opening scene,False,2022-06-21 09:12:26
+967,191,413,3.0,"Great movie, worth watching.",2020-12-05,609,367,True,Laptop,41,Final battle,True,2021-09-16 15:12:59
+968,745,496,9.7,"Great movie, not my type.",2023-09-20,4231,48,False,Laptop,208,Flashback,True,2023-07-14 16:42:32
+969,306,477,2.8,"Disappointing movie, a must-see.",2020-10-18,1751,115,True,Console,56,Flashback,True,2022-10-24 01:06:54
+970,935,138,1.5,"Great movie, worth watching.",2022-07-20,4232,307,False,Tablet,178,Plot twist,False,2021-10-11 06:54:31
+971,183,189,14.3,"Great movie, worth watching.",2022-09-10,4678,211,True,Mobile,19,Plot twist,True,2021-01-06 00:07:58
+972,738,312,2.2,"Great movie, not my type.",2020-02-16,1876,259,False,Smart TV,186,Emotional breakdown,False,2022-01-12 03:40:34
+973,95,423,7.3,"Great movie, not my type.",2020-05-06,3163,405,False,Desktop,85,Chase scene,True,2023-08-16 22:00:52
+974,264,323,7.9,"Disappointing movie, highly recommend.",2020-11-06,3219,457,False,Laptop,36,Plot twist,False,2024-08-09 16:37:22
+975,967,208,3.4,"Great movie, meh.",2021-02-15,4000,386,True,Mobile,102,Plot twist,False,2021-06-14 11:24:14
+976,916,107,5.5,"Disappointing movie, a must-see.",2024-09-20,607,316,True,Mobile,204,Opening scene,True,2021-05-06 00:58:50
+977,74,412,2.2,"Great movie, not my type.",2023-03-12,4769,189,False,Laptop,130,Chase scene,False,2020-02-05 23:32:19
+978,514,147,2.6,"Great movie, not my type.",2022-11-05,637,363,False,Mobile,178,Chase scene,False,2024-12-19 21:05:12
+979,443,246,2.0,"Great movie, a must-see.",2024-11-28,4126,321,True,Console,49,Reunion,True,2024-12-26 04:28:56
+980,609,158,1.8,"Great movie, a must-see.",2020-10-15,1959,447,True,Desktop,21,Final scene,False,2020-04-28 16:10:45
+981,281,431,2.5,"Great movie, worth watching.",2023-01-10,3652,321,True,Smart TV,88,Chase scene,False,2021-11-10 12:16:30
+982,264,292,4.9,"Disappointing movie, highly recommend.",2020-01-03,3050,65,True,Console,28,Monologue,True,2022-10-12 17:34:04
+983,168,101,4.8,"Great movie, not my type.",2023-01-17,4527,88,True,Desktop,70,Emotional breakdown,True,2020-04-22 18:21:45
+984,170,89,3.9,"Great movie, a must-see.",2022-08-01,1712,40,False,Tablet,149,Final battle,True,2020-11-07 05:17:30
+985,56,435,5.3,"Disappointing movie, highly recommend.",2022-03-08,3595,183,False,Smart TV,191,Emotional breakdown,False,2022-11-04 14:48:14
+986,776,329,2.7,"Great movie, a must-see.",2024-08-13,3021,229,True,Smart TV,198,Final scene,True,2023-07-26 11:21:40
+987,689,476,1.8,"Great movie, not my type.",2022-03-03,1775,222,True,Mobile,132,Final battle,False,2023-03-06 21:08:38
+988,986,408,7.2,"Disappointing movie, highly recommend.",2024-07-23,2599,41,False,Smart TV,212,Chase scene,True,2024-11-01 10:17:54
+989,11,15,5.7,"Great movie, highly recommend.",2024-05-25,1306,9,False,Laptop,111,Final battle,True,2024-08-19 17:50:37
+990,437,169,7.6,"Disappointing movie, highly recommend.",2024-08-01,4287,235,True,Smart TV,124,Chase scene,True,2023-08-03 13:56:20
+991,444,242,1.4,"Great movie, not my type.",2023-09-18,2702,60,False,Laptop,55,Opening scene,True,2024-06-05 20:33:23
+992,480,314,3.7,"Great movie, a must-see.",2022-12-03,3012,481,True,Tablet,141,Final scene,False,2020-02-18 17:41:05
+993,83,195,7.1,"Great movie, loved it.",2023-04-09,4188,28,False,Mobile,188,Chase scene,False,2023-08-12 14:42:06
+994,713,488,4.4,"Disappointing movie, worth watching.",2020-04-25,2352,493,True,Console,108,Monologue,True,2024-11-25 21:24:37
+995,634,177,5.2,"Great movie, meh.",2024-06-15,179,23,True,Tablet,150,Chase scene,False,2020-11-05 05:46:17
+996,906,323,9.5,"Great movie, not my type.",2024-10-22,1549,22,True,Laptop,39,Chase scene,False,2023-01-09 00:36:25
+997,896,358,8.9,"Great movie, loved it.",2021-03-12,4651,401,False,Desktop,123,Reunion,True,2020-01-24 18:35:54
+998,369,103,2.6,"Great movie, worth watching.",2020-07-13,3792,188,False,Laptop,175,Opening scene,False,2024-08-07 00:15:29
+999,332,342,3.2,"Great movie, meh.",2020-09-25,4231,104,True,Console,112,Monologue,True,2024-05-17 03:54:28
+1000,53,143,9.5,"Great movie, loved it.",2022-03-15,690,465,True,Tablet,64,Flashback,True,2020-05-25 14:09:00
+1001,171,355,7.6,"Great movie, worth watching.",2021-10-15,4608,470,False,Mobile,206,Monologue,False,2023-01-28 02:20:42
+1002,173,458,7.7,"Great movie, a must-see.",2021-02-02,1034,317,True,Desktop,34,Opening scene,True,2023-08-21 08:52:02
+1003,37,302,2.7,"Great movie, meh.",2022-03-16,196,406,True,Mobile,187,Monologue,True,2024-01-08 08:12:01
+1004,937,234,1.9,"Great movie, meh.",2021-01-11,2516,176,True,Laptop,43,Flashback,False,2024-09-26 22:25:33
+1005,378,284,1.9,"Disappointing movie, loved it.",2022-07-21,3599,132,True,Desktop,58,Climax,False,2022-03-27 10:00:19
+1006,418,143,9.6,"Great movie, meh.",2023-05-05,3169,185,False,Mobile,114,Reunion,True,2021-05-12 00:05:04
+1007,444,343,1.3,"Great movie, a must-see.",2020-09-04,829,353,False,Mobile,126,Reunion,True,2020-01-19 12:39:41
+1008,935,369,2.5,"Disappointing movie, loved it.",2022-08-06,152,80,True,Tablet,59,Final battle,False,2020-01-19 04:17:16
+1009,220,94,6.3,"Great movie, highly recommend.",2022-07-28,4350,359,False,Smart TV,47,Final scene,False,2020-12-16 05:49:17
+1010,811,389,5.1,"Great movie, meh.",2021-02-17,4551,291,False,Mobile,121,Opening scene,False,2022-07-05 00:13:28
+1011,289,477,3.6,"Disappointing movie, loved it.",2020-11-14,3906,102,False,Console,47,Final battle,False,2021-02-04 08:01:29
+1012,672,286,8.0,"Great movie, meh.",2023-05-20,1080,422,True,Tablet,24,Plot twist,True,2024-05-06 14:07:54
+1013,765,113,7.5,"Great movie, not my type.",2022-11-22,4660,68,True,Desktop,90,Flashback,True,2023-12-10 01:50:01
+1014,287,436,5.5,"Great movie, worth watching.",2022-02-09,1819,326,False,Console,192,Emotional breakdown,False,2022-07-13 06:38:30
+1015,82,417,5.5,"Disappointing movie, highly recommend.",2023-04-08,2898,478,False,Smart TV,172,Final scene,False,2024-05-20 14:20:57
+1016,415,236,4.2,"Great movie, not my type.",2023-07-15,2093,493,True,Desktop,87,Monologue,True,2023-10-25 23:17:58
+1017,13,109,2.5,"Disappointing movie, not my type.",2022-12-12,1635,359,True,Console,82,Chase scene,True,2020-05-13 03:00:01
+1018,291,293,5.6,"Great movie, highly recommend.",2022-09-04,4592,98,False,Smart TV,29,Chase scene,False,2024-01-11 19:42:05
+1019,550,465,3.0,"Disappointing movie, not my type.",2024-01-02,2628,234,True,Smart TV,33,Opening scene,True,2023-06-02 18:21:03
+1020,674,478,9.6,"Disappointing movie, a must-see.",2020-04-14,2254,19,True,Console,188,Final scene,False,2021-12-05 22:52:02
+1021,682,347,6.0,"Disappointing movie, worth watching.",2020-03-26,792,184,False,Laptop,101,Final scene,False,2024-03-09 02:38:44
+1022,450,57,4.9,"Great movie, worth watching.",2023-01-04,4471,44,True,Console,130,Opening scene,True,2021-09-02 21:15:09
+1023,711,182,2.8,"Disappointing movie, a must-see.",2022-12-23,992,240,True,Mobile,177,Reunion,False,2020-05-27 17:07:55
+1024,65,51,8.8,"Great movie, not my type.",2024-08-06,3107,59,True,Tablet,70,Flashback,True,2021-02-12 06:34:53
+1025,783,454,3.3,"Disappointing movie, a must-see.",2024-10-13,3779,114,True,Desktop,180,Final battle,True,2020-04-26 02:46:57
+1026,880,95,3.8,"Great movie, not my type.",2023-03-27,4953,56,True,Console,216,Reunion,True,2020-06-08 18:17:55
+1027,265,8,14.4,"Disappointing movie, meh.",2020-12-05,76,175,False,Laptop,152,Chase scene,False,2023-06-08 19:12:27
+1028,930,32,1.3,"Disappointing movie, worth watching.",2021-06-08,1729,491,True,Tablet,169,Chase scene,True,2023-06-04 16:01:43
+1029,4,230,7.0,"Great movie, a must-see.",2022-05-17,1955,259,False,Laptop,200,Reunion,True,2021-04-22 10:49:33
+1030,499,313,1.0,"Great movie, worth watching.",2020-12-24,4885,31,False,Desktop,154,Chase scene,False,2023-04-13 13:25:28
+1031,199,51,9.2,"Great movie, not my type.",2021-12-17,3248,126,True,Laptop,157,Flashback,False,2022-08-01 03:42:05
+1032,186,43,3.6,"Great movie, meh.",2021-10-08,4669,132,True,Tablet,53,Monologue,True,2024-09-04 11:56:26
+1033,377,381,6.6,"Disappointing movie, highly recommend.",2021-09-22,3806,144,False,Tablet,128,Opening scene,False,2022-09-03 06:15:21
+1034,512,268,9.8,"Great movie, worth watching.",2022-12-10,1070,118,False,Mobile,113,Monologue,False,2021-10-08 18:51:14
+1035,683,425,8.3,"Great movie, not my type.",2021-07-07,4446,360,True,Desktop,168,Final battle,True,2024-05-16 22:47:32
+1036,704,337,5.2,"Disappointing movie, a must-see.",2023-12-22,121,440,True,Console,41,Monologue,False,2024-07-12 18:11:30
+1037,612,424,6.4,"Great movie, meh.",2021-10-21,3377,150,False,Smart TV,143,Climax,False,2023-02-19 23:46:22
+1038,619,42,9.6,"Great movie, a must-see.",2020-12-08,3270,152,False,Console,124,Flashback,True,2024-02-04 17:32:18
+1039,884,159,1.4,"Great movie, not my type.",2020-09-06,1630,45,False,Mobile,130,Climax,False,2024-09-05 21:42:33
+1040,265,353,3.4,"Great movie, highly recommend.",2024-01-09,2958,166,True,Desktop,148,Final scene,False,2020-03-04 20:52:43
+1041,489,463,3.8,"Great movie, not my type.",2022-07-25,1877,200,False,Mobile,138,Plot twist,False,2020-05-15 01:45:10
+1042,198,443,5.1,"Great movie, a must-see.",2020-07-26,4174,94,True,Console,45,Opening scene,True,2022-09-04 07:49:59
+1043,632,323,6.9,"Great movie, a must-see.",2020-10-26,3543,324,True,Console,77,Emotional breakdown,True,2022-01-12 11:32:36
+1044,478,89,3.1,"Great movie, loved it.",2024-09-26,4238,495,False,Smart TV,50,Climax,True,2024-08-16 01:11:23
+1045,646,300,8.1,"Great movie, a must-see.",2022-05-05,1292,430,True,Smart TV,85,Monologue,False,2021-10-04 05:38:32
+1046,673,353,8.9,"Great movie, worth watching.",2022-11-28,1930,233,True,Console,119,Plot twist,True,2021-01-01 20:04:28
+1047,88,312,9.8,"Great movie, a must-see.",2023-07-07,1086,304,False,Console,40,Reunion,False,2021-02-12 22:27:40
+1048,868,429,5.3,"Great movie, worth watching.",2023-05-27,4025,26,True,Console,14,Plot twist,False,2023-04-28 16:27:42
+1049,723,28,2.1,"Great movie, highly recommend.",2023-06-17,2112,464,True,Smart TV,67,Final battle,False,2022-09-11 05:11:32
+1050,527,328,5.2,"Great movie, not my type.",2022-07-02,85,125,False,Mobile,10,Emotional breakdown,True,2024-08-01 07:23:05
+1051,489,45,6.3,"Great movie, loved it.",2023-05-11,123,432,True,Laptop,132,Opening scene,False,2022-11-09 01:51:44
+1052,485,338,10.0,"Great movie, worth watching.",2022-07-04,794,166,False,Console,95,Climax,False,2020-03-15 17:51:43
+1053,745,95,1.5,"Disappointing movie, worth watching.",2020-09-21,1870,304,False,Desktop,38,Final battle,False,2024-06-21 21:53:51
+1054,127,181,8.2,"Great movie, worth watching.",2022-06-26,448,425,False,Mobile,185,Flashback,True,2021-08-28 12:24:51
+1055,479,7,6.9,"Disappointing movie, highly recommend.",2023-01-11,490,364,False,Smart TV,17,Emotional breakdown,True,2020-09-08 05:35:46
+1056,283,12,8.4,"Great movie, meh.",2022-01-15,166,139,True,Laptop,154,Plot twist,False,2021-02-15 06:47:09
+1057,885,149,4.9,"Great movie, worth watching.",2021-05-21,657,34,True,Smart TV,30,Chase scene,True,2021-07-24 17:36:08
+1058,895,421,4.5,"Disappointing movie, meh.",2021-08-08,4397,104,False,Laptop,149,Emotional breakdown,False,2020-12-14 19:17:20
+1059,774,208,5.6,"Great movie, loved it.",2021-02-20,3070,251,False,Smart TV,154,Final battle,True,2021-10-24 08:55:16
+1060,839,412,9.8,"Great movie, loved it.",2021-01-15,4530,158,False,Tablet,138,Chase scene,False,2024-11-24 01:47:51
+1061,173,415,7.8,"Great movie, not my type.",2020-05-21,3163,421,False,Console,18,Climax,False,2020-02-03 16:15:28
+1062,419,428,6.5,"Great movie, loved it.",2024-09-04,1794,242,True,Mobile,38,Opening scene,False,2023-01-17 20:41:17
+1063,284,358,8.1,"Great movie, worth watching.",2021-06-13,3849,68,True,Console,26,Final scene,False,2020-02-01 18:17:23
+1064,744,352,7.1,"Great movie, loved it.",2021-02-14,2797,182,True,Smart TV,216,Reunion,True,2020-01-01 17:32:34
+1065,767,267,6.9,"Great movie, a must-see.",2020-05-08,3750,459,False,Desktop,50,Climax,False,2022-07-26 18:46:43
+1066,195,41,8.6,"Disappointing movie, a must-see.",2024-09-03,367,369,False,Desktop,46,Flashback,False,2020-10-22 19:46:02
+1067,243,230,9.6,"Disappointing movie, highly recommend.",2021-06-23,1582,400,False,Console,91,Final scene,True,2021-06-18 10:07:44
+1068,356,342,1.6,"Disappointing movie, meh.",2020-08-09,3535,445,False,Desktop,68,Final scene,False,2024-09-18 02:06:33
+1069,992,259,2.3,"Great movie, highly recommend.",2023-07-28,263,165,False,Smart TV,147,Flashback,True,2022-03-12 07:44:28
+1070,931,240,4.7,"Great movie, meh.",2021-03-27,3057,454,False,Laptop,110,Reunion,True,2023-01-06 17:40:30
+1071,220,488,7.8,"Disappointing movie, loved it.",2020-06-15,956,499,True,Mobile,113,Reunion,True,2024-07-22 12:33:40
+1072,787,353,2.6,"Disappointing movie, loved it.",2020-11-26,2175,87,False,Laptop,93,Chase scene,False,2023-01-21 20:40:45
+1073,979,339,4.6,"Great movie, loved it.",2024-10-26,1959,74,True,Laptop,29,Plot twist,True,2020-05-10 04:06:30
+1074,620,167,10.0,"Great movie, a must-see.",2023-05-28,2867,383,True,Smart TV,89,Reunion,True,2022-01-28 09:43:49
+1075,776,484,6.8,"Disappointing movie, worth watching.",2020-07-24,3166,393,False,Mobile,134,Opening scene,True,2020-04-08 14:37:01
+1076,264,500,8.5,"Great movie, highly recommend.",2021-12-02,3487,411,False,Mobile,105,Monologue,True,2024-06-14 18:59:00
+1077,771,68,7.5,"Disappointing movie, not my type.",2020-09-17,4112,5,False,Desktop,80,Climax,True,2023-06-08 00:48:35
+1078,964,355,5.0,"Disappointing movie, loved it.",2023-07-15,1848,142,False,Laptop,188,Reunion,True,2020-12-11 22:02:02
+1079,542,191,8.1,"Disappointing movie, highly recommend.",2022-12-13,2868,34,False,Tablet,211,Final scene,True,2020-03-15 02:46:38
+1080,978,437,3.9,"Great movie, loved it.",2023-08-02,4792,220,True,Console,192,Flashback,True,2020-02-25 13:16:34
+1081,668,449,3.8,"Disappointing movie, worth watching.",2021-11-11,4537,46,False,Desktop,74,Monologue,True,2021-01-27 01:19:43
+1082,992,492,3.2,"Disappointing movie, a must-see.",2023-10-04,2728,125,True,Mobile,97,Monologue,True,2024-08-23 12:10:58
+1083,289,2,3.5,"Disappointing movie, highly recommend.",2020-07-22,533,293,False,Console,139,Final battle,False,2020-09-20 06:45:09
+1084,588,357,5.9,"Great movie, not my type.",2020-05-12,141,343,True,Laptop,28,Monologue,False,2024-06-28 01:14:52
+1085,476,155,7.8,"Great movie, worth watching.",2022-02-10,1360,388,False,Mobile,144,Final scene,True,2021-05-03 10:52:45
+1086,164,35,2.4,"Great movie, loved it.",2021-04-18,3724,105,True,Mobile,184,Reunion,True,2021-11-06 16:37:28
+1087,617,401,9.7,"Great movie, not my type.",2023-06-14,2431,329,True,Mobile,150,Final scene,False,2022-03-02 15:08:49
+1088,346,312,9.9,"Disappointing movie, not my type.",2022-10-10,652,98,True,Mobile,161,Monologue,False,2022-06-05 22:58:08
+1089,843,192,3.9,"Great movie, a must-see.",2021-03-17,2794,443,True,Smart TV,33,Plot twist,False,2021-03-12 10:33:49
+1090,442,439,2.0,"Disappointing movie, meh.",2021-01-12,3502,50,True,Mobile,29,Final battle,True,2023-03-07 22:55:53
+1091,431,241,7.5,"Great movie, meh.",2020-04-24,3034,371,True,Console,48,Final battle,True,2020-02-17 18:01:36
+1092,563,111,7.0,"Great movie, loved it.",2021-04-07,382,307,True,Desktop,142,Final scene,True,2024-09-26 13:52:59
+1093,22,83,1.2,"Great movie, worth watching.",2024-10-14,4148,325,True,Laptop,40,Chase scene,True,2021-06-21 16:26:11
+1094,556,128,8.9,"Great movie, highly recommend.",2022-09-17,3702,248,False,Laptop,19,Flashback,False,2024-08-19 01:11:17
+1095,291,215,3.4,"Disappointing movie, a must-see.",2024-09-24,3125,139,False,Mobile,186,Final scene,True,2023-01-05 18:02:51
+1096,497,465,4.4,"Great movie, worth watching.",2022-09-19,4525,18,True,Smart TV,128,Reunion,True,2023-04-21 21:38:48
+1097,111,172,9.1,"Great movie, not my type.",2023-11-17,873,139,True,Desktop,79,Monologue,False,2022-05-11 07:26:29
+1098,581,419,9.0,"Great movie, not my type.",2021-04-09,2822,349,False,Mobile,139,Final battle,True,2023-06-27 18:24:26
+1099,825,45,9.6,"Great movie, not my type.",2022-09-22,2196,478,True,Laptop,187,Final scene,False,2023-02-02 15:02:24
+1100,120,50,11.7,"Great movie, meh.",2022-10-14,94,193,False,Laptop,95,Emotional breakdown,True,2021-10-26 11:01:38
+1101,688,155,3.6,"Great movie, a must-see.",2024-09-26,2357,273,False,Console,205,Final battle,True,2023-05-11 14:47:20
+1102,452,207,5.7,"Great movie, not my type.",2024-12-22,97,325,True,Laptop,158,Flashback,True,2020-04-14 11:39:44
+1103,882,391,1.3,"Great movie, a must-see.",2021-04-10,53,290,False,Mobile,92,Emotional breakdown,False,2020-02-23 21:52:12
+1104,212,100,8.3,"Disappointing movie, worth watching.",2020-08-24,1098,499,False,Console,83,Final scene,False,2021-02-17 16:22:15
+1105,763,132,1.2,"Great movie, meh.",2020-02-11,4265,432,False,Desktop,107,Plot twist,True,2021-02-02 14:44:50
+1106,533,435,7.4,"Great movie, loved it.",2024-05-14,1155,494,True,Smart TV,84,Climax,True,2020-02-17 13:25:55
+1107,523,89,5.2,"Great movie, highly recommend.",2020-09-18,752,144,False,Console,122,Chase scene,True,2024-02-27 16:44:55
+1108,130,238,1.7,"Great movie, meh.",2020-04-25,901,302,False,Laptop,53,Monologue,True,2023-07-23 07:17:13
+1109,815,306,3.4,"Great movie, highly recommend.",2024-12-26,4330,205,True,Smart TV,81,Flashback,True,2023-05-11 14:07:19
+1110,855,355,9.8,"Great movie, meh.",2023-10-07,1015,448,True,Tablet,28,Climax,True,2021-07-15 16:06:43
+1111,149,371,2.0,"Great movie, worth watching.",2021-08-08,4825,349,False,Tablet,179,Opening scene,False,2020-05-27 22:21:58
+1112,984,277,5.8,"Disappointing movie, a must-see.",2021-03-08,3013,288,True,Tablet,72,Climax,False,2023-06-25 10:16:46
+1113,39,432,1.1,"Great movie, meh.",2024-10-16,4838,356,False,Tablet,114,Opening scene,True,2024-07-23 13:58:42
+1114,996,200,7.2,"Great movie, loved it.",2021-08-18,1594,198,True,Console,136,Final scene,True,2024-08-24 21:59:34
+1115,970,307,6.7,"Great movie, meh.",2024-09-08,1993,266,True,Mobile,37,Plot twist,False,2021-05-01 16:47:12
+1116,84,313,4.0,"Great movie, meh.",2023-05-25,3237,246,False,Smart TV,92,Reunion,True,2021-03-21 23:21:01
+1117,375,157,6.8,"Great movie, loved it.",2022-09-28,4552,431,True,Smart TV,157,Emotional breakdown,False,2023-05-06 00:01:08
+1118,546,292,7.6,"Great movie, worth watching.",2023-02-10,1438,435,False,Desktop,183,Monologue,True,2020-04-24 14:55:58
+1119,183,338,3.5,"Great movie, a must-see.",2020-12-26,4683,206,False,Smart TV,135,Plot twist,False,2021-11-15 10:53:06
+1120,181,479,2.4,"Disappointing movie, a must-see.",2024-11-18,390,168,False,Mobile,55,Climax,True,2022-08-21 01:14:10
+1121,657,472,10.0,"Great movie, meh.",2021-08-18,138,30,False,Laptop,89,Opening scene,False,2022-03-19 07:35:54
+1122,371,168,4.3,"Great movie, worth watching.",2020-01-23,4343,68,True,Smart TV,78,Final scene,True,2021-01-21 12:53:06
+1123,1,263,4.3,"Great movie, a must-see.",2020-10-07,3338,130,True,Tablet,80,Final battle,False,2020-02-17 04:11:10
+1124,295,58,3.0,"Disappointing movie, meh.",2024-06-02,638,13,True,Desktop,55,Plot twist,True,2020-04-19 18:40:43
+1125,140,475,7.5,"Great movie, loved it.",2020-05-06,4054,119,False,Mobile,54,Climax,True,2022-10-03 12:54:05
+1126,54,354,7.8,"Great movie, a must-see.",2021-11-05,752,0,False,Laptop,132,Monologue,False,2021-11-18 02:51:18
+1127,955,335,8.8,"Great movie, meh.",2024-11-10,1000,319,False,Laptop,211,Monologue,True,2023-07-08 00:42:06
+1128,609,418,6.9,"Great movie, highly recommend.",2022-05-26,1712,374,True,Tablet,186,Flashback,True,2020-11-10 03:59:00
+1129,962,474,9.7,"Great movie, loved it.",2024-03-27,224,208,False,Console,99,Reunion,True,2020-11-01 19:35:12
+1130,648,91,7.3,"Great movie, worth watching.",2024-04-20,3732,66,False,Console,196,Climax,True,2022-07-12 13:44:46
+1131,476,317,7.5,"Great movie, highly recommend.",2021-08-27,2545,411,False,Console,14,Final battle,True,2020-06-19 14:08:20
+1132,817,104,3.2,"Great movie, meh.",2024-08-26,356,234,True,Mobile,111,Monologue,False,2024-09-16 17:53:27
+1133,848,60,6.2,"Great movie, meh.",2021-12-05,4449,359,False,Smart TV,21,Chase scene,True,2021-07-25 02:27:55
+1134,400,403,9.8,"Great movie, highly recommend.",2020-06-26,3537,383,True,Desktop,97,Monologue,False,2024-02-20 00:26:00
+1135,298,171,8.5,"Great movie, meh.",2023-09-03,2319,460,False,Mobile,97,Reunion,False,2024-08-22 03:53:30
+1136,150,298,2.1,"Great movie, a must-see.",2021-04-09,2943,115,True,Laptop,86,Plot twist,True,2024-11-05 13:38:29
+1137,518,262,6.9,"Disappointing movie, meh.",2021-01-17,2792,352,True,Mobile,174,Emotional breakdown,False,2022-06-20 16:00:12
+1138,265,131,1.5,"Great movie, a must-see.",2024-06-03,4783,417,False,Console,75,Plot twist,False,2020-05-10 22:42:40
+1139,681,155,8.8,"Great movie, meh.",2021-11-01,4857,190,False,Smart TV,103,Chase scene,True,2021-09-07 02:53:06
+1140,826,232,9.0,"Disappointing movie, loved it.",2022-05-05,1505,429,True,Desktop,169,Final scene,False,2024-08-28 09:09:28
+1141,974,493,9.2,"Great movie, not my type.",2021-01-28,2279,314,False,Console,97,Opening scene,False,2023-09-21 21:24:45
+1142,292,35,8.9,"Great movie, worth watching.",2024-11-03,109,369,False,Console,154,Climax,False,2020-03-04 03:55:58
+1143,517,303,7.6,"Disappointing movie, highly recommend.",2020-07-13,3024,424,False,Tablet,67,Reunion,True,2020-01-22 09:52:43
+1144,833,99,2.8,"Great movie, highly recommend.",2022-07-27,2419,6,False,Console,171,Emotional breakdown,False,2023-10-10 02:16:59
+1145,400,500,7.6,"Disappointing movie, loved it.",2021-12-17,1598,369,False,Desktop,104,Flashback,False,2022-12-04 21:25:07
+1146,827,420,9.0,"Great movie, meh.",2023-06-15,3293,158,True,Tablet,64,Plot twist,False,2022-06-17 12:07:28
+1147,119,44,1.5,"Great movie, loved it.",2023-10-08,1504,143,False,Desktop,68,Chase scene,False,2021-07-20 05:32:58
+1148,324,43,4.1,"Great movie, not my type.",2024-05-15,3664,322,False,Mobile,137,Plot twist,True,2021-07-24 01:07:03
+1149,979,241,9.5,"Great movie, meh.",2020-06-07,2316,382,False,Mobile,62,Emotional breakdown,True,2023-11-24 21:42:23
+1150,943,159,6.5,"Great movie, meh.",2020-11-22,3217,55,False,Tablet,87,Monologue,False,2023-01-17 21:23:54
+1151,463,462,4.5,"Great movie, worth watching.",2023-04-22,1384,451,False,Desktop,147,Reunion,False,2021-03-16 03:58:39
+1152,992,322,2.3,"Great movie, meh.",2022-07-14,3744,118,True,Tablet,184,Opening scene,False,2021-08-22 15:48:10
+1153,950,404,7.0,"Great movie, not my type.",2020-05-15,3542,210,False,Console,215,Flashback,True,2023-05-01 05:10:25
+1154,113,485,7.4,"Disappointing movie, worth watching.",2022-10-23,2090,417,False,Console,124,Climax,False,2022-10-03 14:27:17
+1155,551,368,9.2,"Great movie, loved it.",2020-01-19,4877,463,False,Console,132,Monologue,True,2024-04-07 16:40:48
+1156,18,252,10.0,"Disappointing movie, highly recommend.",2022-07-25,3422,496,False,Mobile,97,Plot twist,True,2020-09-25 10:05:38
+1157,549,103,5.9,"Great movie, not my type.",2021-05-20,4485,486,False,Tablet,199,Final scene,True,2020-01-27 06:00:34
+1158,852,467,6.3,"Great movie, worth watching.",2024-12-21,231,477,False,Mobile,216,Chase scene,False,2020-07-03 12:25:40
+1159,658,346,1.9,"Great movie, a must-see.",2022-09-12,1587,293,False,Mobile,171,Opening scene,False,2024-01-17 17:58:00
+1160,323,433,6.9,"Great movie, meh.",2024-09-23,3971,184,False,Console,23,Climax,False,2024-04-17 14:04:52
+1161,221,276,6.4,"Great movie, meh.",2021-06-22,2304,387,False,Console,78,Emotional breakdown,True,2022-12-15 06:41:03
+1162,985,64,6.3,"Disappointing movie, highly recommend.",2022-12-12,3647,327,True,Smart TV,104,Reunion,False,2021-07-07 01:22:07
+1163,142,265,9.2,"Great movie, loved it.",2024-07-08,731,498,False,Desktop,60,Plot twist,False,2023-09-21 07:25:36
+1164,783,325,-0.9,"Great movie, highly recommend.",2022-11-02,1985,138,True,Mobile,119,Climax,True,2021-12-11 12:11:07
+1165,874,123,3.4,"Great movie, not my type.",2020-03-01,2643,249,False,Laptop,42,Final battle,True,2024-07-01 12:32:11
+1166,544,314,5.1,"Great movie, loved it.",2023-01-05,2066,189,False,Smart TV,214,Emotional breakdown,True,2020-11-27 01:30:25
+1167,655,300,7.3,"Disappointing movie, meh.",2024-07-02,4498,293,False,Tablet,88,Chase scene,True,2022-10-25 07:17:23
+1168,976,336,9.4,"Great movie, meh.",2020-06-21,3487,105,True,Tablet,14,Reunion,True,2020-12-22 02:54:15
+1169,702,84,2.9,"Disappointing movie, not my type.",2023-03-14,4126,144,False,Desktop,20,Monologue,True,2023-10-02 06:21:01
+1170,213,371,7.7,"Disappointing movie, worth watching.",2024-12-20,2813,373,True,Smart TV,44,Chase scene,False,2020-11-03 21:27:33
+1171,737,286,7.6,"Disappointing movie, highly recommend.",2022-04-21,3092,253,False,Laptop,125,Plot twist,True,2022-07-13 15:27:59
+1172,754,205,5.8,"Disappointing movie, highly recommend.",2023-04-16,119,122,False,Tablet,84,Reunion,False,2021-09-22 10:01:33
+1173,531,437,2.5,"Disappointing movie, a must-see.",2022-06-09,1341,285,True,Smart TV,172,Monologue,False,2022-03-04 01:37:17
+1174,240,439,5.9,"Disappointing movie, not my type.",2024-11-24,2162,381,True,Mobile,40,Monologue,False,2020-09-01 22:29:23
+1175,810,366,9.5,"Disappointing movie, meh.",2024-09-28,2954,392,False,Tablet,205,Reunion,True,2020-12-09 05:30:02
+1176,605,264,3.2,"Great movie, a must-see.",2022-12-27,4305,449,False,Console,60,Plot twist,True,2022-04-14 07:16:28
+1177,810,469,6.7,"Great movie, not my type.",2024-01-09,3637,333,True,Smart TV,171,Chase scene,False,2022-03-19 05:23:32
+1178,191,484,3.4,"Great movie, loved it.",2023-05-11,4684,88,True,Console,139,Final scene,True,2020-12-02 11:33:56
+1179,493,200,7.9,"Great movie, a must-see.",2023-02-18,2290,432,True,Tablet,92,Flashback,True,2022-02-22 15:57:35
+1180,692,232,7.9,"Great movie, meh.",2020-01-11,3286,210,True,Desktop,115,Climax,False,2023-04-02 05:49:21
+1181,930,386,7.6,"Great movie, meh.",2023-06-28,1906,171,False,Laptop,108,Reunion,False,2023-04-14 00:14:58
+1182,149,444,1.9,"Great movie, a must-see.",2022-09-14,672,183,False,Tablet,166,Final scene,False,2022-12-23 03:34:43
+1183,357,34,6.4,"Disappointing movie, worth watching.",2023-12-14,1156,404,True,Laptop,46,Plot twist,False,2020-01-12 18:26:00
+1184,998,85,2.8,"Great movie, a must-see.",2023-12-08,1247,473,False,Desktop,42,Chase scene,True,2023-06-18 23:45:45
+1185,101,53,4.8,"Great movie, meh.",2024-12-28,3655,481,True,Laptop,104,Final battle,True,2022-11-15 14:29:53
+1186,123,197,2.8,"Great movie, worth watching.",2024-01-20,3289,72,False,Laptop,202,Reunion,True,2020-09-24 18:04:36
+1187,169,286,3.1,"Great movie, meh.",2022-01-27,1069,222,True,Console,141,Plot twist,False,2024-12-18 23:36:29
+1188,289,325,6.8,"Great movie, loved it.",2022-09-10,1303,433,True,Smart TV,166,Emotional breakdown,False,2024-03-17 15:24:59
+1189,479,343,4.1,"Disappointing movie, loved it.",2023-07-18,4235,39,False,Smart TV,175,Plot twist,True,2022-02-28 06:47:56
+1190,208,251,2.8,"Great movie, meh.",2022-01-17,791,307,False,Smart TV,83,Monologue,True,2021-01-17 09:08:50
+1191,479,120,4.2,"Great movie, worth watching.",2020-06-16,4152,219,False,Console,80,Monologue,True,2024-07-03 05:00:50
+1192,985,161,2.3,"Great movie, highly recommend.",2020-10-02,3085,80,False,Tablet,202,Emotional breakdown,True,2020-11-22 04:55:09
+1193,362,208,2.4,"Great movie, worth watching.",2024-03-24,311,217,False,Smart TV,76,Emotional breakdown,False,2023-08-02 06:28:03
+1194,451,25,1.6,"Great movie, a must-see.",2022-08-25,2894,119,True,Smart TV,208,Flashback,False,2021-08-03 03:30:41
+1195,789,37,8.6,"Great movie, a must-see.",2023-10-04,512,367,False,Laptop,30,Monologue,False,2022-09-25 02:23:35
+1196,604,404,2.1,"Great movie, worth watching.",2024-04-15,4246,136,True,Laptop,175,Flashback,True,2024-06-16 02:22:54
+1197,412,425,8.9,"Disappointing movie, highly recommend.",2020-05-16,573,403,False,Mobile,121,Emotional breakdown,False,2024-06-26 18:02:51
+1198,57,100,9.1,"Great movie, not my type.",2020-05-14,1681,301,True,Mobile,46,Flashback,False,2021-04-16 16:12:28
+1199,665,217,2.2,"Great movie, a must-see.",2023-01-03,1192,201,True,Console,104,Reunion,True,2024-03-13 12:37:10
+1200,917,120,4.5,"Disappointing movie, worth watching.",2022-03-28,833,128,False,Tablet,68,Opening scene,True,2024-09-13 04:32:07

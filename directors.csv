@@ -1,0 +1,201 @@
+director_id,full_name,nationality,experience_years,famous_movie,awards,email,phone,salary,studio,gender,birth_date,net_worth,status,created_at
+1,Tom Chen,French,38,The Last Storm,13,tom.chen32@gmail.com,+19542719583,352556.86,Universal,M,1954-09-20,6280657.97,Active,2021-11-23 17:26:14
+2,Omar Thomas,Korean,7,The Golden Hero,2,omar.thomas98@gmail.com,+19148090293,2023651.04,Netflix,F,1978-05-26,9646638.14,Retired,2018-02-13 02:35:18
+3,Cate Pitt,French,15,The Rising Storm,3,cate.pitt74@gmail.com,+12711768805,2024605.88,A24,Other,1963-03-12,71698869.35,Retired,2021-11-21 02:38:40
+4,Anna Anderson,American,15,The Dark Night,1,anna.anderson60@gmail.com,+18554684531,4064219.84,Amazon Studios,F,1944-04-19,175397157.67,Retired,2013-11-16 12:56:58
+5,Tom Garcia,Australian,26,The Dark Storm,11,tom.garcia18@gmail.com,+17745408072,1252739.64,Disney,Other,1971-02-25,10376158.71,Active,2012-11-06 21:27:38
+6,Sofia Martin,Indian,18,The Silent Dawn,20,sofia.martin60@gmail.com,+17661192619,1832842.27,Sony Pictures,F,1950-08-01,190809369.58,Retired,2018-03-17 03:55:40
+7,Elena Reynolds,Indian,1,The Rising Dawn,19,elena.reynolds26@gmail.com,+19803710343,1755949.07,Warner Bros,M,1963-05-08,12527108.13,Active,2011-12-16 02:48:34
+8,Meryl Williams,Brazilian,13,The Dark Shadow,9,meryl.williams71@gmail.com,+17408099076,2115163.04,Netflix,F,1973-08-04,50333217.12,Active,2015-01-19 17:14:37
+9,Maria Johnson,Canadian,32,The Last Hero,6,maria.johnson30@gmail.com,+12326543670,2788322.87,Lionsgate,Other,1970-04-26,95121615.65,Retired,2013-02-04 21:27:22
+10,Claire Brown,French,16,The Silent Hero,6,claire.brown87@gmail.com,+18612651177,1113002.76,A24,M,1967-03-09,93062985.61,Active,2017-09-04 01:41:34
+11,Cate Johnson,British,25,The Last Night,0,cate.johnson22@gmail.com,+16924586084,4929482.45,Sony Pictures,F,1958-07-23,191506210.53,Retired,2012-04-10 06:03:37
+12,Leonardo Anderson,American,33,The Last Storm,2,leonardo.anderson8@gmail.com,+16889436429,4286444.22,Universal,Other,1944-11-28,47805575.11,Active,2024-10-08 18:38:02
+13,Kenji Rodriguez,Japanese,26,The Silent Dawn,4,kenji.rodriguez73@gmail.com,+14674426900,3424113.07,Sony Pictures,F,1960-02-01,92198819.0,Active,2011-09-07 16:16:08
+14,Ryan Ahmed,Canadian,34,The Last Night,0,ryan.ahmed48@gmail.com,+16486075395,3405743.38,Focus Features,F,1982-02-05,53628718.38,Active,2021-09-05 08:18:38
+15,Robert Washington,American,6,The Golden Night,20,robert.washington88@gmail.com,+14709479356,2233163.71,Sony Pictures,M,1940-06-25,27033112.48,Retired,2012-12-15 17:45:27
+16,Aisha Johnson,British,28,The Last Hero,4,aisha.johnson89@gmail.com,+17581604451,400778.52,Netflix,M,1962-04-22,50656418.11,Active,2015-09-28 13:39:47
+17,David Stone,Italian,16,The Dark Night,8,david.stone23@gmail.com,+12254009172,964149.65,Universal,F,1942-08-08,40714993.18,Retired,2015-05-27 07:14:01
+18,Emma Dubois,Canadian,35,The Silent Storm,10,emma.dubois36@gmail.com,+19915682940,4708338.27,Universal,F,1951-10-09,8613182.27,Retired,2015-12-26 10:27:38
+19,Carlos Chen,Indian,13,The Silent Dawn,11,carlos.chen25@gmail.com,abc-def-ghij,2270227.52,Netflix,Other,1960-11-28,25800437.82,Retired,2018-05-22 13:20:25
+20,Scarlett Santos,Indian,1,The Rising Night,9,scarlett.santos25@gmail.com,+15883919694,1577185.84,Amazon Studios,Other,1978-11-11,93532649.86,Retired,2020-04-17 15:50:57
+21,Denzel Blanchett,German,20,The Dark Hero,7,denzel.blanchett37@gmail.com,+18486623525,4071501.89,Disney,M,1942-04-16,122643520.64,Active,2017-07-21 18:12:45
+22,Scarlett Martin,French,28,The Silent Shadow,7,scarlett.martin32@gmail.com,+19041093026,1044256.07,Focus Features,F,1943-09-08,183576532.88,Active,2017-03-26 14:42:33
+23,Aisha Jackson,British,31,The Golden Shadow,14,aisha.jackson79@gmail.com,+17168159521,1444119.43,Paramount,Other,1957-09-16,125722938.96,Retired,2017-02-23 09:15:17
+24,Lucas Nakamura,Italian,22,The Rising Hero,17,lucas.nakamura18@gmail.com,+15923563646,2436436.66,Warner Bros,M,1966-07-25,117231803.43,Active,2023-10-13 15:00:22
+25,Elena DiCaprio,Spanish,2,The Silent Shadow,12,elena.dicaprio69@gmail.com,+17594700025,1813421.81,Amazon Studios,Other,1950-08-05,196163673.53,Active,2024-07-19 18:42:01
+26,Sofia Pitt,Korean,25,The Silent Night,8,sofia.pitt60@gmail.com,+14667360307,3809647.15,Amazon Studios,F,1945-08-01,150055827.96,Active,2015-04-21 02:49:41
+27,Michael DiCaprio,French,37,The Last Night,6,michael.dicaprio26@gmail.com,+18363556551,2432163.12,Sony Pictures,F,1950-10-20,192783214.08,Active,2022-03-10 03:37:01
+28,Ryan Santos,German,7,The Rising Shadow,9,ryan.santos51@gmail.com,+14032275009,4281407.55,Lionsgate,M,1976-01-12,107016303.82,Retired,2011-09-21 10:00:54
+29,Claire Reynolds,Brazilian,34,The Silent Hero,20,claire.reynolds56@gmail.com,+18508713146,1496395.5,Focus Features,F,1969-07-27,146474216.65,Retired,2015-04-27 02:17:56
+30,Omar Kim,Spanish,14,The Silent Dawn,11,omar.kim79@gmail.com,+15441481506,4029595.31,Netflix,F,1978-12-09,111602414.56,Active,2011-04-24 13:31:35
+31,Meryl Kim,Japanese,38,The Silent Shadow,11,meryl.kim58@gmail.com,+12955936453,2471650.35,Focus Features,F,1967-12-18,66827468.14,Retired,2014-05-09 07:07:46
+32,Robert Nakamura,Australian,34,The Last Dawn,19,robert.nakamura98@gmail.com,+13964630331,1558393.78,Universal,M,1958-04-12,36708867.19,Active,2021-09-05 08:02:03
+33,Aisha Santos,British,4,The Dark Shadow,8,aisha.santos14@gmail.com,+17875770422,4717105.26,A24,M,1944-07-16,15742351.88,Active,2012-03-26 18:19:05
+34,Maria Chen,Spanish,20,The Rising Shadow,18,maria.chen78@gmail.com,+18334786401,4952150.05,Sony Pictures,Other,1979-01-20,192061646.71,Active,2022-04-21 06:16:42
+35,Sofia Müller,Japanese,3,The Dark Night,7,sofia.müller71@gmail.com,+12027853787,1582903.47,Sony Pictures,Other,1969-02-22,47451337.43,Retired,2022-11-19 21:51:59
+36,Robert Brown,Japanese,39,The Last Dawn,18,robert.brown29@gmail.com,+14723386328,4621724.14,A24,M,1969-12-10,140247003.31,Retired,2018-09-16 14:05:38
+37,Michael Cooper,Australian,38,The Silent Storm,0,michael.cooper78@gmail.com,+12934840714,4997947.6,Sony Pictures,Other,1942-03-16,104273804.36,Retired,2024-05-06 18:27:40
+38,Cate Wilson,Brazilian,32,The Last Shadow,9,cate.wilson45@gmail.com,+15282754894,3380400.98,Amazon Studios,Other,1942-08-03,63588914.28,Retired,2011-07-28 16:52:00
+39,Emma Lawrence,Spanish,4,The Rising Shadow,6,emma.lawrence53@gmail.com,+17307069650,1481869.94,Disney,F,1968-12-16,25163790.59,Active,2021-03-10 17:00:35
+40,Claire Rodriguez,Indian,18,The Dark Hero,13,claire.rodriguez60@gmail.com,+18633583206,4206674.94,A24,M,1969-09-05,77333616.64,Active,2023-02-09 13:21:59
+41,Denzel Taylor,Spanish,23,The Golden Hero,10,denzel.taylor37@gmail.com,+18019214801,2849203.6,Focus Features,F,1969-06-28,38541822.37,Active,2019-07-08 13:02:20
+42,Leonardo Wilson,Indian,38,The Silent Shadow,10,leonardo.wilson85@gmail.com,+18673551903,4374561.5,A24,M,1973-08-01,144766321.69,Retired,2023-11-05 02:30:50
+43,John Nakamura,Brazilian,32,The Rising Shadow,17,john.nakamura84@gmail.com,+15369952696,372315.68,Universal,M,1980-11-10,199487758.67,Active,2016-02-25 20:45:55
+44,Christopher Garcia,German,34,The Dark Storm,13,christopher.garcia4@gmail.com,+12575921894,2916454.7,Disney,M,1951-02-20,174297080.13,Active,2017-10-05 07:29:40
+45,John Garcia,Australian,20,The Golden Hero,20,john.garcia60@gmail.com,+18933650391,4817739.55,Sony Pictures,F,1959-04-13,170813756.27,Active,2013-07-19 11:36:18
+46,Scarlett Santos,Japanese,15,The Last Shadow,19,invalid-email-no-at,+19021822825,4049273.4,Paramount,Other,1952-10-09,135875127.27,Active,2020-02-21 20:02:19
+47,Denzel Garcia,German,9,The Last Dawn,17,denzel.garcia47@gmail.com,+12925951131,4407010.86,Netflix,Other,1972-05-27,33744339.65,Retired,2022-05-24 10:51:07
+48,Omar Rodriguez,Japanese,35,The Dark Night,3,omar.rodriguez87@gmail.com,+16067136687,2382972.93,Sony Pictures,Other,1964-11-12,22560874.34,Active,2017-01-20 17:20:58
+49,Kenji Kim,Japanese,32,The Last Shadow,3,kenji.kim90@gmail.com,+16182957497,666521.59,Focus Features,M,1964-08-12,134426757.55,Retired,2019-12-24 04:56:26
+50,Tom Chen,Spanish,16,The Silent Dawn,11,tom.chen53@gmail.com,+14861548888,676902.2,Netflix,Other,1981-06-02,80229788.91,Active,2011-08-03 21:13:41
+51,Tom Jackson,German,38,The Last Hero,6,tom.jackson43@gmail.com,+13284442778,4102654.31,Paramount,F,1949-10-01,56177694.35,Active,2012-09-09 05:07:42
+52,Brad Johnson,British,27,The Dark Hero,16,brad.johnson46@gmail.com,abc-def-ghij,745516.67,Universal,F,1968-06-17,119139537.56,Retired,2018-04-20 01:46:50
+53,Ryan Lawrence,Italian,7,The Rising Storm,15,ryan.lawrence59@gmail.com,+12312020480,3619526.31,A24,M,1945-06-20,30518431.31,Active,2014-10-21 18:35:45
+54,Lucas Martin,Canadian,36,The Rising Dawn,6,lucas.martin38@gmail.com,+18198217547,2264335.72,Paramount,F,1961-08-13,83781940.4,Active,2015-07-11 21:16:23
+55,David Streep,British,36,The Silent Hero,1,david.streep12@gmail.com,+12958245685,3015032.4,Focus Features,Other,1961-11-04,82750917.95,Retired,2023-12-02 09:38:19
+56,Emma Chen,Indian,24,The Rising Dawn,3,emma.chen28@gmail.com,+16934762204,3860507.03,Lionsgate,M,1967-09-25,163866945.05,Active,2019-11-27 22:17:01
+57,Anna Rossi,American,6,The Golden Storm,16,invalid-email-no-at,+13467724045,1232637.82,Amazon Studios,F,1961-03-12,63015836.57,Retired,2022-10-20 02:56:03
+58,David Müller,Japanese,14,The Rising Hero,16,david.müller87@gmail.com,+16538113787,746324.04,Amazon Studios,M,1958-11-22,119033715.83,Retired,2010-04-13 19:03:00
+59,Robert Santos,British,9,The Dark Night,12,robert.santos98@gmail.com,abc-def-ghij,2756395.27,Paramount,Other,1975-11-26,71479267.1,Retired,2023-12-02 13:01:29
+60,Ryan Rodriguez,Korean,11,The Golden Dawn,19,ryan.rodriguez55@gmail.com,+19268007741,2408465.13,Netflix,M,1967-02-08,87699628.86,Retired,2018-02-13 09:47:21
+61,Maria Nakamura,Korean,10,The Dark Hero,7,maria.nakamura66@gmail.com,+17439555575,693461.73,Sony Pictures,M,1951-10-05,152282843.81,Active,2012-11-16 14:48:36
+62,Meryl Thomas,British,29,The Silent Dawn,2,meryl.thomas83@gmail.com,+18396422534,2450821.2,Sony Pictures,F,1977-01-12,101960040.17,Retired,2017-08-02 01:23:53
+63,Elena Rodriguez,Canadian,13,The Last Dawn,10,elena.rodriguez77@gmail.com,+16731688246,3104028.0,Focus Features,M,1943-08-04,162382395.45,Retired,2021-02-17 20:11:02
+64,Maria Washington,Italian,22,The Silent Shadow,19,maria.washington68@gmail.com,+13627105194,451354.48,Netflix,M,1961-02-18,135997489.62,Retired,2014-12-28 21:58:38
+65,Brad Williams,Italian,9,The Golden Hero,19,brad.williams75@gmail.com,+15586204824,3602403.27,Universal,F,1975-07-21,158540729.61,Active,2020-12-27 23:43:58
+66,Carlos Rodriguez,Spanish,13,The Silent Dawn,7,invalid-email-no-at,+15164024309,4999887.78,Disney,M,1958-02-17,154404069.35,Active,2020-06-25 19:08:38
+67,Daniel Williams,Brazilian,16,The Dark Night,14,daniel.williams89@gmail.com,+13698342941,3130858.03,A24,M,1974-04-10,193153730.8,Retired,2024-04-12 21:36:28
+68,Omar DiCaprio,Japanese,4,The Golden Shadow,20,omar.dicaprio65@gmail.com,+13654350371,2506835.15,Netflix,Other,1946-12-28,103665968.12,Active,2014-02-25 05:17:28
+69,Angelina Taylor,Italian,4,The Dark Shadow,12,angelina.taylor12@gmail.com,+14278568671,2609634.15,Paramount,F,1945-06-08,6609321.56,Active,2023-12-21 10:50:09
+70,  David Smith   ,French,2,The Golden Shadow,8,david.smith90@gmail.com,+19778870361,1235142.77,Disney,Other,1978-09-14,23126185.2,Retired,2013-05-04 01:15:26
+71,Tom Johansson,German,10,The Rising Shadow,9,tom.johansson9@gmail.com,abc-def-ghij,2260346.69,Lionsgate,F,1955-10-14,38275468.45,Active,2018-06-03 16:34:32
+72,Denzel Taylor,American,23,The Rising Hero,2,denzel.taylor50@gmail.com,+12447490791,1855051.97,Universal,Other,1961-03-02,71107510.18,Retired,2023-11-06 21:29:44
+73,Yuki Pitt,German,3,The Dark Night,10,yuki.pitt9@gmail.com,+16681620485,4680180.7,Focus Features,F,1974-08-09,8287533.54,Active,2014-06-28 01:55:41
+74,Lucas Rossi,British,32,The Last Storm,15,lucas.rossi56@gmail.com,+19618377556,1963265.25,Focus Features,F,1945-12-14,16706474.21,Active,2018-05-11 03:05:20
+75,Emma Santos,Korean,40,The Golden Shadow,13,emma.santos78@gmail.com,+13708447546,1517865.73,Warner Bros,M,1982-11-13,73298915.0,Active,2010-03-28 19:43:50
+76,Omar Smith,Australian,10,The Dark Hero,14,omar.smith31@gmail.com,+15757075878,4754352.94,Netflix,F,1944-10-05,106362516.43,Retired,2015-11-09 07:07:01
+77,Leonardo Müller,German,40,The Silent Dawn,9,leonardo.müller50@gmail.com,+13205391883,3531107.08,A24,M,1947-03-28,15736355.8,Active,2024-12-15 02:51:43
+78,Brad Nakamura,Canadian,12,The Golden Hero,11,brad.nakamura71@gmail.com,+15073642499,2642027.58,Universal,M,1948-04-26,99310365.55,Retired,2018-10-12 14:51:35
+79,David Jackson,Australian,5,The Last Hero,4,david.jackson40@gmail.com,+19349030667,4867422.71,Universal,F,1969-11-17,69558441.36,Active,2022-03-14 16:58:55
+80,Michael Reynolds,Indian,19,The Last Dawn,2,michael.reynolds20@gmail.com,+13656413349,1402905.48,Focus Features,F,1948-11-10,123271227.38,Active,2018-11-06 18:37:09
+81,  Anna Streep   ,American,37,The Rising Dawn,8,anna.streep44@gmail.com,+17771691125,3325423.89,Lionsgate,F,1979-11-01,100109573.97,Retired,2020-05-16 07:51:51
+82,Emma Martin,Korean,39,The Golden Shadow,4,emma.martin10@gmail.com,+13618375356,1700396.0,Netflix,Other,1962-07-05,152372333.96,Active,2015-04-15 03:17:28
+83,Maria Williams,British,21,The Last Hero,18,maria.williams38@gmail.com,+18308015136,3661416.46,Paramount,M,1971-09-15,100253181.97,Retired,2017-01-03 12:32:29
+84,  Maria Dubois   ,French,28,The Rising Storm,4,maria.dubois7@gmail.com,+17068895137,4435787.51,Netflix,F,1963-01-13,11180379.79,Active,2015-09-10 02:24:32
+85,Omar DiCaprio,Korean,36,The Rising Storm,11,omar.dicaprio80@gmail.com,+13213158613,3823832.83,Paramount,Other,1972-07-17,9010726.33,Active,2012-12-11 15:33:29
+86,David Jackson,Japanese,38,The Rising Night,10,david.jackson42@gmail.com,+15263726331,2635111.93,Focus Features,Other,1971-12-19,60658322.38,Active,2015-06-22 03:26:37
+87,Elena Johansson,British,34,The Last Dawn,20,elena.johansson61@gmail.com,+18714817541,3661677.61,Amazon Studios,M,1983-04-02,114941484.01,Active,2013-01-15 10:26:09
+88,Claire Washington,Indian,21,The Dark Shadow,15,claire.washington65@gmail.com,+16822044906,2722290.33,Netflix,M,1969-09-11,109708370.63,Retired,2019-08-07 07:17:35
+89,Elena Kim,Brazilian,18,The Golden Storm,9,elena.kim91@gmail.com,+19219204110,784995.71,Focus Features,F,1965-06-25,161118550.96,Retired,2010-05-23 02:22:59
+90,Omar Pitt,British,7,The Golden Shadow,19,omar.pitt28@gmail.com,+17515548852,3756276.69,Paramount,M,1943-11-17,45908657.61,Active,2010-02-14 10:45:30
+91,Christopher Streep,Spanish,31,The Dark Hero,20,christopher.streep71@gmail.com,+13617826774,1157388.68,Sony Pictures,F,1958-11-02,181679454.79,Active,2020-10-08 17:47:46
+92,Brad Stone,Spanish,12,The Last Night,9,brad.stone54@gmail.com,+13801609681,4408367.21,Warner Bros,F,1976-10-04,185762514.36,Retired,2014-08-21 17:33:31
+93,Angelina Williams,Japanese,12,The Rising Shadow,0,angelina.williams35@gmail.com,+13156547958,3735765.9,Sony Pictures,Other,1983-04-06,122579945.43,Retired,2023-07-17 10:05:25
+94,Emma Chen,Japanese,22,The Dark Night,9,emma.chen62@gmail.com,+14541114590,2995811.61,Lionsgate,M,1956-11-12,138860949.49,Active,2020-02-15 09:10:25
+95,Emma Taylor,British,31,The Golden Hero,4,emma.taylor82@gmail.com,+15027166363,2383897.63,Lionsgate,F,1966-12-18,182646580.77,Active,2022-04-22 19:55:50
+96,Sofia Taylor,Indian,13,The Silent Dawn,18,sofia.taylor91@gmail.com,+17772882551,2775968.76,Disney,F,1973-08-04,136378752.35,Retired,2011-09-15 01:29:08
+97,Carlos Brown,American,14,The Silent Dawn,18,carlos.brown8@gmail.com,+18886170227,550541.72,Amazon Studios,F,1984-02-18,198830608.43,Active,2024-08-02 09:26:11
+98,Meryl Williams,Indian,9,The Silent Storm,20,meryl.williams49@gmail.com,+15867302286,4329375.59,Universal,M,1974-07-17,26342070.38,Active,2023-01-25 00:19:29
+99,Emma Blanchett,German,8,The Rising Shadow,1,emma.blanchett69@gmail.com,+14355152562,4085495.28,Amazon Studios,Other,1941-04-07,14390889.68,Active,2017-10-22 22:55:03
+100,Maria Blanchett,German,37,The Last Shadow,10,maria.blanchett57@gmail.com,+14221946973,2971879.11,Netflix,M,1959-03-22,104728959.8,Retired,2014-05-02 17:37:56
+101,Leonardo Stone,Italian,27,The Dark Shadow,4,leonardo.stone72@gmail.com,+15527394713,1639464.77,Disney,Other,1970-04-28,45843565.13,Active,2022-08-02 17:26:26
+102,Aisha Taylor,French,35,The Dark Shadow,6,aisha.taylor32@gmail.com,+15382326581,447375.82,Amazon Studios,Other,1978-10-02,174850471.24,Active,2022-10-24 21:35:13
+103,Yuki Dubois,German,39,The Golden Storm,6,yuki.dubois2@gmail.com,+13942968239,2103833.89,Paramount,Other,1960-05-13,93783841.71,Retired,2014-05-12 16:56:31
+104,Omar Chen,British,2,The Silent Storm,8,omar.chen27@gmail.com,+16231766977,2855895.51,Lionsgate,Other,1966-05-05,40042164.76,Active,2016-10-27 07:31:35
+105,Tom Streep,Korean,11,The Golden Storm,4,tom.streep98@gmail.com,+19409230828,3657504.95,A24,M,1974-11-02,105264938.67,Active,2023-11-02 00:26:08
+106,Cate Pitt,Canadian,40,The Dark Hero,15,cate.pitt91@gmail.com,+14239484790,3364564.84,Warner Bros,M,1974-09-14,3358342.66,Retired,2018-05-01 16:52:44
+107,Emma Brown,Korean,18,The Dark Hero,12,emma.brown13@gmail.com,+14464220085,579292.37,Amazon Studios,F,1976-04-23,45945593.27,Active,2020-11-25 01:05:25
+108,Daniel Martin,Canadian,22,The Rising Shadow,18,daniel.martin8@gmail.com,+19193875339,4891180.27,Universal,Other,1942-04-07,180353318.85,Retired,2014-01-03 21:59:17
+109,Angelina Anderson,Brazilian,26,The Rising Hero,2,angelina.anderson23@gmail.com,+15221262699,1636529.07,Lionsgate,M,1976-07-22,179408627.63,Retired,2016-12-05 22:46:05
+110,Carlos Blanchett,Australian,26,The Golden Hero,10,carlos.blanchett13@gmail.com,+12776714198,342203.16,Sony Pictures,F,1971-04-12,111054507.27,Retired,2016-03-22 18:42:24
+111,Sofia DiCaprio,Canadian,10,The Rising Storm,12,sofia.dicaprio32@gmail.com,+12845495824,1720055.5,Universal,M,1940-05-15,72623581.97,Retired,2011-03-03 05:27:28
+112,Aisha Anderson,Italian,1,The Rising Shadow,9,invalid-email-no-at,+15622561359,2186288.33,Universal,Other,1975-04-19,104699801.62,Retired,2012-03-09 09:17:31
+113,David Rodriguez,Brazilian,32,The Dark Shadow,19,david.rodriguez36@gmail.com,+16952290526,3160010.2,A24,M,1948-05-01,189815869.02,Retired,2023-10-13 10:28:21
+114,Claire Reynolds,Italian,21,The Rising Night,9,claire.reynolds39@gmail.com,+19114369728,3727396.95,A24,Other,1955-06-13,56779729.15,Retired,2015-02-19 06:37:34
+115,Anna Streep,Brazilian,5,The Rising Hero,13,anna.streep94@gmail.com,+19254517316,3430292.73,Disney,Other,1959-04-09,132073930.74,Retired,2022-07-03 14:38:30
+116,Pierre Martin,Australian,6,The Rising Dawn,3,pierre.martin89@gmail.com,+12377031903,3890979.43,Netflix,M,1981-10-02,113080838.15,Retired,2022-06-26 13:06:00
+117,Christopher Rossi,Canadian,38,The Dark Dawn,16,christopher.rossi96@gmail.com,+17944708297,923575.68,Warner Bros,F,1946-05-14,184188961.39,Active,2011-12-05 11:19:21
+118,Omar Johansson,French,20,The Dark Dawn,1,omar.johansson62@gmail.com,+12998351204,4088892.5,Universal,M,1961-11-04,135750727.25,Active,2024-12-08 16:11:35
+119,Anna Nakamura,Italian,2,The Rising Shadow,19,anna.nakamura60@gmail.com,+16144094587,4438867.4,A24,Other,1967-07-01,141242387.58,Active,2014-12-26 02:36:06
+120,Denzel Lawrence,Indian,21,The Rising Night,19,denzel.lawrence47@gmail.com,+16682911847,2065468.45,Amazon Studios,Other,1947-06-12,169258042.73,Active,2023-11-23 09:58:39
+121,Pierre Rodriguez,Italian,27,The Dark Storm,19,pierre.rodriguez16@gmail.com,+13194070977,861763.03,Amazon Studios,F,1951-08-21,107938474.73,Active,2018-03-16 09:08:11
+122,Lucas Reynolds,Indian,33,The Silent Dawn,20,lucas.reynolds7@gmail.com,+12099130388,2575855.27,A24,F,1985-08-16,34283444.0,Active,2022-04-10 01:17:14
+123,Aisha Santos,French,18,The Dark Shadow,17,aisha.santos73@gmail.com,+19849309978,4151757.48,Netflix,Other,1942-12-15,109724301.67,Retired,2011-12-27 20:48:15
+124,Elena Lawrence,German,14,The Last Shadow,18,elena.lawrence34@gmail.com,+12898366370,3507841.22,Lionsgate,Other,1967-03-20,28707758.22,Active,2023-04-26 01:36:22
+125,Aisha Rossi,Indian,7,The Rising Dawn,4,aisha.rossi22@gmail.com,+19205909595,4821305.58,Amazon Studios,M,1957-11-05,140583878.95,Active,2013-03-23 10:53:15
+126,Meryl Reynolds,French,26,The Silent Shadow,16,meryl.reynolds19@gmail.com,+14757949543,3799051.44,Netflix,F,1971-06-19,1492143.94,Active,2021-08-21 21:44:22
+127,Brad Rodriguez,Korean,36,The Rising Shadow,18,brad.rodriguez28@gmail.com,+14169299939,826852.4,A24,F,1983-01-02,20815373.64,Retired,2010-02-28 05:28:29
+128,James Brown,Korean,11,The Dark Night,1,james.brown84@gmail.com,+14802565985,2102439.52,Sony Pictures,Other,1984-04-14,131441560.45,Active,2010-04-16 02:08:37
+129,Maria Taylor,German,25,The Silent Hero,2,maria.taylor2@gmail.com,+13238085252,3707664.23,Universal,M,1960-06-10,28288729.65,Active,2020-11-05 02:33:36
+130,James Jackson,Spanish,14,The Dark Shadow,2,james.jackson45@gmail.com,+18433539636,4503646.14,Disney,M,1977-12-13,70955592.44,Retired,2015-03-08 08:41:05
+131,Maria Anderson,Japanese,14,The Rising Dawn,16,maria.anderson93@gmail.com,+19971450038,3113248.97,Paramount,Other,1965-05-21,11859257.07,Active,2017-07-04 07:31:40
+132,Kenji Rodriguez,Korean,35,The Rising Hero,5,kenji.rodriguez47@gmail.com,+13357490068,3861084.5,Universal,M,1977-02-01,53174870.16,Active,2024-01-26 12:32:18
+133,Tom Washington,Indian,14,The Rising Shadow,4,tom.washington55@gmail.com,+12843561552,2774672.83,Amazon Studios,Other,1980-11-22,128987759.32,Retired,2021-07-24 07:03:15
+134,Sofia Stone,British,8,The Silent Hero,0,sofia.stone59@gmail.com,+12566189026,3597922.91,Warner Bros,M,1971-06-17,103927345.65,Retired,2012-06-05 23:49:55
+135,John Blanchett,Australian,5,The Last Hero,15,john.blanchett43@gmail.com,+14789788815,2384949.33,Netflix,M,1971-10-06,74169867.79,Retired,2022-02-19 21:46:07
+136,Maria Blanchett,British,12,The Rising Hero,1,maria.blanchett6@gmail.com,+12125102892,2853750.98,Amazon Studios,M,1960-04-14,183255098.21,Retired,2014-02-19 11:07:32
+137,Emma Cooper,Japanese,20,The Last Night,10,emma.cooper29@gmail.com,+12477726402,614650.51,A24,M,1963-04-10,113197541.42,Retired,2021-10-08 14:23:37
+138,  Yuki DiCaprio   ,Indian,23,The Dark Dawn,20,yuki.dicaprio98@gmail.com,+13541107003,4229955.23,Warner Bros,F,1940-11-13,169952191.57,Retired,2011-04-17 07:26:31
+139,Michael Williams,Brazilian,6,The Golden Hero,18,michael.williams6@gmail.com,+17327929943,658769.63,Disney,Other,1965-02-19,113996324.93,Retired,2020-03-08 09:16:54
+140,Lucas Stone,Australian,7,The Silent Storm,4,lucas.stone41@gmail.com,+14392253047,707157.2,A24,F,1960-07-04,107648985.27,Active,2017-05-15 08:54:07
+141,Sofia Müller,Korean,26,The Golden Dawn,16,sofia.müller6@gmail.com,+15353488460,434962.96,Sony Pictures,F,1951-01-13,171065659.62,Active,2011-08-04 04:07:00
+142,Michael Reynolds,French,2,The Dark Night,2,michael.reynolds26@gmail.com,+15812409947,1149201.62,A24,M,1945-06-04,9496567.5,Retired,2010-03-19 13:52:46
+143,Daniel Wilson,Spanish,10,The Last Shadow,1,daniel.wilson88@gmail.com,+15624602338,3147711.57,Lionsgate,M,1981-05-16,82986449.05,Retired,2010-02-09 12:08:26
+144,Robert Pitt,Korean,31,The Rising Night,17,robert.pitt81@gmail.com,+17561327658,3950888.51,Netflix,Other,1972-06-13,54816701.27,Active,2015-10-08 00:57:51
+145,Meryl Rossi,Canadian,16,The Last Shadow,8,meryl.rossi68@gmail.com,+17984905100,2761709.91,Warner Bros,M,1976-07-12,187106000.39,Active,2012-04-19 10:51:47
+146,Scarlett Ahmed,Spanish,35,The Rising Hero,9,scarlett.ahmed91@gmail.com,+17813384080,1042672.48,Warner Bros,M,1943-04-20,44542979.4,Retired,2010-06-20 06:51:08
+147,Lucas Washington,Korean,5,The Dark Storm,11,invalid-email-no-at,+18003376537,3581782.45,Amazon Studios,Other,1946-06-10,65198037.67,Active,2021-07-26 20:31:41
+148,Lucas Müller,Japanese,9,The Rising Dawn,5,lucas.müller46@gmail.com,+18033941912,3698388.59,Lionsgate,F,1976-01-06,120875344.82,Active,2020-10-04 15:09:21
+149,Leonardo Rodriguez,German,5,The Dark Storm,11,leonardo.rodriguez41@gmail.com,+12906632941,1431958.12,Universal,Other,1940-01-13,88205808.12,Retired,2012-07-16 12:22:34
+150,Daniel Chen,American,19,The Silent Dawn,0,daniel.chen84@gmail.com,+14303728923,1729841.16,Universal,M,1961-03-13,33019994.49,Active,2018-02-11 19:39:57
+151,Yuki Washington,German,27,The Last Shadow,17,yuki.washington84@gmail.com,+16443635764,3665782.9,Focus Features,F,1982-05-10,48272108.7,Active,2016-10-18 15:09:03
+152,  Emma Johnson   ,British,19,The Silent Hero,2,emma.johnson38@gmail.com,+18409058573,2473139.13,Universal,F,1965-08-16,179080619.2,Retired,2011-11-18 12:11:23
+153,Angelina Martin,Australian,4,The Golden Night,4,angelina.martin58@gmail.com,+16508802377,3810728.68,Universal,M,1982-06-26,108748352.2,Active,2018-01-27 12:52:33
+154,Claire Anderson,Indian,37,The Silent Dawn,16,claire.anderson31@gmail.com,+12807623718,4042161.62,Lionsgate,M,1947-08-06,189863235.12,Active,2013-04-05 01:27:05
+155,Emma Brown,Indian,21,The Dark Night,8,emma.brown77@gmail.com,+19442124274,2694503.25,Warner Bros,Other,1979-10-17,156555446.52,Active,2016-03-05 18:37:37
+156,Meryl Chen,Canadian,32,The Last Dawn,18,meryl.chen13@gmail.com,+17486769167,3123018.33,Warner Bros,M,1957-07-05,124030653.23,Retired,2010-07-11 22:15:03
+157,Leonardo Wilson,Brazilian,7,The Golden Storm,7,leonardo.wilson3@gmail.com,+15106216863,845050.5,A24,F,1957-12-14,121390847.36,Active,2013-08-07 13:47:31
+158,Meryl Taylor,Indian,37,The Golden Hero,0,meryl.taylor66@gmail.com,+12676219779,1033939.31,Paramount,M,1955-01-15,11061297.06,Retired,2021-04-09 11:52:29
+159,Carlos Martin,Australian,36,The Last Hero,11,carlos.martin31@gmail.com,+18088484373,1852395.22,Sony Pictures,Other,1984-02-10,6462647.49,Active,2012-10-25 06:54:14
+160,Tom Kim,British,39,The Dark Storm,0,tom.kim84@gmail.com,+12201149283,1274096.15,Lionsgate,F,1985-12-21,55800333.09,Retired,2023-06-15 08:13:29
+161,Elena Streep,Korean,36,The Rising Dawn,20,elena.streep51@gmail.com,+12079581776,3050108.2,Sony Pictures,F,1983-02-16,13703573.73,Retired,2020-06-28 08:16:41
+162,Scarlett Cooper,Australian,26,The Golden Night,10,scarlett.cooper20@gmail.com,+14461952520,3467627.6,Warner Bros,Other,1971-05-09,181475400.94,Retired,2016-12-02 18:45:36
+163,Cate Dubois,Canadian,36,The Golden Night,5,cate.dubois88@gmail.com,+16877014583,1610163.45,A24,M,1956-12-26,112247299.57,Active,2020-06-21 02:14:22
+164,Maria Blanchett,American,38,The Golden Shadow,18,maria.blanchett43@gmail.com,+17995933359,4732644.72,Universal,F,1952-09-04,173632053.18,Retired,2018-05-14 01:55:54
+165,David Williams,French,32,The Dark Storm,10,david.williams53@gmail.com,+16683402902,3228957.31,Disney,F,1980-01-01,90958592.49,Active,2022-03-19 05:31:50
+166,Meryl DiCaprio,American,3,The Last Night,17,meryl.dicaprio79@gmail.com,+16397767819,1157188.41,Netflix,M,1960-09-07,4565309.0,Active,2020-12-08 07:44:56
+167,Emma Santos,Japanese,30,The Dark Hero,16,emma.santos50@gmail.com,+15133802133,3062575.61,Netflix,F,1983-03-11,199231644.02,Retired,2015-04-06 12:01:14
+168,Maria Blanchett,American,25,The Dark Night,20,invalid-email-no-at,+17163835093,1427788.03,Focus Features,Other,1943-10-02,132732013.25,Active,2010-12-04 13:28:24
+169,Christopher Anderson,Canadian,34,The Golden Shadow,8,christopher.anderson90@gmail.com,+19111156104,3189429.33,Disney,F,1946-09-24,123921893.06,Retired,2011-02-16 06:38:12
+170,Meryl Rossi,German,31,The Rising Night,10,meryl.rossi46@gmail.com,+15023690622,1325625.28,Warner Bros,Other,1945-02-27,115256400.27,Retired,2012-02-25 16:04:46
+171,Leonardo Chen,British,3,The Golden Night,9,leonardo.chen59@gmail.com,+15035431282,1929030.39,Netflix,F,1947-02-28,151882596.96,Active,2010-03-22 20:10:21
+172,Emma Cooper,Italian,26,The Silent Dawn,14,emma.cooper35@gmail.com,+12957251562,1504798.84,Amazon Studios,Other,1970-07-21,177338653.45,Active,2011-03-23 23:03:54
+173,Anna Chen,Korean,40,The Silent Dawn,0,anna.chen62@gmail.com,+18948351152,4340363.72,Disney,F,1971-02-14,88696888.17,Active,2014-11-11 00:45:55
+174,Emma Taylor,Australian,7,The Rising Dawn,13,emma.taylor29@gmail.com,+18856675742,3376223.66,Paramount,F,1962-11-22,128639486.11,Active,2023-09-20 01:00:41
+175,Ryan Müller,Japanese,4,The Rising Shadow,16,ryan.müller64@gmail.com,+12769248484,1268991.31,Amazon Studios,F,1955-02-15,89393586.42,Retired,2011-08-15 10:07:31
+176,Leonardo Pitt,Australian,20,The Last Hero,16,leonardo.pitt52@gmail.com,+17701002847,2899196.35,A24,F,1963-01-27,45360704.76,Retired,2015-09-25 19:38:30
+177,Scarlett Streep,Canadian,19,The Golden Shadow,17,scarlett.streep15@gmail.com,abc-def-ghij,2705528.42,Universal,M,1950-08-05,164545893.32,Retired,2011-05-20 06:12:07
+178,Ryan Lawrence,Canadian,38,The Silent Night,3,ryan.lawrence59@gmail.com,+13956669584,3906296.83,A24,F,1982-10-17,27792566.87,Retired,2010-09-24 01:35:59
+179,Claire Reynolds,Italian,39,The Rising Shadow,19,claire.reynolds66@gmail.com,+13813913368,4436940.15,Focus Features,F,1966-10-23,152712556.6,Retired,2016-06-10 14:51:08
+180,David Brown,Canadian,14,The Rising Dawn,6,david.brown39@gmail.com,+17606266549,1206620.94,Sony Pictures,Other,1962-11-05,196285763.75,Active,2018-09-23 20:20:45
+181,Christopher DiCaprio,Indian,19,The Golden Dawn,13,christopher.dicaprio62@gmail.com,+18838004117,4079862.94,Focus Features,M,1941-07-05,11559934.9,Active,2013-05-25 05:18:43
+182,John Williams,Canadian,36,The Last Storm,7,john.williams27@gmail.com,+12337017692,3763581.13,Focus Features,F,1955-09-26,159569895.91,Retired,2021-11-02 12:24:26
+183,Denzel Streep,Spanish,15,The Golden Dawn,20,invalid-email-no-at,+14574407238,3582219.53,Netflix,Other,1974-12-20,40097347.27,Active,2014-08-06 21:04:11
+184,Anna Blanchett,Japanese,1,The Rising Hero,10,anna.blanchett49@gmail.com,+14855433204,2438390.42,Disney,M,1949-06-20,11120232.8,Retired,2017-10-18 11:04:50
+185,Scarlett Nakamura,French,23,The Rising Night,7,scarlett.nakamura24@gmail.com,+17173673793,4440304.35,Netflix,F,1963-05-07,190111347.0,Retired,2018-11-01 03:42:22
+186,Omar Kim,French,25,The Rising Dawn,8,omar.kim32@gmail.com,+18986384429,2793139.1,Sony Pictures,M,1973-06-17,160760530.76,Retired,2017-01-10 20:12:20
+187,Carlos Rodriguez,German,28,The Last Night,3,carlos.rodriguez99@gmail.com,+12072098434,1186781.93,Amazon Studios,Other,1944-12-22,31597160.87,Retired,2021-06-02 02:04:03
+188,Anna Johansson,Italian,28,The Golden Dawn,10,anna.johansson10@gmail.com,+14335339392,281076.65,Universal,Other,1940-11-24,124051522.42,Active,2021-02-12 16:06:18
+189,Denzel Streep,Spanish,11,The Golden Dawn,17,denzel.streep12@gmail.com,+16487399057,1255355.48,Amazon Studios,Other,1958-11-05,60313244.14,Retired,2010-09-28 17:09:07
+190,Michael Johnson,Brazilian,23,The Rising Dawn,6,michael.johnson51@gmail.com,+12876111869,2180741.58,Focus Features,M,1950-03-08,123760099.72,Retired,2013-02-06 21:51:36
+191,Brad Smith,Australian,32,The Rising Shadow,10,brad.smith83@gmail.com,+14972130159,1914264.12,Paramount,M,1958-10-03,180123599.58,Retired,2017-08-11 19:42:19
+192,Scarlett Thomas,German,28,The Dark Dawn,8,scarlett.thomas73@gmail.com,+15238185805,4232528.28,Disney,Other,1961-08-15,89626236.74,Retired,2017-09-04 05:41:38
+193,Sofia Reynolds,Indian,2,The Golden Night,18,sofia.reynolds69@gmail.com,+19512282825,2978723.78,Lionsgate,M,1942-09-09,109150395.46,Retired,2020-03-12 12:14:57
+194,  Meryl Thomas   ,German,40,The Golden Night,5,meryl.thomas60@gmail.com,+12927656950,3834589.14,Disney,F,1950-03-19,189793654.49,Active,2021-12-16 11:02:14
+195,Meryl Wilson,Italian,31,The Dark Hero,14,meryl.wilson34@gmail.com,+12434469093,4431449.51,Warner Bros,Other,1960-02-23,193719838.77,Retired,2023-12-09 18:34:36
+196,Anna Martin,German,34,The Silent Storm,12,anna.martin76@gmail.com,+12799668165,1893910.44,Netflix,F,1970-10-01,100865559.91,Active,2017-03-08 02:32:41
+197,John Dubois,Korean,8,The Dark Night,15,john.dubois21@gmail.com,+19342985251,3441101.25,A24,M,1977-03-21,166839634.28,Active,2013-01-05 18:37:10
+198,David Pitt,Italian,39,The Rising Hero,18,david.pitt74@gmail.com,+13705332877,3260588.99,Sony Pictures,M,1953-08-20,198562388.92,Retired,2012-04-27 13:38:09
+199,Denzel Thomas,French,15,The Dark Dawn,12,denzel.thomas85@gmail.com,+13716749069,2050217.04,Universal,M,1952-09-28,181958505.39,Retired,2023-03-20 03:11:30
+200,Angelina Jackson,Australian,35,The Rising Hero,0,angelina.jackson69@gmail.com,+13202563468,4505450.97,Amazon Studios,Other,1966-06-28,9644218.38,Retired,2013-08-26 12:22:37

@@ -1,0 +1,1001 @@
+movie_id,title,genre,release_year,duration,language,country,budget,revenue,rating_average,director_id,production_company,age_limit,status,created_at
+1,Sacred Promise,Comedy,1994,91,Hindi,Italy,2138101.52,6501960.08,5.6,53,Netflix,16,Production,2016-03-14 20:37:16
+2,First Legacy,Sci-Fi,2023,122,Hindi,Spain,167948601.98,889658586.8,7.8,36,Universal,7,Production,2017-02-07 16:25:50
+3,Silent Legacy,Crime,1990,71,Spanish,Spain,130895541.65,199671043.13,1.3,103,Lionsgate,18,Production,2024-01-25 05:40:31
+4,Fallen Storm,Crime,2013,78,Hindi,India,184749400.72,323830024.45,9.6,71,Amazon Studios,12,Cancelled,2021-07-19 06:33:00
+5,Hidden Night,Documentary,2015,159,Japanese,Germany,58760295.33,517458558.9,4.6,19,Focus Features,12,Production,2016-09-09 17:52:50
+6,Broken Ocean,Romance,1995,187,Portuguese,USA,77717019.56,709811551.17,7.2,106,Netflix,18,Cancelled,2015-12-27 08:15:18
+7,A Sun,Sci-Fi,1991,160,Portuguese,Japan,223973799.27,171231731.3,3.1,68,Paramount,7,Released,2018-10-12 04:49:06
+8,A Night,Crime,1980,208,German,South Korea,147955943.12,807310095.9,5.3,131,Sony Pictures,16,Released,2024-03-02 16:51:27
+9,Fallen Legacy,Sci-Fi,2023,187,Hindi,Spain,3021372.14,341547260.43,4.2,48,Focus Features,12,Released,2019-08-20 10:23:11
+10,Fallen Dream,Adventure,2003,141,Portuguese,UK,205960567.69,648761831.93,5.9,51,Disney,7,Production,2015-03-14 15:08:57
+11,Eternal Empire,Sci-Fi,1999,215,French,Brazil,65032463.82,755090640.87,7.6,93,Focus Features,18,Production,2020-01-14 03:22:55
+12,Lost Journey,Fantasy,2014,142,Hindi,Spain,134355570.07,552336028.78,9.4,164,Netflix,16,Cancelled,2024-10-13 02:05:10
+13,Silent Mountain,Crime,1997,171,German,South Korea,156520239.65,150669564.55,2.1,65,Universal,7,Released,2021-02-04 02:59:56
+14,,Romance,1985,109,Italian,Japan,221409171.86,113857895.3,-2.0,84,A24,16,Cancelled,2019-09-15 04:44:34
+15,Dark Promise,Crime,2016,206,Korean,Spain,241509975.99,329268411.42,14.3,35,Netflix,12,Production,2023-01-23 15:48:30
+16,First Storm,Horror,1980,118,Hindi,Italy,49399213.85,350811970.54,3.3,62,Focus Features,18,Cancelled,2019-05-21 23:34:51
+17,First Dream,Drama,1998,186,Japanese,Brazil,-2165375,-7863457,3.5,113,Warner Bros,7,Released,2017-01-16 06:21:26
+18,First Kingdom,Animation,1982,107,Italian,France,54890319.71,225146511.93,1.1,183,Paramount,16,Production,2018-12-02 06:29:47
+19,Sacred Shadow,Thriller,2023,152,English,Brazil,156517412.75,574704158.84,8.8,56,Universal,7,Cancelled,2021-06-01 05:50:17
+20,Broken Shadow,,1982,191,Spanish,South Korea,74992315.79,617381584.92,9.5,16,Warner Bros,12,Cancelled,2017-12-18 03:08:31
+21,Last Star,Crime,2008,75,Korean,Brazil,269649581.76,393806253.75,7.1,48,Focus Features,12,Production,2022-05-28 19:58:55
+22,Golden Fire,Comedy,1996,deux heures,Hindi,Italy,264938245.57,327731269.87,3.8,138,Amazon Studios,7,Cancelled,2022-09-05 19:18:20
+23,Rising Star,Documentary,1982,103,English,Germany,57889183.75,577612326.15,5.3,152,Sony Pictures,0,Production,2018-10-23 02:00:59
+24,Infinite River,Drama,2020,212,Italian,South Korea,17960857.32,476165846.08,8.3,56,Focus Features,0,Released,2018-09-13 06:12:33
+25,Lost Mountain,Comedy,2015,97,Portuguese,South Korea,210913849.65,93781746.81,5.8,169,Disney,18,Cancelled,2022-06-11 17:20:54
+26,Silent Dream,Romance,2000,214,Italian,India,76599693.59,402805060.12,7.4,153,Warner Bros,18,Released,2019-01-10 07:13:54
+27,Silent Storm,Adventure,2015,216,Spanish,France,107018898.11,330437895.43,3.1,24,Lionsgate,16,Cancelled,2018-12-03 23:20:50
+28,Fallen Fire,Adventure,1986,-45,Portuguese,Italy,17248851.29,313202393.24,4.7,198,Paramount,18,Released,2021-01-10 16:02:20
+29,Golden Promise,Documentary,1989,170,Portuguese,Canada,67014645.63,354950731.25,1.7,13,Focus Features,16,Production,2016-07-17 13:49:44
+30,Dark Dawn,Thriller,2021,213,Hindi,Germany,80243998.66,616295701.32,2.0,94,Netflix,7,Production,2020-10-21 00:49:19
+31,Dark Moon,Animation,2008,129,Korean,UK,255902861.48,49178758.22,9.2,74,Warner Bros,12,Cancelled,2016-05-15 15:01:21
+32,Last Legacy,Documentary,1996,106,English,Italy,199226738.43,153370650.38,7.9,14,A24,0,Released,2021-11-09 21:54:58
+33,Lost Moon,Action,2021,167,French,South Korea,179333369.36,179067792.49,5.9,11,Paramount,18,Production,2020-08-13 23:10:01
+34,Silent Moon,Horror,2012,85,Italian,USA,284760367.3,307673358.95,2.2,134,Lionsgate,7,Production,2018-10-05 13:19:58
+35,Broken Star,Comedy,1988,121,Japanese,Brazil,157379742.31,896117651.63,2.3,41,Netflix,0,Cancelled,2023-12-04 05:20:53
+36,Infinite Dawn,Sci-Fi,2006,147,Japanese,UK,32478044.14,686226490.61,3.3,60,Lionsgate,7,Released,2015-06-03 22:49:30
+37,Dark Empire,Animation,2003,169,Spanish,UK,10152751.19,13611332.98,4.6,52,Paramount,0,Released,2022-10-16 22:20:55
+38,Fallen Mountain,Action,2004,170,Portuguese,Canada,192597450.43,34756924.53,5.0,63,Focus Features,18,Production,2015-09-13 16:48:40
+39,The River,Romance,1998,178,English,Brazil,43100765.82,406583109.24,2.0,179,Focus Features,7,Production,2021-06-15 00:11:29
+40,Broken River,Drama,2024,111,French,France,135094826.2,471483193.73,8.0,41,Amazon Studios,18,Production,2015-03-11 18:55:42
+41,Eternal Dawn,Comedy,1983,149,German,Japan,35707416.53,182646249.58,3.2,128,Focus Features,0,Cancelled,2022-04-07 18:42:30
+42,Fallen Dream 453,,2015,212,Arabic,USA,16991649.43,130922437.15,6.1,85,Universal,0,Released,2021-03-06 21:18:39
+43,Lost Journey 587,Comedy,2017,79,Japanese,South Korea,113992335.8,384648723.07,3.6,178,Sony Pictures,12,Cancelled,2021-09-07 22:13:39
+44,The Shadow,Crime,1985,143,Korean,Japan,298509788.5,116828852.49,5.6,127,Disney,18,Released,2019-04-01 03:01:29
+45,Lost Shadow,Thriller,2006,155,Arabic,USA,207160109.93,61145673.47,5.8,30,Netflix,12,Production,2024-10-01 05:12:21
+46,Eternal Star,Animation,1982,193,German,India,139009787.57,835018200.09,5.6,174,Netflix,18,Cancelled,2015-04-19 21:21:51
+47,Infinite Moon,Comedy,1981,166,Spanish,Canada,56619983.59,704131308.99,8.5,70,Amazon Studios,0,Production,2018-06-15 09:13:33
+48,First Fire,Action,1985,76,Hindi,UK,277129211.98,471312802.56,2.3,133,Disney,7,Cancelled,2015-08-13 22:55:33
+49,A Storm,Action,2018,155,English,France,197865793.86,519846094.99,8.9,50,Sony Pictures,12,Cancelled,2020-08-22 03:17:09
+50,Dark Ocean,Fantasy,1986,159,Japanese,UK,241298850.12,154230350.43,8.9,13,Disney,0,Production,2015-02-13 01:05:27
+51,Rising Fire,Fantasy,2024,161,Arabic,Brazil,242885297.03,830513313.83,6.0,179,A24,0,Production,2019-11-21 22:49:29
+52,Fallen Mountain 971,Fantasy,2003,154,Korean,Spain,20076877.05,430839012.03,3.5,148,Disney,18,Released,2021-12-26 03:20:35
+53,Lost Night,Documentary,2017,132,German,Italy,62867324.67,388090533.03,6.0,178,Paramount,7,Cancelled,2016-12-23 18:53:31
+54,A Promise,Sci-Fi,2008,173,French,Australia,231517341.97,444916203.14,1.8,149,Warner Bros,7,Cancelled,2017-08-18 09:24:39
+55,Broken Vision,Crime,1999,147,Italian,Brazil,103607255.62,7406515.24,4.6,76,Warner Bros,12,Cancelled,2015-01-23 17:52:22
+56,A Sky,Thriller,2017,151,Italian,Italy,63759214.37,125248072.23,8.4,107,Disney,12,Cancelled,2017-03-01 02:41:01
+57,Dark Kingdom,Comedy,2021,186,Portuguese,Italy,136591110.58,738082275.28,3.0,2,Lionsgate,16,Cancelled,2018-12-17 08:26:59
+58,Golden Promise 376,Action,2003,193,French,UK,158159212.12,675548929.94,5.5,157,Universal,7,Production,2016-11-21 17:51:37
+59,First Journey,Sci-Fi,1980,201,Portuguese,Brazil,106197905.23,265226689.26,7.1,78,Lionsgate,12,Released,2022-10-06 18:03:42
+60,First Journey 28,Drama,1984,141,Portuguese,Japan,77458238.32,543479003.57,7.5,95,Disney,12,Cancelled,2018-08-06 16:55:02
+61,Silent Night,Fantasy,1989,175,Arabic,Australia,191453612.62,660951563.73,6.7,30,Warner Bros,7,Production,2021-08-10 15:47:48
+62,Infinite Legacy,Crime,2010,205,English,Japan,134921776.77,865590274.25,1.4,164,Netflix,16,Cancelled,2019-06-09 08:51:06
+63,First Promise,Crime,2023,119,Spanish,South Korea,202004156.99,10864073.78,1.9,57,Sony Pictures,12,Released,2015-01-20 02:03:38
+64,Lost River,Crime,1987,103,Portuguese,UK,208848263.28,420313324.0,6.6,71,Amazon Studios,12,Production,2017-02-09 01:24:24
+65,Silent Hero,Horror,1984,121,Spanish,Australia,43589843.81,196626009.73,9.0,27,Warner Bros,0,Released,2024-12-09 14:01:57
+66,Fallen Dawn,Action,2022,108,Italian,,212427892.79,430377669.53,7.4,18,Focus Features,7,Released,2021-12-27 15:07:36
+67,Golden Moon,Horror,2020,93,Korean,France,228255697.72,182888112.18,9.5,77,Amazon Studios,0,Cancelled,2020-08-03 20:28:47
+68,Last Dawn,Action,2017,169,Hindi,Australia,160415044.01,404431619.07,1.3,185,Warner Bros,16,Released,2018-11-22 16:29:43
+69,Eternal Legacy,Fantasy,1875,106,English,Spain,185702438.87,-43457191,1.4,25,A24,18,Released,2024-02-27 03:07:31
+70,Broken Journey,Thriller,2023,100,Portuguese,India,251009914.14,687828671.34,4.0,37,Amazon Studios,7,Cancelled,2020-09-06 14:15:59
+71,Broken Hero,Crime,2031,194,English,UK,212169003.91,255430017.91,8.0,33,Paramount,7,Cancelled,2019-09-15 13:15:11
+72,Broken Hero 611,Animation,1985,147,English,India,35693592.9,86205901.08,7.7,57,A24,7,Production,2015-04-04 04:43:54
+73,Infinite Kingdom,Comedy,1982,163,Italian,Japan,241643525.53,39081402.64,9.1,8,A24,18,Released,2016-04-24 14:37:37
+74,Silent Dream 204,Sci-Fi,1987,95,Italian,Germany,66588496.11,436018503.54,2.3,117,Disney,16,Production,2017-08-24 06:40:22
+75,First River,Action,1983,98,German,Italy,103401014.46,543312020.96,6.6,44,Lionsgate,18,Released,2016-07-28 16:31:55
+76,Last Promise,Animation,2007,133,Italian,Canada,278280164.55,822387873.24,4.7,121,Focus Features,0,Production,2023-07-16 22:52:06
+77,Fallen Kingdom,Documentary,2024,125,Japanese,Germany,27673486.73,274422458.34,8.5,7,A24,16,Released,2021-03-26 11:40:29
+78,Hidden Storm,Drama,2024,78,Japanese,Brazil,162959314.38,708943890.54,8.8,15,Focus Features,12,Released,2016-07-12 14:39:02
+79,Silent Moon 180,Adventure,1993,155,French,Australia,281774805.78,863197447.61,7.6,91,Sony Pictures,18,Cancelled,2021-05-02 02:23:22
+80,Fallen Kingdom 514,Drama,2014,206,German,Canada,202155290.65,880278191.66,2.7,23,Universal,16,Released,2019-02-04 05:17:07
+81,Hidden Dawn,Thriller,1875,176,Hindi,UK,126328926.92,19431920.38,1.2,134,Netflix,16,Cancelled,2020-11-21 10:31:37
+82,Lost Empire,Animation,2016,148,Japanese,Germany,291231852.49,42682310.96,5.0,42,Focus Features,12,Released,2017-12-23 21:50:09
+83,Dark Mountain,Sci-Fi,2008,117,English,Australia,103482181.03,485925949.99,3.7,104,A24,7,Production,2020-03-01 23:34:32
+84,Silent Sky,Horror,2016,214,German,South Korea,219626336.12,125567021.78,3.7,57,A24,12,Released,2020-01-20 20:12:37
+85,Golden Mountain,Horror,1985,184,French,India,147394375.4,460449102.79,6.9,184,Amazon Studios,12,Production,2020-01-10 11:22:19
+86,Fallen Legacy 90,Animation,2006,143,Italian,Brazil,42300522.22,77561569.09,5.2,86,Universal,18,Production,2016-01-14 20:58:17
+87,Rising Fire 570,Fantasy,1988,167,German,USA,90946873.38,444741026.85,3.0,40,Sony Pictures,12,Cancelled,2022-02-21 21:57:18
+88,Rising Fire 504,Crime,1987,196,French,Canada,174529198.14,781524491.78,5.2,31,Netflix,18,Cancelled,2024-01-28 08:10:37
+89,The Dawn,Adventure,1990,162,Korean,USA,159118892.8,462528457.1,2.6,193,Disney,18,Production,2020-11-26 09:17:43
+90,Hidden Moon,Fantasy,2031,202,German,Italy,273280999.56,139183967.75,2.7,158,Focus Features,18,Cancelled,2023-12-25 03:26:29
+91,Infinite Night,Comedy,2010,162,German,Canada,291048380.65,274285364.86,2.0,178,Disney,7,Production,2017-04-05 02:27:44
+92,,Animation,1982,78,Hindi,Canada,36117204.29,59716000.31,7.6,155,Paramount,18,Released,2017-11-12 00:05:09
+93,Eternal Ocean,Sci-Fi,2012,131,French,France,229091587.87,644258889.44,2.5,2,Universal,7,Cancelled,2022-06-23 18:11:28
+94,Lost Shadow 186,Romance,2012,98,Korean,France,156158410.59,325189287.11,7.4,127,Universal,16,Production,2022-10-24 09:43:53
+95,Fallen Mountain 568,Romance,1984,191,Korean,,202410594.17,356793145.7,7.0,102,Amazon Studios,18,Released,2017-02-12 06:21:12
+96,Broken Sun,Romance,1997,218,Italian,South Korea,181148047.02,436131120.05,7.8,65,A24,16,Released,2017-01-04 23:03:53
+97,A Kingdom,Comedy,2023,147,French,France,156224699.42,419473044.69,5.4,139,Netflix,18,Cancelled,2015-01-14 03:24:28
+98,Silent Sun,Action,2015,147,Spanish,Spain,94081672.76,687633623.09,5.3,139,Lionsgate,16,Production,2023-03-17 01:25:16
+99,Fallen Promise,Fantasy,1998,77,Spanish,South Korea,-11950668,342577982.63,9.7,15,Paramount,7,Released,2019-10-03 22:04:55
+100,First Shadow,Action,1982,178,Italian,,-11120458,340026060.33,6.0,26,Paramount,12,Production,2023-11-11 05:39:19
+101,Silent Dream 207,Drama,2014,137,Portuguese,Italy,187559400.87,645964388.06,6.2,146,Focus Features,16,Production,2018-06-26 02:41:52
+102,First Empire,Romance,2000,172,Hindi,Spain,164494965.39,565096758.51,2.6,170,A24,12,Cancelled,2023-10-28 13:59:36
+103,Hidden Hero,Sci-Fi,1995,146,Italian,South Korea,273385770.33,761385687.94,3.5,176,Lionsgate,7,Production,2018-02-05 06:01:15
+104,Sacred Sky,Documentary,2007,79,Japanese,UK,237006117.1,495680430.37,1.4,6,Warner Bros,0,Production,2024-05-28 02:57:26
+105,Infinite Moon 688,Drama,1988,216,French,India,174335712.49,472781597.65,1.8,198,Netflix,12,Cancelled,2021-12-24 07:59:27
+106,Last Dawn 110,Horror,1996,84,Korean,Brazil,95288738.96,614496328.94,8.7,93,A24,12,Production,2015-11-20 01:53:47
+107,Lost Hero,Crime,2015,162,French,India,257365318.18,818819211.09,9.6,24,Paramount,12,Released,2017-08-21 10:56:51
+108,Sacred Dream,Horror,2011,175,Korean,Brazil,275604586.44,144392977.73,1.6,187,Focus Features,12,Production,2015-01-21 20:11:40
+109,Fallen Dawn 4,Crime,2016,110,Spanish,Canada,237896367.33,430581095.41,3.3,84,Sony Pictures,7,Released,2021-06-06 12:56:24
+110,Eternal Promise,Action,2021,128,German,Germany,255623345.92,556241844.21,2.3,44,Lionsgate,0,Released,2023-07-25 14:52:43
+111,Fallen Shadow,Thriller,1997,196,Italian,Germany,298564631.27,609502067.2,4.6,75,Sony Pictures,7,Cancelled,2022-04-12 18:43:41
+112,,Comedy,2024,124,Italian,Brazil,22380157.66,46996139.2,5.1,156,Lionsgate,0,Released,2019-09-20 12:19:25
+113,Lost Moon 136,Documentary,1991,198,Korean,Spain,95536557.34,127701981.05,1.4,72,Netflix,16,Production,2019-10-27 08:33:20
+114,Rising Fire 324,Animation,1989,182,Spanish,USA,11240743.33,635395980.03,9.8,11,A24,12,Cancelled,2023-08-15 15:07:54
+115,Hidden Dawn 127,Thriller,1991,200,Portuguese,Australia,175272443.6,473461264.4,4.7,197,A24,0,Production,2015-05-22 21:07:25
+116,Silent Promise,Drama,1875,187,German,Spain,81160871.59,296551286.82,6.5,188,Lionsgate,7,Released,2015-11-10 10:51:03
+117,Hidden Night 561,Romance,1996,172,Arabic,UK,121017672.09,858993766.35,3.6,189,Sony Pictures,18,Released,2020-11-04 11:32:12
+118,Fallen Vision,Animation,2018,178,Portuguese,UK,128092121.1,307636188.17,3.0,40,A24,18,Cancelled,2023-02-10 14:27:05
+119,Infinite Kingdom 308,Comedy,1999,203,Portuguese,USA,275231952.83,459635360.58,5.1,65,Netflix,12,Cancelled,2016-09-01 03:47:42
+120,Fallen Fire 806,Romance,2006,146,German,Australia,242446303.49,826308922.97,2.9,155,Sony Pictures,0,Production,2023-01-01 12:07:00
+121,Dark Kingdom 472,Crime,2018,147,Portuguese,South Korea,288960912.32,724196197.39,2.2,5,Paramount,0,Released,2022-11-05 20:15:27
+122,Eternal Legacy 196,Animation,1875,112,German,Spain,258009035.41,181284444.18,8.3,3,Universal,16,Production,2022-12-19 19:46:35
+123,First Hero,Animation,2019,194,English,,173132803.92,241137198.88,8.8,160,Netflix,16,Cancelled,2021-01-06 09:46:12
+124,Fallen Moon,Documentary,2023,189,Japanese,Brazil,287961108.8,605829253.55,8.0,42,Lionsgate,7,Production,2016-11-16 04:11:12
+125,Dark Journey,Romance,2011,123,English,South Korea,107434640.51,745171024.7,1.3,111,Universal,18,Released,2016-09-08 15:16:21
+126,Sacred Moon,Documentary,1989,201,French,Brazil,283907184.33,866386133.43,9.6,157,Universal,18,Released,2023-02-06 20:07:55
+127,Last Moon,Horror,2012,95,Korean,South Korea,37333549.09,872676036.54,1.1,122,Netflix,12,Cancelled,2017-02-09 11:45:48
+128,Rising Moon,Thriller,2013,128,Italian,Italy,269470544.62,464588148.66,9.3,198,Warner Bros,18,Released,2016-06-11 12:49:10
+129,Rising Hero,Action,2021,217,Hindi,Japan,265791963.69,786204373.14,3.8,72,Focus Features,18,Released,2021-08-21 06:56:34
+130,Broken Journey 668,Sci-Fi,2021,120,French,USA,117303064.9,791900067.0,5.8,131,Focus Features,12,Cancelled,2020-11-06 00:01:56
+131,Sacred Legacy,Thriller,1999,199,English,South Korea,152496063.44,680928292.74,4.9,2,A24,12,Released,2024-10-23 20:42:34
+132,Eternal Journey,Horror,2016,166,Arabic,France,174919529.23,325204652.78,7.3,21,Universal,0,Production,2017-08-07 14:04:23
+133,Lost Empire 413,Documentary,1996,178,German,Brazil,247231643.18,114498867.69,2.1,136,Universal,7,Production,2022-01-24 05:35:23
+134,Infinite Shadow,Romance,2003,80,French,South Korea,112650698.32,25277209.08,7.9,79,Sony Pictures,7,Released,2022-01-04 17:22:04
+135,Eternal Hero,Fantasy,2008,166,Portuguese,UK,151676776.45,404991459.27,8.6,160,Lionsgate,16,Production,2018-07-11 17:02:42
+136,Infinite Vision,Crime,1990,216,Japanese,India,193352299.79,859655976.87,7.7,134,Paramount,16,Cancelled,2015-02-22 17:11:01
+137,First River 252,Fantasy,2014,172,German,USA,-18213443,285712453.59,2.0,44,Sony Pictures,7,Released,2019-02-05 09:26:43
+138,Dark Hero,Sci-Fi,1983,95,Italian,South Korea,282502465.81,46785118.87,6.3,131,Focus Features,16,Released,2019-01-11 14:35:26
+139,A Kingdom 30,Thriller,1981,220,Arabic,India,38108617.11,401439431.87,5.4,37,Netflix,18,Released,2018-09-14 17:28:02
+140,The Vision,Fantasy,2031,193,Japanese,Australia,105749667.13,526684733.9,1.4,145,Universal,12,Released,2021-12-04 04:46:35
+141,First Dream 216,Sci-Fi,2001,185,Korean,South Korea,287718307.48,822625015.31,9.1,2,Warner Bros,7,Production,2023-12-23 15:48:25
+142,Golden Night,Crime,1875,183,Korean,Italy,107710739.27,691192463.34,1.1,50,A24,0,Released,2015-05-22 22:22:12
+143,A Journey,Adventure,2011,79,Portuguese,,295286929.63,99940780.23,5.4,50,Lionsgate,18,Cancelled,2017-02-19 04:47:04
+144,Dark Ocean 956,Thriller,1997,75,Hindi,Canada,168254735.19,844107542.97,9.3,83,Amazon Studios,16,Production,2016-11-17 14:31:23
+145,Golden Hero,Thriller,2006,deux heures,Arabic,South Korea,-8070819,880288240.44,1.7,43,Netflix,12,Released,2016-01-16 13:51:01
+146,Broken Star 861,Drama,2001,155,Arabic,France,186060183.4,562851346.92,1.8,9,Amazon Studios,12,Cancelled,2016-03-02 14:03:19
+147,Broken Dream,Crime,1983,167,Portuguese,Italy,180072968.05,9644830.39,8.0,159,Universal,12,Cancelled,2015-08-17 10:37:12
+148,,Adventure,1992,102,Japanese,South Korea,217524599.44,218912914.84,1.5,112,Focus Features,12,Production,2024-09-25 04:09:30
+149,First Journey 352,Action,2022,84,Hindi,USA,59024435.33,817659346.54,4.0,178,A24,18,Cancelled,2020-10-19 10:39:19
+150,Rising Star 167,Action,1980,128,Arabic,Germany,230620348.91,726563449.4,4.5,2,Netflix,0,Released,2020-01-18 03:09:18
+151,Fallen River,Sci-Fi,1981,142,Japanese,Brazil,254336488.05,176469205.26,3.3,174,Disney,16,Cancelled,2016-06-07 09:29:15
+152,Silent Moon 677,Documentary,2019,86,Spanish,Germany,113769561.05,539634291.43,3.2,158,Lionsgate,7,Cancelled,2019-03-11 07:03:40
+153,Sacred Ocean,Documentary,2011,90,Portuguese,France,116740695.21,676047528.91,5.6,183,Netflix,18,Cancelled,2022-12-16 15:17:37
+154,Rising Promise,Thriller,1992,130,Japanese,Italy,171625430.83,336759209.02,2.2,114,Focus Features,12,Released,2024-01-15 16:39:21
+155,Rising Vision,Romance,2011,deux heures,German,Germany,23228588.59,265136587.47,5.8,71,Paramount,0,Released,2016-06-02 17:12:21
+156,Last Star 257,Crime,1992,105,Hindi,,90192508.54,704837115.86,4.6,168,Warner Bros,16,Cancelled,2023-03-28 12:14:14
+157,Hidden River,Documentary,2015,188,French,South Korea,128923495.75,375977309.42,-2.6,33,Sony Pictures,0,Production,2020-06-08 13:27:43
+158,Sacred Sun,Adventure,2000,215,Spanish,UK,298280082.5,719251285.21,6.1,98,Paramount,16,Released,2023-07-07 15:06:21
+159,Broken Vision 655,Drama,2023,78,Portuguese,Spain,60100121.09,347366113.55,3.6,117,Warner Bros,12,Cancelled,2015-03-11 13:25:10
+160,A Dawn,Animation,2004,122,Arabic,Japan,213046648.41,543378132.87,6.2,176,A24,12,Released,2015-03-15 02:52:25
+161,Broken Mountain,Fantasy,2009,80,Japanese,Australia,137163833.89,640511975.5,6.4,45,Amazon Studios,7,Released,2024-12-14 14:24:58
+162,Lost Fire,Drama,1982,110,Hindi,Japan,20489787.08,812021024.37,4.6,32,Netflix,0,Released,2023-06-14 14:10:16
+163,Last Empire,Action,2024,188,Italian,Germany,3715839.74,825431564.39,7.6,18,Universal,18,Cancelled,2018-12-15 04:30:52
+164,First Fire 175,Fantasy,1998,170,English,Australia,132477068.26,642999603.78,5.7,13,Focus Features,0,Production,2019-08-02 19:00:03
+165,Sacred Sun 786,Thriller,1995,74,English,South Korea,204147877.94,862874855.14,8.4,186,Disney,0,Production,2023-02-27 10:20:35
+166,Lost River 640,Documentary,2007,124,Korean,,-7639307,412952460.98,8.2,95,Warner Bros,0,Released,2021-05-25 19:31:06
+167,Hidden Legacy,Fantasy,1986,169,Spanish,South Korea,228634026.76,880221575.92,14.6,115,Amazon Studios,18,Cancelled,2018-09-19 22:00:14
+168,The Journey,Drama,2007,90,Korean,Spain,45925340.32,34212253.33,6.3,190,Netflix,7,Production,2020-11-26 01:33:50
+169,Rising Sky,Thriller,2001,122,Arabic,Australia,67121994.34,469372587.54,6.5,126,Universal,7,Released,2017-04-05 02:11:37
+170,Golden River,Drama,2009,120,Spanish,Canada,85963190.56,572079834.53,7.9,93,Amazon Studios,16,Released,2022-08-14 16:39:47
+171,Rising Dawn,,2004,91,Japanese,Canada,166079214.98,342467168.52,3.5,124,Universal,12,Released,2022-04-05 06:00:00
+172,Eternal Empire 748,Animation,2006,165,Japanese,Australia,21834689.6,893225975.05,9.2,196,Amazon Studios,12,Cancelled,2020-09-23 15:40:44
+173,Silent Hero 667,Romance,1995,162,English,Brazil,44791342.29,849844272.97,3.2,170,Disney,0,Released,2016-11-23 12:25:45
+174,Broken Night,Thriller,1990,134,Hindi,India,115145188.8,370506932.05,7.4,163,Lionsgate,12,Released,2019-12-07 23:25:44
+175,First Storm 173,Action,2024,176,Italian,UK,56326811.61,437875486.39,2.0,55,Disney,7,Released,2017-04-09 13:28:40
+176,Infinite Journey,Crime,1998,101,Korean,USA,143630187.04,90818146.94,13.3,11,Universal,7,Cancelled,2015-07-20 16:48:17
+177,Infinite Kingdom 485,Fantasy,2003,157,Arabic,South Korea,113841491.62,320490707.57,1.9,179,Amazon Studios,7,Released,2024-02-28 16:17:44
+178,Sacred Mountain,Fantasy,2010,deux heures,Korean,USA,262093630.29,662258147.08,3.1,190,Lionsgate,0,Production,2021-08-22 22:57:06
+179,Hidden Sun,Thriller,2013,-45,German,France,202082117.09,787319720.66,4.9,170,Focus Features,7,Released,2018-03-25 21:44:05
+180,A Dream,Action,2000,141,Japanese,Australia,269304509.68,122267213.55,7.4,178,Netflix,7,Cancelled,2024-02-21 10:24:58
+181,Hidden Sun 670,Documentary,2007,127,Japanese,France,102401237.27,169421919.07,6.0,81,Amazon Studios,18,Cancelled,2015-05-02 18:34:12
+182,Eternal Sun,Sci-Fi,2023,102,Portuguese,Canada,118896058.96,414596432.83,9.3,128,A24,7,Cancelled,2019-03-24 21:54:51
+183,Eternal Hero 614,Documentary,1987,216,Arabic,Spain,289965463.04,729208139.45,7.3,58,Warner Bros,7,Production,2021-05-27 21:58:54
+184,Dark Storm,Sci-Fi,2010,170,Hindi,Brazil,209064706.55,770641372.68,2.2,149,Warner Bros,12,Production,2017-10-05 14:44:30
+185,First Dawn,Adventure,2031,217,Spanish,Italy,128419763.81,833394204.52,9.6,14,Universal,18,Cancelled,2020-10-14 04:40:46
+186,Rising Mountain,Thriller,1999,114,Italian,Brazil,201385399.98,417360031.81,4.4,114,Netflix,0,Released,2016-02-04 15:41:42
+187,Infinite Empire,Fantasy,2016,94,Spanish,Italy,193556696.37,514323647.13,1.6,138,Disney,16,Cancelled,2015-07-18 17:50:51
+188,Golden Kingdom,Fantasy,2021,123,French,UK,-15506645,720481623.35,2.1,42,Universal,18,Production,2015-02-04 16:19:23
+189,Golden Fire 434,,1999,202,Japanese,Australia,42386586.4,281711150.61,9.8,131,Paramount,0,Cancelled,2015-04-02 06:09:19
+190,Eternal River,Fantasy,2017,102,Italian,France,78571995.44,147071105.22,9.3,178,Disney,18,Released,2016-11-24 08:40:44
+191,Lost River 732,Crime,2012,177,Korean,Italy,289223301.5,243185697.69,7.0,85,Universal,12,Production,2019-03-28 07:17:00
+192,A Sun 993,Drama,1987,148,German,France,210286432.95,496432854.55,8.9,193,Amazon Studios,7,Production,2023-09-20 12:30:37
+193,Dark Ocean 10,Adventure,1988,215,English,Brazil,111360134.06,610425881.07,5.0,91,A24,18,Production,2019-07-17 22:56:59
+194,Eternal Mountain,Drama,2006,93,French,Brazil,28543265.67,76218150.26,9.2,3,Amazon Studios,18,Cancelled,2017-08-16 16:43:43
+195,Infinite Legacy 715,Action,1980,206,Arabic,Brazil,276177457.39,850452750.62,1.4,44,Focus Features,7,Released,2016-06-27 04:32:22
+196,The Dream,Comedy,1987,133,French,Japan,88416739.32,664249347.35,2.9,165,Focus Features,0,Production,2024-08-02 11:00:39
+197,Fallen Star,,1991,72,German,Germany,154538420.56,111545999.4,2.4,58,A24,16,Production,2019-06-14 05:34:51
+198,First Shadow 450,Animation,2002,71,Arabic,France,12556764.1,669557195.84,2.4,123,Sony Pictures,0,Production,2022-09-16 21:45:08
+199,Silent Sun 514,Adventure,2004,97,Spanish,UK,4587862.11,46930649.25,4.8,3,Amazon Studios,16,Production,2019-08-03 13:15:39
+200,Dark Empire 192,Drama,2024,179,French,Brazil,183524583.0,769399239.18,2.3,103,Warner Bros,12,Released,2017-07-01 19:12:05
+201,Eternal Hero 390,Horror,1994,179,Hindi,Italy,91634852.0,252572291.07,4.7,13,Disney,0,Released,2015-11-24 10:13:18
+202,Fallen Ocean,Drama,1996,163,French,France,205046973.07,117364247.18,8.1,151,Focus Features,18,Production,2018-11-09 06:37:24
+203,A Shadow 134,Fantasy,2017,118,German,France,164200417.34,652843058.17,2.8,12,Disney,7,Production,2023-12-09 17:22:57
+204,Silent Vision,Drama,1984,204,Hindi,USA,82607517.91,260761755.05,1.5,49,Amazon Studios,16,Cancelled,2023-09-03 05:28:48
+205,Golden Sun,Romance,1997,70,Arabic,Canada,263806927.56,409951344.14,5.6,57,Sony Pictures,12,Cancelled,2016-03-08 01:34:15
+206,First Hero 655,Horror,1997,83,Arabic,Germany,919288.46,544683066.26,1.7,141,Sony Pictures,7,Production,2024-05-11 01:40:52
+207,The Moon,Horror,1981,219,Italian,Australia,188055777.51,185622492.35,3.9,162,Amazon Studios,7,Production,2018-12-24 13:23:09
+208,Infinite Kingdom 96,Animation,1991,195,Spanish,Australia,93392986.15,735767530.94,2.7,110,Paramount,16,Cancelled,2021-02-24 16:08:46
+209,Sacred Storm,Romance,1987,81,French,Japan,-815283,861860160.22,7.5,182,Universal,7,Released,2022-10-15 05:19:21
+210,Fallen Dawn 250,Adventure,2014,81,Japanese,France,251026773.74,-29664573,4.4,74,Paramount,16,Cancelled,2016-08-06 03:14:06
+211,First Moon,Sci-Fi,1985,108,Hindi,South Korea,203990276.86,600579319.15,8.2,27,Sony Pictures,16,Cancelled,2020-05-26 22:51:04
+212,Sacred Storm 883,Comedy,1989,169,German,France,128522221.42,130286571.05,2.1,91,Netflix,16,Production,2022-12-14 19:50:40
+213,Silent Dawn,Crime,2004,197,German,India,69419297.25,643457455.52,7.8,57,Universal,7,Production,2015-04-28 00:23:35
+214,Fallen Dawn 944,Sci-Fi,1988,106,Hindi,Italy,248432631.42,124107401.37,7.2,7,Amazon Studios,12,Released,2016-11-19 02:30:53
+215,Broken Fire,Sci-Fi,1995,215,Italian,UK,141194538.84,474752288.96,5.1,114,Warner Bros,12,Released,2017-01-21 01:38:48
+216,,Romance,2009,136,Hindi,Japan,127389243.35,875812784.05,9.6,55,Amazon Studios,18,Released,2018-07-06 23:35:38
+217,Eternal Night,Animation,2021,167,Korean,Australia,81340908.27,326495196.05,4.0,42,Focus Features,0,Released,2018-10-01 09:12:35
+218,Last Hero,Drama,2016,193,Korean,France,3039379.87,254233721.63,2.7,186,Netflix,7,Cancelled,2016-06-14 23:32:06
+219,,Romance,1982,108,French,Australia,215679580.85,726747682.89,7.8,129,Focus Features,18,Cancelled,2023-06-15 04:21:18
+220,Silent Journey,Romance,2023,123,Portuguese,France,170286808.01,-21773032,5.8,23,A24,0,Production,2020-03-10 05:04:17
+221,Broken Moon,Drama,2009,191,German,Australia,281978926.16,439484269.97,3.5,159,Disney,16,Production,2023-10-11 11:05:43
+222,Rising Empire,Crime,2021,132,Hindi,USA,32036753.16,513163340.29,3.0,172,Universal,12,Production,2022-11-18 14:06:05
+223,Dark Shadow,Romance,1992,86,Portuguese,Spain,222514786.04,409175323.37,9.3,55,Netflix,18,Released,2024-07-02 11:50:27
+224,Fallen River 56,Action,2023,134,French,UK,121818009.79,641014811.42,5.6,67,Disney,0,Released,2021-06-25 09:10:12
+225,Silent Dream 494,Adventure,2024,216,English,India,179340027.27,601199443.29,3.8,188,Netflix,0,Released,2022-03-16 10:07:50
+226,Lost Dream,,2008,102,Portuguese,France,223839408.69,626831834.19,6.3,54,Paramount,18,Released,2020-06-01 09:57:19
+227,Golden Shadow,Crime,2006,160,Italian,India,101080070.85,412995326.02,5.9,112,Amazon Studios,12,Cancelled,2021-11-10 22:39:59
+228,Infinite Shadow 90,Drama,1981,175,Portuguese,India,133508955.26,29468720.01,4.7,117,Focus Features,16,Released,2018-08-04 11:50:58
+229,Fallen Dream 930,Adventure,2031,165,Hindi,Japan,197775211.58,812415490.42,14.6,9,Warner Bros,0,Released,2020-09-27 23:38:20
+230,Silent Fire,Romance,2005,170,Portuguese,Italy,191063910.65,156428172.01,5.6,26,Disney,18,Released,2024-07-27 20:58:16
+231,Eternal Legacy 163,Thriller,1981,-45,Hindi,France,8074317.96,885074430.85,7.8,168,Paramount,12,Released,2023-04-24 12:49:16
+232,Lost Hero 282,Comedy,2020,96,Portuguese,France,85097680.01,83590149.2,4.2,101,Universal,16,Released,2021-02-16 20:04:13
+233,Lost Dream 385,Crime,1990,72,Portuguese,Australia,9919416.86,894366246.0,6.4,41,Focus Features,12,Released,2018-10-01 17:01:33
+234,Golden Dawn 222,Drama,1981,126,Spanish,Japan,60171641.0,637304408.34,5.1,112,Focus Features,16,Released,2019-03-07 21:54:56
+235,Hidden Ocean,Drama,2017,122,German,Italy,127409327.87,734321390.39,6.3,146,Netflix,12,Cancelled,2016-08-06 01:32:16
+236,Broken Dream 301,Crime,2013,77,Korean,Italy,107644482.77,591293455.0,7.9,82,Warner Bros,12,Released,2022-10-26 10:57:14
+237,Golden Night 395,Thriller,1986,89,Italian,Australia,95676096.77,177491214.68,5.4,108,Universal,0,Production,2017-10-11 18:24:15
+238,Broken Storm,Crime,2016,188,Italian,USA,275451327.64,580333622.21,1.8,186,Sony Pictures,12,Production,2020-07-03 17:49:20
+239,Fallen Journey,Horror,2009,101,Portuguese,France,-4027768,894186980.2,7.4,23,Paramount,12,Cancelled,2015-12-28 01:16:56
+240,Sacred Hero,Horror,2001,167,Spanish,UK,36410475.18,133286534.31,8.5,164,A24,0,Cancelled,2023-04-19 15:42:31
+241,First Star,Animation,1996,91,Arabic,Australia,256831111.02,67722447.78,2.9,120,Amazon Studios,7,Production,2016-06-07 18:48:33
+242,Golden Star,Horror,2021,199,Spanish,Germany,115979936.76,558468199.67,4.5,109,Disney,12,Cancelled,2016-03-15 03:47:07
+243,Last Storm,Comedy,2010,185,French,India,129726354.2,452021133.72,1.5,26,Warner Bros,16,Cancelled,2021-04-10 06:25:11
+244,Broken Ocean 543,Documentary,2023,133,Arabic,France,11188543.28,59356062.58,3.0,184,Amazon Studios,16,Production,2016-04-24 22:17:31
+245,Last Fire,Sci-Fi,2018,70,Hindi,Brazil,221857679.75,619173534.72,7.0,86,A24,7,Released,2022-07-11 00:11:16
+246,Infinite Night 175,Action,2010,195,German,France,5708551.08,261663646.78,5.4,199,Universal,0,Production,2020-08-16 23:22:34
+247,First Kingdom 260,Action,1999,202,Portuguese,Spain,205892355.17,18752477.39,8.5,37,Netflix,16,Released,2018-10-24 22:27:23
+248,Last Night,Romance,1997,209,German,India,273143036.92,298142983.7,9.3,49,Warner Bros,18,Cancelled,2020-10-04 13:50:29
+249,Broken Moon 296,Action,2023,108,Japanese,Canada,49200743.41,58248381.5,5.0,152,Universal,0,Production,2019-01-14 11:42:53
+250,The Hero,Sci-Fi,2012,213,French,Brazil,298776319.69,526743830.33,2.9,91,Paramount,16,Production,2021-02-09 09:38:19
+251,Dark Promise 447,Sci-Fi,1988,121,Italian,India,91846330.82,834414072.05,2.6,112,Universal,7,Cancelled,2022-12-11 16:59:43
+252,Hidden Moon 480,Animation,2006,-45,Italian,France,184754960.9,218456825.32,2.1,145,Sony Pictures,0,Production,2017-07-22 00:29:51
+253,Sacred Empire,Action,1997,97,French,Japan,207332574.26,109386268.73,5.5,180,Paramount,18,Released,2023-12-16 04:14:57
+254,Lost Dawn,Horror,1980,121,English,UK,36749808.03,183943859.36,8.3,15,Universal,12,Production,2022-03-27 07:53:54
+255,Golden Ocean,Crime,2022,180,English,UK,223507247.88,460412345.84,2.8,75,Universal,18,Production,2020-11-09 12:24:44
+256,Sacred Shadow 476,Romance,1998,214,Portuguese,Japan,195301486.76,400086997.52,4.1,186,A24,12,Released,2017-06-17 16:13:22
+257,Infinite Empire 400,Comedy,2002,214,Spanish,Japan,197703961.5,61482277.49,5.3,156,Disney,18,Cancelled,2023-11-17 08:08:44
+258,Silent Promise 979,Fantasy,2005,77,Spanish,Germany,32313020.39,428824064.56,9.6,188,Paramount,0,Released,2021-07-03 01:39:16
+259,A Hero,Drama,2003,77,Korean,France,113599869.27,516444317.5,3.2,74,Paramount,7,Cancelled,2017-07-27 16:51:50
+260,,Crime,1982,71,Italian,Canada,22053552.19,657006406.39,6.7,54,Lionsgate,16,Cancelled,2020-06-20 17:54:08
+261,Sacred Night,Crime,1984,102,Japanese,France,69556764.91,297894723.44,9.3,65,Amazon Studios,12,Released,2017-05-03 17:36:15
+262,Eternal Empire 955,Horror,1983,98,Japanese,Australia,101744550.16,301153666.79,2.2,188,Netflix,0,Released,2022-02-26 18:57:39
+263,Hidden Hero 355,Romance,2019,211,Spanish,Japan,31666334.31,202798012.42,5.2,59,Warner Bros,0,Released,2018-09-20 12:43:43
+264,Hidden Storm 566,Romance,2024,179,French,Spain,184888133.94,316675007.45,9.1,24,Lionsgate,0,Released,2021-12-25 17:36:02
+265,Sacred Storm 895,Action,1988,-45,Korean,Canada,73651181.18,545550848.35,2.1,65,Focus Features,7,Production,2020-04-15 22:19:23
+266,Sacred Legacy 300,Thriller,1997,208,English,South Korea,211797751.73,251877482.59,2.2,60,Sony Pictures,18,Released,2016-06-24 04:02:15
+267,Hidden Vision,Animation,1981,78,Portuguese,Italy,289546394.06,769131356.63,1.2,114,Warner Bros,7,Released,2021-03-22 13:34:03
+268,Lost Sky,Sci-Fi,2018,156,Japanese,Canada,8689868.94,559415316.0,7.9,193,Warner Bros,0,Cancelled,2021-12-22 09:54:34
+269,Fallen Dream 587,Documentary,2004,130,English,Japan,285314685.97,225014360.46,4.0,158,Sony Pictures,12,Production,2019-11-26 19:00:07
+270,First Promise 677,Horror,2008,deux heures,English,South Korea,253375436.49,52820493.89,3.4,81,Universal,16,Released,2019-05-09 15:08:14
+271,Lost Fire 151,Crime,1987,117,German,Canada,166245614.11,856538242.58,14.4,91,Focus Features,0,Cancelled,2018-06-04 02:32:28
+272,A Empire,Thriller,2003,176,Italian,Japan,98298892.24,301553707.92,6.7,76,Lionsgate,0,Released,2020-01-10 04:58:37
+273,The Shadow 624,Sci-Fi,2012,158,Italian,Canada,218014798.62,898038984.33,1.7,58,Lionsgate,18,Cancelled,2023-12-14 17:46:07
+274,Eternal Empire 818,Animation,2013,138,Portuguese,Japan,98941008.7,879729535.84,3.8,178,Paramount,16,Cancelled,2021-06-03 11:35:32
+275,A Moon,Fantasy,2006,102,Arabic,Italy,199937844.54,716290768.48,2.0,130,Disney,18,Production,2018-03-15 00:10:07
+276,Rising Ocean,Adventure,1986,78,English,Brazil,22367904.85,476425782.78,4.7,179,Focus Features,7,Cancelled,2019-02-11 10:37:38
+277,Broken Shadow 740,Adventure,2008,185,Italian,Japan,210184050.87,651364348.27,8.2,39,Warner Bros,18,Cancelled,2020-11-21 14:24:20
+278,Fallen Fire 521,Horror,1986,196,Portuguese,India,174158547.85,384077908.1,3.8,37,Warner Bros,7,Production,2023-05-19 19:20:06
+279,Silent Sky 170,Horror,1994,143,Japanese,Canada,277392497.84,126988712.31,8.4,8,Lionsgate,0,Cancelled,2023-04-01 15:53:52
+280,The Moon 209,Fantasy,2008,186,French,Brazil,253500865.26,389096127.01,8.6,188,Universal,12,Released,2018-12-03 10:10:32
+281,Silent Ocean,Adventure,1984,150,English,Italy,211678554.08,171439769.43,8.4,163,Warner Bros,7,Released,2024-07-28 07:43:12
+282,First Kingdom 156,Comedy,1998,92,Arabic,USA,147461999.99,639020460.11,7.1,162,Lionsgate,7,Cancelled,2020-08-17 21:11:56
+283,First Mountain,Crime,2020,161,Japanese,France,288894225.89,687566563.1,4.9,109,Universal,7,Production,2020-11-04 11:44:25
+284,Hidden Dawn 793,Animation,2023,144,Arabic,Italy,231653698.01,285924760.56,4.9,14,Sony Pictures,16,Cancelled,2018-06-21 01:19:28
+285,Rising Mountain 587,Documentary,2020,154,Hindi,USA,6824749.11,702412129.98,4.1,17,Warner Bros,18,Released,2020-09-07 05:53:34
+286,Rising Mountain 298,Sci-Fi,1993,133,English,USA,158203337.05,712229981.1,-1.2,177,Paramount,0,Production,2016-07-21 12:08:52
+287,Hidden Ocean 883,Drama,1875,208,Spanish,France,237889691.84,545161853.67,3.8,6,Sony Pictures,12,Production,2018-02-09 20:36:30
+288,Rising Sky 440,Romance,2010,206,Italian,USA,218403457.31,686454074.63,5.0,7,Amazon Studios,7,Production,2020-08-19 03:41:19
+289,Silent Dawn 830,Drama,1990,195,French,UK,251502083.64,755701043.39,1.5,106,Sony Pictures,12,Released,2015-06-23 18:38:26
+290,Eternal Storm,Thriller,2011,150,Arabic,South Korea,145157401.88,665742523.84,9.1,20,Amazon Studios,7,Released,2017-09-24 03:10:12
+291,Fallen Shadow 40,Animation,2013,210,English,Japan,298725421.6,792215550.59,3.8,145,Disney,7,Production,2023-11-07 19:45:23
+292,Golden Journey,Animation,2001,104,German,USA,54178121.47,-48074494,2.7,138,A24,12,Released,2015-10-15 19:10:04
+293,Silent Legacy 905,,1992,179,Japanese,South Korea,121278873.55,486961192.21,1.7,188,Paramount,12,Released,2019-10-04 04:51:33
+294,Broken Sun 339,Fantasy,2019,191,English,Germany,27855811.53,131927840.59,8.7,14,Disney,18,Production,2021-11-16 10:19:32
+295,Sacred Shadow 247,Romance,2010,203,French,Canada,286630356.92,750261080.02,8.4,126,Sony Pictures,0,Cancelled,2021-11-12 05:01:55
+296,Silent Vision 790,Adventure,2019,118,Spanish,Brazil,59152907.58,175480257.18,3.9,65,Focus Features,0,Cancelled,2019-01-21 08:41:30
+297,Rising Hero 713,Horror,2016,190,German,Spain,225105831.57,491074044.63,4.3,183,Disney,7,Released,2016-07-27 03:03:28
+298,Lost Hero 322,Documentary,1992,74,Korean,Brazil,295887947.55,-45593527,4.5,172,Warner Bros,0,Released,2023-03-24 08:05:11
+299,Fallen Hero,Thriller,2006,70,Hindi,South Korea,140142557.57,77577100.19,1.8,47,Universal,7,Production,2024-11-01 05:50:00
+300,Last Moon 472,Adventure,1999,118,Spanish,Japan,211921231.94,126469423.73,3.0,52,Disney,12,Production,2022-05-03 15:22:37
+301,Silent Moon 791,Animation,2023,79,Portuguese,Italy,170829035.77,390524672.74,7.0,88,Focus Features,18,Cancelled,2019-02-17 06:16:13
+302,Fallen Ocean 33,Documentary,1991,189,Korean,Canada,176723039.13,631189326.46,12.7,86,Netflix,0,Released,2020-05-06 14:34:11
+303,Sacred Storm 450,Animation,2024,172,Arabic,Japan,180482105.43,361097678.97,9.2,130,Universal,16,Production,2019-10-13 18:01:10
+304,Golden Fire 945,Fantasy,2013,215,Spanish,Australia,287994033.02,278415258.13,8.1,43,A24,0,Cancelled,2017-04-06 09:19:05
+305,Dark Mountain 879,Drama,1989,deux heures,Spanish,South Korea,165173806.74,191321439.87,4.3,63,Universal,16,Released,2020-03-13 10:57:18
+306,Eternal Dream,Documentary,2011,-45,Portuguese,UK,111055203.57,740932003.85,7.6,166,Paramount,7,Production,2018-01-07 09:27:05
+307,Silent Sun 670,Comedy,2004,-45,Italian,UK,204860763.04,418483939.85,7.0,104,Warner Bros,7,Production,2017-10-17 12:43:29
+308,The Kingdom,Crime,1983,136,French,Canada,272509155.42,702925077.43,8.4,29,Disney,16,Cancelled,2021-11-03 04:00:21
+309,Infinite Promise,Documentary,2009,188,French,Spain,15497016.57,332429847.03,6.9,7,Focus Features,12,Released,2019-06-14 00:28:20
+310,First Hero 611,Adventure,2005,91,Spanish,Brazil,148288363.25,310913114.63,6.4,188,Focus Features,18,Production,2015-02-11 11:02:09
+311,Broken Shadow 392,Adventure,2020,178,Spanish,Brazil,196042182.42,753184300.21,2.0,67,Sony Pictures,18,Cancelled,2023-04-23 01:23:36
+312,Fallen River 779,Horror,1991,81,Spanish,Australia,2012789.37,703867312.82,3.4,163,Netflix,0,Released,2018-01-23 10:14:04
+313,Broken Sky,Fantasy,2017,154,German,,102508495.38,400000318.89,7.5,179,Disney,16,Production,2021-01-22 18:05:40
+314,Fallen Legacy 354,Adventure,2003,150,German,USA,175688598.04,508446703.88,7.7,73,Focus Features,16,Released,2021-09-05 12:38:54
+315,A Shadow 406,Drama,1991,172,Korean,Germany,179974937.13,326920895.96,8.8,196,Netflix,18,Cancelled,2023-07-08 12:31:48
+316,Fallen Sky,Animation,1991,70,Korean,Spain,205163857.15,522184030.07,4.7,8,Lionsgate,7,Released,2024-10-17 02:38:36
+317,Hidden Dream,Sci-Fi,1990,190,Korean,USA,265111987.9,496896417.77,8.5,95,Paramount,7,Production,2018-06-05 09:04:57
+318,The River 592,Thriller,2008,115,Hindi,Australia,181400035.36,828148218.01,5.1,2,Warner Bros,16,Cancelled,2022-07-03 13:16:56
+319,Hidden Legacy 124,Fantasy,2014,182,English,Japan,248578167.85,36011823.15,9.2,113,Amazon Studios,0,Released,2017-05-25 18:48:50
+320,A Fire,Crime,1995,123,Korean,Australia,137743485.21,677276975.48,4.0,85,A24,12,Cancelled,2019-10-02 04:09:33
+321,First Storm 227,Fantasy,1998,110,Japanese,Spain,202146974.82,724698267.17,6.3,66,Paramount,0,Released,2024-05-05 18:00:16
+322,Silent Empire,Documentary,2019,158,Portuguese,India,112621593.7,436772681.01,5.6,98,Warner Bros,0,Production,2018-05-07 07:09:17
+323,Broken Shadow 666,Animation,2020,204,Arabic,South Korea,119848121.39,296630621.35,5.9,190,Focus Features,0,Released,2022-10-17 07:15:16
+324,Sacred Fire,Crime,1994,186,Portuguese,Japan,27862079.26,747640072.81,8.9,16,Paramount,7,Released,2024-10-16 14:06:34
+325,Infinite Hero,Crime,2010,91,French,India,179688984.12,8741268.62,9.0,114,Paramount,18,Cancelled,2024-08-01 08:48:26
+326,Broken Ocean 505,Sci-Fi,2012,146,Hindi,Germany,203513844.97,563366957.68,7.7,2,Netflix,18,Production,2022-03-06 02:48:27
+327,Lost Sky 97,Animation,2023,116,French,Germany,150783011.26,477406527.81,3.6,147,Disney,12,Released,2018-07-26 05:54:10
+328,Broken Fire 334,Animation,2006,138,Japanese,Spain,250414490.7,275678525.8,8.3,79,Amazon Studios,18,Production,2021-01-25 12:03:26
+329,Silent Dawn 999,,1992,135,Korean,USA,237380530.97,504019038.51,2.9,71,Universal,0,Released,2017-06-24 15:46:37
+330,Fallen Hero 800,Adventure,2011,220,French,USA,83175843.04,831253122.52,2.2,84,Amazon Studios,7,Released,2024-05-19 06:35:05
+331,Fallen Mountain 336,Crime,2013,75,French,Brazil,94531390.59,814602635.61,8.8,120,Paramount,16,Production,2020-04-22 22:16:16
+332,Broken Storm 144,Romance,2011,205,Hindi,,131443471.49,453839981.9,8.0,148,Netflix,0,Cancelled,2016-10-03 17:49:07
+333,Golden Fire 818,Drama,2009,118,Italian,Japan,266862057.68,137069563.52,2.6,117,Focus Features,16,Released,2021-10-10 00:39:53
+334,,Sci-Fi,1996,219,Korean,India,199787860.07,517037129.58,8.7,40,Paramount,7,Released,2019-03-04 00:34:38
+335,Eternal Hero 799,Sci-Fi,2000,128,Arabic,Japan,297305586.32,827898447.0,1.2,113,Universal,16,Released,2022-12-28 23:13:24
+336,The Vision 450,Thriller,2017,93,Hindi,Canada,36950273.9,108410456.76,6.3,82,Amazon Studios,7,Released,2016-09-12 15:16:32
+337,,Romance,2005,95,Japanese,France,254418543.11,899735937.04,6.7,121,Warner Bros,12,Cancelled,2020-01-05 07:11:36
+338,The Dawn 532,Adventure,1982,123,Japanese,South Korea,247063586.05,157256269.24,2.3,172,Disney,12,Released,2017-01-16 06:19:25
+339,Lost Moon 931,Fantasy,1981,-45,Spanish,Italy,113422512.88,472731619.69,1.1,24,Amazon Studios,0,Released,2022-08-14 17:28:08
+340,Eternal Journey 829,Horror,1996,208,Portuguese,Australia,143598058.66,766786427.5,2.9,37,Paramount,0,Cancelled,2016-12-13 09:56:39
+341,A Mountain,Comedy,1999,188,Hindi,India,265133060.54,118623216.64,6.8,9,Amazon Studios,0,Released,2017-01-05 20:02:53
+342,Sacred Mountain 166,Action,2010,118,Portuguese,Italy,64843439.22,491336896.26,3.5,87,Netflix,7,Production,2020-08-25 17:29:42
+343,A Star,Horror,2003,76,Spanish,France,137501314.84,495463246.12,8.7,112,Focus Features,0,Cancelled,2017-07-27 16:12:09
+344,,Adventure,2013,108,Hindi,India,160180298.7,624355903.36,2.5,175,Disney,18,Released,2017-09-20 13:54:12
+345,First Hero 983,Romance,2013,191,Spanish,Brazil,605906.96,500226064.96,9.1,18,Warner Bros,16,Released,2017-08-27 05:48:51
+346,Last Sun,Crime,2017,159,Japanese,UK,37479690.87,849912561.07,4.9,195,Netflix,0,Cancelled,2016-09-10 16:06:49
+347,Lost Journey 483,Animation,1987,186,Korean,Japan,12771003.83,229981590.44,4.7,182,A24,12,Released,2023-02-03 23:38:38
+348,Eternal Moon,Crime,2024,177,French,Japan,219866568.99,576274854.93,6.9,92,Universal,0,Released,2022-04-19 15:14:37
+349,Rising Ocean 107,Adventure,2018,166,Italian,USA,177307738.85,858668922.86,2.0,93,Lionsgate,18,Production,2021-12-24 01:22:41
+350,Sacred Vision,Fantasy,1982,180,English,Germany,7731254.76,89013899.92,8.1,65,Netflix,12,Production,2018-05-15 01:20:29
+351,Hidden Ocean 788,Thriller,2015,172,Spanish,Spain,100462098.39,665899407.67,3.0,26,Universal,16,Production,2024-08-21 05:48:24
+352,Last Ocean,Animation,2008,110,Korean,USA,174763127.25,630235448.08,7.7,102,Lionsgate,0,Released,2016-02-23 19:58:56
+353,Lost Sun,Comedy,2014,104,French,Brazil,266291605.44,513139092.94,9.8,11,Paramount,18,Released,2019-01-16 07:53:44
+354,Last Mountain,Animation,1993,145,English,Canada,131965493.11,898535499.38,2.6,103,Lionsgate,16,Cancelled,2019-12-26 11:51:51
+355,First Dream 380,Thriller,2002,104,Arabic,India,29438111.97,886955248.68,5.7,155,Paramount,12,Cancelled,2023-04-15 08:36:53
+356,The Vision 634,Fantasy,1875,184,English,South Korea,212039549.74,319035604.53,3.4,187,Warner Bros,18,Production,2021-12-25 04:25:13
+357,Lost Vision,Adventure,2001,200,Spanish,India,176268302.01,873802581.25,7.6,199,Universal,18,Released,2023-07-24 05:46:12
+358,Last Journey,Comedy,1981,196,Korean,France,121364808.08,616849217.33,4.4,88,Disney,0,Production,2020-03-23 13:56:16
+359,Fallen Night 189,Thriller,2021,156,French,India,263850727.95,501459833.8,14.9,4,Warner Bros,12,Production,2019-01-26 18:36:23
+360,Eternal Night 979,Crime,1991,158,Spanish,Canada,53490022.38,761391155.47,5.5,114,Warner Bros,18,Released,2023-02-26 09:59:18
+361,A Moon 700,Documentary,1986,109,Korean,Spain,164620139.96,403197229.15,5.9,94,Disney,7,Production,2018-07-02 11:03:58
+362,Infinite Kingdom 831,Crime,2017,203,Korean,India,210810669.38,681255431.55,3.5,196,Paramount,12,Cancelled,2021-07-14 12:05:31
+363,The Kingdom 107,Animation,1999,143,English,India,56829631.23,802894074.75,6.0,81,Warner Bros,18,Released,2015-05-13 06:22:34
+364,The Dream 757,Comedy,2023,124,Spanish,Germany,22352562.71,186142573.58,1.1,53,Universal,12,Released,2018-11-27 10:11:24
+365,Eternal Mountain 381,Romance,1989,136,Italian,Australia,259191142.01,184468165.16,7.5,177,Warner Bros,16,Production,2021-05-27 06:52:49
+366,,Adventure,2024,102,Arabic,France,35025881.3,439734271.19,3.9,66,Amazon Studios,12,Cancelled,2019-05-28 18:16:06
+367,Sacred Shadow 405,Thriller,2015,121,English,Spain,33866284.49,349318658.07,7.1,112,Lionsgate,12,Production,2017-08-20 01:42:59
+368,Golden River 787,Sci-Fi,1980,157,Japanese,UK,60594464.75,352241546.78,3.6,48,Paramount,12,Cancelled,2022-01-28 14:04:53
+369,Last Journey 542,Comedy,2000,86,Hindi,USA,51389614.96,333397894.77,1.9,98,Warner Bros,18,Released,2021-10-04 07:48:40
+370,The Promise,Action,2010,168,Portuguese,Italy,224546787.49,551386390.67,9.7,40,A24,18,Production,2018-03-10 20:46:11
+371,Rising Ocean 904,,1999,187,Hindi,Germany,37944754.08,187370019.68,8.8,116,A24,16,Production,2020-06-11 21:25:08
+372,Hidden Empire,Thriller,2016,163,Hindi,Italy,92416245.39,423262182.01,5.0,199,Lionsgate,16,Released,2018-04-11 17:56:10
+373,Lost Sun 960,Comedy,1981,168,Spanish,Japan,204348734.88,577150203.15,8.0,82,A24,7,Cancelled,2017-08-11 19:59:48
+374,Broken Empire,Action,1984,72,English,South Korea,94331517.42,182786062.56,2.9,93,Lionsgate,12,Cancelled,2022-08-11 22:11:18
+375,First Shadow 822,Comedy,1987,174,Hindi,Australia,294999254.49,813296085.53,6.8,114,Universal,0,Released,2021-08-13 15:10:49
+376,The Promise 705,Sci-Fi,2017,184,German,Australia,265738356.83,797852985.78,2.2,101,Disney,0,Cancelled,2018-11-11 09:45:50
+377,Sacred Night 364,,2017,113,Japanese,Germany,294619899.79,21197564.52,2.5,180,Sony Pictures,12,Production,2021-06-02 08:47:48
+378,Lost Vision 676,Documentary,2031,deux heures,Italian,Germany,114315071.52,604746335.55,4.0,109,Amazon Studios,12,Released,2020-12-09 17:12:31
+379,First Ocean,Animation,1985,151,French,USA,241964882.89,67065722.91,2.4,200,Universal,0,Released,2015-12-26 10:55:58
+380,Broken Night 160,Animation,2001,97,English,Brazil,275441650.34,167098769.64,1.8,176,Paramount,7,Released,2016-07-11 20:33:12
+381,Fallen River 726,Fantasy,2010,85,Hindi,USA,292270011.57,790371165.97,2.7,195,Universal,7,Released,2020-04-06 12:40:53
+382,Broken Sky 616,Crime,2007,158,Hindi,USA,290457643.25,678891954.67,1.6,188,Warner Bros,18,Production,2016-11-25 22:28:00
+383,Hidden Night 327,Sci-Fi,2018,86,Korean,Spain,243384128.39,270292433.43,5.8,59,Lionsgate,7,Released,2020-07-15 14:20:59
+384,Sacred Sun 475,Animation,1989,168,English,UK,114746476.65,134530596.7,4.8,45,Disney,18,Released,2018-02-01 12:30:09
+385,,Romance,2015,118,German,Italy,255553327.49,599243703.15,1.9,181,A24,18,Production,2017-04-17 15:51:13
+386,,Horror,2001,179,Portuguese,UK,102658623.7,619694198.41,6.0,5,A24,12,Production,2018-04-11 22:14:58
+387,Eternal Star 650,Animation,2015,154,Spanish,South Korea,171896350.63,637323584.28,8.2,145,A24,0,Production,2023-02-13 04:39:20
+388,A Empire 503,Adventure,2008,119,Japanese,Brazil,254407948.47,222002396.42,3.9,124,Focus Features,7,Production,2020-08-11 19:56:34
+389,Last River,Fantasy,1998,119,Hindi,Japan,113114668.13,767445637.46,2.8,8,Amazon Studios,0,Production,2022-03-15 20:24:35
+390,Dark Journey 455,Drama,2009,186,Portuguese,UK,5578387.44,293951580.31,2.2,97,Focus Features,0,Cancelled,2021-11-11 12:11:20
+391,Broken Hero 660,Fantasy,1982,84,Spanish,Spain,20834448.73,470550247.12,3.1,92,Netflix,0,Production,2020-02-16 12:34:03
+392,Golden Dream,Romance,2015,123,French,Japan,17425996.48,21900255.79,7.1,11,Paramount,7,Released,2017-09-11 10:24:48
+393,Lost Sun 20,Horror,2022,176,English,Germany,63046564.5,6536421.1,6.1,43,Amazon Studios,7,Released,2023-01-21 23:39:18
+394,First Legacy 384,Comedy,2018,120,Japanese,Italy,-17673329,693037997.55,2.0,28,Paramount,7,Cancelled,2019-12-22 06:56:37
+395,Eternal Sky,Action,1994,134,English,,248961364.21,185796794.32,4.4,101,Lionsgate,7,Production,2022-09-20 09:50:42
+396,Eternal Mountain 80,Action,2019,72,English,Japan,218760094.56,87599679.72,6.7,190,Netflix,0,Production,2021-11-01 09:49:02
+397,Infinite Shadow 310,Animation,1993,77,German,,26285533.8,782825631.82,5.9,180,Lionsgate,16,Released,2017-04-03 12:43:24
+398,The Hero 510,Animation,1980,81,Japanese,Brazil,144011768.63,22069146.58,8.7,115,Warner Bros,0,Cancelled,2021-09-23 15:50:14
+399,Hidden Hero 294,Fantasy,2010,165,Korean,Brazil,44135861.01,312174292.9,4.5,89,Sony Pictures,7,Cancelled,2022-11-18 13:23:27
+400,A Journey 260,Sci-Fi,2021,208,Spanish,USA,275530455.56,130630938.54,6.6,147,Disney,7,Cancelled,2021-02-27 13:56:07
+401,Golden Legacy,Drama,1996,112,Korean,Spain,219690482.15,493650792.06,6.8,148,Netflix,16,Cancelled,2016-04-21 20:29:09
+402,,Documentary,2011,88,Japanese,Germany,91205853.09,574459929.26,12.2,54,Disney,0,Released,2019-08-04 13:22:42
+403,Rising Storm 715,Sci-Fi,1993,220,Portuguese,Canada,147654374.14,287736699.46,7.2,99,Focus Features,0,Production,2024-10-12 21:31:01
+404,Rising Hero 986,Drama,2014,132,French,Spain,101546118.16,422404620.36,5.9,116,Paramount,18,Production,2016-01-22 04:37:55
+405,Lost Storm,Animation,1991,214,Hindi,Australia,76334689.46,465111018.7,5.0,11,Sony Pictures,18,Production,2021-02-22 04:53:04
+406,Last Kingdom,Action,2021,-45,Spanish,Germany,205068424.06,205936398.5,7.2,26,Disney,7,Released,2024-10-01 14:31:23
+407,Sacred Dream 22,Adventure,2014,-45,Italian,India,20548095.65,790015145.01,5.2,63,Disney,0,Released,2017-02-19 05:42:12
+408,Fallen Legacy 383,Animation,2022,175,English,Germany,90452759.86,351699711.12,13.1,69,Lionsgate,18,Released,2019-03-11 07:55:30
+409,Sacred River,Animation,1993,169,Hindi,France,38523197.0,775080808.41,5.5,145,Disney,7,Cancelled,2021-11-12 07:52:16
+410,Rising Hero 771,Sci-Fi,1981,165,Portuguese,Germany,38634241.98,711441787.74,6.7,41,Paramount,18,Cancelled,2019-08-25 02:27:38
+411,The Dream 68,Adventure,1989,80,Italian,Japan,242140009.73,273216850.01,3.9,121,Focus Features,16,Production,2024-12-18 21:38:38
+412,Lost Promise,Sci-Fi,2011,206,French,Japan,280281179.93,535030992.92,9.2,62,Lionsgate,7,Production,2019-04-27 10:33:43
+413,Rising Ocean 271,Crime,2019,105,Japanese,Germany,108765338.36,289096125.63,6.1,186,Sony Pictures,7,Released,2024-11-27 10:11:56
+414,Lost Kingdom,Romance,1997,187,Spanish,Japan,76134440.44,731821763.74,1.0,66,A24,16,Cancelled,2024-05-17 18:26:12
+415,First Hero 438,Animation,2010,150,Spanish,France,240489286.51,762472523.37,5.8,25,Amazon Studios,7,Released,2024-01-01 03:21:39
+416,Hidden Ocean 292,Thriller,2018,138,Korean,Germany,166336219.56,197963086.9,8.3,158,Warner Bros,7,Released,2024-12-20 08:51:31
+417,A Shadow 253,Thriller,2019,114,Japanese,,201512897.49,774819636.14,4.9,21,Amazon Studios,16,Production,2017-12-13 19:48:24
+418,The Legacy,Thriller,2011,204,English,Spain,116676251.16,185002076.2,1.7,175,Amazon Studios,7,Production,2018-04-11 11:25:17
+419,Last Sky,Romance,2010,214,French,Spain,7052853.59,-30279050,7.4,23,Amazon Studios,12,Production,2018-05-12 08:30:10
+420,Dark Mountain 875,Documentary,1992,167,Arabic,France,48046724.6,497586336.28,5.6,39,Sony Pictures,7,Production,2019-03-08 13:19:10
+421,Golden Night 238,Fantasy,2021,115,German,Italy,71255444.14,175926966.98,1.6,46,Focus Features,0,Production,2023-06-24 05:09:34
+422,Infinite Fire,Action,1990,201,Hindi,India,118444800.03,422213293.64,3.1,95,Lionsgate,12,Production,2018-08-06 22:07:45
+423,Last Fire 656,Action,2004,143,German,Australia,165319566.89,799924548.5,6.7,156,Lionsgate,16,Production,2023-07-06 16:54:31
+424,Dark Hero 212,Sci-Fi,1987,175,Japanese,,146422867.0,194091830.61,7.6,152,Disney,12,Production,2018-03-01 07:57:28
+425,First Kingdom 409,Animation,1993,176,Arabic,UK,276862644.48,47902095.56,4.4,111,Universal,18,Production,2020-09-18 15:02:59
+426,Eternal Kingdom,Sci-Fi,2012,95,Hindi,Japan,153097257.86,334202662.41,3.9,89,Lionsgate,12,Production,2020-01-26 16:37:07
+427,Infinite Vision 777,Documentary,2015,214,Spanish,Italy,214424215.03,571720700.27,7.7,158,Amazon Studios,12,Production,2018-01-02 09:00:08
+428,Last Dream,Romance,1989,215,Arabic,USA,49435736.3,654541418.59,2.9,43,A24,0,Released,2022-06-20 23:23:54
+429,Fallen Ocean 591,Adventure,2022,109,Portuguese,India,241953593.62,220842355.95,4.8,131,Sony Pictures,16,Cancelled,2021-01-19 09:51:55
+430,First Shadow 844,Thriller,1994,133,Spanish,France,152000175.27,359925651.14,3.6,160,A24,0,Production,2015-07-13 13:09:26
+431,Fallen Storm 342,Drama,2011,195,Italian,Canada,129316637.06,218987964.58,4.0,152,Amazon Studios,0,Released,2016-02-26 23:00:09
+432,Golden Dream 505,Adventure,2031,-45,Japanese,South Korea,275466029.1,599485802.69,2.5,26,Warner Bros,18,Released,2015-10-01 06:50:10
+433,Infinite Sun,Animation,2017,204,Portuguese,Japan,138969801.84,141738897.9,5.5,58,Sony Pictures,0,Production,2020-11-06 22:30:51
+434,Fallen Moon 975,Horror,2005,130,Japanese,Australia,72584043.11,139781648.6,6.2,28,A24,7,Released,2016-05-25 10:44:20
+435,Broken Mountain 736,Romance,2021,211,Japanese,Brazil,142231870.06,140962208.07,-0.5,65,Amazon Studios,7,Production,2022-11-13 22:55:20
+436,Fallen Dawn 836,Adventure,2000,215,Spanish,USA,49671647.52,83985378.46,3.9,36,Paramount,18,Cancelled,2022-05-07 23:11:26
+437,The Storm,Adventure,2019,70,Hindi,Germany,100089116.9,662917263.04,5.7,152,Lionsgate,18,Released,2021-12-26 01:29:46
+438,Broken Legacy,Animation,2031,220,French,Spain,125464913.22,795942595.13,9.1,58,A24,12,Production,2015-04-22 18:16:25
+439,First Storm 544,Thriller,2008,70,French,Japan,269898420.68,14807428.92,7.4,79,Lionsgate,0,Production,2024-04-18 21:35:18
+440,Sacred Shadow 876,Romance,2001,deux heures,Italian,France,74056095.32,89603999.71,7.4,75,Sony Pictures,16,Released,2021-04-24 05:23:06
+441,Sacred Sky 317,Adventure,1984,109,English,Germany,231216663.1,243118990.79,7.7,129,Focus Features,16,Cancelled,2016-08-22 19:17:50
+442,A Moon 808,Comedy,1992,134,Portuguese,France,49106493.35,469925828.85,2.7,194,Netflix,0,Production,2021-07-04 16:49:51
+443,Rising River,Fantasy,2017,87,Arabic,Australia,234339271.68,412122082.11,4.2,10,A24,7,Released,2024-06-01 21:59:23
+444,Lost Star,Action,2009,94,Hindi,France,142292228.16,496488956.47,2.1,164,Netflix,7,Production,2023-07-10 01:54:06
+445,The Sky,Comedy,2004,141,Italian,France,109453678.67,664791694.58,1.2,48,Universal,7,Cancelled,2024-10-28 03:23:07
+446,A Ocean,Sci-Fi,1991,219,Arabic,USA,252519424.15,487221567.36,8.1,148,Focus Features,12,Cancelled,2019-02-13 01:19:58
+447,Infinite Dream,Sci-Fi,1983,94,Portuguese,USA,143354637.82,325079266.41,3.3,144,Paramount,0,Production,2017-03-21 18:44:55
+448,A Storm 482,Adventure,2023,deux heures,Hindi,Japan,219090456.57,443438261.68,4.8,100,Paramount,18,Production,2020-03-13 18:26:58
+449,Broken Sky 276,Drama,1996,deux heures,French,Italy,224162297.73,518996750.04,6.1,64,Disney,0,Released,2018-12-02 23:04:43
+450,Rising Dawn 989,Drama,2021,98,English,Italy,62296867.33,651910357.74,8.6,106,Amazon Studios,18,Cancelled,2019-08-22 06:54:40
+451,Dark River,Thriller,2022,195,Italian,USA,130271370.53,703275639.51,7.6,53,Amazon Studios,0,Production,2017-05-09 05:27:49
+452,The Kingdom 805,Drama,2002,127,Japanese,Spain,81257028.22,394372548.28,7.9,99,Paramount,18,Cancelled,2017-02-09 23:23:33
+453,First Shadow 279,Documentary,1875,215,French,Germany,76003580.88,861915299.48,8.5,136,Disney,16,Cancelled,2015-03-01 10:49:44
+454,Sacred Legacy 430,Action,1991,148,Italian,Japan,81946497.79,361818109.79,6.3,25,Amazon Studios,16,Cancelled,2018-04-11 01:54:21
+455,Silent Kingdom,Documentary,1994,deux heures,French,France,41530222.49,39584684.03,5.7,27,Focus Features,16,Cancelled,2017-04-24 06:13:23
+456,,Fantasy,1997,185,French,South Korea,183726323.69,225359978.46,7.6,62,Warner Bros,16,Cancelled,2019-09-06 21:48:44
+457,Hidden Storm 949,Thriller,2001,198,Portuguese,,209065535.36,678019316.43,2.4,161,Lionsgate,0,Cancelled,2019-04-06 05:14:47
+458,The Fire,Thriller,1998,185,Spanish,USA,273716251.61,564454796.54,3.6,40,Universal,7,Production,2021-01-06 11:02:34
+459,Dark Dream,Comedy,1989,181,Spanish,Japan,214259831.14,477826136.11,6.2,150,Netflix,16,Released,2024-09-22 18:13:28
+460,Rising Fire 626,Animation,1996,75,Japanese,Italy,139728082.36,523304126.59,2.1,189,Focus Features,0,Cancelled,2022-07-21 18:45:47
+461,Eternal Dawn 55,Documentary,1988,82,Portuguese,India,72827672.87,305266850.9,3.3,35,Disney,0,Production,2022-04-05 07:44:40
+462,A Empire 152,Drama,2020,152,Japanese,South Korea,229761093.94,697796299.41,8.6,22,Netflix,7,Cancelled,2024-02-03 22:12:30
+463,Sacred Shadow 450,Documentary,1983,76,Korean,South Korea,34989688.62,581081769.93,3.3,38,Lionsgate,18,Cancelled,2022-05-16 16:58:49
+464,A Dawn 180,Horror,1982,-45,Italian,Spain,-9267279,797224914.91,6.6,186,Focus Features,12,Cancelled,2017-07-13 18:07:15
+465,Rising Dawn 817,Thriller,2003,163,Spanish,Canada,13041009.53,562552716.29,2.8,158,Focus Features,16,Cancelled,2020-01-25 19:49:40
+466,Eternal Empire 190,Action,1983,170,Hindi,France,274612860.73,235520879.89,9.5,141,A24,16,Released,2023-04-13 22:48:12
+467,Golden Night 410,Comedy,1989,145,Hindi,Canada,200260200.96,-29172281,7.7,185,Focus Features,16,Released,2016-05-25 08:05:29
+468,Eternal Hero 842,Crime,2002,165,English,UK,69109177.92,306003652.43,3.6,187,Warner Bros,0,Production,2021-05-14 08:55:18
+469,Golden Promise 984,Documentary,1981,97,Hindi,Brazil,53947161.33,298462951.34,5.1,16,Netflix,0,Production,2015-05-08 06:58:13
+470,Last Moon 199,Horror,1987,126,French,France,180156628.79,649154427.55,5.8,51,Paramount,18,Released,2018-08-07 04:25:41
+471,Silent Mountain 41,Action,1985,199,Korean,Italy,288241611.04,701044119.69,14.6,54,Warner Bros,0,Cancelled,2016-06-25 13:07:35
+472,Dark Journey 537,Thriller,2001,197,Japanese,Canada,217570902.65,2866390.4,2.9,89,Disney,0,Released,2019-10-03 03:55:33
+473,Lost Promise 294,Horror,2005,157,Portuguese,UK,122480067.53,650686350.39,6.3,19,Paramount,16,Production,2020-06-14 02:05:16
+474,Infinite Hero 713,Adventure,2013,80,English,South Korea,280709904.01,869662469.54,5.6,192,Disney,16,Released,2015-04-28 01:33:56
+475,Last Moon 400,Fantasy,1981,186,Arabic,France,230394593.82,306546007.33,4.8,112,Lionsgate,0,Production,2022-07-25 17:41:57
+476,Dark Journey 216,Horror,1982,147,English,India,234182857.6,213759363.66,9.0,136,Disney,16,Released,2018-04-21 11:39:46
+477,A Hero 105,Animation,1981,82,Portuguese,Canada,241084314.17,-31407558,9.7,43,Amazon Studios,18,Cancelled,2024-10-21 13:49:39
+478,Broken Sun 891,Horror,2021,186,Hindi,Japan,235167462.49,573135627.46,2.3,76,Warner Bros,18,Production,2024-10-26 06:11:56
+479,Last Shadow,Thriller,1989,180,Hindi,USA,210053437.22,425732497.24,2.0,8,A24,7,Cancelled,2018-05-18 23:14:33
+480,Broken Mountain 334,Fantasy,2021,203,Hindi,USA,294290532.94,807535991.72,8.8,37,Lionsgate,18,Production,2020-01-18 04:25:37
+481,Sacred Moon 558,Romance,1985,167,Korean,Italy,277076695.6,505658475.57,1.9,38,Paramount,18,Production,2024-06-25 03:16:53
+482,Last Ocean 409,Thriller,1999,139,English,USA,49691515.28,980263.57,5.5,100,Universal,0,Released,2021-09-07 02:05:42
+483,Last Journey 343,Action,1984,84,Japanese,France,182156838.47,289321364.92,7.8,134,Paramount,18,Production,2021-11-05 01:46:23
+484,,Animation,2018,111,German,UK,229008423.67,117112900.26,1.2,191,A24,16,Production,2015-03-19 22:59:38
+485,A Ocean 24,Documentary,1996,119,German,Germany,40233368.48,322155254.68,2.8,103,Universal,16,Cancelled,2016-08-01 06:54:57
+486,Infinite Fire 695,Fantasy,2004,178,Hindi,Australia,140584449.0,878792154.19,2.7,171,Focus Features,12,Production,2019-10-02 23:10:55
+487,Broken Star 49,Romance,1982,94,Japanese,USA,61864649.6,91543733.86,2.0,119,A24,18,Released,2017-02-01 05:40:05
+488,Infinite Kingdom 916,Documentary,1986,136,Italian,UK,102371197.49,705976651.35,4.9,60,Focus Features,7,Released,2023-03-18 21:20:26
+489,The Star,Animation,1981,220,Italian,Italy,298343073.6,630130380.32,9.3,104,Focus Features,7,Released,2020-01-13 17:09:05
+490,Lost Fire 185,Sci-Fi,1990,170,Korean,USA,161952820.28,94500334.82,6.0,134,Disney,0,Cancelled,2017-06-19 12:29:48
+491,Broken Hero 571,Crime,2007,208,Hindi,USA,38498787.26,765800126.3,9.4,59,Focus Features,16,Cancelled,2024-12-23 08:32:18
+492,Lost Dawn 306,Sci-Fi,2019,86,Japanese,South Korea,163934870.21,729252427.31,7.1,92,Disney,7,Cancelled,2021-08-13 15:12:34
+493,Sacred Fire 27,Animation,1984,86,German,Spain,147995117.29,771335686.41,4.8,40,Disney,12,Cancelled,2024-04-16 23:02:50
+494,Lost Legacy,,2021,130,Japanese,USA,260402362.33,351199973.01,3.9,10,Warner Bros,0,Released,2019-09-06 23:21:54
+495,Silent Ocean 258,Documentary,2017,105,Portuguese,Japan,74364126.06,615204677.19,8.5,57,Paramount,18,Cancelled,2016-06-13 05:16:05
+496,Lost Star 192,Sci-Fi,2010,157,Portuguese,UK,176942708.14,200121161.48,7.9,58,Focus Features,0,Cancelled,2021-06-12 00:41:31
+497,Golden Ocean 980,Documentary,2019,194,Japanese,Japan,58650782.18,108068003.12,5.5,29,A24,18,Production,2017-01-07 16:53:45
+498,Silent Promise 242,Action,2003,148,Japanese,Spain,248366002.82,195014624.51,6.5,108,A24,18,Released,2018-07-15 10:02:01
+499,Broken Ocean 976,Adventure,1986,-45,Korean,UK,184907769.68,109900129.28,5.2,188,Disney,16,Released,2019-06-05 07:54:32
+500,Golden Legacy 878,Romance,1988,212,Italian,Italy,97674323.66,455844848.09,5.0,77,Disney,7,Production,2020-09-11 23:57:42
+501,First Legacy 648,Fantasy,2003,151,Portuguese,Japan,39104604.23,819447027.39,8.1,86,Warner Bros,7,Released,2015-01-05 09:23:40
+502,Last Promise 663,Drama,1988,99,Korean,France,97530989.83,469656037.92,4.7,175,Universal,12,Production,2019-09-17 19:24:24
+503,Broken Journey 734,Animation,2024,126,German,Brazil,193122105.43,5828207.39,5.5,43,Netflix,12,Released,2016-09-07 05:45:34
+504,Sacred Shadow 755,Drama,2018,71,Portuguese,France,221619786.55,467679577.07,5.3,142,A24,12,Released,2023-03-25 15:25:33
+505,Hidden Night 682,Comedy,2010,136,Korean,India,145408088.7,776477687.19,3.9,131,A24,16,Cancelled,2023-04-24 03:25:03
+506,Golden Fire 736,Drama,1991,125,Arabic,Canada,290002756.82,833485811.71,2.5,146,Lionsgate,7,Cancelled,2021-03-04 23:27:51
+507,Silent Promise 78,Thriller,1989,112,Korean,Brazil,236910831.5,486193183.83,9.3,32,A24,16,Cancelled,2022-04-06 12:18:15
+508,The Promise 341,Horror,2011,99,German,Canada,258253964.0,168196572.89,1.6,64,Lionsgate,16,Cancelled,2022-12-04 06:31:45
+509,Infinite Star,Documentary,2013,-45,French,UK,119440940.22,776694046.89,2.5,68,Focus Features,16,Cancelled,2022-09-17 16:55:36
+510,Fallen Moon 701,Adventure,2003,161,Hindi,Italy,239708270.12,711323418.17,14.9,61,Amazon Studios,0,Cancelled,2024-06-04 14:04:22
+511,Eternal Fire,Adventure,1875,108,Spanish,Brazil,224908844.79,83318305.51,3.4,131,Paramount,0,Cancelled,2018-01-19 13:30:05
+512,Last Promise 512,Drama,1983,108,Spanish,France,277234260.16,369159350.31,2.2,198,Universal,0,Released,2021-07-04 04:58:11
+513,The Shadow 633,Animation,2001,205,Arabic,Germany,224158541.03,264321640.07,4.3,4,Disney,16,Cancelled,2019-09-04 04:48:50
+514,First Fire 103,Action,2023,204,Korean,USA,98328462.01,536731302.85,1.2,50,Netflix,12,Cancelled,2021-02-26 23:47:41
+515,The River 733,Fantasy,2024,74,Arabic,Spain,83000849.81,323178563.53,4.2,34,Paramount,0,Production,2016-12-25 04:01:09
+516,Fallen Hero 433,Fantasy,1994,141,Portuguese,Canada,215792874.83,388156579.39,1.2,33,Sony Pictures,18,Cancelled,2016-06-11 08:55:10
+517,Eternal Storm 228,Horror,1983,162,Italian,Spain,230639540.9,380927900.43,6.5,152,Netflix,12,Production,2021-03-08 08:30:53
+518,A Dawn 857,Animation,1987,85,Hindi,France,8480301.22,713297676.2,1.9,196,Universal,16,Released,2021-09-02 17:00:33
+519,A Moon 459,Fantasy,1986,85,Arabic,India,136162457.27,415805353.8,1.7,74,Netflix,18,Production,2022-05-07 12:11:07
+520,,Romance,2014,160,Italian,Canada,9390371.76,5019465.09,6.9,52,Lionsgate,16,Released,2022-05-27 13:56:25
+521,Rising Dawn 81,Drama,1988,deux heures,English,Japan,127956281.66,297365539.52,7.6,13,A24,18,Production,2022-02-09 01:01:47
+522,Lost Ocean,Documentary,2015,214,Japanese,,75162511.77,59294363.78,1.4,129,Warner Bros,18,Production,2024-08-13 19:33:31
+523,Lost Mountain 664,Animation,2023,176,Hindi,Brazil,123560719.66,89709130.75,3.5,123,Lionsgate,12,Released,2018-03-25 10:27:11
+524,Last Empire 686,Horror,1987,184,French,Brazil,79602058.54,763324565.94,2.2,14,Focus Features,16,Cancelled,2017-02-03 13:03:53
+525,Dark Storm 646,Crime,2014,91,Portuguese,Canada,151584801.15,526283182.15,8.9,114,Warner Bros,18,Cancelled,2024-05-22 16:01:52
+526,Eternal Night 994,Romance,1999,111,German,South Korea,221364948.21,884572115.53,4.3,139,Disney,0,Released,2019-09-02 13:30:20
+527,Fallen Night 849,Thriller,1985,173,French,UK,150155461.71,243447463.37,6.9,130,Disney,16,Cancelled,2021-10-22 15:42:40
+528,The Ocean,Sci-Fi,1987,92,Italian,France,13684347.27,578129897.5,3.5,177,Focus Features,18,Released,2020-12-13 11:06:49
+529,Infinite Vision 595,Crime,2005,81,Italian,Brazil,250608437.76,492163915.87,9.2,69,A24,18,Production,2017-02-15 00:09:35
+530,Silent Shadow,Comedy,2002,132,Italian,Japan,37954780.34,516525924.05,3.0,137,Focus Features,7,Cancelled,2015-07-05 08:25:30
+531,Dark Empire 456,Drama,2019,92,Arabic,France,227128236.37,322036626.69,6.3,53,Amazon Studios,0,Released,2018-08-24 13:57:00
+532,Silent Fire 255,Horror,2012,155,English,UK,286866404.29,446083206.54,6.4,167,Warner Bros,7,Cancelled,2019-05-01 18:26:25
+533,Eternal Night 482,Animation,1984,102,Portuguese,India,164213038.44,486983534.64,1.0,142,Disney,0,Production,2016-08-09 13:33:54
+534,A Mountain 860,Comedy,2020,137,Portuguese,Australia,241527521.48,877732707.07,6.4,130,Amazon Studios,18,Production,2016-06-11 18:16:20
+535,Sacred Hero 114,Comedy,2023,192,Arabic,Brazil,266801569.38,102138326.03,4.7,59,Lionsgate,18,Cancelled,2021-04-14 10:15:26
+536,Hidden Dawn 103,Horror,2018,deux heures,English,Canada,171933754.91,268912166.26,3.2,97,Amazon Studios,12,Cancelled,2023-10-14 13:31:26
+537,The Star 809,,1999,163,German,South Korea,9240669.14,857696899.16,9.5,130,Lionsgate,0,Production,2017-04-28 11:16:51
+538,Rising Sun,Crime,2006,144,Italian,Australia,182667923.44,48423792.01,6.9,48,Universal,7,Released,2019-03-25 14:27:56
+539,Fallen Kingdom 319,Sci-Fi,1875,90,French,France,291737457.67,860895111.15,5.6,16,Warner Bros,18,Released,2016-08-19 16:25:30
+540,Hidden Kingdom,Comedy,1985,161,English,Japan,298267698.82,236883687.78,8.1,187,Universal,7,Released,2018-09-09 07:47:48
+541,Infinite Kingdom 351,Sci-Fi,2004,206,Hindi,South Korea,190849624.12,238327917.6,3.7,143,Paramount,18,Production,2019-06-26 08:03:02
+542,Lost Dream 261,Sci-Fi,2009,107,French,France,58467952.54,886254464.94,5.7,188,A24,18,Cancelled,2016-08-15 12:48:13
+543,Last Sky 661,Adventure,1875,212,Spanish,France,-18716767,54794314.82,6.3,64,Warner Bros,12,Production,2018-01-13 19:50:14
+544,Silent Legacy 516,Horror,1994,128,English,USA,259035230.22,666301642.68,7.3,122,Focus Features,12,Cancelled,2016-07-12 05:17:16
+545,First Moon 268,Action,1993,162,German,Canada,135375768.0,96527104.09,6.7,186,Netflix,7,Cancelled,2024-02-05 17:29:32
+546,Golden Ocean 896,Romance,2016,220,Spanish,Brazil,92169477.89,433168648.1,8.4,116,Disney,12,Production,2018-01-26 02:55:46
+547,Broken Legacy 766,Adventure,1997,122,Arabic,Canada,156678304.93,713134667.58,2.0,141,A24,0,Production,2017-10-07 05:33:55
+548,Golden Hero 729,Thriller,1987,deux heures,Arabic,UK,5375095.62,347407241.85,2.0,131,Lionsgate,18,Cancelled,2022-12-13 03:00:35
+549,A Sky 194,Drama,1995,144,Arabic,Australia,177094973.93,707573291.87,7.9,141,Disney,7,Production,2019-07-28 18:20:53
+550,,Adventure,1981,173,English,South Korea,84044837.08,668000824.28,8.3,177,Warner Bros,16,Production,2021-07-09 02:04:00
+551,Infinite Sun 939,Drama,1994,70,Hindi,South Korea,184428490.81,532374008.65,5.1,4,Netflix,18,Released,2021-07-18 06:18:35
+552,Dark Sun,Fantasy,2005,187,Hindi,Germany,167630004.64,571787636.06,5.7,165,A24,18,Released,2020-01-12 18:27:11
+553,Silent Vision 865,Animation,1981,130,French,UK,210611887.97,409151459.8,5.6,48,Amazon Studios,0,Production,2016-09-28 00:48:57
+554,Broken Moon 957,Drama,2003,150,French,Spain,87590805.21,673183097.98,4.4,20,Universal,18,Cancelled,2023-03-09 02:38:45
+555,Broken Sun 963,Horror,1989,192,Portuguese,France,243443246.67,822080313.77,7.4,34,Universal,18,Production,2019-06-16 01:20:27
+556,,Fantasy,2003,70,English,Brazil,189819420.47,633743664.27,3.4,44,Paramount,7,Production,2022-03-17 05:58:35
+557,Broken Star 909,,1985,202,Japanese,Brazil,27481794.38,65331942.63,5.8,198,Netflix,0,Production,2016-01-26 11:35:41
+558,Hidden Hero 94,Sci-Fi,2019,188,French,Australia,56185968.64,792112735.28,3.0,113,Warner Bros,18,Released,2018-01-02 14:04:51
+559,Rising Promise 322,Action,1996,92,Portuguese,Japan,98505027.0,729674277.79,6.0,152,Focus Features,18,Released,2021-06-05 19:16:17
+560,Fallen Shadow 424,Drama,2012,191,Japanese,India,270558111.11,63743839.96,1.4,144,Lionsgate,16,Released,2017-02-15 09:13:56
+561,Sacred Moon 449,Thriller,1989,85,Japanese,India,223726908.97,529498579.54,7.3,77,Focus Features,18,Released,2023-05-06 10:51:14
+562,Rising Sky 416,Documentary,2001,183,English,Italy,186152451.36,327863449.09,2.8,3,Lionsgate,0,Cancelled,2020-06-04 01:31:40
+563,Hidden Sky,Crime,1986,95,French,Spain,282450434.13,-23047540,8.1,114,Amazon Studios,0,Cancelled,2017-03-21 00:25:45
+564,Broken Moon 942,Horror,1985,70,Spanish,UK,94467229.35,509344687.64,1.5,107,Warner Bros,0,Production,2016-06-07 23:59:11
+565,Infinite Moon 990,Crime,1996,-45,Japanese,USA,147947651.51,633795608.14,5.1,91,Lionsgate,12,Cancelled,2015-04-22 02:03:00
+566,Rising Sky 981,Thriller,1980,218,Japanese,South Korea,9914101.01,41141857.21,9.6,19,Focus Features,12,Cancelled,2024-02-08 20:21:56
+567,Broken Journey 914,Documentary,1995,215,English,South Korea,10460670.28,438254805.07,13.3,141,Warner Bros,0,Cancelled,2021-12-15 15:16:02
+568,Sacred Mountain 491,Adventure,1993,215,Japanese,Canada,295971860.71,18558024.46,5.0,41,Netflix,12,Released,2018-03-21 11:53:00
+569,A Kingdom 218,Sci-Fi,2005,97,Japanese,UK,188507033.49,515456684.64,2.9,85,Universal,0,Released,2015-10-02 20:57:57
+570,Rising Hero 365,Crime,2014,175,Arabic,USA,270904448.37,353384611.2,2.2,73,Netflix,16,Production,2024-09-26 17:28:20
+571,Eternal Promise 882,Comedy,2017,149,English,Germany,72460681.83,794086562.34,8.8,95,Netflix,18,Released,2016-05-15 14:56:01
+572,Hidden Journey,Animation,2002,127,Hindi,USA,129719000.43,89167294.2,7.4,91,Focus Features,0,Cancelled,2024-08-24 00:43:23
+573,Broken Shadow 445,Drama,1993,155,French,Brazil,94227731.92,621271618.73,7.2,143,Focus Features,0,Cancelled,2015-06-08 15:34:48
+574,Sacred Journey,Drama,2004,109,Portuguese,Spain,241209893.91,865304291.03,1.5,132,Disney,7,Cancelled,2022-03-01 01:11:35
+575,Last Journey 302,Crime,1994,109,French,Japan,296227194.03,658054927.48,8.6,17,Amazon Studios,12,Cancelled,2024-12-07 22:00:43
+576,Dark Storm 131,Thriller,1997,108,Spanish,UK,149659093.05,114560184.29,3.1,11,Disney,18,Released,2021-06-02 13:16:25
+577,Last Storm 699,Action,2018,182,Korean,Italy,29238164.4,118904049.19,1.2,154,Universal,16,Cancelled,2016-08-10 12:55:38
+578,The Fire 597,Documentary,1981,208,French,Canada,49079606.63,721332449.92,2.0,129,Warner Bros,12,Production,2023-06-27 13:53:58
+579,Rising Vision 977,Action,2024,109,Hindi,Italy,18603145.25,700944749.59,-0.2,101,Paramount,12,Cancelled,2018-12-08 18:26:22
+580,The Sky 663,Comedy,1988,168,French,France,44483986.97,369901000.61,8.3,168,Focus Features,12,Production,2017-02-22 16:54:32
+581,Lost Hero 547,Fantasy,2019,174,Arabic,Brazil,246287853.09,540746541.21,3.3,87,Paramount,7,Cancelled,2019-08-06 11:42:03
+582,Silent Legacy 242,Horror,1982,131,Korean,Australia,121997502.95,646919298.71,5.1,177,Lionsgate,12,Production,2020-08-13 18:45:57
+583,Hidden Ocean 740,Crime,1992,131,Portuguese,Spain,81620926.73,655347293.36,4.4,111,Paramount,12,Released,2016-03-11 09:23:01
+584,Golden Storm,Fantasy,1999,157,Italian,Canada,236064950.28,343220034.13,4.9,62,Warner Bros,16,Production,2017-04-12 22:37:07
+585,First Fire 395,Horror,2022,209,Arabic,UK,245065115.96,285129724.64,7.3,146,Amazon Studios,7,Cancelled,2022-04-04 21:57:01
+586,The Legacy 662,Drama,2013,112,French,France,164920347.08,839285548.34,2.4,169,Sony Pictures,7,Production,2023-08-09 08:54:43
+587,Lost Kingdom 50,Thriller,1990,76,Italian,South Korea,246196558.8,400294144.44,6.1,83,Amazon Studios,7,Released,2022-01-04 08:58:03
+588,Lost Hero 948,Adventure,1989,207,Korean,South Korea,197656446.55,22882987.55,8.5,33,Universal,12,Released,2020-08-22 06:07:27
+589,The Journey 309,Fantasy,1987,125,Hindi,Australia,148565952.29,31670585.9,4.3,182,Disney,18,Production,2017-12-01 19:41:11
+590,Broken Kingdom,Sci-Fi,2003,160,Arabic,Germany,45657497.87,733231945.34,6.4,155,Lionsgate,7,Released,2019-06-28 15:44:44
+591,Eternal Mountain 801,Comedy,2007,159,German,Italy,15162001.7,41100951.39,6.3,31,Focus Features,7,Released,2021-01-04 00:31:07
+592,Dark Sun 103,Documentary,2015,116,German,Australia,189264925.58,685864119.35,3.3,52,Netflix,16,Production,2017-03-07 06:44:09
+593,Dark Fire,,1986,144,Spanish,South Korea,201270710.65,138939271.62,9.7,48,Disney,12,Production,2015-07-06 19:21:13
+594,Silent Hero 922,Crime,2010,132,French,India,119347513.82,248274161.03,1.1,59,Focus Features,12,Released,2023-06-05 00:56:42
+595,A Mountain 794,Romance,2012,172,German,Australia,19445635.5,711699666.67,3.8,45,Universal,12,Released,2021-12-09 02:04:36
+596,Sacred Star,,2022,166,Arabic,Canada,164362964.73,166458000.55,1.0,65,Disney,16,Released,2015-02-20 20:31:06
+597,Dark Night,Drama,2016,180,Portuguese,Italy,170175583.72,32798479.45,5.2,110,A24,16,Released,2016-10-25 05:08:28
+598,Lost Sun 692,Animation,2024,205,German,Australia,106048853.99,842378848.73,7.0,179,Sony Pictures,7,Released,2024-02-21 12:21:19
+599,Last Storm 977,Adventure,2020,129,English,UK,21241298.12,697158706.48,4.3,145,A24,12,Production,2015-12-02 00:08:26
+600,Golden Vision,Horror,2007,146,Portuguese,Spain,265501648.31,734612544.56,4.1,9,Sony Pictures,12,Released,2015-07-08 11:20:44
+601,Last Kingdom 204,Adventure,1997,117,German,France,190679425.7,123704132.15,3.0,178,Netflix,18,Production,2015-03-12 11:07:10
+602,Golden Fire 474,Thriller,1995,150,Hindi,Canada,252228554.36,550590480.91,3.5,64,Sony Pictures,12,Production,2019-12-08 09:45:16
+603,Sacred Night 811,Fantasy,2016,220,Portuguese,Germany,283452621.27,520529551.12,6.1,105,Sony Pictures,0,Cancelled,2023-03-05 07:03:37
+604,Silent Empire 431,Adventure,1993,206,Hindi,Canada,81247812.2,-39319627,4.9,45,Universal,16,Released,2022-06-10 16:22:12
+605,First Dream 380,Fantasy,1875,-45,Japanese,Canada,91663807.89,133628692.32,6.0,37,Netflix,0,Released,2016-04-24 14:21:54
+606,Rising Moon 542,Romance,2017,190,Hindi,Italy,24124949.47,196638952.16,7.2,49,Sony Pictures,12,Production,2021-04-03 02:14:59
+607,Golden Legacy 380,Thriller,1991,174,Spanish,USA,58873389.3,164882124.43,11.9,116,Lionsgate,16,Cancelled,2021-09-27 00:02:35
+608,Sacred Star 728,Comedy,1997,219,Spanish,Australia,198967920.36,800352787.74,3.3,78,Paramount,12,Released,2017-04-18 11:03:10
+609,Dark Legacy,Horror,2001,156,Spanish,Germany,156334031.99,-2089963,2.2,28,Paramount,7,Released,2018-01-08 06:16:26
+610,Fallen Vision 70,Drama,2007,163,English,Spain,43027338.46,549004043.08,3.8,15,Disney,12,Cancelled,2020-04-02 02:57:11
+611,Infinite Mountain,Documentary,2011,77,Spanish,USA,89153530.71,874987685.47,7.5,198,Warner Bros,0,Production,2017-03-22 04:18:03
+612,Infinite Moon 60,Adventure,1996,209,French,Spain,207449654.29,234479049.91,7.9,47,Sony Pictures,0,Production,2020-11-18 07:34:55
+613,Infinite Vision 158,Animation,2001,86,Korean,Canada,286757731.19,308983576.31,5.7,130,Disney,7,Production,2018-11-07 14:36:49
+614,A Fire 103,Drama,1987,-45,Korean,Brazil,242299053.87,45091957.84,9.6,13,A24,12,Cancelled,2015-11-08 19:09:22
+615,A Promise 995,Horror,1991,98,Spanish,UK,147922882.08,229148992.09,5.0,93,Sony Pictures,7,Released,2016-07-06 12:43:20
+616,Lost Ocean 606,Romance,1992,70,Arabic,Germany,88681079.07,-34702296,8.4,154,Lionsgate,12,Released,2019-08-01 05:00:55
+617,Silent Journey 700,Documentary,1984,150,German,Spain,210746246.05,384482101.24,2.4,190,Netflix,16,Released,2019-03-15 15:30:20
+618,Sacred Fire 164,Fantasy,2006,172,French,UK,40579457.45,515476886.29,2.3,19,Netflix,16,Released,2015-03-19 10:20:48
+619,Lost Promise 412,Thriller,1989,114,Japanese,Australia,54375673.63,68490408.73,-1.1,87,Universal,7,Released,2016-04-21 17:48:54
+620,The Hero 280,Thriller,1990,91,Spanish,France,52282281.67,674290037.69,9.0,96,Focus Features,7,Production,2023-07-18 15:25:19
+621,Infinite Storm,Fantasy,2000,207,Japanese,Japan,251232915.93,38417956.13,6.0,128,A24,18,Production,2018-06-17 10:49:47
+622,Rising Sun 289,Romance,1987,103,Spanish,France,214600275.21,130433030.81,2.6,17,Warner Bros,12,Released,2024-05-18 06:50:07
+623,First Kingdom 961,Fantasy,2024,93,Portuguese,Spain,228225246.57,534695911.36,6.1,167,Disney,18,Cancelled,2018-02-24 17:01:03
+624,Last Dream 433,Adventure,1990,deux heures,Arabic,Brazil,101329837.1,169777997.25,3.8,46,Sony Pictures,7,Cancelled,2018-09-23 00:59:22
+625,Golden Fire 948,Fantasy,2016,85,Italian,India,49622222.86,392589345.85,3.0,53,Focus Features,18,Production,2018-04-27 15:26:57
+626,Hidden Night 518,Drama,2014,173,German,France,165868917.84,97883279.34,2.7,41,Paramount,7,Cancelled,2024-03-04 21:34:54
+627,Golden Mountain 358,Animation,1984,153,English,Italy,144942406.2,585613292.71,6.5,149,Disney,0,Cancelled,2023-09-04 20:52:17
+628,Last Night 637,Fantasy,2006,198,Korean,Canada,256042024.56,486961903.26,6.8,173,Warner Bros,7,Cancelled,2021-07-12 22:52:25
+629,Golden Sun 783,Sci-Fi,1986,184,Portuguese,India,267387184.71,293602648.07,6.9,3,A24,12,Released,2024-10-01 14:17:40
+630,Fallen Dawn 784,Romance,1999,182,Italian,,1652247.8,411610165.11,5.4,176,Lionsgate,18,Production,2021-05-03 16:12:51
+631,Broken Empire 868,Romance,1998,202,Korean,Germany,174666729.16,96225375.57,7.8,68,Sony Pictures,12,Released,2024-03-22 20:32:51
+632,Rising Storm 335,Drama,1982,105,English,Italy,166086645.43,16368558.16,3.4,92,Focus Features,0,Released,2015-09-18 18:35:12
+633,Eternal Hero 338,Crime,2015,191,French,India,295282274.92,134524653.09,7.9,13,Warner Bros,7,Released,2020-12-13 21:25:06
+634,Broken Journey 365,Action,2002,94,Portuguese,Germany,293635000.78,807492669.78,4.9,195,A24,0,Cancelled,2016-09-16 05:26:56
+635,Lost Hero 32,Thriller,2024,129,Japanese,Japan,75993468.67,844334423.37,3.4,109,Focus Features,16,Production,2017-05-02 12:09:50
+636,Sacred Dawn,Sci-Fi,2007,105,Italian,UK,256604962.54,7222165.51,9.2,76,A24,0,Production,2022-05-16 12:19:34
+637,First Star 382,Fantasy,1990,129,Korean,USA,25009781.54,299781942.0,1.9,153,Warner Bros,0,Cancelled,2018-07-05 21:11:05
+638,Infinite Night 952,Animation,2020,188,Italian,Japan,163900553.26,311919894.52,6.9,44,Disney,18,Cancelled,2019-03-22 11:08:45
+639,Eternal Star 104,Documentary,2003,184,Korean,USA,191201255.56,539397778.15,5.0,59,Netflix,7,Production,2017-05-15 16:46:47
+640,Eternal Sky 115,Animation,2017,216,Japanese,Japan,181108854.41,208308071.22,1.3,136,Paramount,16,Released,2016-12-07 07:52:41
+641,Golden Journey 187,Action,2012,114,Hindi,France,52639442.24,176749699.54,5.9,176,Universal,12,Released,2016-08-23 09:26:20
+642,Eternal River 949,Thriller,2012,201,French,South Korea,143770669.47,782433942.04,7.5,97,Disney,18,Production,2024-02-10 07:13:52
+643,Rising Dawn 602,Horror,2020,137,Korean,USA,172747111.97,620575408.47,5.7,123,Paramount,18,Released,2023-04-27 21:45:21
+644,Dark Shadow 722,Fantasy,2013,143,Japanese,Italy,281395961.01,267856968.98,8.9,186,A24,18,Production,2022-03-18 11:52:49
+645,Infinite Kingdom 337,Fantasy,2013,202,Portuguese,USA,21901403.3,416538420.77,6.8,162,Universal,7,Production,2023-09-07 20:38:58
+646,Eternal Vision,,2001,205,Japanese,South Korea,237077314.74,185579002.54,8.7,101,Focus Features,0,Released,2017-12-07 20:01:13
+647,Golden Empire,Romance,1987,217,German,India,283605370.77,10319729.5,7.5,185,Lionsgate,7,Released,2022-08-19 01:23:20
+648,Dark Legacy 883,Romance,1994,165,Korean,Brazil,225381964.77,418265036.61,7.8,50,Disney,16,Released,2016-02-19 07:50:37
+649,A Storm 255,Documentary,2016,148,Korean,South Korea,217190330.2,53257820.45,8.3,129,Universal,0,Production,2020-01-05 09:13:45
+650,Fallen River 411,Sci-Fi,2013,167,Spanish,Spain,207217032.11,539665508.68,2.8,159,Warner Bros,0,Cancelled,2020-09-11 13:05:23
+651,Lost Sky 462,Drama,2004,131,Portuguese,UK,237061245.21,341909785.8,9.4,169,Disney,18,Released,2022-08-06 14:01:54
+652,Dark Legacy 609,Crime,1980,133,Hindi,France,76838781.95,634345362.96,1.3,179,A24,12,Cancelled,2018-06-18 20:58:19
+653,Rising Ocean 44,Drama,2022,70,Arabic,USA,146238616.76,120975384.03,8.7,67,Sony Pictures,16,Released,2023-10-08 18:20:50
+654,Last Storm 590,Action,2005,70,Spanish,India,257529771.13,458281847.23,8.7,90,Universal,7,Production,2023-12-15 04:54:31
+655,A Vision 273,Action,2007,213,French,Italy,246317898.57,689123382.54,3.7,129,Focus Features,0,Cancelled,2022-04-18 15:28:41
+656,Hidden Moon 985,Adventure,2005,191,Japanese,France,-4282157,847877401.5,5.5,108,Warner Bros,7,Cancelled,2017-07-05 11:16:50
+657,Dark Hero 947,Crime,1994,78,Korean,Spain,2693180.14,59749649.7,7.1,181,Sony Pictures,0,Cancelled,2018-03-09 11:49:15
+658,Eternal Legacy 659,Fantasy,2019,106,Japanese,India,8934302.4,502263042.11,4.4,148,Amazon Studios,7,Released,2017-06-03 15:53:19
+659,Sacred Dawn 190,Horror,2024,124,French,France,186746161.17,275000337.89,1.9,13,A24,0,Released,2023-07-15 22:41:10
+660,The Dawn 798,Fantasy,1995,176,French,Canada,123076412.8,28156423.03,5.2,16,Universal,16,Released,2017-06-26 18:00:01
+661,Sacred Vision 222,Drama,1982,113,French,Germany,114512086.54,458433549.65,6.8,48,Universal,0,Production,2020-12-25 08:47:26
+662,Sacred Shadow 508,Comedy,1984,71,Japanese,Germany,294983490.86,203102041.29,8.5,34,Disney,12,Released,2016-11-13 00:09:21
+663,Dark River 934,Drama,2022,219,German,Spain,-6628098,378657567.23,3.8,34,A24,16,Released,2022-10-27 09:46:35
+664,The Dawn 277,Adventure,2014,-45,French,France,33576812.22,483367960.76,1.8,139,Amazon Studios,12,Cancelled,2024-09-14 08:30:35
+665,Rising Empire 691,Thriller,1983,198,Japanese,Spain,153595967.79,738795852.73,1.8,147,Warner Bros,16,Production,2024-10-05 02:27:19
+666,The Hero 414,Adventure,1992,102,Korean,Germany,81070147.39,404197729.46,5.4,147,Focus Features,16,Production,2019-07-06 04:45:54
+667,The Fire 68,Thriller,2011,107,Korean,,62837128.59,-35829309,4.3,191,Amazon Studios,16,Released,2024-02-20 00:00:33
+668,Golden Promise 787,Drama,1987,deux heures,French,Italy,222544065.22,211663742.96,2.8,149,Focus Features,18,Cancelled,2022-12-23 19:02:24
+669,The Legacy 815,Horror,1985,210,Japanese,Italy,15673328.1,734360489.45,5.5,64,Amazon Studios,0,Released,2018-08-03 03:33:56
+670,A Star 95,Documentary,2024,198,Portuguese,Japan,5942247.65,724447382.13,1.6,196,Paramount,12,Production,2021-01-15 10:24:36
+671,Broken Journey 257,Adventure,2005,107,French,USA,80465470.2,14527177.99,7.8,177,Focus Features,7,Released,2018-09-15 19:59:49
+672,First Storm 153,Romance,2013,87,Korean,UK,237005753.62,873848016.73,2.4,89,A24,0,Released,2019-02-06 19:06:49
+673,Golden Dawn 565,Drama,2023,87,Korean,South Korea,86415976.28,357884708.13,1.5,57,Warner Bros,12,Production,2021-01-02 02:08:35
+674,Last Empire 147,Action,1991,102,Italian,France,37965486.9,238116314.81,4.3,110,Amazon Studios,12,Released,2019-05-13 23:02:56
+675,First Fire 916,Animation,1994,146,English,France,-17251063,647288728.44,9.7,80,A24,7,Production,2018-06-18 13:05:31
+676,Rising Legacy,Sci-Fi,2023,187,Spanish,Italy,1636107.64,376533158.9,9.2,103,Disney,7,Production,2016-10-15 13:54:34
+677,Fallen Empire,Horror,1998,90,Portuguese,USA,108800883.78,877473006.57,5.5,124,Sony Pictures,7,Released,2018-06-28 08:51:13
+678,First Hero 315,Adventure,2015,98,Korean,Australia,76206956.9,320716667.22,6.1,103,Sony Pictures,12,Cancelled,2016-02-04 21:45:39
+679,Fallen River 560,Documentary,2031,179,Arabic,South Korea,236792028.51,777613670.47,7.4,71,Lionsgate,16,Cancelled,2015-07-13 08:55:49
+680,The Moon 868,Drama,1991,164,Japanese,France,56353188.55,106705631.43,3.7,136,Amazon Studios,0,Released,2022-03-04 22:46:41
+681,Eternal Empire 395,Action,1983,121,German,India,187057844.49,44643833.38,3.4,54,Sony Pictures,16,Released,2018-02-25 22:31:47
+682,A Promise 843,Crime,1982,96,Italian,UK,282002071.26,555193428.54,1.4,26,Lionsgate,12,Cancelled,2022-09-11 11:58:00
+683,Lost Shadow 79,Animation,2001,deux heures,Spanish,India,260234888.69,670235167.34,7.9,15,Paramount,16,Released,2021-02-14 00:35:44
+684,Golden Shadow 798,Comedy,1992,220,Italian,Japan,232580732.92,436699677.32,1.4,144,Universal,0,Released,2019-09-01 21:46:45
+685,Golden Moon 804,Documentary,1990,145,Spanish,Germany,289220625.06,741834031.89,1.3,155,Amazon Studios,18,Production,2022-05-13 21:30:01
+686,Rising Vision 699,Drama,2024,217,Korean,Brazil,263302827.67,289736471.1,8.4,38,Amazon Studios,0,Released,2022-01-07 06:23:02
+687,Eternal Empire 786,Comedy,1993,98,Arabic,Canada,162777878.13,-21228475,9.0,154,Universal,0,Production,2018-01-05 03:23:58
+688,A Sun 488,Adventure,2004,173,Arabic,Germany,280747580.29,209482022.92,1.8,31,Sony Pictures,16,Production,2019-03-16 16:52:51
+689,Broken Dream 877,Sci-Fi,2015,98,French,Spain,99189981.63,210865776.91,6.0,88,Netflix,12,Released,2021-11-02 21:51:38
+690,Fallen Fire 233,Action,1998,164,Italian,Spain,11485200.53,91660883.95,1.5,32,Netflix,16,Production,2022-09-21 07:30:42
+691,Hidden Hero 222,Sci-Fi,1994,117,Japanese,France,151224832.65,413170972.7,1.4,86,Sony Pictures,16,Cancelled,2023-07-05 14:11:35
+692,Golden Sky,Animation,1996,184,Italian,Australia,143731321.79,751367874.03,4.0,103,A24,16,Cancelled,2017-06-20 04:13:57
+693,Golden Dream 740,Animation,2006,77,Hindi,India,177600872.78,51875188.08,4.3,2,Netflix,0,Cancelled,2023-10-25 04:30:12
+694,Broken Dream 761,Sci-Fi,2008,135,Korean,Germany,221491059.43,52089928.98,6.2,182,Netflix,12,Production,2017-07-28 02:37:45
+695,Eternal Storm 248,Documentary,1991,173,Spanish,Spain,54488582.75,157979533.75,5.2,20,A24,12,Cancelled,2022-07-20 03:31:06
+696,Rising Fire 59,Comedy,2014,143,Hindi,Italy,70190342.38,846003263.0,13.3,46,Disney,0,Released,2021-10-26 17:00:06
+697,Infinite Ocean,Romance,1984,-45,French,Spain,-7749020,725620464.41,9.1,200,Warner Bros,12,Cancelled,2015-01-10 18:12:13
+698,Dark Dream 856,Horror,2004,98,German,UK,234864663.97,217575216.38,5.8,9,Amazon Studios,12,Production,2015-03-12 19:46:39
+699,Eternal Legacy 333,Fantasy,2018,188,German,UK,26558487.83,106173862.88,4.1,198,Lionsgate,16,Released,2017-07-23 13:28:25
+700,Lost Star 844,Comedy,1999,122,Japanese,Canada,-519144,455148378.9,14.0,94,Amazon Studios,0,Released,2015-09-01 21:45:59
+701,A Promise 983,Comedy,1990,89,Japanese,Germany,84208101.75,822491377.98,2.5,50,Paramount,7,Released,2015-03-08 11:04:02
+702,Dark Moon 928,Sci-Fi,1983,127,Japanese,South Korea,205043640.05,769799043.82,8.2,73,Paramount,18,Released,2018-04-06 09:54:15
+703,Rising Fire 607,Action,1981,207,Arabic,France,289792464.19,243273530.04,6.1,86,Lionsgate,16,Production,2024-10-20 04:03:07
+704,Dark Mountain 991,Thriller,2009,165,French,USA,178791618.75,576861419.61,8.9,26,Lionsgate,7,Released,2021-08-03 22:14:06
+705,Fallen Moon 238,Comedy,1997,108,Hindi,Australia,75936417.78,815145047.88,8.8,115,Paramount,0,Released,2024-10-06 21:47:56
+706,Golden Ocean 323,Horror,1990,86,Arabic,South Korea,95679618.62,647843830.57,6.1,61,Warner Bros,18,Production,2022-10-15 20:08:16
+707,Fallen Journey 998,Adventure,1988,93,Arabic,Brazil,188670624.61,630400736.19,2.0,2,Sony Pictures,18,Production,2022-01-14 15:40:24
+708,Eternal Promise 204,Thriller,2017,212,French,South Korea,282855430.21,420596225.76,3.6,15,Focus Features,12,Cancelled,2023-06-24 16:33:12
+709,Eternal Legacy 176,Sci-Fi,2010,deux heures,Hindi,Japan,38036122.58,151536748.26,2.9,82,Netflix,0,Cancelled,2021-03-18 05:11:11
+710,Eternal Moon 9,Documentary,2022,173,Japanese,Spain,123651151.98,226831637.49,1.1,44,Disney,7,Production,2016-05-19 18:11:38
+711,The Storm 621,Romance,2024,104,English,Japan,267610604.94,47448615.34,4.8,123,Sony Pictures,0,Released,2018-10-03 01:47:48
+712,A Promise 225,Thriller,1991,146,French,France,67046738.22,625375566.58,1.2,119,A24,0,Production,2021-05-13 03:59:43
+713,Hidden Dream 851,Animation,1988,125,Korean,,98006544.81,179976683.88,4.9,38,Paramount,0,Released,2018-07-04 00:41:59
+714,Sacred Journey 266,Drama,1999,121,Italian,South Korea,245229643.3,674004333.04,5.1,100,Focus Features,12,Production,2021-01-14 22:13:50
+715,First Journey 300,Action,2007,191,Korean,France,132693399.78,752320509.87,6.4,77,Disney,0,Released,2019-09-08 14:19:17
+716,Sacred Ocean 80,Comedy,2002,155,Hindi,Italy,134866260.98,9801163.76,3.6,191,Paramount,16,Released,2021-09-19 01:17:44
+717,Fallen Fire 203,Adventure,1984,70,Arabic,India,187933523.68,667752475.0,1.8,61,Netflix,18,Cancelled,2015-01-19 07:30:34
+718,A Ocean 689,Horror,2021,94,German,India,157003810.9,411387082.04,4.3,116,Netflix,16,Production,2021-08-05 21:56:24
+719,Sacred Mountain 414,Drama,1999,92,Hindi,Brazil,10550642.03,407585040.24,2.5,3,Focus Features,12,Production,2015-12-15 20:53:53
+720,Golden Sun 21,Thriller,1875,79,Arabic,Spain,127729331.02,190225497.82,6.7,6,Amazon Studios,16,Cancelled,2016-09-05 05:47:11
+721,Rising Dream,Animation,2021,90,Hindi,Spain,152366476.68,452192986.07,6.3,100,A24,7,Cancelled,2021-04-10 21:52:10
+722,Hidden Empire 711,Documentary,1875,150,Korean,USA,191221787.69,125185125.37,5.0,144,Amazon Studios,0,Cancelled,2021-11-24 14:01:26
+723,Rising River 192,Drama,1990,73,Portuguese,Canada,251174879.68,72174894.07,8.2,126,Universal,18,Released,2021-12-11 06:49:51
+724,Last Vision,Adventure,1980,148,Spanish,Italy,47741654.15,625940890.25,9.4,23,Paramount,12,Production,2024-12-01 03:18:22
+725,Sacred Promise 626,Animation,2004,86,Hindi,Spain,110675395.12,477498696.32,3.4,132,Sony Pictures,7,Released,2017-12-22 23:04:29
+726,Hidden Legacy 115,Documentary,1980,166,Japanese,Australia,34612385.31,474980773.57,7.7,27,Amazon Studios,12,Cancelled,2017-11-17 02:21:00
+727,Last Vision 794,Animation,2018,175,English,Spain,61474332.03,485525165.59,8.9,17,A24,7,Production,2017-09-06 19:26:35
+728,Dark Sky,Documentary,1981,74,Hindi,India,289799275.8,165547261.0,6.6,108,Focus Features,0,Production,2024-11-04 23:38:56
+729,Infinite Sun 880,Animation,2031,78,English,Germany,137158698.68,724037749.24,4.7,68,Sony Pictures,12,Released,2020-10-13 20:41:11
+730,Lost Ocean 343,Crime,2011,90,Japanese,Australia,43209950.25,789227061.61,6.3,40,Paramount,16,Production,2018-01-06 17:58:17
+731,Broken Vision 415,Adventure,2019,deux heures,Japanese,Germany,40320805.33,620766241.67,4.1,109,Sony Pictures,18,Released,2023-08-26 11:49:17
+732,Lost Storm 995,Romance,1997,200,French,South Korea,171201688.27,223967836.86,9.3,39,Paramount,7,Released,2021-01-13 12:51:29
+733,Broken Journey 994,Horror,1988,149,German,Australia,40899089.56,230989406.15,4.4,106,Lionsgate,18,Released,2015-07-14 12:04:29
+734,Infinite Promise 598,Thriller,2004,109,Portuguese,Brazil,64993204.84,661349985.99,4.5,182,A24,16,Cancelled,2017-06-25 13:00:19
+735,A Mountain 261,Action,1996,133,Arabic,Canada,57285018.69,76265549.09,-0.4,75,Sony Pictures,0,Cancelled,2022-07-05 19:46:47
+736,A Sky 759,Thriller,1998,214,Japanese,,155217566.3,289325307.98,8.4,9,Lionsgate,18,Cancelled,2021-11-11 21:24:19
+737,Dark Dawn 304,Sci-Fi,2021,202,Korean,Germany,279780173.27,385353621.57,1.9,144,Lionsgate,16,Released,2024-09-27 01:41:54
+738,Silent Sun 547,Action,2022,70,Italian,Italy,158094585.89,880355856.71,7.7,165,Sony Pictures,0,Production,2018-05-16 08:07:45
+739,Dark Star,Drama,2010,150,French,USA,147312499.47,152685482.55,9.5,108,Universal,18,Cancelled,2017-01-05 22:21:53
+740,Broken Promise,Drama,2013,123,Arabic,Japan,243204340.13,279526953.7,3.5,200,Sony Pictures,16,Production,2015-08-24 17:26:55
+741,Dark Mountain 323,Action,2010,89,Portuguese,France,189147543.78,619286237.46,9.6,178,Paramount,7,Cancelled,2024-06-03 08:22:24
+742,Last Ocean 38,Drama,2002,158,French,Brazil,29083138.3,406757367.55,8.0,94,Paramount,18,Cancelled,2016-07-02 20:31:52
+743,Fallen Storm 52,Fantasy,1980,151,French,India,6003308.58,543825866.84,5.8,139,Warner Bros,7,Cancelled,2021-07-25 05:49:47
+744,Hidden Hero 245,Documentary,2023,75,Hindi,,117826771.66,628063285.87,8.9,112,Lionsgate,7,Released,2018-06-24 13:08:12
+745,The River 620,Horror,1981,199,Italian,Spain,216090358.75,434722838.4,6.2,174,Universal,18,Cancelled,2024-02-18 23:52:44
+746,Lost Sky 887,Drama,1989,166,Korean,India,101881755.56,146792135.52,2.6,153,Amazon Studios,0,Production,2022-11-22 05:09:01
+747,Silent Mountain 616,,2010,163,Japanese,Spain,287594703.49,478687141.7,7.8,51,Universal,16,Released,2019-07-24 02:52:39
+748,Broken Star 747,Horror,2011,174,Italian,UK,211085341.17,830571895.13,9.6,99,Universal,18,Production,2015-03-12 15:52:35
+749,Infinite Vision 7,Romance,1983,83,English,Italy,-1976958,116426204.56,6.6,110,Sony Pictures,0,Cancelled,2023-10-04 00:55:13
+750,Broken Hero 607,Comedy,1995,106,English,Canada,47844837.82,848487693.87,6.0,94,Paramount,0,Cancelled,2017-07-02 01:39:45
+751,Golden Dream 45,Animation,2011,152,Japanese,Australia,41550128.82,672475237.2,3.5,85,Paramount,18,Released,2016-09-01 20:35:07
+752,Hidden Legacy 610,Crime,1993,142,Italian,Italy,50778257.93,333958113.2,6.4,180,Amazon Studios,16,Released,2018-07-04 13:53:08
+753,First Legacy 434,Action,2020,177,Italian,USA,106319179.65,329438632.93,1.6,175,Warner Bros,0,Production,2018-11-24 20:05:27
+754,Fallen Shadow 324,Sci-Fi,2016,103,Japanese,France,177423819.91,510494147.36,4.3,191,Netflix,7,Released,2020-12-15 18:03:20
+755,Hidden Vision 127,Adventure,2021,217,Italian,Brazil,254359914.17,193405791.03,8.8,50,Netflix,18,Production,2019-11-22 17:29:25
+756,Golden Storm 384,Action,1995,192,French,India,256733835.02,90325403.15,1.2,126,Paramount,7,Released,2017-12-23 19:44:30
+757,Last Dawn 216,Romance,1982,213,Korean,Germany,244735406.62,806202992.24,6.4,48,Sony Pictures,7,Production,2022-04-20 22:10:14
+758,Hidden Legacy 889,Comedy,1995,75,Japanese,Brazil,20044969.44,205235079.09,5.5,55,Sony Pictures,16,Cancelled,2016-10-19 16:09:56
+759,Broken Storm 819,Sci-Fi,1985,138,Spanish,Italy,277831277.04,511597769.99,1.6,57,Universal,0,Released,2021-05-08 06:43:09
+760,Dark Dream 641,Comedy,2011,189,French,Italy,152116492.52,859451969.13,3.6,114,Warner Bros,7,Cancelled,2020-01-08 12:51:02
+761,Silent Journey 321,Documentary,1988,91,English,Australia,212563802.22,119135552.62,1.2,112,A24,12,Cancelled,2017-07-15 13:08:23
+762,Broken Storm 863,,1982,173,Hindi,Australia,190470676.52,849458686.07,8.0,187,Universal,12,Cancelled,2022-05-11 19:31:41
+763,Broken River 107,Thriller,2024,194,Hindi,Brazil,299178123.01,231992946.48,-0.9,81,Netflix,0,Production,2024-12-26 21:13:09
+764,Eternal Dream 794,Horror,1988,135,French,UK,215721010.63,841110872.54,6.7,27,Netflix,18,Production,2023-06-08 08:01:00
+765,Hidden Night 187,Romance,1990,119,Hindi,Brazil,281744524.45,744057133.4,2.4,119,Focus Features,16,Released,2023-09-17 04:58:08
+766,Last Vision 539,Crime,2001,144,Hindi,USA,23571974.27,628147292.61,6.7,120,Lionsgate,18,Cancelled,2019-07-01 21:20:32
+767,Rising Vision 639,Romance,2023,70,German,UK,241293494.27,488748621.64,2.2,103,Disney,0,Released,2021-06-12 10:46:28
+768,Lost Empire 417,Sci-Fi,2013,152,Korean,Spain,297363815.3,423287233.22,1.1,115,Netflix,18,Production,2023-03-10 21:03:22
+769,A Dream 392,Sci-Fi,1991,147,Hindi,Canada,-7268482,181511670.66,5.7,132,Paramount,12,Production,2015-12-03 14:01:15
+770,Rising River 47,Horror,1997,124,Italian,USA,239295427.21,43755359.58,-1.2,72,Universal,7,Production,2024-01-19 13:40:04
+771,Eternal Journey 488,Fantasy,1988,156,Hindi,Japan,109092273.91,474011426.57,9.0,91,Amazon Studios,16,Production,2023-01-19 10:31:40
+772,Lost Mountain 587,Action,2017,210,Italian,USA,185288880.45,585641183.44,1.4,24,Netflix,18,Cancelled,2017-06-17 08:39:53
+773,Eternal Storm 480,Horror,1994,182,German,Japan,138352622.7,860105192.47,3.7,109,Sony Pictures,18,Cancelled,2017-04-01 16:33:48
+774,Hidden Dawn 860,Crime,2005,140,Italian,UK,230052697.91,802361057.29,6.7,97,Lionsgate,12,Released,2022-07-27 15:18:59
+775,Golden River 102,Animation,1980,116,Arabic,Australia,274470079.58,83136221.71,9.1,24,A24,18,Cancelled,2017-05-25 04:56:24
+776,Eternal Moon 842,Horror,2015,75,Spanish,Germany,217617348.55,426434091.62,5.4,39,Disney,7,Production,2024-01-02 22:52:50
+777,Sacred Dream 324,Adventure,2020,211,German,Spain,211128449.41,711976406.15,3.8,135,Universal,18,Cancelled,2024-11-02 14:47:13
+778,Fallen Empire 68,Drama,2018,218,Hindi,Canada,188342660.96,744114128.44,3.3,106,Paramount,18,Released,2017-01-22 15:25:05
+779,Dark Mountain 608,Drama,2020,77,Korean,Brazil,263608946.45,139302202.64,7.9,100,Universal,18,Released,2015-11-27 15:00:58
+780,Rising Sun 733,Fantasy,1987,220,German,UK,43621567.97,804129668.99,9.0,112,Sony Pictures,18,Production,2015-04-23 10:02:26
+781,Fallen Star 472,Romance,1994,118,German,USA,132956626.44,689371347.61,6.8,26,Netflix,12,Production,2015-11-28 10:28:43
+782,Infinite Hero 367,Drama,2019,126,Japanese,Japan,110609524.36,188391996.48,3.7,124,Warner Bros,0,Released,2018-11-26 10:54:03
+783,Last Sun 549,Drama,2005,206,English,Canada,263563262.15,401823176.15,8.8,78,Sony Pictures,12,Production,2023-05-09 13:30:36
+784,Sacred Sky 26,Thriller,2007,179,English,France,281320702.32,431841274.06,5.5,31,Netflix,18,Production,2020-08-23 05:38:58
+785,Hidden Dawn 679,Drama,2015,123,Spanish,Canada,99762305.32,634728172.09,2.4,59,Disney,12,Released,2021-12-12 02:35:22
+786,Lost Ocean 551,Romance,1981,123,Italian,Spain,116938473.94,310904685.19,4.1,22,A24,12,Cancelled,2024-02-14 02:28:00
+787,Silent Storm 972,Comedy,2022,214,Japanese,France,229080855.24,600914932.09,8.8,66,Focus Features,7,Cancelled,2022-08-10 00:47:08
+788,Broken Dawn,Horror,1995,77,Italian,Australia,-13400700,636401450.94,5.9,97,A24,16,Released,2024-12-13 13:26:27
+789,A Storm 143,Adventure,1995,78,Spanish,UK,293665077.76,529585949.47,8.9,113,Amazon Studios,18,Released,2021-08-12 19:47:01
+790,A Kingdom 885,Drama,2020,173,Japanese,USA,63780981.22,315480624.21,8.5,112,Sony Pictures,7,Production,2015-02-18 12:15:31
+791,Sacred Dawn 389,Fantasy,2002,167,Korean,South Korea,47806242.57,616809659.49,8.8,77,Lionsgate,0,Released,2018-09-11 00:11:47
+792,Sacred Star 352,Adventure,1997,135,Italian,Spain,160266804.27,515439354.79,7.6,17,Sony Pictures,12,Production,2021-12-24 22:05:23
+793,Lost Kingdom 300,Thriller,1985,220,Hindi,Spain,95386143.19,-1937108,6.1,113,A24,16,Production,2016-09-07 01:44:33
+794,Sacred Moon 515,Drama,2014,132,Arabic,Canada,28083713.89,206033079.51,4.6,4,A24,18,Released,2023-08-04 01:39:42
+795,Rising Empire 328,Comedy,2009,174,English,UK,246679458.69,220027569.25,1.6,46,Paramount,0,Production,2015-01-06 06:03:11
+796,Golden Dream 896,Crime,2001,74,Spanish,UK,29125142.59,138146943.33,5.2,20,Sony Pictures,12,Cancelled,2024-10-05 00:06:55
+797,Rising Dream 915,Adventure,1988,104,English,South Korea,293205855.32,598388824.69,4.3,25,Lionsgate,0,Released,2016-04-09 17:19:13
+798,Last Promise 104,Crime,1991,99,Spanish,Germany,76621811.66,370607221.62,2.1,129,Amazon Studios,12,Production,2024-08-14 00:11:16
+799,Broken Empire 441,Horror,1983,219,Arabic,Italy,191178891.14,814429170.24,3.4,164,Netflix,7,Cancelled,2022-04-12 12:53:49
+800,A Star 705,Romance,2005,155,French,Japan,269219024.48,332821778.38,6.6,107,Amazon Studios,12,Released,2019-08-26 11:14:15
+801,Rising Promise 715,Horror,1997,170,Korean,Australia,62909308.82,620490852.26,2.1,197,Lionsgate,18,Production,2018-03-10 06:56:58
+802,Hidden Sun 506,Comedy,2001,110,Italian,Germany,164342159.67,244380958.96,3.5,129,Amazon Studios,7,Cancelled,2024-01-14 03:25:46
+803,Golden Dawn 304,Fantasy,2019,209,French,Italy,258203016.99,450133749.93,8.9,51,A24,0,Released,2018-01-16 06:30:08
+804,Rising Hero 483,Action,1997,178,Hindi,,268923111.48,247661132.96,2.2,74,Amazon Studios,7,Cancelled,2019-08-13 05:20:41
+805,First Dawn 767,Crime,2024,173,Arabic,Canada,42039040.85,774531063.9,12.6,147,Sony Pictures,18,Cancelled,2016-11-04 05:41:26
+806,Hidden Sun 736,Animation,2006,76,Hindi,Germany,66591755.2,94480845.84,2.5,147,Warner Bros,0,Production,2018-10-20 08:46:37
+807,The Night,Thriller,1997,177,Arabic,Australia,238472489.85,742989576.43,7.1,16,Universal,16,Production,2024-04-02 02:16:58
+808,Golden Night 107,Horror,2017,91,English,Japan,276848912.28,34883394.26,8.3,107,Universal,16,Cancelled,2015-12-03 19:38:02
+809,Last Sky 148,Thriller,2001,136,English,Germany,22868796.61,430302020.4,1.8,152,Universal,7,Cancelled,2021-01-03 10:50:30
+810,A Night 810,Thriller,1986,149,English,UK,139447169.15,145498617.47,5.9,75,Universal,0,Released,2023-08-28 20:19:20
+811,Dark Kingdom 957,Fantasy,2007,200,Italian,Japan,56662927.85,498741554.28,1.3,78,Lionsgate,0,Cancelled,2021-02-26 18:18:10
+812,Last Dawn 122,Action,1995,155,English,Italy,130286070.2,349743599.37,3.2,43,Netflix,7,Cancelled,2022-12-10 02:00:08
+813,Lost Moon 290,Drama,2009,140,Korean,Italy,85056798.18,854679369.06,1.5,152,Netflix,16,Production,2020-11-13 06:23:23
+814,Sacred Empire 304,Comedy,1985,169,Korean,Italy,78067670.15,428822205.32,1.7,168,Sony Pictures,0,Released,2015-07-17 20:26:55
+815,Dark Ocean 42,Documentary,1986,70,Italian,Italy,18168848.1,874799127.04,5.3,2,A24,16,Released,2018-09-24 03:07:22
+816,Eternal Fire 144,Documentary,1991,deux heures,Japanese,Spain,47085627.14,899931360.55,11.4,186,Focus Features,12,Production,2024-02-08 11:56:50
+817,A Shadow 959,Crime,2000,183,Spanish,Australia,39809973.3,712411945.04,2.0,171,Netflix,16,Cancelled,2015-10-25 14:33:15
+818,The Dawn 949,,1999,143,Korean,Germany,184172696.51,113710273.9,7.7,168,Sony Pictures,12,Production,2023-07-26 14:18:46
+819,Infinite Dawn 564,Drama,2023,deux heures,Arabic,South Korea,273861665.84,871264121.76,3.0,198,Universal,7,Released,2018-11-20 23:57:45
+820,Fallen Ocean 954,Thriller,2005,73,Korean,India,103671945.15,334936142.06,-0.8,48,Lionsgate,0,Production,2024-07-19 20:03:44
+821,First Moon 916,Fantasy,2031,87,Italian,South Korea,72557524.06,246104242.04,1.4,37,A24,16,Released,2018-07-22 17:04:19
+822,Broken Legacy 60,Thriller,2012,192,Portuguese,Canada,184054450.95,242490990.06,8.4,47,Netflix,0,Cancelled,2019-11-06 07:47:09
+823,Infinite Ocean 179,,1982,186,Japanese,France,102931399.41,358548417.31,5.7,73,Lionsgate,0,Production,2017-08-19 12:00:10
+824,First Fire 378,Thriller,1993,106,Korean,Australia,107971481.38,763506292.87,5.7,135,Amazon Studios,7,Released,2019-01-27 04:38:27
+825,Rising Fire 927,Fantasy,2008,194,Spanish,Canada,39741077.55,366603086.84,7.8,92,Paramount,18,Released,2021-07-20 06:30:54
+826,Eternal Storm 406,Comedy,1982,101,Portuguese,UK,90970070.85,-11148454,1.4,150,Warner Bros,0,Cancelled,2018-11-08 06:23:39
+827,Last Kingdom 619,Fantasy,1983,117,Korean,Italy,44294356.05,338977977.19,3.5,132,Netflix,12,Cancelled,2019-01-24 14:37:39
+828,,Sci-Fi,1993,129,Italian,Australia,139909224.67,691564747.88,4.3,74,Paramount,16,Released,2016-10-10 11:12:43
+829,Broken Shadow 943,Animation,2007,179,Korean,UK,194606734.09,-39621060,2.4,180,Netflix,16,Cancelled,2015-07-22 02:51:46
+830,Broken Hero 160,Drama,2005,210,German,USA,247858736.8,184127545.0,2.3,32,Focus Features,12,Cancelled,2017-02-28 04:24:52
+831,Lost Empire 738,Documentary,1994,91,Spanish,Canada,-8715507,408254930.35,9.0,138,Lionsgate,7,Released,2016-04-05 08:27:22
+832,Broken Empire 872,Fantasy,2010,207,French,Spain,60910779.1,371519813.33,8.8,54,Focus Features,7,Released,2016-02-25 08:42:55
+833,The Sun,Comedy,2005,180,Arabic,South Korea,43777724.99,251756912.17,2.9,64,A24,12,Cancelled,2021-06-25 12:39:30
+834,Rising Ocean 542,Horror,1990,217,Korean,,122335403.66,5331630.31,2.1,84,Amazon Studios,18,Production,2016-03-27 21:03:55
+835,Rising Dawn 769,Romance,1991,129,English,Canada,233399036.68,789614409.32,1.6,78,Amazon Studios,12,Released,2017-03-26 06:18:57
+836,Fallen Vision 564,Adventure,2024,71,Korean,Spain,139360495.63,336284918.84,3.6,118,Warner Bros,7,Released,2024-09-05 02:18:28
+837,Golden Dawn 793,Animation,1989,215,Japanese,South Korea,276797417.65,689366973.14,4.5,57,Disney,18,Production,2018-01-04 02:08:56
+838,Sacred Dawn 28,Action,2023,198,Spanish,Italy,232083831.3,183265866.23,2.9,173,Lionsgate,16,Released,2023-03-23 17:38:25
+839,Fallen Night 715,Action,2020,143,Portuguese,,295618816.48,252010569.01,1.5,38,Sony Pictures,18,Production,2016-10-07 11:03:52
+840,Lost Storm 80,Sci-Fi,1987,205,English,India,65412772.2,458663014.66,-2.3,18,Warner Bros,12,Released,2019-04-03 11:25:24
+841,Infinite Empire 349,Thriller,1992,96,Arabic,Spain,96255774.84,177456785.59,1.1,133,Netflix,16,Production,2022-02-16 14:35:16
+842,The Night 986,Action,2009,96,Portuguese,India,193928493.69,631583889.19,1.9,100,Amazon Studios,18,Production,2016-02-19 18:30:52
+843,Eternal Sun 450,Adventure,1992,110,German,USA,259518837.25,881138794.07,2.7,139,Universal,18,Production,2021-06-15 22:09:34
+844,Silent Mountain 374,Thriller,2017,200,Spanish,Italy,43036867.46,699121411.75,5.9,85,Focus Features,12,Production,2021-09-16 19:55:13
+845,The River 7,Documentary,1990,188,Italian,Italy,243430150.16,285058541.25,8.1,43,Netflix,7,Cancelled,2020-05-14 03:15:00
+846,Sacred Legacy 479,Action,2016,102,English,Australia,248681089.86,643550641.35,5.3,117,Universal,0,Cancelled,2019-03-11 04:44:46
+847,Fallen Empire 944,Action,2031,91,English,UK,83958089.95,607654599.97,8.8,90,A24,16,Production,2016-10-27 22:57:27
+848,Infinite Shadow 695,Crime,2004,181,Italian,Italy,122312532.81,548499055.17,5.6,74,Sony Pictures,0,Released,2024-12-12 04:10:59
+849,Eternal Sky 968,Crime,2003,187,Spanish,UK,174046896.34,219565134.45,-1.0,123,Paramount,16,Released,2016-06-16 20:37:07
+850,A Star 39,Drama,2005,108,English,India,120697050.96,646019249.0,8.4,154,A24,18,Released,2018-06-10 16:32:45
+851,Last Moon 504,Fantasy,1998,190,Japanese,Italy,268925830.66,371909532.83,8.5,62,Disney,0,Released,2016-08-23 04:52:42
+852,Rising Dream 374,Documentary,2005,137,Portuguese,UK,149668963.44,2452089.84,7.1,169,Disney,0,Cancelled,2021-11-02 02:19:42
+853,,Drama,2015,141,Spanish,Spain,120492995.23,656696860.89,7.1,61,Netflix,16,Cancelled,2018-07-20 22:48:53
+854,,Action,1982,204,Portuguese,Germany,133288499.31,3295998.53,8.5,12,Disney,18,Cancelled,2018-06-23 08:04:21
+855,Golden Journey 775,Crime,1994,137,German,Italy,73111230.29,153437278.93,1.2,22,Disney,7,Cancelled,2021-09-03 11:54:55
+856,Sacred Promise 311,Adventure,2009,158,Arabic,France,259017662.69,881532403.48,9.3,190,Paramount,0,Cancelled,2021-08-07 19:28:39
+857,Golden Sky 143,Fantasy,1999,178,German,Italy,-3984487,365041888.44,5.2,131,A24,16,Production,2017-11-17 17:51:13
+858,Rising Mountain 443,Crime,1981,171,Spanish,Spain,51983320.65,382660284.46,5.5,3,Lionsgate,7,Production,2021-02-13 10:10:11
+859,Golden Journey 693,Documentary,1980,218,Korean,Canada,41105928.3,429011410.5,4.8,127,Amazon Studios,12,Released,2023-04-18 11:47:34
+860,The Star 31,Adventure,1998,182,Italian,South Korea,175022345.46,858062306.27,9.4,102,Netflix,0,Cancelled,2023-08-03 20:07:53
+861,First Empire 439,Crime,2031,117,Portuguese,Brazil,157094473.97,751760064.51,6.6,161,Paramount,0,Released,2024-04-01 03:06:46
+862,Infinite Dawn 349,Drama,2005,79,Spanish,Canada,7375837.99,540693994.35,2.6,49,Amazon Studios,18,Released,2016-11-18 00:24:10
+863,Infinite Hero 14,Animation,1981,136,Italian,Australia,42098400.76,516838530.89,5.1,163,Sony Pictures,0,Cancelled,2020-08-26 22:05:51
+864,Lost Ocean 313,Crime,2003,196,Italian,India,236801255.37,273605602.5,2.9,17,Sony Pictures,16,Cancelled,2021-09-18 21:52:26
+865,Silent Empire 204,Horror,1998,128,Korean,Australia,128973377.25,374900177.68,4.8,77,Focus Features,12,Released,2017-01-28 21:51:29
+866,Fallen Moon 538,Documentary,1998,174,Portuguese,India,248821663.17,219545160.16,4.8,87,Focus Features,0,Production,2015-12-26 09:20:51
+867,The Moon 739,Comedy,2005,72,Arabic,Japan,295750573.24,176616305.03,5.1,190,A24,7,Cancelled,2020-05-21 11:42:40
+868,Lost Storm 248,Action,1988,159,English,Australia,-12025836,20941355.99,5.9,88,Paramount,0,Released,2022-10-09 21:43:43
+869,Lost Mountain 845,Animation,2001,95,Arabic,Australia,9243152.08,150266152.96,8.8,39,Focus Features,16,Cancelled,2021-03-26 21:22:07
+870,Hidden Hero 537,Thriller,2015,159,Korean,France,227101395.24,718387877.5,6.5,83,Universal,0,Production,2019-06-27 11:20:48
+871,Lost Mountain 706,Action,2006,117,French,Italy,74611495.13,86011967.93,8.4,122,Netflix,16,Cancelled,2017-07-09 03:11:48
+872,Rising Storm 527,Drama,2021,deux heures,Portuguese,USA,70595392.87,-16761950,9.1,19,Amazon Studios,16,Released,2019-06-02 22:21:46
+873,Broken Promise 553,Comedy,2006,95,Arabic,Japan,248421504.41,500492485.07,3.7,24,Sony Pictures,7,Released,2017-06-20 07:25:19
+874,Silent Hero 880,Documentary,1995,135,Korean,South Korea,140234200.09,57624644.84,-2.2,67,Paramount,0,Cancelled,2018-11-10 07:27:56
+875,Broken Moon 231,Drama,2023,110,Portuguese,Spain,203621999.02,14318106.92,6.1,120,Lionsgate,7,Production,2020-02-15 06:54:10
+876,Golden Shadow 863,Crime,1983,195,Portuguese,UK,178314329.18,510523377.74,3.8,118,Amazon Studios,16,Released,2015-06-05 18:32:43
+877,Fallen Kingdom 2,Horror,2018,90,Arabic,USA,-6458650,5389969.74,4.3,63,Focus Features,16,Cancelled,2024-01-07 23:19:40
+878,Silent Hero 175,Documentary,2005,82,Portuguese,Brazil,82306180.17,413368482.09,6.5,186,Disney,7,Production,2023-09-04 01:04:56
+879,Last Legacy 681,Comedy,2000,132,English,France,-8386009,481921935.21,4.2,9,Focus Features,7,Cancelled,2016-11-13 16:07:46
+880,Sacred Dream 228,Action,2016,92,German,Germany,180269681.93,459301618.0,6.7,48,Warner Bros,0,Released,2020-03-03 08:44:45
+881,A Hero 990,Action,2007,213,English,Australia,251465985.79,162354992.9,5.7,29,Lionsgate,0,Cancelled,2019-11-10 11:16:59
+882,Silent Dream 621,Fantasy,2001,99,German,Italy,71280049.04,615951363.3,7.6,107,Disney,16,Released,2024-06-13 03:08:47
+883,Rising Sun 946,Documentary,1981,196,French,Germany,255695723.75,257917318.76,2.5,176,Sony Pictures,16,Released,2019-05-26 12:56:24
+884,Dark Kingdom 435,,2023,187,French,Australia,188049734.83,167093387.07,2.0,137,Amazon Studios,7,Production,2019-08-01 08:24:20
+885,Rising Legacy 579,Documentary,1981,211,Arabic,USA,162614467.71,543055916.99,4.5,21,Netflix,18,Released,2017-12-20 03:42:41
+886,Dark Kingdom 958,Sci-Fi,1997,137,Spanish,Canada,163193221.27,462255324.34,2.1,23,Focus Features,0,Production,2024-07-21 01:54:52
+887,Fallen Star 694,Fantasy,2013,217,Japanese,Canada,187472496.78,145190807.57,1.9,72,Focus Features,16,Production,2021-06-17 23:06:35
+888,Broken Legacy 679,Action,2011,150,Arabic,France,60434820.04,536780275.72,4.2,46,Amazon Studios,0,Production,2024-05-20 13:13:31
+889,Infinite Legacy 520,Fantasy,1993,218,English,Italy,284353982.27,102534402.0,8.2,110,A24,12,Released,2017-02-13 07:51:44
+890,Last Dream 944,Thriller,2019,154,English,USA,180814362.59,428651841.28,4.1,133,Netflix,18,Released,2020-12-14 07:43:38
+891,Infinite Promise 562,Drama,1997,125,Spanish,UK,233270116.38,95346670.51,1.6,190,Disney,12,Cancelled,2016-11-24 08:53:31
+892,Eternal Dream 920,Drama,1991,173,French,Brazil,70364655.45,322270949.26,2.8,65,Netflix,7,Released,2020-07-07 01:38:15
+893,The Kingdom 613,Crime,2019,220,Japanese,South Korea,173998807.42,566711011.29,1.3,157,Lionsgate,7,Cancelled,2016-08-16 20:49:57
+894,Last Star 667,Drama,2012,122,Portuguese,Spain,-5066269,109009391.43,7.2,181,Disney,12,Released,2017-11-06 23:54:17
+895,A Journey 538,Adventure,1983,132,Arabic,Italy,270585330.87,489895896.5,3.7,76,Focus Features,12,Released,2015-03-23 08:15:51
+896,Eternal Moon 8,Horror,2002,93,Hindi,Italy,293972480.19,246640594.99,6.1,127,Netflix,7,Cancelled,2023-10-23 02:57:12
+897,Fallen Hero 328,Crime,2000,84,Spanish,Italy,200385474.89,63632151.72,3.8,69,Disney,18,Cancelled,2017-01-21 05:15:30
+898,Rising Sun 444,Romance,1990,129,Italian,France,28313115.53,740465851.11,2.7,160,Paramount,12,Released,2019-11-21 04:18:00
+899,Rising Dream 690,Adventure,2006,146,Hindi,Canada,71819929.84,333897220.1,7.5,157,Sony Pictures,0,Cancelled,2021-06-26 09:11:18
+900,Last Legacy 181,Fantasy,2015,75,Arabic,South Korea,7001807.39,146863985.08,5.9,134,Lionsgate,12,Cancelled,2019-08-27 20:55:00
+901,Last Promise 438,Fantasy,2007,123,French,Spain,13918070.93,722330728.81,1.0,151,Netflix,12,Released,2023-09-15 06:59:17
+902,First Journey 661,Romance,2007,220,Portuguese,Japan,122870610.15,630282040.99,1.2,111,Lionsgate,0,Released,2019-10-15 02:05:01
+903,Sacred River 818,Adventure,2008,170,Korean,Italy,98074815.48,69008568.73,-2.7,126,Sony Pictures,12,Cancelled,2017-04-10 22:13:23
+904,Broken Dream 590,Action,1997,74,Italian,Italy,173195937.13,436076850.45,2.2,68,Disney,18,Production,2016-08-27 22:34:37
+905,Dark Star 821,Horror,1988,131,German,Italy,226793182.94,270838964.99,1.6,194,Paramount,18,Cancelled,2019-10-08 23:26:55
+906,Golden Hero 688,Sci-Fi,2031,deux heures,French,UK,173642627.65,75744841.4,12.2,129,Netflix,7,Cancelled,2022-08-12 16:24:48
+907,Fallen Hero 913,Sci-Fi,1983,178,Japanese,Australia,188845973.64,457852167.05,7.6,60,Universal,18,Released,2017-04-08 11:28:43
+908,Rising Night,Adventure,2008,101,Japanese,Japan,138564733.3,155836095.05,2.2,101,A24,18,Production,2015-09-20 17:58:56
+909,Broken Kingdom 834,Animation,2003,143,Japanese,India,41932029.12,171313368.32,7.9,8,Paramount,16,Production,2022-07-18 15:18:01
+910,First Dawn 24,Animation,2002,183,Japanese,France,226437142.09,586601454.44,6.5,9,Warner Bros,18,Production,2015-07-12 12:22:46
+911,Golden Dawn 248,Adventure,1995,155,Italian,South Korea,286172414.54,778440779.69,4.6,162,Warner Bros,0,Production,2022-01-28 18:47:05
+912,A Hero 754,Horror,2022,177,Portuguese,Brazil,150808332.09,359252085.27,1.7,175,Netflix,18,Released,2022-05-13 13:04:19
+913,Hidden Sky 482,Drama,2021,194,Japanese,Brazil,175273337.1,585843567.06,4.4,182,Lionsgate,0,Cancelled,2020-12-05 11:25:21
+914,,Crime,1997,129,English,Brazil,211459319.56,817450499.99,3.8,175,Paramount,18,Cancelled,2021-03-05 02:16:03
+915,Silent Night 222,Documentary,1982,148,Arabic,Germany,251483543.91,659935782.56,2.5,78,Disney,0,Released,2020-10-09 09:06:01
+916,Infinite Fire 939,Documentary,1994,91,Italian,Italy,260185692.0,272271458.01,9.5,20,Focus Features,7,Released,2017-06-17 11:12:17
+917,Infinite Dream 791,Drama,2019,207,Spanish,Brazil,165338014.41,789154235.99,1.5,78,Universal,7,Cancelled,2021-06-12 16:53:56
+918,Eternal Shadow,Sci-Fi,1991,122,French,Canada,159981796.59,82620701.87,7.7,51,Focus Features,0,Production,2021-04-09 04:45:38
+919,Eternal Fire 320,Drama,2003,131,English,Canada,30930652.69,283023883.23,2.7,23,Sony Pictures,16,Released,2018-04-03 10:56:41
+920,Silent Moon 201,Drama,1982,148,German,Spain,201679732.67,42802624.62,7.5,141,Sony Pictures,12,Production,2022-07-24 22:27:15
+921,Hidden Sky 334,Horror,2015,117,French,UK,184355444.42,240283918.38,4.7,159,Universal,0,Production,2016-12-24 12:41:24
+922,,Adventure,2020,134,French,Italy,125512271.03,113438652.41,6.6,164,Amazon Studios,7,Cancelled,2021-10-19 12:09:01
+923,Golden River 647,Fantasy,1985,72,Arabic,UK,190426377.32,852470715.02,2.1,161,A24,0,Cancelled,2018-03-05 00:02:41
+924,Lost Vision 935,Documentary,2011,135,Hindi,Spain,43852041.44,265787899.56,7.3,174,Focus Features,0,Cancelled,2017-11-17 12:01:51
+925,Rising Hero 295,Comedy,1991,177,Japanese,Spain,286408494.3,881759247.95,1.4,66,Universal,18,Cancelled,2024-09-11 13:25:44
+926,First River 37,Romance,2002,104,Hindi,Spain,278060446.99,792078114.07,7.1,158,Lionsgate,7,Released,2018-07-22 01:26:41
+927,Dark Dawn 864,Drama,1992,72,German,Canada,226094255.37,71769382.96,1.1,54,Netflix,0,Cancelled,2019-09-19 10:46:15
+928,Golden Fire 974,Horror,2017,101,Portuguese,Brazil,108825336.49,115418415.02,4.2,189,Amazon Studios,16,Released,2015-10-11 23:14:08
+929,,Documentary,2012,173,Hindi,Brazil,250496589.04,619921026.37,8.8,170,Focus Features,7,Released,2023-03-23 17:57:00
+930,Sacred Shadow 540,Thriller,1982,200,Italian,India,204611752.15,436514126.41,14.8,72,Netflix,18,Released,2022-05-24 08:36:20
+931,Eternal Promise 487,Drama,2020,192,Korean,Australia,99261032.73,831396820.78,5.3,118,Sony Pictures,0,Cancelled,2016-12-21 09:33:24
+932,Lost Fire 439,Drama,2021,196,Korean,Germany,122174618.24,64840136.33,6.6,29,Lionsgate,16,Production,2023-10-14 07:59:46
+933,The Hero 580,Sci-Fi,1991,98,Arabic,USA,221054239.93,587021688.86,9.1,135,Sony Pictures,18,Cancelled,2018-05-25 21:38:10
+934,Fallen Sun,Action,2013,181,English,France,262336285.77,247207410.17,2.7,2,Universal,12,Released,2022-12-08 11:50:56
+935,Golden Sun 410,Animation,2002,139,English,South Korea,46695198.04,553587325.33,8.5,104,Disney,16,Released,2015-11-11 23:13:25
+936,Infinite Sky,Drama,2024,205,Korean,Italy,188147943.69,722737306.19,1.4,92,Netflix,7,Cancelled,2018-01-22 15:29:21
+937,Eternal Star 563,Comedy,2006,164,Hindi,Japan,118929488.28,548598326.47,8.3,22,Lionsgate,18,Released,2024-09-03 14:30:23
+938,Silent Night 157,Adventure,1986,112,French,Italy,186163796.5,683425983.42,5.6,170,Lionsgate,16,Production,2022-08-14 11:24:49
+939,Silent Promise 920,Action,1999,137,Arabic,Australia,67185205.43,483385412.55,1.9,145,Disney,7,Cancelled,2015-10-09 19:54:57
+940,The Kingdom 415,Adventure,1987,162,German,France,199365053.72,854776995.55,5.1,197,Sony Pictures,18,Production,2018-11-03 21:16:44
+941,Golden Kingdom 137,Sci-Fi,2012,135,Korean,Japan,219503042.22,85798088.18,8.7,55,Lionsgate,12,Released,2018-03-18 11:23:22
+942,Golden Storm 855,Adventure,2002,147,Korean,India,122930856.38,708694608.35,7.8,164,Universal,7,Production,2017-04-07 23:47:41
+943,,Action,1996,183,French,Japan,148063663.58,648355800.92,7.1,32,Focus Features,12,Cancelled,2020-10-11 01:33:45
+944,Last Kingdom 962,Adventure,1982,76,Italian,,138305141.9,28212680.46,7.7,10,Amazon Studios,16,Cancelled,2019-10-02 15:34:27
+945,Hidden Journey 183,Sci-Fi,1986,109,Korean,Canada,71287040.67,712335892.71,4.9,91,Paramount,16,Production,2018-06-22 11:45:33
+946,Broken Dream 47,Animation,2014,139,Arabic,Germany,246171713.75,550921372.49,2.7,80,Disney,16,Cancelled,2019-10-08 13:25:54
+947,Lost Mountain 322,Adventure,2008,86,Japanese,India,59207154.68,876055602.93,6.8,173,Paramount,12,Cancelled,2021-06-18 04:24:52
+948,The Empire,Sci-Fi,2022,190,Japanese,Brazil,20958706.97,777598613.29,4.8,23,Disney,7,Released,2017-02-09 20:42:10
+949,Silent Fire 825,Drama,2021,107,Portuguese,Japan,227587869.68,867388547.43,3.4,180,Paramount,7,Production,2020-05-10 02:07:33
+950,A Legacy,Adventure,1993,185,English,Australia,17852637.37,583296326.78,7.1,185,Amazon Studios,18,Production,2016-09-25 08:55:31
+951,A Ocean 392,Comedy,1984,203,Arabic,South Korea,18369674.55,166207224.32,2.8,51,Warner Bros,18,Production,2021-05-15 15:02:46
+952,Broken Storm 432,Animation,2014,189,Portuguese,,126609784.24,754520053.82,2.6,38,Warner Bros,12,Cancelled,2023-09-13 17:03:42
+953,First Shadow 514,Fantasy,1994,111,Japanese,Australia,120481401.3,420594633.92,6.4,83,Paramount,18,Cancelled,2015-07-26 08:50:51
+954,Broken Hero 989,Adventure,2031,146,French,Brazil,135463256.37,497125007.49,4.3,49,Amazon Studios,18,Released,2024-07-15 00:29:17
+955,Dark Shadow 984,Thriller,1995,171,Korean,UK,1532458.24,381156906.66,7.7,131,A24,12,Production,2023-01-05 19:14:12
+956,Sacred Moon 559,Documentary,1992,deux heures,Korean,Spain,241129434.15,432068177.77,3.2,198,Netflix,0,Released,2017-12-03 09:03:58
+957,Sacred Night 155,Thriller,2016,201,Portuguese,Brazil,173667491.87,305053406.21,6.3,127,Universal,16,Cancelled,2015-04-02 11:26:32
+958,Fallen Hero 915,Drama,2024,154,Italian,Japan,69941785.15,499797032.43,3.1,67,Universal,18,Production,2021-08-15 21:27:54
+959,The Storm 398,Horror,2021,220,German,Australia,252689515.16,575183573.65,3.1,46,Sony Pictures,18,Production,2022-06-25 15:57:16
+960,Eternal Star 120,Horror,2014,220,German,Brazil,253187339.99,891745368.58,8.5,42,A24,0,Production,2024-10-12 18:45:56
+961,First Kingdom 424,Drama,2010,217,Japanese,Spain,202246469.43,307344305.66,6.0,43,Amazon Studios,18,Released,2019-09-11 08:43:01
+962,,Documentary,2023,159,English,Italy,177244760.42,829959828.48,7.3,56,Focus Features,7,Production,2023-08-02 19:49:55
+963,Fallen Vision 912,Fantasy,1982,122,Italian,UK,149352219.98,791419633.62,9.1,22,Warner Bros,16,Released,2020-02-05 17:38:26
+964,Dark Fire 677,Romance,2021,143,Arabic,Germany,233006585.12,128873466.29,9.2,98,Warner Bros,16,Cancelled,2015-07-19 08:45:14
+965,Lost Storm 409,Crime,2001,170,Spanish,Canada,41393778.92,434206535.16,1.3,68,Sony Pictures,18,Cancelled,2020-05-18 15:49:21
+966,Last Shadow 120,Crime,2013,135,Korean,Japan,-8807449,876986437.6,9.7,94,Netflix,0,Production,2023-07-18 16:40:28
+967,Golden Sun 29,Action,2017,113,French,Spain,269850392.2,645401938.09,4.5,54,Lionsgate,18,Cancelled,2017-09-26 15:36:33
+968,Sacred Kingdom,Documentary,2024,110,Portuguese,South Korea,52517502.7,426553120.17,4.5,110,Warner Bros,7,Released,2017-09-18 16:00:30
+969,The Storm 332,Action,2011,90,English,UK,219321447.07,3363443.71,5.3,70,Universal,16,Production,2023-08-20 04:42:55
+970,Hidden Night 57,Horror,1988,151,English,France,122023257.56,402640104.44,8.3,185,Amazon Studios,0,Production,2023-06-10 23:34:59
+971,,Sci-Fi,2011,130,Arabic,Italy,193457107.49,716079305.17,4.0,40,Paramount,7,Production,2022-02-09 23:42:34
+972,Silent Empire 721,Crime,1986,97,German,Canada,292641655.56,25035138.63,1.6,31,Focus Features,7,Cancelled,2020-03-08 07:45:09
+973,,Horror,1992,219,Spanish,Canada,103429466.14,568506367.19,3.8,110,Paramount,18,Cancelled,2022-02-10 19:10:01
+974,Infinite Vision 343,Animation,1987,149,Japanese,India,248104392.01,142690344.32,6.3,140,Paramount,0,Released,2019-11-19 15:46:28
+975,Last Dream 726,Animation,1996,148,Korean,Japan,139000729.53,543280802.3,4.2,104,Sony Pictures,7,Cancelled,2015-03-20 18:03:48
+976,Sacred Mountain 277,,1998,190,Italian,USA,216437998.6,8634441.53,7.2,123,Amazon Studios,7,Production,2017-07-13 22:49:44
+977,Eternal Dawn 129,Fantasy,1982,129,French,Brazil,276924294.34,52876802.84,3.9,28,Universal,16,Released,2017-07-10 02:16:31
+978,Eternal Star 432,Action,2020,138,Portuguese,Germany,99322761.33,663291869.2,3.7,138,Paramount,12,Cancelled,2021-11-14 22:30:50
+979,Fallen Night 362,,1990,111,German,Brazil,-7304582,129010259.77,6.1,163,Warner Bros,16,Production,2022-07-03 20:19:19
+980,Dark Vision,Thriller,2000,83,Japanese,UK,37919812.2,538862033.24,7.6,114,Netflix,12,Cancelled,2018-10-07 09:14:43
+981,,Sci-Fi,2022,116,Korean,UK,167601806.13,411060573.77,8.0,57,Paramount,0,Production,2018-05-11 07:40:57
+982,Eternal River 52,Thriller,1986,109,German,,171232040.64,643149977.09,1.5,12,Netflix,0,Production,2015-03-08 04:20:06
+983,Eternal Storm 500,Sci-Fi,2000,197,Portuguese,Japan,209630193.92,137166120.66,7.0,88,Amazon Studios,12,Released,2016-10-20 05:23:52
+984,Silent Night 135,Documentary,1982,202,French,Germany,219961632.51,813086452.42,7.5,80,Lionsgate,12,Released,2024-12-28 15:07:21
+985,Hidden Kingdom 879,Sci-Fi,1987,170,Arabic,UK,189725182.47,249972670.94,8.4,191,Amazon Studios,7,Released,2023-11-12 22:27:15
+986,Silent Dawn 10,Action,1984,144,Korean,Canada,115930984.41,600913397.86,4.9,79,Paramount,7,Cancelled,2021-01-17 01:47:48
+987,Broken Hero 112,Horror,2006,82,Portuguese,UK,154276552.51,88437062.75,1.3,101,Universal,16,Released,2023-09-04 13:32:30
+988,Hidden Legacy 752,Documentary,2002,81,English,Australia,100554379.16,501168226.11,4.3,9,Warner Bros,16,Released,2022-03-27 00:46:40
+989,Golden Shadow 690,Horror,2020,123,Japanese,USA,67371200.58,702983620.57,3.0,155,A24,18,Cancelled,2024-11-19 11:06:41
+990,First Moon 291,Thriller,1985,193,English,Italy,154773097.19,335379559.01,4.0,26,Universal,16,Production,2020-07-02 11:42:38
+991,Sacred Moon 841,Horror,1985,182,Spanish,USA,40843463.11,865196233.25,7.7,198,A24,16,Production,2018-01-22 06:06:24
+992,Fallen Legacy 493,Comedy,1986,210,Spanish,USA,43501406.4,124732292.24,8.2,7,Warner Bros,12,Production,2024-01-17 23:46:02
+993,Lost Promise 601,Thriller,2011,187,Hindi,Spain,113563206.48,11969314.72,7.8,57,Warner Bros,0,Released,2024-02-10 07:20:10
+994,Broken Sky 634,Action,1997,215,Italian,South Korea,124287033.61,460834987.38,2.7,156,Amazon Studios,7,Released,2020-03-15 10:40:25
+995,The Storm 170,Action,1875,167,German,France,24104345.92,507519428.49,3.3,162,Disney,18,Released,2020-02-14 12:27:02
+996,Hidden Legacy 821,Comedy,1988,211,Japanese,Spain,10576818.36,719711672.72,3.9,157,Netflix,18,Production,2019-05-05 00:09:10
+997,Sacred Ocean 711,Horror,2005,88,German,Germany,90410922.94,848725442.68,8.7,9,Disney,16,Cancelled,2021-11-19 03:58:16
+998,Sacred Shadow 619,Crime,1980,76,French,India,223434967.83,733142980.57,6.4,97,Lionsgate,7,Production,2022-07-18 17:42:49
+999,Last Sky 65,Thriller,1997,87,French,India,93959115.55,307691240.75,7.2,163,Universal,16,Cancelled,2015-05-10 14:02:32
+1000,Silent Dream 2,Horror,2004,145,Hindi,Spain,21228084.98,236482238.93,7.7,81,A24,7,Released,2022-06-22 15:38:17

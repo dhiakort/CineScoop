@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <!-- Console Appender — colored, human-readable output -->
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{30} — %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- File Appender — full logs for debugging -->
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/cinescoop.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>logs/cinescoop-%d{yyyy-MM-dd}.log</fileNamePattern>
+            <maxHistory>7</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} — %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- CineScoop packages: DEBUG level -->
+    <logger name="com.cinescoop" level="DEBUG" />
+
+    <!-- HikariCP: INFO only (suppress noisy debug) -->
+    <logger name="com.zaxxer.hikari" level="INFO" />
+
+    <!-- Root: INFO to console + file -->
+    <root level="INFO">
+        <appender-ref ref="CONSOLE" />
+        <appender-ref ref="FILE" />
+    </root>
+
+</configuration>

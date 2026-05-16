@@ -1,0 +1,301 @@
+actor_id,full_name,gender,birth_date,nationality,height,awards_count,debut_year,instagram_followers,salary,agent_name,email,phone,city,created_at
+1,Denzel Smith,F,1966-05-20,Canadian,1.84,29,2018,30194062,124013.73,ICM,denzel_smith59@talent.com,+447029336116,Berlin,2019-02-23 07:25:47
+2,Kenji Santos,M,1974-01-08,British,1.76,25,2013,23537891,4713168.92,WME,kenji_santos12@talent.com,+447676536353,New York,2020-09-02 11:31:59
+3,Daniel Kim,Other,1975-11-11,Japanese,1.75,3,1995,21627051,4555895.16,CAA,daniel_kim12@talent.com,+447038875577,Rome,2024-05-01 01:17:28
+4,Elena Taylor,Other,1990-10-27,Indian,1.85,16,2001,34689478,1433260.79,CAA,elena_taylor52@talent.com,+447322459295,Toronto,2013-07-26 03:01:03
+5,Ryan Cooper,M,1991-08-11,Australian,2.0,19,1997,13565246,16326672.09,CAA,ryan_cooper59@talent.com,+447004218426,Madrid,2018-02-04 02:28:06
+6,Pierre Washington,M,1960-02-09,Japanese,1.7,30,2007,22436949,16991703.8,Paradigm,pierre_washington98@talent.com,+447055910620,Madrid,2014-04-08 07:42:42
+7,Carlos Santos,F,1960-04-19,French,1.79,21,1986,14177748,14551509.89,APA,carlos_santos85@talent.com,+447437181606,Berlin,2024-01-25 01:19:39
+8,Scarlett Johansson,M,1996-07-23,French,2.03,19,2015,43469329,16637860.86,ICM,scarlett_johansson75@talent.com,+447413097268,Paris,2017-04-19 09:48:27
+9,Scarlett Stone,M,2000-12-26,Indian,1.96,27,2018,25250703,17163561.31,ICM,scarlett_stone20@talent.com,+447531834991,Sydney,2012-08-22 12:35:29
+10,Emma Rodriguez,M,2000-02-25,Spanish,2.01,12,2013,2249969,8636900.78,APA,emma_rodriguez34@talent.com,+447993628296,Seoul,2018-11-04 15:55:14
+11,Cate Nakamura,M,1971-01-13,Brazilian,1.96,17,1997,24907014,15014801.57,Paradigm,cate_nakamura60@talent.com,+447127176506,Tokyo,2016-04-27 18:34:44
+12,Kenji Garcia,F,1973-08-01,German,1.85,7,2001,44396607,2689789.46,WME,kenji_garcia2@talent.com,+447317796049,New York,2018-07-13 23:37:09
+13,Emma Nakamura,Other,1961-07-02,American,1.57,2,1992,44786533,15425822.89,CAA,emma_nakamura17@talent.com,+447915090679,Paris,2023-06-14 02:26:04
+14,Brad Thomas,Other,1989-11-17,French,1.62,2,1999,91022,985231.71,Anonymous Content,brad_thomas59@talent.com,+447276942739,Mumbai,2012-11-25 06:33:54
+15,Elena Streep,Other,1985-07-16,British,1.65,29,1998,4947626,1274158.23,Gersh Agency,elena_streep49@talent.com,+447670544771,Mumbai,2011-08-22 14:40:15
+16,Tom Brown,M,1954-09-18,British,1.99,0,2011,14325856,15025525.4,Anonymous Content,tom_brown47@talent.com,+447778075560,New York,2016-05-04 15:24:04
+17,Tom Pitt,F,1966-02-23,Canadian,1.77,7,2012,34016943,3826019.88,3 Arts Entertainment,tom_pitt81@talent.com,+447239814131,Sydney,2011-07-28 14:27:17
+18,James Reynolds,Other,1996-04-22,British,2.04,4,2019,10021634,17715948.22,Paradigm,james_reynolds32@talent.com,+447839185468,Madrid,2024-02-06 12:56:38
+19,Maria Garcia,M,1961-06-06,Australian,1.76,8,2001,20228879,13691693.04,Gersh Agency,maria_garcia75@talent.com,+447908078986,Berlin,2022-12-21 13:49:45
+20,Leonardo Anderson,F,2000-04-08,American,1.76,0,2018,1655630,6443467.66,Innovative Artists,leonardo_anderson56@talent.com,+447936419028,Madrid,2011-06-11 22:22:38
+21,Emma Streep,M,1999-08-17,Spanish,2.01,1,1995,23922952,11563689.5,UTA,emma_streep89@talent.com,+447687525868,Los Angeles,2021-12-09 12:15:29
+22,Anna Chen,M,1963-03-07,Korean,1.8,2,2019,460534,3545421.44,APA,anna_chen53@talent.com,+447777902465,Seoul,2020-10-19 18:31:29
+23,Meryl Kim,F,1981-10-11,Korean,1.58,30,1994,17113088,14410242.6,Gersh Agency,meryl_kim93@talent.com,+447984568217,Toronto,2011-02-03 15:43:13
+24,Daniel Stone,F,1975-11-15,Italian,1.6,5,2008,37296422,5868689.71,UTA,invalid-email-no-at,+447762876386,Berlin,2013-01-26 00:34:02
+25,Emma Martin,M,1990-05-21,Indian,1.62,14,1999,11504644,15997451.85,CAA,emma_martin32@talent.com,+447545636390,Madrid,2020-12-17 16:12:05
+26,Anna Pitt,F,1984-06-05,British,1.55,4,1985,4308551,12362795.41,CAA,anna_pitt57@talent.com,+447458229169,Mumbai,2014-03-18 15:16:53
+27,Emma Rodriguez,M,1990-07-11,French,1.63,23,2005,23731805,6673737.47,CAA,emma_rodriguez56@talent.com,+447171976682,Los Angeles,2015-02-02 16:07:39
+28,Elena Washington,M,1963-12-02,American,1.65,0,2013,9045562,2623588.4,APA,elena_washington69@talent.com,+447762362383,Los Angeles,2012-12-21 16:14:00
+29,Scarlett Cooper,F,1962-08-11,German,1.84,13,1994,37608033,651210.59,3 Arts Entertainment,scarlett_cooper25@talent.com,+447733153976,Paris,2023-07-23 12:14:07
+30,Claire Reynolds,F,1950-04-07,American,1.68,8,2001,4323597,18860204.15,Paradigm,claire_reynolds55@talent.com,+447897807450,Paris,2016-07-09 18:29:00
+31,James Streep,M,1971-12-21,French,1.79,9,1994,38940310,18910148.28,UTA,james_streep70@talent.com,+447846944948,Mumbai,2010-10-05 09:06:07
+32,Emma Johnson,Other,1986-12-14,French,1.92,24,1997,8208625,6631429.25,UTA,emma_johnson41@talent.com,+447702438618,New York,2015-06-06 22:15:44
+33,Anna Williams,Other,1962-08-21,Spanish,1.87,7,2007,18197392,14816391.55,Gersh Agency,anna_williams85@talent.com,+447593429703,Madrid,2016-03-11 23:55:43
+34,Robert Jackson,M,1970-06-17,Canadian,1.77,5,2014,29895012,14097280.49,Anonymous Content,robert_jackson47@talent.com,+447114360946,Mumbai,2012-07-02 07:05:28
+35,John Anderson,F,1984-09-01,Brazilian,1.93,15,1992,36488270,8663740.25,Gersh Agency,invalid-email-no-at,abc-def-ghij,London,2012-10-08 11:44:21
+36,Scarlett DiCaprio,F,1997-06-19,Italian,1.77,14,2016,40247425,12164974.71,WME,scarlett_dicaprio38@talent.com,+447391341724,Paris,2020-04-26 14:37:51
+37,Aisha Kim,M,1978-05-11,Canadian,1.6,12,1985,36885802,11421242.41,APA,aisha_kim3@talent.com,+447814536385,Mumbai,2019-08-02 03:56:22
+38,Emma Stone,Other,1988-07-02,American,2.01,6,2002,30779843,8680828.04,WME,emma_stone22@talent.com,+447833854634,London,2020-09-21 18:56:33
+39,Pierre Jackson,F,1956-12-04,Brazilian,1.67,26,2015,38753027,17682944.39,3 Arts Entertainment,pierre_jackson93@talent.com,+447737509353,London,2017-02-21 10:44:25
+40,Ryan Smith,Other,1993-06-27,British,1.81,23,2020,41266487,10266430.95,Anonymous Content,ryan_smith29@talent.com,+447726664403,Toronto,2011-09-25 08:49:15
+41,Pierre Garcia,M,1991-01-16,German,1.8,9,2004,18578554,6287027.09,Gersh Agency,pierre_garcia51@talent.com,+447054921415,Tokyo,2014-02-28 01:28:25
+42,Pierre Cooper,F,1968-11-08,Japanese,1.93,26,2007,38130859,2227047.19,Paradigm,pierre_cooper22@talent.com,+447145425147,Los Angeles,2024-12-09 07:21:37
+43,Tom Stone,Other,1995-10-24,American,1.78,19,2012,24429188,10150317.14,APA,tom_stone66@talent.com,+447656296671,Madrid,2018-04-22 15:21:26
+44,Emma Johansson,M,1969-11-02,Spanish,1.97,22,1998,3821057,19921769.98,WME,emma_johansson71@talent.com,+447512122606,Toronto,2023-08-15 12:06:56
+45,Ryan Streep,M,1981-09-18,German,1.74,5,1994,12810838,3987556.58,Anonymous Content,ryan_streep82@talent.com,+447339627700,Seoul,2014-01-08 06:26:37
+46,Pierre Jackson,Other,1961-04-03,British,2.01,21,2010,21153386,3951570.38,Innovative Artists,pierre_jackson44@talent.com,+447595202613,Berlin,2015-12-22 22:21:51
+47,Christopher Santos,M,1958-04-09,Spanish,1.79,9,2012,41105738,6628297.58,CAA,christopher_santos80@talent.com,+447281837576,Sydney,2013-12-12 10:23:22
+48,Scarlett Garcia,F,1966-02-07,Italian,2.04,8,2008,37832609,5518189.85,Innovative Artists,scarlett_garcia6@talent.com,+447159769048,Rome,2011-03-04 17:36:15
+49,Ryan Streep,M,1976-06-01,Spanish,1.92,3,1994,11341998,17392606.38,Anonymous Content,ryan_streep77@talent.com,+447681683936,Toronto,2013-11-23 20:01:23
+50,Daniel Santos,F,1973-06-11,Korean,1.84,1,1993,27383029,4284307.37,APA,daniel_santos37@talent.com,+447746223378,Rome,2010-08-16 15:49:34
+51,Kenji Johansson,F,1976-04-19,Brazilian,1.85,8,2011,2383348,633173.63,UTA,kenji_johansson87@talent.com,+447852105962,New York,2021-04-13 18:24:46
+52,Emma Reynolds,M,1993-03-05,American,1.83,11,2006,45411467,516107.4,WME,emma_reynolds19@talent.com,+447455361948,Madrid,2022-10-02 13:41:58
+53,Omar Johnson,M,1963-10-28,German,1.68,19,1987,30685180,8756651.8,Innovative Artists,omar_johnson93@talent.com,+447365888604,London,2024-02-13 05:46:04
+54,Aisha Pitt,Other,1990-02-24,Australian,1.63,29,2009,43550106,12207535.16,WME,aisha_pitt25@talent.com,+447810577570,Los Angeles,2023-06-08 00:30:05
+55,Anna Müller,M,1982-04-21,Spanish,1.77,8,1996,30479437,15599105.93,APA,anna_müller54@talent.com,+447059757272,Tokyo,2019-09-11 15:47:34
+56,Aisha Cooper,F,1962-03-06,Brazilian,1.88,26,1986,5321685,19617972.14,UTA,aisha_cooper57@talent.com,+447956343319,Rome,2019-09-02 09:16:26
+57,Scarlett Brown,F,1976-01-28,Australian,1.76,22,1986,43411475,8560409.75,Gersh Agency,scarlett_brown47@talent.com,+447347939567,Madrid,2012-12-21 08:58:52
+58,Lucas Müller,F,1981-09-18,Japanese,1.56,0,2002,27965820,6395703.96,Innovative Artists,lucas_müller47@talent.com,+447486457193,Madrid,2022-01-14 02:09:57
+59,Kenji Taylor,F,1983-01-26,Australian,1.62,25,1994,26924258,13755997.31,WME,kenji_taylor65@talent.com,+447989216574,New York,2020-07-09 03:28:01
+60,James Nakamura,M,1971-07-24,Brazilian,1.75,16,1985,13516650,1531700.77,Paradigm,james_nakamura26@talent.com,+447080027935,Rome,2014-08-28 18:53:23
+61,Tom Rodriguez,M,1998-05-05,Indian,1.89,7,2008,45124023,13729175.02,WME,tom_rodriguez19@talent.com,+447562315076,Rome,2022-01-03 18:38:05
+62,  Kenji Anderson   ,Other,1957-08-01,Brazilian,1.81,23,2010,32618121,17450840.9,WME,kenji_anderson88@talent.com,+447021174769,Seoul,2012-01-16 14:41:06
+63,Leonardo Smith,Other,1987-06-24,Spanish,1.85,14,1994,43504375,18244637.28,Paradigm,leonardo_smith61@talent.com,+447062508055,Paris,2020-01-11 02:05:02
+64,Ryan Reynolds,M,1981-09-24,Korean,1.56,5,1985,24989530,1008901.51,APA,ryan_reynolds74@talent.com,+447055020303,Toronto,2014-10-16 05:43:48
+65,Ryan Pitt,Other,1961-10-16,Korean,2.0,25,2015,18064324,12986023.48,APA,ryan_pitt30@talent.com,+447663329371,Toronto,2013-10-14 10:38:55
+66,Leonardo Garcia,F,1992-11-22,Australian,1.93,8,1995,3778587,5661549.01,Paradigm,leonardo_garcia96@talent.com,+447892726733,Tokyo,2011-06-25 23:13:28
+67,Elena Smith,M,1979-10-25,German,1.98,25,2012,26549520,14844094.09,3 Arts Entertainment,elena_smith88@talent.com,+447099767426,Madrid,2016-09-04 23:43:57
+68,Daniel DiCaprio,F,1969-10-22,American,1.95,16,2004,41307251,14485567.52,Anonymous Content,daniel_dicaprio1@talent.com,+447343845026,Mumbai,2011-05-09 18:39:02
+69,Carlos Smith,F,1997-01-22,Korean,1.77,8,2006,1809134,11320501.62,3 Arts Entertainment,carlos_smith28@talent.com,+447855733342,Mumbai,2016-04-06 08:23:48
+70,Maria Nakamura,M,1955-12-02,Brazilian,1.81,25,1989,35861711,5043191.9,Paradigm,maria_nakamura19@talent.com,+447790958492,Mumbai,2019-09-22 23:20:38
+71,Maria Reynolds,Other,1992-04-02,Canadian,1.78,22,1997,43686756,5536215.44,Anonymous Content,maria_reynolds22@talent.com,+447383289161,Los Angeles,2024-01-05 04:42:54
+72,Claire Rossi,F,1971-05-18,British,1.96,16,2015,36789741,17296039.12,3 Arts Entertainment,claire_rossi20@talent.com,+447531867365,London,2011-05-16 21:16:38
+73,Leonardo Anderson,M,1979-02-16,Brazilian,1.82,8,2015,12105550,1658051.07,Paradigm,leonardo_anderson36@talent.com,abc-def-ghij,Paris,2017-03-16 10:34:03
+74,Denzel Rossi,F,1977-10-17,Indian,1.87,14,2019,35224479,9247432.38,Innovative Artists,denzel_rossi45@talent.com,+447667324913,Seoul,2014-05-11 16:16:56
+75,Omar DiCaprio,Other,1958-12-19,Brazilian,2.04,13,1985,46399392,6599450.46,3 Arts Entertainment,omar_dicaprio38@talent.com,+447252973742,Rome,2012-12-15 10:42:04
+76,Scarlett Thomas,M,1959-05-27,Indian,1.69,9,2015,40546627,4885902.62,APA,scarlett_thomas27@talent.com,+447961871483,Rome,2011-02-12 13:35:51
+77,Daniel Williams,F,1951-11-14,Korean,1.86,16,1986,21221286,19357618.19,WME,daniel_williams91@talent.com,+447989555989,Rome,2010-03-23 04:28:40
+78,Ryan Santos,M,1991-12-25,Spanish,1.58,13,1995,19086957,6000117.09,APA,ryan_santos31@talent.com,+447228900095,Rome,2013-02-26 03:08:40
+79,Sofia Dubois,F,1984-01-13,Italian,1.59,22,2004,23277773,12470528.79,Anonymous Content,sofia_dubois70@talent.com,+447527789987,Seoul,2018-07-13 07:22:27
+80,Lucas Washington,Other,1993-09-06,Korean,1.62,30,1995,44487900,10490065.93,Anonymous Content,lucas_washington38@talent.com,abc-def-ghij,Rome,2016-10-02 10:53:39
+81,John Martin,Other,1982-03-23,Indian,2.05,14,1987,22044428,3124602.71,ICM,john_martin76@talent.com,+447650387595,Paris,2020-04-27 21:10:52
+82,Kenji Anderson,M,1963-12-06,American,1.65,13,2009,35104868,8757751.93,Gersh Agency,kenji_anderson72@talent.com,+447494212835,London,2022-08-28 23:30:34
+83,Daniel Williams,F,1959-09-15,Brazilian,1.74,0,2000,10045676,175528.75,Innovative Artists,daniel_williams55@talent.com,+447754221419,Madrid,2018-04-27 08:28:05
+84,Leonardo Johnson,Other,1990-06-27,Canadian,1.9,15,2000,22969494,17819613.8,UTA,leonardo_johnson53@talent.com,+447576539202,Berlin,2020-03-28 14:31:41
+85,Scarlett DiCaprio,Other,1987-08-07,American,2.02,24,2014,14815984,14922008.03,UTA,scarlett_dicaprio5@talent.com,+447354970090,London,2018-06-27 14:59:58
+86,James Santos,M,1971-06-11,Japanese,2.0,16,1999,38855782,15925487.69,Innovative Artists,james_santos91@talent.com,+447273346482,Toronto,2010-05-04 03:26:30
+87,Aisha Anderson,F,1975-11-15,German,1.81,26,2006,25518994,12194006.9,Gersh Agency,aisha_anderson9@talent.com,+447626830415,Tokyo,2018-11-09 23:42:27
+88,Yuki Blanchett,Other,1960-05-18,Australian,1.72,17,2014,46279668,8782180.32,CAA,yuki_blanchett30@talent.com,+447764155748,Toronto,2023-07-06 07:43:39
+89,John Nakamura,F,1967-01-16,Italian,1.56,17,2005,13856503,1230180.06,UTA,john_nakamura75@talent.com,+447727448454,New York,2010-04-28 07:36:32
+90,James Washington,F,1959-09-08,German,1.73,17,1988,21516275,17827295.84,Anonymous Content,james_washington16@talent.com,+447541761312,Paris,2010-09-22 00:07:23
+91,Cate Dubois,F,1951-03-21,Canadian,1.77,5,2017,30934254,1464011.32,APA,cate_dubois27@talent.com,+447899479098,Rome,2015-10-14 21:39:23
+92,Omar Washington,Other,1971-10-19,Korean,2.04,0,2006,21767374,17936191.02,ICM,omar_washington75@talent.com,+447317629070,New York,2020-07-05 18:45:40
+93,Sofia Garcia,F,1954-09-08,Australian,1.72,5,2005,8800016,14794417.46,APA,sofia_garcia15@talent.com,+447391432441,London,2022-01-15 21:49:33
+94,Tom Taylor,M,1989-11-23,British,1.6,26,2008,32989042,5943154.47,Gersh Agency,tom_taylor21@talent.com,+447079785360,Seoul,2012-01-26 06:02:50
+95,Denzel Streep,F,1962-01-17,Brazilian,1.94,4,2004,3813965,3811629.31,APA,denzel_streep18@talent.com,+447414160791,Toronto,2023-04-06 23:59:05
+96,  Denzel Müller   ,Other,1961-10-07,Italian,1.67,20,1986,38656284,5047764.14,UTA,denzel_müller95@talent.com,+447942802578,New York,2011-09-02 11:45:53
+97,Emma Müller,M,1968-08-20,Japanese,1.59,25,2000,10335589,6532103.93,Paradigm,emma_müller46@talent.com,+447340359507,Los Angeles,2011-09-20 02:50:07
+98,Robert Johansson,Other,1995-06-16,French,1.65,19,2012,46442927,3559217.71,Innovative Artists,robert_johansson39@talent.com,+447783682170,Rome,2018-07-03 05:31:15
+99,Elena Reynolds,Other,1955-12-23,German,1.8,7,1987,6201929,5835483.13,Gersh Agency,elena_reynolds17@talent.com,+447125087970,Mumbai,2010-03-20 16:38:03
+100,Aisha Anderson,F,1973-03-07,French,1.96,3,1987,34446037,3123891.77,ICM,aisha_anderson83@talent.com,+447075414996,Berlin,2015-07-18 23:52:44
+101,Robert Chen,Other,1975-08-02,Japanese,2.04,22,1989,32507677,1747268.96,ICM,robert_chen57@talent.com,+447250723630,New York,2018-10-03 19:07:56
+102,Carlos Johansson,M,1965-12-07,British,1.56,28,2000,18292523,19056073.57,Gersh Agency,carlos_johansson98@talent.com,+447038402071,Sydney,2015-07-01 15:04:16
+103,Angelina Taylor,F,1972-12-05,Korean,1.9,20,2014,10212146,4560568.33,Paradigm,angelina_taylor61@talent.com,+447370379056,New York,2013-02-13 00:53:12
+104,Emma Wilson,Other,1997-01-11,Brazilian,1.93,27,1986,12624006,15205858.47,3 Arts Entertainment,emma_wilson83@talent.com,+447082494860,Sydney,2016-04-02 13:25:55
+105,Omar Johnson,F,1975-11-20,German,1.98,4,2000,14653156,13815934.64,CAA,omar_johnson2@talent.com,+447652336251,Los Angeles,2017-02-24 21:20:33
+106,Cate Johnson,M,1985-07-07,German,1.64,9,1998,2064927,15991674.64,Paradigm,cate_johnson4@talent.com,+447930555991,Seoul,2024-09-25 15:18:18
+107,Angelina Washington,M,1965-08-11,Australian,1.92,26,2016,12526081,2885705.73,APA,angelina_washington70@talent.com,+447592769282,Mumbai,2023-12-05 21:23:35
+108,Lucas Blanchett,M,1986-07-26,American,2.03,29,2004,34865017,17245530.53,ICM,lucas_blanchett36@talent.com,+447934441834,Rome,2017-09-18 06:35:45
+109,Yuki Dubois,M,1984-01-02,Japanese,1.9,13,2001,29469162,7313639.93,Gersh Agency,yuki_dubois51@talent.com,+447903218609,Rome,2016-05-17 13:47:30
+110,Scarlett Rossi,F,1964-02-15,Korean,1.72,5,2013,32274994,8022735.24,WME,scarlett_rossi13@talent.com,+447527307929,Tokyo,2015-09-10 00:32:06
+111,Christopher Blanchett,M,1995-05-23,German,1.9,28,1989,4888254,8310723.24,Paradigm,christopher_blanchett35@talent.com,+447085331516,Paris,2011-05-13 00:55:12
+112,Angelina Martin,M,2000-06-11,Korean,1.9,8,2009,23540659,18199849.64,UTA,angelina_martin10@talent.com,+447652375264,New York,2016-09-08 12:32:48
+113,John Stone,M,1968-11-09,Canadian,1.89,8,2006,38034048,7115737.72,Paradigm,john_stone30@talent.com,+447096105103,Rome,2010-01-08 00:54:05
+114,Sofia Jackson,M,1983-07-26,Australian,1.79,8,1993,46346358,2024744.04,Innovative Artists,sofia_jackson53@talent.com,+447147818619,New York,2023-04-13 16:14:34
+115,Emma Streep,M,2000-10-07,Japanese,1.56,22,1990,27282205,13675215.12,APA,emma_streep8@talent.com,+447348798700,Los Angeles,2018-02-03 06:26:51
+116,  Scarlett Johansson   ,F,1983-11-09,Indian,1.69,27,2015,31108119,726826.58,Paradigm,scarlett_johansson34@talent.com,+447809190079,London,2022-08-19 10:45:42
+117,Pierre Nakamura,F,1968-10-24,Italian,1.76,10,2003,9283651,16714371.73,Innovative Artists,pierre_nakamura91@talent.com,+447871127871,New York,2021-06-28 13:08:30
+118,Lucas Müller,Other,1995-02-21,Spanish,1.65,9,2014,38930342,13262166.71,Gersh Agency,invalid-email-no-at,+447012864321,New York,2022-06-19 05:14:20
+119,Emma Chen,F,1996-09-20,Spanish,1.91,21,1987,3568166,1855423.73,CAA,emma_chen53@talent.com,+447591420012,Madrid,2018-02-05 21:45:39
+120,Elena Pitt,M,1952-05-28,Australian,1.7,9,1990,46909088,18423983.5,Gersh Agency,elena_pitt84@talent.com,+447434903775,London,2020-12-21 07:20:45
+121,Emma DiCaprio,Other,1963-08-06,Canadian,1.82,15,2007,27214820,13185776.88,3 Arts Entertainment,emma_dicaprio20@talent.com,+447952407433,Mumbai,2011-11-07 01:58:08
+122,Claire Cooper,M,1955-06-17,Indian,1.61,23,1989,35221073,17312828.04,Innovative Artists,claire_cooper42@talent.com,+447684202990,Los Angeles,2020-09-26 19:17:04
+123,Ryan Blanchett,M,1954-05-13,Japanese,1.68,22,1990,6926984,19987201.82,Anonymous Content,ryan_blanchett1@talent.com,+447619396280,Berlin,2010-10-15 11:51:19
+124,Anna Blanchett,Other,1983-09-28,Canadian,1.93,22,1996,16195008,9965981.51,Innovative Artists,anna_blanchett99@talent.com,+447986030724,Tokyo,2018-11-27 23:31:29
+125,James Smith,M,1961-06-04,British,1.59,20,2020,2076566,11034497.79,UTA,james_smith61@talent.com,+447952791364,London,2016-08-19 18:03:39
+126,Claire Streep,Other,1963-09-07,Australian,1.87,11,2014,4249757,8226850.48,Paradigm,claire_streep52@talent.com,+447020968783,Toronto,2018-03-04 22:00:53
+127,James Dubois,Other,1951-08-02,German,1.79,24,1988,35425344,12648697.35,Paradigm,james_dubois88@talent.com,abc-def-ghij,New York,2021-07-25 18:14:10
+128,Michael Wilson,M,1967-09-09,Australian,1.63,22,2012,33007958,14464600.18,Anonymous Content,michael_wilson97@talent.com,+447612718970,Madrid,2023-07-22 05:39:26
+129,Emma Smith,F,1970-08-05,Italian,1.79,11,2002,6037198,15479611.93,Anonymous Content,emma_smith61@talent.com,+447722840441,London,2018-02-15 18:17:31
+130,Yuki Thomas,F,1998-03-25,British,1.58,13,1996,26665769,12248554.62,ICM,invalid-email-no-at,+447987238526,Los Angeles,2013-03-28 23:24:42
+131,Angelina Rossi,M,1950-10-23,American,2.05,14,2001,2642170,14662193.56,ICM,angelina_rossi45@talent.com,+447994719939,Seoul,2011-07-17 10:09:41
+132,David Rossi,Other,1985-04-16,Canadian,1.84,0,1988,48336561,15981141.57,ICM,david_rossi60@talent.com,+447513931181,Rome,2021-07-20 06:12:08
+133,Yuki Brown,F,1994-07-06,Indian,1.67,4,1999,33382731,13499679.68,UTA,yuki_brown30@talent.com,+447276887926,Seoul,2022-10-07 03:02:14
+134,Denzel Kim,M,1950-09-23,Australian,1.71,20,1998,16853204,18715332.61,CAA,denzel_kim92@talent.com,+447823369716,Berlin,2021-08-01 08:12:12
+135,Maria Cooper,Other,1963-09-09,Korean,1.75,24,1990,8592059,7232944.98,Innovative Artists,maria_cooper98@talent.com,+447132918000,Mumbai,2020-01-09 14:14:28
+136,Christopher Thomas,Other,1993-02-16,Italian,1.84,12,2019,1121491,17878226.29,Paradigm,christopher_thomas68@talent.com,+447689039032,Tokyo,2015-12-12 09:19:46
+137,Cate Washington,M,1979-10-22,British,1.77,0,2005,13851781,14280104.87,Innovative Artists,cate_washington19@talent.com,+447525561837,Berlin,2020-10-14 16:33:23
+138,Kenji Dubois,Other,1986-01-08,Australian,1.78,29,2014,45438575,13458998.26,ICM,kenji_dubois34@talent.com,+447142578423,Toronto,2013-02-23 11:01:15
+139,Anna Chen,F,1973-02-22,Canadian,1.91,4,2006,794055,7952645.28,Paradigm,anna_chen77@talent.com,+447813424845,New York,2020-09-13 20:42:49
+140,Michael Martin,F,1986-10-22,Indian,1.76,4,2020,39173059,7199578.94,3 Arts Entertainment,michael_martin83@talent.com,+447319614644,Paris,2024-12-01 07:33:21
+141,Anna Santos,F,1986-07-08,Canadian,1.77,6,2011,15300897,11951587.94,Gersh Agency,anna_santos19@talent.com,+447409239149,Sydney,2015-10-10 00:12:35
+142,Pierre Ahmed,Other,1991-06-07,French,1.78,16,2016,14586074,674662.0,UTA,pierre_ahmed42@talent.com,+447307086540,New York,2023-02-01 21:09:47
+143,Denzel Garcia,M,1972-12-13,Canadian,1.95,6,1996,11419302,18944118.6,ICM,denzel_garcia27@talent.com,+447403773227,Tokyo,2024-09-15 08:36:13
+144,Kenji Rodriguez,M,1988-01-10,Indian,1.81,12,1986,29696622,4197060.58,UTA,kenji_rodriguez55@talent.com,+447005463630,Rome,2014-05-25 14:49:49
+145,Aisha Cooper,Other,1973-11-09,French,1.79,13,1988,41373223,13434361.25,3 Arts Entertainment,aisha_cooper74@talent.com,+447212281214,Berlin,2017-02-14 09:58:49
+146,Scarlett Streep,F,1965-12-09,Italian,1.77,18,2004,17118840,18287623.29,ICM,scarlett_streep85@talent.com,+447600465575,New York,2013-09-15 17:56:03
+147,  Leonardo DiCaprio   ,F,1974-07-12,French,1.83,14,2019,20340154,14815994.29,Innovative Artists,leonardo_dicaprio92@talent.com,+447538130888,Paris,2019-09-25 17:32:15
+148,Omar Rossi,Other,1970-10-07,Indian,1.57,5,2005,3886063,3038449.74,CAA,omar_rossi32@talent.com,+447380920851,Mumbai,2023-10-21 18:53:43
+149,Daniel Rossi,F,1999-04-12,Japanese,1.81,19,2006,11875122,19935081.45,UTA,daniel_rossi51@talent.com,+447686958630,Paris,2020-06-13 01:52:15
+150,Carlos Garcia,F,1976-10-10,Italian,1.76,28,2004,39430114,16057500.39,ICM,invalid-email-no-at,+447586157422,Madrid,2016-05-15 08:29:27
+151,Leonardo Stone,M,1961-02-26,Korean,1.57,24,2000,48799791,11512330.35,Paradigm,leonardo_stone75@talent.com,+447796370215,New York,2015-06-18 13:45:32
+152,Scarlett Stone,F,1957-06-17,Australian,1.66,6,2008,8802747,16909593.92,Paradigm,scarlett_stone90@talent.com,+447604547756,New York,2021-11-13 00:06:52
+153,  Maria Taylor   ,Other,1971-08-07,Indian,1.56,28,1986,4612320,3727971.08,Gersh Agency,maria_taylor41@talent.com,+447000347580,Seoul,2023-08-04 17:05:58
+154,Emma Anderson,F,1988-10-25,Australian,1.61,29,2010,41984736,15698985.25,APA,emma_anderson8@talent.com,+447981755389,Los Angeles,2024-06-11 03:36:06
+155,Emma Reynolds,Other,1978-02-17,Italian,1.95,15,1989,32425404,205347.1,CAA,emma_reynolds95@talent.com,+447239026974,Toronto,2014-10-05 19:54:13
+156,Scarlett Müller,F,1951-08-23,French,1.85,2,1994,39670772,4439064.67,UTA,scarlett_müller97@talent.com,+447912262033,Paris,2022-04-09 18:22:10
+157,David Smith,Other,1953-04-16,Canadian,1.59,29,2015,33297788,7296148.23,Anonymous Content,david_smith73@talent.com,+447922993719,Seoul,2016-03-23 14:16:34
+158,James Martin,M,1976-12-05,Brazilian,1.57,7,1988,26070364,11858584.53,APA,james_martin52@talent.com,+447741425113,Paris,2016-06-16 21:05:10
+159,Christopher Chen,M,1992-12-05,Canadian,1.91,24,1999,45613640,12310893.98,3 Arts Entertainment,christopher_chen71@talent.com,+447892775937,Berlin,2013-01-06 10:22:37
+160,Brad Blanchett,F,2000-03-08,French,1.95,26,2006,40277526,8637972.4,Anonymous Content,brad_blanchett66@talent.com,+447623639086,New York,2019-02-28 00:56:37
+161,Scarlett Martin,F,1972-01-12,British,1.59,4,1988,14582847,15862500.09,CAA,scarlett_martin82@talent.com,+447819061022,Mumbai,2011-07-26 08:49:06
+162,Scarlett Cooper,F,1952-09-23,French,1.9,15,1991,17233783,810914.06,Anonymous Content,scarlett_cooper72@talent.com,+447271842001,Berlin,2014-07-19 10:16:17
+163,Pierre Cooper,Other,1971-09-02,Italian,1.96,22,2014,17611025,6842581.55,Paradigm,invalid-email-no-at,abc-def-ghij,Sydney,2018-04-22 19:40:34
+164,Ryan Reynolds,F,1955-05-05,Canadian,1.86,0,2003,41637496,7213779.88,Innovative Artists,ryan_reynolds45@talent.com,+447043617098,Rome,2012-06-28 06:43:48
+165,Tom Anderson,Other,1972-04-02,French,1.75,27,2003,33253655,2822729.73,Paradigm,tom_anderson37@talent.com,+447808258396,Paris,2017-05-22 22:24:56
+166,Carlos Nakamura,F,1958-10-26,Spanish,2.03,2,1992,26197870,7769577.33,Anonymous Content,carlos_nakamura75@talent.com,+447144687445,Rome,2016-01-25 06:19:38
+167,Carlos Williams,Other,2000-11-14,Spanish,1.88,3,2010,24811943,7600654.37,Innovative Artists,carlos_williams35@talent.com,+447429518874,New York,2017-11-10 01:10:04
+168,Angelina Ahmed,F,1959-05-06,German,1.72,10,2009,2281399,63718.87,APA,angelina_ahmed64@talent.com,+447221493329,New York,2023-09-27 19:19:38
+169,Daniel Cooper,F,1999-03-01,Canadian,1.73,23,1999,22186657,4024401.1,WME,daniel_cooper9@talent.com,+447115964646,Berlin,2021-02-17 08:23:58
+170,Claire Johnson,M,1965-03-05,Brazilian,1.91,3,1985,40579426,1749688.04,UTA,claire_johnson43@talent.com,+447890476677,Sydney,2014-05-24 07:46:06
+171,Denzel Reynolds,M,1984-08-17,German,1.68,29,1997,45705359,16864464.73,Innovative Artists,denzel_reynolds36@talent.com,+447687919792,Madrid,2019-09-05 22:55:19
+172,Michael DiCaprio,M,1955-04-16,Australian,2.02,27,2018,5433091,10069852.6,CAA,michael_dicaprio20@talent.com,+447123219662,Los Angeles,2022-11-19 12:09:55
+173,Elena Müller,F,1963-11-11,Korean,1.8,14,2003,23285196,17343493.49,Paradigm,elena_müller53@talent.com,+447497318672,Berlin,2022-12-10 16:33:34
+174,David Dubois,F,1968-12-06,British,1.87,6,2005,7845302,1398788.33,Innovative Artists,david_dubois96@talent.com,+447530418157,Mumbai,2020-09-25 05:35:01
+175,Lucas Smith,M,1982-08-06,American,2.04,14,2010,31740085,8731206.09,Paradigm,lucas_smith32@talent.com,+447392477728,New York,2010-09-05 17:34:31
+176,Elena Nakamura,M,1953-11-16,Korean,1.65,21,1998,48112473,18230549.73,Anonymous Content,elena_nakamura91@talent.com,+447537465713,Seoul,2019-04-04 11:49:48
+177,Scarlett Williams,F,1995-02-09,Japanese,1.66,20,1992,1031749,16115124.54,WME,scarlett_williams51@talent.com,+447705090819,Tokyo,2024-05-12 04:37:50
+178,Brad Jackson,M,1963-02-20,Australian,1.98,3,1992,45880596,17033301.15,ICM,brad_jackson49@talent.com,+447378523220,Berlin,2023-04-09 18:59:28
+179,  Anna Jackson   ,M,1997-04-26,Canadian,1.7,9,2004,40258907,12013024.17,APA,anna_jackson56@talent.com,abc-def-ghij,New York,2021-09-23 11:52:35
+180,Scarlett Brown,F,1982-07-02,Brazilian,2.05,25,1993,7768027,7358802.89,3 Arts Entertainment,scarlett_brown81@talent.com,+447569816581,London,2017-10-09 06:29:27
+181,Ryan Kim,M,1963-02-06,British,1.64,27,2005,17729334,11157118.95,Innovative Artists,ryan_kim66@talent.com,+447969612836,Los Angeles,2014-08-07 21:07:19
+182,Leonardo Cooper,F,1969-08-16,Brazilian,1.98,8,1985,30815827,409075.94,Paradigm,leonardo_cooper95@talent.com,+447564101454,Rome,2016-06-13 00:00:43
+183,Omar Martin,M,1961-11-21,Indian,1.61,18,1998,33795642,8335995.2,Anonymous Content,omar_martin92@talent.com,+447917842364,London,2017-09-26 08:48:28
+184,David Brown,M,1969-12-25,Korean,1.87,26,2012,38256698,3363689.95,CAA,david_brown34@talent.com,+447231384624,Rome,2016-11-13 01:56:17
+185,Aisha Ahmed,M,1971-09-26,Brazilian,1.69,28,2020,6155316,2293679.6,Anonymous Content,aisha_ahmed30@talent.com,+447217308782,Toronto,2014-07-12 03:09:16
+186,Anna Chen,M,1980-12-01,Japanese,1.83,23,1999,25260700,5085784.46,Anonymous Content,anna_chen4@talent.com,+447804620767,Paris,2011-12-14 23:21:37
+187,Emma Stone,F,1986-05-06,French,1.86,15,1997,7016251,4211047.04,Paradigm,emma_stone47@talent.com,+447880755790,Berlin,2024-12-13 10:36:31
+188,Anna Wilson,Other,1963-06-26,Indian,1.76,6,2004,6002743,9736249.15,3 Arts Entertainment,anna_wilson52@talent.com,+447557987921,Paris,2019-06-08 17:01:35
+189,Tom Anderson,M,1988-10-01,Canadian,1.96,27,2010,7726277,7298222.99,CAA,tom_anderson39@talent.com,+447844629857,Los Angeles,2011-02-03 07:39:06
+190,Lucas Santos,F,1966-08-20,British,1.93,8,1985,5850545,100588.99,Anonymous Content,lucas_santos68@talent.com,+447330516721,Rome,2011-07-25 08:52:29
+191,Scarlett Jackson,Other,1955-06-16,German,1.82,29,1986,25606685,9111077.97,3 Arts Entertainment,scarlett_jackson3@talent.com,+447675212408,Rome,2017-11-08 12:28:11
+192,Michael Thomas,F,1961-07-10,German,1.89,1,2008,34162855,15978850.89,3 Arts Entertainment,michael_thomas87@talent.com,+447048376919,Sydney,2017-03-09 11:39:30
+193,Christopher Streep,M,1960-08-15,American,1.61,21,2006,20696606,13572687.7,WME,christopher_streep97@talent.com,+447388599931,Madrid,2020-08-07 20:51:11
+194,Leonardo Reynolds,Other,1985-12-18,Canadian,1.89,13,1989,2354340,18561551.18,Anonymous Content,invalid-email-no-at,+447629468888,Seoul,2020-10-16 06:22:32
+195,Daniel Wilson,F,1967-05-16,American,1.63,6,1994,32893493,7942486.16,Innovative Artists,daniel_wilson76@talent.com,+447228211087,Toronto,2016-06-20 12:51:55
+196,Denzel Rossi,Other,1966-10-21,Japanese,2.04,23,1990,23422301,7103985.3,ICM,denzel_rossi95@talent.com,+447477224373,Tokyo,2023-08-09 10:41:02
+197,Scarlett Pitt,M,1988-11-01,Indian,1.91,21,2018,41023006,7997357.39,ICM,scarlett_pitt17@talent.com,+447831777110,Toronto,2019-05-11 00:15:28
+198,Denzel Reynolds,F,1983-01-12,German,1.82,6,2019,24966005,18502011.52,3 Arts Entertainment,denzel_reynolds45@talent.com,+447930826357,Berlin,2012-12-20 03:15:26
+199,Kenji Martin,M,1980-04-15,German,1.58,25,2002,5872705,7067375.52,Paradigm,kenji_martin39@talent.com,+447563565922,Berlin,2012-12-09 00:20:06
+200,Michael Johansson,Other,1978-11-19,Italian,1.65,28,2003,26489022,9372218.07,Paradigm,michael_johansson95@talent.com,+447437669307,Tokyo,2021-07-28 13:47:02
+201,Maria Dubois,F,1966-02-11,Australian,1.62,1,2003,4695259,1114777.69,WME,maria_dubois18@talent.com,+447211061149,Los Angeles,2012-11-16 13:02:30
+202,Denzel Anderson,Other,1966-10-15,Spanish,1.83,15,1997,34797197,3966430.25,ICM,denzel_anderson15@talent.com,+447640298547,Los Angeles,2016-02-09 08:13:56
+203,Lucas Garcia,M,1971-01-26,Korean,1.88,24,1996,27517546,682501.24,Innovative Artists,lucas_garcia84@talent.com,+447757862554,Los Angeles,2021-07-28 16:30:21
+204,Claire DiCaprio,Other,1993-02-06,Australian,1.64,28,2010,6375465,17260772.59,3 Arts Entertainment,claire_dicaprio61@talent.com,+447091478983,Paris,2012-04-16 14:16:23
+205,Kenji Pitt,Other,1963-04-16,Italian,2.02,14,1985,22455640,18337494.7,Anonymous Content,kenji_pitt76@talent.com,+447319541115,Los Angeles,2017-10-03 01:40:51
+206,Meryl Martin,M,1981-01-15,Indian,1.65,17,2004,29629668,10641615.97,Gersh Agency,meryl_martin83@talent.com,abc-def-ghij,Mumbai,2013-01-08 08:33:53
+207,Meryl Ahmed,Other,1993-01-28,Japanese,1.99,19,1993,32169162,3734820.47,CAA,meryl_ahmed60@talent.com,+447998254097,Sydney,2010-04-04 14:35:55
+208,Cate Taylor,M,1997-02-14,Spanish,1.92,10,2017,17926723,18965898.32,Gersh Agency,cate_taylor32@talent.com,+447843826924,Los Angeles,2018-09-22 18:57:20
+209,Leonardo Thomas,Other,1973-07-01,Brazilian,1.96,4,2012,41571444,12518640.57,CAA,invalid-email-no-at,+447199920368,Paris,2021-06-06 06:53:58
+210,Tom Smith,M,1964-01-20,British,2.01,11,2010,23674211,5331507.21,CAA,tom_smith17@talent.com,+447642222826,Berlin,2010-08-20 20:37:07
+211,Denzel Ahmed,F,1963-03-01,French,1.62,20,2007,14438529,1913689.08,APA,denzel_ahmed36@talent.com,+447903647917,Los Angeles,2010-05-05 06:05:42
+212,Aisha Williams,M,1953-05-17,French,1.94,1,2000,3762441,18195391.47,APA,aisha_williams90@talent.com,+447743961183,Tokyo,2018-05-23 14:13:58
+213,Carlos Ahmed,Other,1983-12-05,Japanese,1.97,10,2005,15894813,10549020.82,WME,carlos_ahmed57@talent.com,+447521208748,Seoul,2023-02-18 05:31:09
+214,Brad Streep,M,1987-06-28,French,1.8,5,2008,24513439,12948099.56,Paradigm,brad_streep25@talent.com,+447934520229,Mumbai,2022-09-22 23:05:21
+215,Angelina Nakamura,F,1996-12-28,Australian,1.71,9,2001,49787413,10061068.98,Paradigm,angelina_nakamura76@talent.com,+447057592937,Paris,2020-06-01 22:48:18
+216,Carlos Anderson,Other,1951-09-19,British,1.88,9,2011,47781135,5845092.41,ICM,carlos_anderson37@talent.com,+447123618469,Seoul,2010-08-28 13:38:59
+217,Emma Ahmed,F,1982-09-03,American,1.8,22,1993,44573451,3093240.96,Innovative Artists,emma_ahmed46@talent.com,+447858911153,Seoul,2014-08-25 14:40:31
+218,Ryan Wilson,Other,1957-03-07,Indian,1.77,27,2003,49446469,11756552.98,ICM,ryan_wilson35@talent.com,+447938321278,Madrid,2019-08-20 01:01:31
+219,Michael Washington,Other,1969-10-23,Brazilian,1.76,28,2001,48303404,16916764.92,WME,michael_washington37@talent.com,+447958537173,Rome,2016-03-07 21:36:21
+220,Denzel Brown,M,1971-01-06,Spanish,1.77,8,1986,25216364,6057460.51,UTA,denzel_brown85@talent.com,+447126071098,London,2017-03-22 15:25:23
+221,Robert Johansson,Other,1962-05-04,Spanish,2.0,20,1988,3760188,6812747.3,APA,robert_johansson9@talent.com,+447877285566,Seoul,2018-04-26 09:22:22
+222,Kenji Nakamura,Other,1992-04-07,Korean,1.95,29,2015,46942951,19412268.41,Paradigm,kenji_nakamura47@talent.com,+447860518301,Rome,2018-01-18 19:22:48
+223,James Santos,M,1968-04-03,Spanish,1.59,29,2006,45677081,9457405.69,APA,james_santos96@talent.com,+447032179280,London,2011-11-23 18:29:37
+224,Maria Kim,Other,1965-02-22,Canadian,1.76,16,2018,33979257,10949117.03,CAA,maria_kim51@talent.com,+447952588227,Paris,2010-06-12 17:12:38
+225,Sofia Rodriguez,F,1953-01-20,Brazilian,1.64,21,2000,47497229,4381813.61,3 Arts Entertainment,sofia_rodriguez14@talent.com,+447219697500,Rome,2013-08-19 01:11:58
+226,James Streep,M,1991-02-18,Indian,1.86,16,2004,19023724,19054202.37,Innovative Artists,james_streep86@talent.com,+447583410319,Mumbai,2011-07-25 14:27:25
+227,  Maria Blanchett   ,M,1969-09-23,French,1.64,5,2010,29199994,5877435.3,Gersh Agency,maria_blanchett35@talent.com,+447863701556,London,2021-07-10 08:54:01
+228,John Garcia,F,1988-07-14,German,1.77,25,2005,34791394,1903841.16,Anonymous Content,john_garcia83@talent.com,+447823018694,Madrid,2017-05-09 19:36:10
+229,Elena Martin,F,1989-04-26,Australian,1.86,10,2000,6174047,16216954.35,APA,elena_martin68@talent.com,+447094824384,Rome,2016-05-21 04:12:39
+230,John Johnson,Other,1986-07-09,Australian,1.74,13,2018,4296674,19176799.29,WME,john_johnson20@talent.com,+447850659887,Toronto,2018-03-27 04:36:50
+231,Denzel Williams,M,1967-07-18,Spanish,1.62,28,1988,15213943,9380822.47,ICM,denzel_williams32@talent.com,+447697853223,Madrid,2021-09-25 08:03:24
+232,Emma Washington,Other,1970-08-17,German,1.58,8,2006,22012177,11703227.01,APA,emma_washington9@talent.com,+447444178785,Toronto,2022-08-22 12:41:52
+233,Emma Stone,M,1953-06-11,French,1.97,4,2010,42771858,14984787.5,Paradigm,emma_stone48@talent.com,+447494323648,Tokyo,2020-05-20 08:13:26
+234,Ryan Kim,F,1972-04-09,Japanese,1.64,1,2003,10138441,1801213.65,Anonymous Content,ryan_kim22@talent.com,+447394755870,Rome,2017-05-15 22:06:55
+235,Emma Williams,Other,1972-11-22,American,1.95,13,2008,42110713,2070570.3,ICM,emma_williams7@talent.com,+447088929528,Seoul,2024-09-11 01:34:05
+236,Tom Rossi,F,1977-07-23,German,1.64,15,1988,18743386,2620691.42,ICM,tom_rossi25@talent.com,+447894379338,Mumbai,2011-01-13 01:58:47
+237,Denzel Taylor,F,1959-03-20,French,1.81,11,2014,43920259,15581215.25,Gersh Agency,denzel_taylor79@talent.com,+447791002576,Sydney,2023-07-12 19:38:01
+238,Lucas Lawrence,F,1956-02-26,Japanese,1.66,28,2017,13011709,942707.06,CAA,lucas_lawrence17@talent.com,+447755152413,Toronto,2017-08-24 23:46:23
+239,Christopher Kim,M,1956-07-18,Australian,1.78,10,1997,30873468,2249110.22,Innovative Artists,christopher_kim6@talent.com,+447011638847,Berlin,2023-03-02 09:15:05
+240,Kenji Williams,F,1972-07-28,American,1.64,6,2010,5811421,18091347.15,APA,kenji_williams57@talent.com,+447858832312,Seoul,2018-01-14 04:16:29
+241,Lucas Nakamura,Other,1965-07-21,Spanish,1.92,4,2014,48598376,6316004.97,CAA,lucas_nakamura44@talent.com,+447490595668,Los Angeles,2024-06-24 21:59:27
+242,Aisha Wilson,M,1961-02-23,Indian,1.6,12,2014,46191370,11996624.48,UTA,aisha_wilson6@talent.com,+447002942451,Berlin,2015-04-19 07:48:44
+243,Ryan Kim,Other,1994-06-03,Italian,1.72,26,1988,29696351,11654549.48,ICM,ryan_kim3@talent.com,+447397902327,London,2023-02-23 16:14:02
+244,David Rossi,F,1990-11-11,Brazilian,1.61,0,1994,48378320,738699.47,WME,david_rossi23@talent.com,+447284613234,Toronto,2024-02-11 22:19:34
+245,Carlos Smith,F,1996-04-08,Italian,1.65,7,1985,21196886,9665778.98,APA,carlos_smith41@talent.com,+447651537654,New York,2014-04-15 22:55:03
+246,James Thomas,M,1978-08-02,Canadian,1.87,3,2014,729675,16577664.34,Gersh Agency,james_thomas70@talent.com,+447128331462,Madrid,2010-02-27 05:21:45
+247,Scarlett Lawrence,M,1990-10-24,Spanish,1.6,20,2019,25116232,7644610.72,WME,scarlett_lawrence80@talent.com,+447964781367,Madrid,2016-10-15 11:02:22
+248,Kenji Chen,M,1951-12-03,American,1.89,23,2008,39581542,1725046.34,Paradigm,kenji_chen64@talent.com,+447254213395,Sydney,2022-09-07 07:45:41
+249,Sofia Wilson,M,1983-10-23,Japanese,1.91,1,2009,23523974,14098936.8,Gersh Agency,sofia_wilson76@talent.com,+447954947849,Seoul,2023-03-24 10:36:12
+250,Ryan Reynolds,F,1973-01-19,Japanese,1.75,27,1985,31482302,10782794.13,APA,ryan_reynolds48@talent.com,+447712907481,Rome,2012-11-24 05:28:07
+251,Pierre Streep,Other,1992-07-26,Brazilian,1.96,2,1992,37665656,8750394.52,CAA,pierre_streep21@talent.com,+447816137131,New York,2011-01-20 07:27:53
+252,  James Thomas   ,Other,1954-11-15,American,1.57,6,1993,33537195,13821379.43,UTA,james_thomas84@talent.com,+447298863300,Mumbai,2010-06-28 21:42:44
+253,Carlos Garcia,F,1992-10-15,British,1.9,16,1993,6758246,2148365.37,APA,carlos_garcia60@talent.com,+447913901574,Rome,2020-11-25 23:38:58
+254,Daniel Santos,Other,1973-07-23,Australian,1.89,18,1995,10029111,786530.79,WME,invalid-email-no-at,+447527053793,Berlin,2015-07-08 23:53:36
+255,Ryan Blanchett,Other,1961-06-02,American,1.8,3,2012,31348201,14952800.64,Anonymous Content,ryan_blanchett85@talent.com,+447303127079,Rome,2020-08-07 11:34:07
+256,Aisha Williams,F,1981-08-20,German,1.74,19,2006,43939821,11023818.86,ICM,aisha_williams94@talent.com,+447780544094,Mumbai,2013-06-13 19:37:37
+257,Yuki DiCaprio,Other,1962-01-23,Italian,2.0,13,1992,9989346,7661396.57,Innovative Artists,yuki_dicaprio16@talent.com,+447155258045,Paris,2019-02-19 13:37:36
+258,Robert Dubois,Other,1980-09-07,American,1.71,12,2018,8908949,10336211.86,Innovative Artists,robert_dubois48@talent.com,+447040342320,Seoul,2013-04-11 10:11:27
+259,Scarlett Müller,F,1966-08-17,French,1.61,17,1995,27070371,11838261.23,3 Arts Entertainment,scarlett_müller7@talent.com,+447725352106,Berlin,2014-12-12 03:28:14
+260,Pierre Müller,Other,1977-06-01,German,1.83,8,2013,25076614,16738130.75,CAA,pierre_müller17@talent.com,+447237327342,Seoul,2015-08-23 21:31:46
+261,Yuki DiCaprio,Other,1969-04-10,Canadian,1.71,11,2000,33759336,18503599.32,WME,yuki_dicaprio73@talent.com,+447322826481,Paris,2021-06-16 11:02:54
+262,Pierre Williams,M,1974-10-23,Korean,1.78,11,2011,12522669,17647105.84,Gersh Agency,pierre_williams59@talent.com,+447664539775,Berlin,2013-10-04 13:34:24
+263,Angelina Reynolds,M,1975-10-25,Japanese,1.66,29,2002,17862465,16047216.36,CAA,angelina_reynolds59@talent.com,+447866065767,New York,2011-01-10 04:54:31
+264,Meryl Blanchett,Other,1959-02-01,French,1.98,25,1989,33895275,10936665.31,3 Arts Entertainment,meryl_blanchett76@talent.com,+447668118443,Rome,2019-10-21 03:13:09
+265,Meryl Lawrence,M,1983-05-26,Indian,1.99,2,1991,5992924,6532767.81,Innovative Artists,meryl_lawrence81@talent.com,+447396974086,Los Angeles,2023-04-10 14:23:25
+266,Michael Pitt,Other,1960-07-06,Japanese,1.97,10,2005,19057666,8353705.72,UTA,michael_pitt12@talent.com,+447898846555,Los Angeles,2024-03-04 07:21:45
+267,John Johansson,Other,1968-01-16,French,1.93,7,2003,15382888,5560086.98,Paradigm,john_johansson50@talent.com,+447747073653,Los Angeles,2024-10-11 08:30:43
+268,Michael Blanchett,Other,1983-02-02,Spanish,1.84,24,2007,7281632,7854099.02,APA,michael_blanchett85@talent.com,+447054464221,London,2011-05-21 23:05:47
+269,Anna Johnson,M,1974-09-02,Australian,1.72,8,1990,35495931,14652047.24,APA,anna_johnson22@talent.com,+447679794531,Tokyo,2011-04-07 21:12:27
+270,Daniel Ahmed,Other,1954-06-14,Brazilian,1.93,10,2020,7833070,8812933.69,3 Arts Entertainment,daniel_ahmed94@talent.com,+447150837560,Paris,2020-06-24 15:35:10
+271,Pierre Smith,M,1955-10-28,French,1.87,3,2003,10749591,11430057.1,3 Arts Entertainment,pierre_smith91@talent.com,+447792125606,Tokyo,2018-02-10 03:18:00
+272,Meryl Rodriguez,Other,1987-04-19,French,1.69,5,2011,21581972,3119032.9,WME,meryl_rodriguez28@talent.com,+447388498064,London,2023-12-01 03:28:19
+273,Angelina Smith,F,1977-10-17,Indian,2.03,12,2010,24436761,12503614.28,Anonymous Content,angelina_smith20@talent.com,+447968699071,Paris,2021-09-05 14:11:51
+274,Kenji Chen,Other,1956-07-10,Japanese,1.9,18,1992,21038886,3868205.65,UTA,kenji_chen32@talent.com,+447490766724,New York,2011-09-21 00:57:06
+275,Christopher Dubois,F,1984-03-08,Japanese,1.64,8,1985,48815999,2551415.93,Gersh Agency,christopher_dubois8@talent.com,+447947758599,Rome,2012-07-16 02:40:15
+276,Meryl Müller,F,1960-04-18,Italian,1.77,1,2013,31825432,7728059.89,Gersh Agency,meryl_müller2@talent.com,+447336225854,London,2019-12-07 20:40:59
+277,Emma Streep,F,1995-07-16,Japanese,1.58,17,2016,32678249,17271998.54,WME,emma_streep76@talent.com,+447529884390,Los Angeles,2017-11-11 05:50:18
+278,Cate Washington,F,1954-01-23,Canadian,1.96,24,2016,9716685,5708963.05,Innovative Artists,invalid-email-no-at,+447893954545,London,2015-05-06 13:22:18
+279,Angelina Rodriguez,M,1987-03-16,Italian,1.93,30,1999,38995559,11040613.44,UTA,angelina_rodriguez56@talent.com,+447715569962,Berlin,2018-11-04 17:10:50
+280,Ryan Taylor,Other,1960-08-18,Canadian,1.76,0,2015,49509077,18376351.83,Gersh Agency,ryan_taylor74@talent.com,+447409446519,London,2020-04-12 14:49:41
+281,Maria Rodriguez,M,1996-07-22,Australian,1.85,21,1990,43684493,3863824.89,ICM,maria_rodriguez67@talent.com,+447394294887,Tokyo,2021-08-24 01:22:00
+282,Cate Wilson,Other,1999-05-19,Japanese,1.88,19,2010,13285459,15655650.66,Innovative Artists,invalid-email-no-at,+447514844252,Rome,2018-07-23 13:08:49
+283,Sofia Kim,M,1989-05-18,Japanese,1.92,8,1995,10940916,18009483.43,3 Arts Entertainment,sofia_kim70@talent.com,+447871735162,Seoul,2015-02-07 06:45:02
+284,Leonardo Nakamura,Other,1994-06-04,Brazilian,1.9,29,1991,1748769,11953174.19,Innovative Artists,leonardo_nakamura79@talent.com,+447315836079,Tokyo,2015-02-22 07:55:51
+285,  Ryan Brown   ,F,1996-01-09,French,1.8,15,1994,9449989,4783294.95,UTA,ryan_brown30@talent.com,+447381695584,Rome,2023-12-16 16:50:51
+286,Omar Lawrence,M,1963-11-27,Indian,1.61,16,1990,29628384,1309408.38,Anonymous Content,omar_lawrence6@talent.com,+447213376153,Sydney,2020-12-19 07:22:55
+287,Elena Streep,M,1954-03-15,Brazilian,1.71,18,2012,16395857,15160529.79,Innovative Artists,elena_streep57@talent.com,+447914408348,Berlin,2011-02-10 19:53:13
+288,Maria Chen,M,1977-12-25,Korean,1.94,18,2001,45196553,16618958.36,CAA,maria_chen3@talent.com,+447541024787,Berlin,2023-09-04 16:51:01
+289,Maria Washington,M,1958-02-17,British,1.7,22,2001,1602874,10902268.62,Innovative Artists,maria_washington54@talent.com,+447399671433,Los Angeles,2012-09-09 13:04:27
+290,Tom Anderson,M,1968-10-20,Australian,1.79,29,1985,14077658,13311560.71,CAA,tom_anderson61@talent.com,+447688837037,Tokyo,2013-11-10 21:31:16
+291,Robert Blanchett,M,1952-01-10,Italian,1.55,0,2003,7427214,4025589.82,ICM,robert_blanchett27@talent.com,+447139274301,Seoul,2015-06-24 14:36:19
+292,David Smith,M,1988-06-14,Brazilian,1.78,21,1990,32834376,7586568.53,WME,david_smith93@talent.com,+447157562174,New York,2018-10-25 17:37:35
+293,Yuki Washington,Other,1978-06-28,French,1.66,15,2014,44052324,1575308.57,ICM,yuki_washington71@talent.com,+447883873553,Sydney,2018-02-18 18:14:39
+294,Omar Pitt,M,1967-06-04,Australian,1.68,10,2017,27517199,18591384.8,WME,omar_pitt82@talent.com,+447044796232,Toronto,2021-08-27 23:14:17
+295,Christopher Anderson,Other,1975-05-24,Canadian,1.57,20,1991,23352876,17533636.82,APA,christopher_anderson72@talent.com,+447032879120,Mumbai,2015-10-07 18:06:49
+296,Aisha Pitt,F,1969-10-07,German,1.84,14,1990,45259635,11292639.18,Gersh Agency,aisha_pitt42@talent.com,+447420152619,Los Angeles,2016-04-17 10:54:26
+297,Angelina Garcia,M,1999-06-07,Spanish,1.83,8,1996,3712383,13751321.59,APA,angelina_garcia2@talent.com,+447058564794,Seoul,2020-11-12 23:21:48
+298,Maria Streep,Other,1995-10-22,Italian,1.78,22,2017,35284653,10784030.23,3 Arts Entertainment,maria_streep41@talent.com,+447815314833,London,2020-12-24 04:51:06
+299,Meryl Stone,M,1967-01-25,Australian,1.71,24,1989,8384867,15656708.2,Gersh Agency,meryl_stone5@talent.com,+447489123637,Rome,2011-12-15 11:42:31
+300,Aisha Washington,Other,1969-09-14,Italian,1.79,16,2011,17264504,19023170.74,UTA,aisha_washington2@talent.com,+447300098667,Rome,2012-05-10 15:03:44

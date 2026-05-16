@@ -1,0 +1,801 @@
+id,movie_id,actor_id,role_name,screen_time
+1,84,283,Lead,30
+2,123,201,Hero,74
+3,338,99,Antagonist,80
+4,71,99,Antagonist,69
+5,192,220,Villain,68
+6,931,145,Mentor,72
+7,941,268,Hero,120
+8,145,153,Antagonist,92
+9,635,64,Love Interest,71
+10,511,274,Supporting,97
+11,222,110,Love Interest,20
+12,808,252,Cameo,30
+13,781,67,Hero,71
+14,162,116,Love Interest,28
+15,721,235,Antagonist,44
+16,95,105,Hero,65
+17,51,191,Antagonist,41
+18,826,145,Lead,107
+19,949,172,Protagonist,67
+20,331,181,Villain,28
+21,303,58,Villain,58
+22,855,21,Mentor,9
+23,816,81,Protagonist,79
+24,629,61,Protagonist,91
+25,108,7,Mentor,115
+26,101,242,Hero,63
+27,527,290,Comic Relief,68
+28,769,183,Villain,93
+29,392,6,Lead,40
+30,854,161,Protagonist,48
+31,511,145,Cameo,68
+32,883,190,Villain,64
+33,220,233,Villain,26
+34,925,204,Love Interest,116
+35,354,103,Mentor,23
+36,262,160,Protagonist,77
+37,973,244,Supporting,25
+38,940,82,Comic Relief,80
+39,323,38,Protagonist,88
+40,909,124,Comic Relief,81
+41,167,24,Lead,79
+42,99,74,Antagonist,96
+43,826,262,Antagonist,35
+44,885,160,Lead,22
+45,616,249,Lead,70
+46,945,295,Antagonist,35
+47,520,242,Lead,60
+48,680,134,Lead,14
+49,211,253,Protagonist,75
+50,589,201,Mentor,76
+51,830,67,Comic Relief,112
+52,228,252,Comic Relief,82
+53,130,135,Comic Relief,13
+54,7,170,Love Interest,85
+55,615,125,Supporting,74
+56,930,12,Protagonist,90
+57,308,249,Love Interest,41
+58,27,168,Lead,107
+59,758,168,Supporting,47
+60,600,140,Love Interest,6
+61,419,32,Villain,47
+62,430,83,Mentor,6
+63,913,198,Supporting,7
+64,673,186,Lead,12
+65,790,51,Mentor,108
+66,108,187,Villain,61
+67,153,285,Supporting,64
+68,495,135,Lead,76
+69,630,286,Hero,44
+70,485,296,Mentor,51
+71,673,109,Supporting,105
+72,697,61,Antagonist,99
+73,880,149,Antagonist,100
+74,66,216,Protagonist,32
+75,764,125,Love Interest,72
+76,134,267,Hero,35
+77,396,237,Lead,10
+78,608,234,Protagonist,113
+79,108,283,Hero,58
+80,565,71,Hero,92
+81,910,252,Antagonist,67
+82,950,50,Love Interest,91
+83,555,280,Mentor,110
+84,192,100,Lead,92
+85,450,175,Antagonist,111
+86,485,282,Comic Relief,110
+87,666,49,Comic Relief,45
+88,881,284,Protagonist,17
+89,762,101,Lead,9
+90,750,105,Cameo,26
+91,23,209,Protagonist,56
+92,183,12,Comic Relief,88
+93,439,250,Cameo,83
+94,997,257,Villain,58
+95,799,44,Love Interest,85
+96,313,43,Lead,28
+97,878,258,Cameo,81
+98,413,104,Hero,92
+99,5,91,Comic Relief,44
+100,776,79,Hero,11
+101,237,39,Antagonist,18
+102,644,83,Cameo,100
+103,442,162,Hero,15
+104,717,227,Mentor,27
+105,596,95,Antagonist,64
+106,544,101,Comic Relief,34
+107,426,272,Supporting,21
+108,228,9,Antagonist,93
+109,226,77,Antagonist,22
+110,436,25,Lead,13
+111,651,46,Hero,86
+112,110,95,Villain,7
+113,492,109,Hero,72
+114,961,288,Lead,110
+115,79,73,Cameo,16
+116,140,136,Villain,100
+117,794,213,Antagonist,21
+118,973,49,Lead,14
+119,33,227,Protagonist,47
+120,183,25,Antagonist,95
+121,53,18,Love Interest,78
+122,82,35,Love Interest,85
+123,742,237,Supporting,46
+124,517,15,Hero,107
+125,381,64,Supporting,93
+126,65,166,Lead,90
+127,717,156,Supporting,26
+128,847,83,Antagonist,12
+129,860,39,Supporting,26
+130,928,258,Mentor,104
+131,784,170,Lead,71
+132,187,203,Mentor,107
+133,43,100,Love Interest,12
+134,604,249,Villain,76
+135,9,225,Love Interest,80
+136,97,146,Love Interest,35
+137,505,56,Love Interest,16
+138,33,142,Antagonist,19
+139,311,63,Protagonist,53
+140,722,276,Hero,106
+141,124,254,Antagonist,101
+142,420,33,Lead,77
+143,358,285,Villain,106
+144,993,152,Hero,97
+145,246,174,Love Interest,13
+146,837,82,Mentor,47
+147,897,117,Comic Relief,100
+148,190,155,Mentor,83
+149,633,29,Antagonist,28
+150,784,118,Villain,98
+151,677,158,Mentor,48
+152,14,296,Supporting,119
+153,496,282,Villain,50
+154,749,216,Villain,87
+155,387,139,Lead,85
+156,959,189,Hero,47
+157,519,283,Supporting,17
+158,559,191,Antagonist,62
+159,487,44,Mentor,7
+160,454,232,Antagonist,65
+161,437,222,Cameo,64
+162,74,30,Comic Relief,18
+163,969,18,Protagonist,27
+164,797,17,Villain,7
+165,485,106,Antagonist,34
+166,576,200,Hero,23
+167,880,257,Supporting,46
+168,638,240,Hero,7
+169,10,240,Hero,54
+170,912,60,Comic Relief,82
+171,1,32,Hero,45
+172,252,134,Mentor,46
+173,323,32,Mentor,43
+174,989,269,Supporting,38
+175,307,157,Villain,102
+176,605,135,Protagonist,57
+177,764,87,Comic Relief,56
+178,179,213,Villain,81
+179,916,177,Supporting,79
+180,988,268,Supporting,96
+181,845,117,Hero,117
+182,946,120,Villain,40
+183,937,156,Supporting,45
+184,938,173,Cameo,78
+185,759,82,Mentor,64
+186,483,233,Supporting,29
+187,379,274,Love Interest,82
+188,988,211,Supporting,108
+189,402,12,Lead,15
+190,210,54,Supporting,36
+191,842,253,Hero,61
+192,70,277,Mentor,89
+193,621,237,Hero,87
+194,868,297,Cameo,78
+195,875,124,Lead,78
+196,59,231,Mentor,23
+197,839,164,Hero,43
+198,50,27,Love Interest,87
+199,6,213,Cameo,86
+200,340,14,Love Interest,103
+201,279,210,Comic Relief,90
+202,405,2,Antagonist,118
+203,937,1,Comic Relief,71
+204,581,14,Cameo,109
+205,373,190,Cameo,115
+206,518,267,Love Interest,63
+207,203,236,Hero,38
+208,27,227,Lead,38
+209,905,59,Love Interest,8
+210,178,138,Supporting,57
+211,992,54,Mentor,62
+212,140,98,Mentor,77
+213,649,226,Villain,9
+214,582,8,Antagonist,120
+215,230,100,Lead,19
+216,692,83,Antagonist,20
+217,869,270,Comic Relief,41
+218,459,11,Protagonist,72
+219,382,163,Lead,26
+220,210,43,Villain,104
+221,461,151,Protagonist,112
+222,501,62,Antagonist,53
+223,367,27,Villain,110
+224,485,51,Antagonist,99
+225,725,16,Lead,66
+226,263,285,Hero,33
+227,913,262,Cameo,60
+228,551,75,Lead,15
+229,147,18,Cameo,96
+230,808,56,Antagonist,108
+231,147,208,Cameo,11
+232,496,218,Mentor,78
+233,374,253,Antagonist,91
+234,474,54,Hero,60
+235,907,230,Cameo,52
+236,17,14,Comic Relief,113
+237,610,239,Villain,59
+238,351,264,Mentor,107
+239,735,299,Protagonist,80
+240,714,76,Villain,20
+241,648,178,Supporting,19
+242,9,286,Supporting,108
+243,506,263,Villain,15
+244,234,169,Mentor,14
+245,929,31,Love Interest,93
+246,202,210,Comic Relief,97
+247,114,248,Comic Relief,51
+248,520,260,Supporting,72
+249,802,262,Villain,107
+250,477,194,Lead,58
+251,70,231,Supporting,21
+252,975,182,Antagonist,93
+253,57,231,Antagonist,74
+254,272,294,Villain,83
+255,120,246,Hero,25
+256,857,215,Protagonist,12
+257,803,281,Villain,39
+258,954,140,Protagonist,31
+259,282,32,Cameo,118
+260,530,268,Antagonist,93
+261,872,161,Love Interest,81
+262,984,44,Lead,70
+263,468,232,Supporting,67
+264,322,224,Comic Relief,98
+265,699,127,Antagonist,67
+266,596,1,Villain,111
+267,759,260,Supporting,73
+268,435,267,Villain,25
+269,63,5,Mentor,98
+270,209,284,Comic Relief,47
+271,910,149,Villain,61
+272,4,55,Supporting,21
+273,988,202,Love Interest,79
+274,184,269,Love Interest,63
+275,664,70,Cameo,38
+276,586,228,Comic Relief,16
+277,977,113,Protagonist,109
+278,548,254,Mentor,87
+279,698,196,Lead,17
+280,228,53,Lead,96
+281,640,274,Comic Relief,21
+282,268,187,Villain,15
+283,941,64,Antagonist,101
+284,505,55,Hero,22
+285,791,200,Antagonist,22
+286,185,234,Supporting,93
+287,10,207,Hero,38
+288,420,217,Comic Relief,50
+289,880,214,Antagonist,74
+290,257,17,Protagonist,28
+291,652,297,Supporting,87
+292,64,111,Mentor,39
+293,598,232,Villain,59
+294,307,186,Comic Relief,68
+295,1000,38,Cameo,110
+296,81,83,Protagonist,82
+297,566,229,Comic Relief,86
+298,914,155,Supporting,46
+299,361,243,Cameo,20
+300,695,127,Supporting,94
+301,637,43,Villain,79
+302,388,270,Villain,107
+303,606,25,Cameo,105
+304,819,257,Cameo,78
+305,463,222,Mentor,97
+306,181,92,Lead,68
+307,830,44,Supporting,32
+308,970,188,Lead,109
+309,658,117,Villain,57
+310,423,266,Love Interest,41
+311,839,148,Love Interest,23
+312,507,287,Villain,59
+313,488,247,Protagonist,42
+314,503,97,Cameo,42
+315,340,232,Supporting,78
+316,930,170,Antagonist,39
+317,580,223,Hero,37
+318,488,81,Mentor,92
+319,412,22,Protagonist,13
+320,942,90,Hero,16
+321,490,256,Supporting,67
+322,93,198,Love Interest,80
+323,997,147,Protagonist,44
+324,190,288,Villain,79
+325,388,110,Cameo,39
+326,505,21,Lead,44
+327,172,300,Antagonist,46
+328,963,139,Mentor,19
+329,170,26,Lead,61
+330,238,46,Comic Relief,76
+331,44,275,Lead,53
+332,811,288,Cameo,39
+333,145,126,Love Interest,86
+334,615,243,Mentor,55
+335,711,247,Antagonist,30
+336,131,291,Love Interest,73
+337,228,296,Supporting,75
+338,492,175,Love Interest,78
+339,53,186,Hero,72
+340,308,60,Love Interest,102
+341,664,159,Hero,28
+342,283,214,Protagonist,92
+343,937,60,Supporting,116
+344,542,268,Lead,112
+345,238,139,Comic Relief,62
+346,47,10,Comic Relief,18
+347,770,217,Love Interest,32
+348,553,136,Mentor,35
+349,524,38,Lead,102
+350,708,203,Villain,68
+351,870,3,Mentor,26
+352,73,288,Antagonist,9
+353,575,66,Cameo,55
+354,67,205,Villain,44
+355,48,176,Protagonist,54
+356,293,260,Antagonist,83
+357,21,58,Mentor,49
+358,998,88,Protagonist,12
+359,716,5,Supporting,63
+360,375,186,Lead,42
+361,607,122,Antagonist,62
+362,562,59,Protagonist,16
+363,155,242,Mentor,8
+364,78,185,Villain,29
+365,983,267,Mentor,81
+366,949,70,Hero,35
+367,861,87,Love Interest,20
+368,931,79,Villain,69
+369,689,64,Supporting,88
+370,567,252,Protagonist,119
+371,669,24,Lead,105
+372,508,130,Villain,101
+373,147,198,Cameo,73
+374,924,130,Villain,26
+375,983,115,Mentor,54
+376,43,110,Antagonist,53
+377,486,71,Love Interest,40
+378,281,75,Protagonist,109
+379,493,89,Cameo,25
+380,925,217,Protagonist,66
+381,153,257,Villain,87
+382,251,113,Protagonist,100
+383,242,82,Comic Relief,10
+384,792,112,Cameo,22
+385,154,229,Antagonist,53
+386,103,256,Antagonist,72
+387,220,157,Protagonist,90
+388,929,37,Mentor,33
+389,26,260,Supporting,98
+390,812,264,Supporting,96
+391,762,295,Cameo,41
+392,750,73,Protagonist,19
+393,832,88,Love Interest,60
+394,232,183,Love Interest,68
+395,380,83,Cameo,70
+396,713,261,Villain,24
+397,32,113,Love Interest,67
+398,787,135,Love Interest,75
+399,37,14,Love Interest,27
+400,626,119,Comic Relief,61
+401,450,274,Antagonist,111
+402,85,142,Antagonist,48
+403,277,160,Protagonist,39
+404,751,157,Cameo,105
+405,615,238,Villain,67
+406,151,220,Hero,29
+407,168,119,Villain,107
+408,260,273,Villain,30
+409,497,181,Antagonist,93
+410,459,113,Mentor,74
+411,349,48,Villain,81
+412,201,40,Supporting,115
+413,931,200,Antagonist,32
+414,117,75,Comic Relief,37
+415,355,196,Love Interest,53
+416,456,181,Mentor,9
+417,363,245,Supporting,110
+418,889,246,Supporting,51
+419,638,45,Hero,33
+420,931,118,Villain,34
+421,375,203,Cameo,103
+422,648,191,Antagonist,7
+423,126,106,Antagonist,102
+424,565,157,Supporting,102
+425,794,29,Villain,98
+426,267,43,Supporting,119
+427,239,226,Villain,110
+428,678,72,Lead,89
+429,651,66,Cameo,9
+430,86,234,Villain,109
+431,554,90,Cameo,85
+432,441,21,Comic Relief,73
+433,404,285,Comic Relief,58
+434,236,1,Mentor,7
+435,640,212,Protagonist,74
+436,985,277,Comic Relief,107
+437,234,261,Mentor,45
+438,978,220,Hero,17
+439,590,87,Love Interest,77
+440,780,170,Love Interest,105
+441,985,42,Supporting,7
+442,132,270,Protagonist,79
+443,666,107,Hero,115
+444,195,164,Lead,109
+445,583,126,Cameo,61
+446,378,98,Cameo,84
+447,737,199,Love Interest,42
+448,869,257,Comic Relief,29
+449,894,65,Lead,94
+450,949,42,Villain,97
+451,961,7,Comic Relief,112
+452,331,101,Villain,26
+453,243,201,Love Interest,14
+454,846,51,Hero,53
+455,390,159,Supporting,14
+456,348,48,Comic Relief,42
+457,849,130,Comic Relief,107
+458,342,76,Villain,84
+459,426,192,Love Interest,65
+460,575,78,Comic Relief,79
+461,20,27,Hero,6
+462,4,145,Mentor,5
+463,204,96,Cameo,58
+464,42,7,Hero,69
+465,791,273,Protagonist,114
+466,958,98,Love Interest,15
+467,207,137,Love Interest,63
+468,252,61,Lead,51
+469,218,288,Hero,72
+470,661,114,Supporting,102
+471,165,5,Protagonist,116
+472,900,140,Cameo,69
+473,899,75,Villain,99
+474,432,64,Comic Relief,9
+475,783,44,Lead,89
+476,993,252,Cameo,100
+477,862,287,Love Interest,85
+478,971,106,Hero,26
+479,71,65,Supporting,10
+480,100,186,Supporting,5
+481,937,213,Lead,113
+482,764,251,Hero,43
+483,577,247,Lead,41
+484,961,80,Lead,79
+485,449,235,Comic Relief,113
+486,931,219,Villain,18
+487,996,17,Lead,82
+488,978,159,Antagonist,30
+489,79,143,Cameo,22
+490,937,110,Comic Relief,46
+491,762,123,Cameo,65
+492,82,133,Mentor,104
+493,711,92,Antagonist,6
+494,494,194,Cameo,30
+495,234,66,Mentor,52
+496,41,298,Protagonist,44
+497,838,133,Hero,33
+498,86,254,Protagonist,100
+499,596,110,Comic Relief,6
+500,818,38,Comic Relief,15
+501,447,263,Mentor,100
+502,803,197,Villain,99
+503,32,249,Villain,64
+504,167,78,Antagonist,66
+505,382,280,Protagonist,72
+506,247,207,Villain,81
+507,122,228,Lead,18
+508,843,109,Hero,83
+509,571,280,Supporting,5
+510,148,292,Antagonist,110
+511,453,285,Hero,21
+512,178,107,Villain,91
+513,875,173,Hero,59
+514,140,110,Protagonist,115
+515,146,68,Villain,110
+516,299,68,Cameo,58
+517,310,39,Lead,20
+518,265,141,Cameo,29
+519,916,3,Antagonist,53
+520,843,200,Antagonist,101
+521,449,232,Comic Relief,6
+522,746,207,Supporting,85
+523,654,78,Antagonist,20
+524,498,133,Villain,43
+525,177,64,Lead,74
+526,319,121,Love Interest,73
+527,853,263,Love Interest,118
+528,205,291,Lead,36
+529,722,52,Comic Relief,82
+530,422,134,Comic Relief,60
+531,970,265,Lead,103
+532,976,77,Comic Relief,90
+533,886,285,Mentor,42
+534,761,287,Antagonist,19
+535,645,53,Mentor,110
+536,905,218,Comic Relief,19
+537,151,144,Mentor,107
+538,817,193,Hero,46
+539,805,300,Mentor,53
+540,436,155,Comic Relief,77
+541,162,222,Antagonist,81
+542,694,21,Cameo,75
+543,977,82,Mentor,112
+544,964,233,Protagonist,57
+545,630,143,Hero,28
+546,341,149,Antagonist,64
+547,389,125,Protagonist,42
+548,831,232,Hero,26
+549,42,25,Supporting,29
+550,503,198,Hero,36
+551,371,82,Hero,14
+552,241,249,Cameo,91
+553,271,89,Lead,41
+554,430,188,Villain,117
+555,321,82,Supporting,88
+556,505,32,Antagonist,108
+557,870,244,Cameo,53
+558,815,254,Mentor,78
+559,564,99,Lead,108
+560,871,25,Cameo,97
+561,765,26,Villain,9
+562,275,98,Villain,11
+563,943,249,Mentor,77
+564,861,10,Lead,86
+565,95,67,Supporting,112
+566,370,100,Cameo,36
+567,515,279,Protagonist,12
+568,877,292,Love Interest,48
+569,380,174,Lead,107
+570,440,83,Mentor,20
+571,571,64,Lead,54
+572,205,37,Love Interest,73
+573,376,146,Protagonist,100
+574,557,28,Comic Relief,54
+575,461,196,Protagonist,95
+576,991,222,Cameo,86
+577,627,17,Comic Relief,46
+578,65,205,Antagonist,15
+579,136,206,Antagonist,116
+580,890,129,Mentor,112
+581,202,248,Lead,39
+582,169,34,Protagonist,20
+583,373,74,Villain,76
+584,461,225,Hero,68
+585,817,31,Lead,5
+586,582,272,Antagonist,39
+587,935,178,Lead,57
+588,653,106,Antagonist,85
+589,487,205,Villain,90
+590,212,264,Supporting,28
+591,199,166,Protagonist,87
+592,970,100,Villain,60
+593,48,202,Cameo,5
+594,212,253,Comic Relief,12
+595,133,20,Mentor,9
+596,457,127,Mentor,35
+597,922,203,Comic Relief,110
+598,550,23,Villain,16
+599,445,227,Comic Relief,7
+600,460,8,Protagonist,119
+601,394,221,Lead,10
+602,345,172,Love Interest,102
+603,243,34,Love Interest,79
+604,286,294,Villain,40
+605,275,35,Comic Relief,15
+606,373,23,Cameo,106
+607,573,225,Love Interest,94
+608,427,89,Cameo,46
+609,345,171,Mentor,118
+610,312,55,Love Interest,38
+611,737,177,Lead,71
+612,649,20,Comic Relief,54
+613,26,119,Comic Relief,34
+614,273,7,Love Interest,87
+615,91,195,Supporting,58
+616,580,112,Supporting,36
+617,952,102,Villain,53
+618,206,150,Antagonist,106
+619,816,89,Hero,8
+620,276,113,Villain,27
+621,759,198,Protagonist,40
+622,274,192,Hero,17
+623,415,155,Love Interest,39
+624,426,50,Antagonist,117
+625,162,259,Comic Relief,75
+626,117,168,Love Interest,18
+627,371,212,Mentor,43
+628,668,10,Mentor,93
+629,847,130,Love Interest,17
+630,450,15,Comic Relief,7
+631,686,278,Supporting,22
+632,353,226,Lead,55
+633,32,80,Love Interest,72
+634,740,85,Cameo,38
+635,935,282,Love Interest,119
+636,717,225,Supporting,44
+637,488,27,Comic Relief,67
+638,358,201,Antagonist,9
+639,802,10,Lead,28
+640,863,58,Love Interest,100
+641,462,229,Comic Relief,43
+642,816,228,Lead,88
+643,318,286,Comic Relief,89
+644,30,43,Comic Relief,48
+645,408,36,Cameo,44
+646,447,211,Cameo,47
+647,423,298,Antagonist,13
+648,145,191,Supporting,59
+649,812,70,Hero,97
+650,645,16,Cameo,53
+651,929,56,Protagonist,27
+652,941,78,Hero,89
+653,300,256,Protagonist,54
+654,601,250,Hero,49
+655,908,63,Villain,59
+656,984,271,Supporting,82
+657,281,277,Lead,87
+658,282,137,Comic Relief,34
+659,930,173,Hero,9
+660,839,22,Cameo,105
+661,461,71,Love Interest,16
+662,458,53,Protagonist,20
+663,109,69,Supporting,28
+664,625,21,Antagonist,71
+665,515,258,Protagonist,13
+666,598,101,Comic Relief,86
+667,648,87,Comic Relief,85
+668,876,108,Supporting,104
+669,227,155,Love Interest,37
+670,435,15,Mentor,70
+671,71,262,Cameo,84
+672,346,66,Supporting,80
+673,679,121,Hero,48
+674,168,69,Cameo,83
+675,224,63,Supporting,44
+676,958,95,Villain,15
+677,82,186,Protagonist,66
+678,838,298,Mentor,85
+679,747,5,Protagonist,116
+680,639,293,Hero,89
+681,523,117,Supporting,106
+682,883,90,Lead,53
+683,677,19,Antagonist,110
+684,236,299,Antagonist,116
+685,813,159,Villain,101
+686,726,86,Hero,40
+687,356,40,Cameo,111
+688,612,289,Villain,73
+689,470,268,Hero,39
+690,207,40,Lead,61
+691,300,293,Supporting,38
+692,987,271,Mentor,58
+693,854,144,Cameo,61
+694,223,3,Lead,79
+695,171,27,Supporting,73
+696,575,249,Lead,117
+697,797,215,Love Interest,100
+698,642,279,Villain,23
+699,769,293,Cameo,109
+700,279,29,Supporting,19
+701,387,89,Hero,7
+702,90,213,Hero,106
+703,36,238,Villain,26
+704,938,266,Supporting,109
+705,589,238,Antagonist,85
+706,662,17,Mentor,67
+707,154,38,Hero,111
+708,570,10,Comic Relief,58
+709,929,180,Lead,89
+710,343,218,Antagonist,118
+711,380,120,Protagonist,119
+712,950,12,Lead,107
+713,154,223,Mentor,15
+714,422,36,Mentor,22
+715,821,235,Mentor,45
+716,240,290,Antagonist,38
+717,899,108,Supporting,94
+718,643,220,Supporting,112
+719,76,277,Comic Relief,80
+720,530,57,Protagonist,104
+721,732,89,Supporting,69
+722,379,296,Cameo,77
+723,952,124,Lead,8
+724,901,152,Protagonist,82
+725,149,81,Love Interest,39
+726,423,283,Love Interest,64
+727,411,53,Comic Relief,110
+728,421,64,Supporting,73
+729,382,238,Lead,100
+730,51,48,Lead,113
+731,588,81,Lead,112
+732,817,244,Villain,61
+733,565,224,Comic Relief,46
+734,368,243,Supporting,82
+735,345,170,Mentor,26
+736,581,22,Villain,38
+737,71,118,Hero,58
+738,832,161,Supporting,64
+739,394,255,Villain,88
+740,489,77,Mentor,26
+741,353,15,Comic Relief,29
+742,353,113,Supporting,25
+743,791,61,Antagonist,14
+744,679,24,Lead,82
+745,613,56,Cameo,84
+746,883,270,Cameo,98
+747,835,140,Hero,60
+748,97,112,Supporting,17
+749,1,98,Antagonist,71
+750,27,233,Mentor,116
+751,705,44,Lead,119
+752,605,48,Cameo,12
+753,960,130,Antagonist,112
+754,689,298,Villain,70
+755,488,185,Love Interest,53
+756,232,268,Protagonist,46
+757,256,167,Protagonist,115
+758,401,280,Supporting,84
+759,428,197,Cameo,110
+760,197,25,Lead,29
+761,889,228,Villain,55
+762,202,239,Antagonist,66
+763,955,19,Hero,13
+764,340,33,Hero,111
+765,1000,7,Mentor,68
+766,900,277,Villain,32
+767,790,219,Hero,28
+768,421,33,Protagonist,93
+769,858,156,Comic Relief,38
+770,924,182,Antagonist,62
+771,359,114,Supporting,12
+772,912,23,Cameo,57
+773,887,220,Hero,82
+774,722,228,Protagonist,113
+775,961,94,Mentor,45
+776,456,37,Protagonist,71
+777,610,33,Cameo,52
+778,359,68,Love Interest,17
+779,696,208,Antagonist,30
+780,801,254,Love Interest,37
+781,283,232,Protagonist,6
+782,68,171,Hero,87
+783,423,214,Hero,115
+784,878,145,Love Interest,109
+785,176,228,Cameo,51
+786,263,170,Cameo,116
+787,543,97,Cameo,40
+788,30,71,Villain,9
+789,1000,267,Love Interest,120
+790,965,38,Cameo,25
+791,903,298,Protagonist,29
+792,631,226,Supporting,100
+793,321,19,Supporting,11
+794,153,127,Love Interest,43
+795,119,159,Cameo,91
+796,707,29,Lead,117
+797,583,155,Lead,20
+798,453,248,Protagonist,84
+799,650,50,Love Interest,27
+800,950,261,Villain,22
