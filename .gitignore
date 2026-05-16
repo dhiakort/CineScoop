@@ -37,4 +37,4 @@ target/
 *.iml
 
 ### Secrets ###
-src/main/resources/db.properties
+**/db.properties
