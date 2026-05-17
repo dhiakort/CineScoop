@@ -23,6 +23,7 @@ public class Actor {
     private String email;
     private String phone;
     private String city;
+    private String imageUrl;
     private LocalDateTime createdAt;
 
     // ─── Constructors ────────────────────────────────────────────
@@ -32,7 +33,7 @@ public class Actor {
     public Actor(int actorId, String fullName, String gender, LocalDate birthDate,
                  String nationality, Float height, int awardsCount, Integer debutYear,
                  Long instagramFollowers, BigDecimal salary, String agentName,
-                 String email, String phone, String city, LocalDateTime createdAt) {
+                 String email, String phone, String city, String imageUrl, LocalDateTime createdAt) {
         this.actorId = actorId;
         this.fullName = fullName;
         this.gender = gender;
@@ -47,6 +48,7 @@ public class Actor {
         this.email = email;
         this.phone = phone;
         this.city = city;
+        this.imageUrl = imageUrl;
         this.createdAt = createdAt;
     }
 
@@ -93,6 +95,9 @@ public class Actor {
 
     public String getCity() { return city; }
     public void setCity(String city) { this.city = city; }
+
+    public String getImageUrl() { return imageUrl; }
+    public void setImageUrl(String imageUrl) { this.imageUrl = imageUrl; }
 
     public LocalDateTime getCreatedAt() { return createdAt; }
     public void setCreatedAt(LocalDateTime createdAt) { this.createdAt = createdAt; }

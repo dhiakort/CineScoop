@@ -30,25 +30,30 @@ public class MainApp {
         DatabaseInitializer.initialize();
         logger.info(DatabaseConnection.getInstance().getPoolStats());
 
-        // 3. Run Excel Import and Data Cleaning (Solutions)
-        logger.info("Starting Data Extraction and Cleaning process...");
-        String excelFilePath = "movies_data_corrupted.xlsx"; 
+        // 3. Run ETL Process in correct order (Parents -> Children)
+        logger.info("Starting ETL Pipeline — Parent Tables...");
+        com.cinescoop.service.CsvImportService csvImporter = new com.cinescoop.service.CsvImportService();
         
-        // Generate the mock Excel file with 1000 corrupted rows if it doesn't exist
+        // Step A: Import Directors, Actors, Users from CSV
+        // (These are parent tables needed by Movies and Ratings)
+        csvImporter.importParents(System.getProperty("user.dir"));
+
+        logger.info("Starting Movie Extraction and Cleaning (Excel)...");
+        String excelFilePath = "movies_data_corrupted.xlsx"; 
         java.io.File file = new java.io.File(excelFilePath);
         if (!file.exists()) {
             com.cinescoop.service.MockExcelGenerator.generateMockExcel(excelFilePath);
         }
 
         ExcelImportService excelService = new ExcelImportService();
-        // Run the process: Read corrupted Excel -> Clean data -> Insert into MySQL
+        // Step B: Import Movies from Excel (points to Directors)
         excelService.importFromExcel(excelFilePath);
 
-        logger.info("Importing remaining relational data from CSVs (Users, Actors, Ratings)...");
-        com.cinescoop.service.CsvImportService csvImporter = new com.cinescoop.service.CsvImportService();
-        csvImporter.importAll(System.getProperty("user.dir"));
+        logger.info("Starting Relational Data Import (Ratings & MovieActors)...");
+        // Step C: Import Ratings and MovieActors from CSV (points to Movies, Users, Actors)
+        csvImporter.importChildren(System.getProperty("user.dir"));
 
-        logger.info("ETL Process Complete. You can now connect Power BI to the MySQL database to generate the dashboard!");
+        logger.info("ETL Process Complete. You can now connect Power BI to the MySQL database!");
 
         // Graceful shutdown
         DatabaseConnection.getInstance().shutdown();

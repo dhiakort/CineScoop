@@ -120,6 +120,7 @@ public class DataCleaner {
         String s = status.trim().toLowerCase();
         if (s.contains("prod")) return "Production";
         if (s.contains("cancel")) return "Cancelled";
+        if (s.contains("rel") || s.contains("act")) return "Released";
         return "Released";
     }
 

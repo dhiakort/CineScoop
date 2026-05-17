@@ -81,9 +81,13 @@ public class DatabaseInitializer {
             email               VARCHAR(100) UNIQUE,
             phone               VARCHAR(20),
             city                VARCHAR(80),
+            image_url           VARCHAR(255),
             created_at          DATETIME DEFAULT CURRENT_TIMESTAMP
         ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
         """,
+
+            // Migration: Add image_url column to actors table if not already present
+            "ALTER TABLE actors ADD COLUMN image_url VARCHAR(255)",
 
             // 4. MOVIE_ACTORS (join table)
             """

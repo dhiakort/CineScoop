@@ -24,9 +24,9 @@ public class ActorDAO {
         String sql = """
             INSERT INTO actors (actor_id, full_name, gender, birth_date, nationality,
                 height, awards_count, debut_year, instagram_followers, salary,
-                agent_name, email, phone, city, created_at)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-            ON DUPLICATE KEY UPDATE full_name = VALUES(full_name)
+                agent_name, email, phone, city, image_url, created_at)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ON DUPLICATE KEY UPDATE full_name = VALUES(full_name), image_url = VALUES(image_url)
             """;
         int total = 0;
         try (Connection conn = db.getConnection();
@@ -48,7 +48,8 @@ public class ActorDAO {
                 ps.setString(12, a.getEmail());
                 ps.setString(13, a.getPhone());
                 ps.setString(14, a.getCity());
-                ps.setObject(15, a.getCreatedAt(), Types.TIMESTAMP);
+                ps.setString(15, a.getImageUrl());
+                ps.setObject(16, a.getCreatedAt(), Types.TIMESTAMP);
                 ps.addBatch();
             }
             int[] results = ps.executeBatch();
@@ -133,6 +134,7 @@ public class ActorDAO {
         a.setEmail(rs.getString("email"));
         a.setPhone(rs.getString("phone"));
         a.setCity(rs.getString("city"));
+        a.setImageUrl(rs.getString("image_url"));
         Timestamp ts = rs.getTimestamp("created_at");
         a.setCreatedAt(ts != null ? ts.toLocalDateTime() : null);
         return a;

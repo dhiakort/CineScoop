@@ -1,326 +1,99 @@
-2026-05-16 11:21:24.334 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 11:21:24.335 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp —    CineScoop AI  —  starting up        
-2026-05-16 11:21:24.335 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 11:21:24.338 [JavaFX-Launcher] INFO  c.c.database.DatabaseConnection — 📄 Loaded database config from db.properties
-2026-05-16 11:21:24.358 [JavaFX-Launcher] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Starting...
-2026-05-16 11:21:24.565 [JavaFX-Launcher] INFO  com.zaxxer.hikari.pool.HikariPool — CineScoopPool - Added connection com.mysql.cj.jdbc.ConnectionImpl@24262a6b
-2026-05-16 11:21:24.566 [JavaFX-Launcher] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Start completed.
-2026-05-16 11:21:24.567 [JavaFX-Launcher] INFO  c.c.database.DatabaseConnection — ✅ Database connection pool initialised successfully.
-2026-05-16 11:21:24.570 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:24.572 [JavaFX-Launcher] INFO  c.c.database.DatabaseConnection — ✅ Database connectivity test passed.
-2026-05-16 11:21:24.592 [JavaFX-Launcher] INFO  c.c.database.DatabaseInitializer — 🏗️  Initialising CineScoop database schema...
-2026-05-16 11:21:24.593 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:24.798 [JavaFX-Launcher] INFO  c.c.database.DatabaseInitializer — ✅ Schema ready — 14 statements executed.
-2026-05-16 11:21:24.799 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — Pool[CineScoopPool] — active: 0 | idle: 3 | total: 3 | waiting: 0
-2026-05-16 11:21:24.800 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:24.809 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔓 Connection returned to pool.
-2026-05-16 11:21:24.810 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — Tables are empty — importing CSV data...
-2026-05-16 11:21:24.818 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — === CSV IMPORT START ===
-2026-05-16 11:21:24.883 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:24.968 [JavaFX-Launcher] INFO  com.cinescoop.dao.DirectorDAO — ✅ Batch inserted 0 directors.
-2026-05-16 11:21:24.970 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Directors: 200 imported, 0 skipped
-2026-05-16 11:21:25.010 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:25.113 [JavaFX-Launcher] ERROR com.cinescoop.dao.MovieDAO — ❌ Batch insert movies failed: Cannot add or update a child row: a foreign key constraint fails (`cinescoop`.`movies`, CONSTRAINT `fk_movie_director` FOREIGN KEY (`director_id`) REFERENCES `directors` (`director_id`) ON DELETE SET NULL ON UPDATE CASCADE)
-2026-05-16 11:21:25.114 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Movies: 970 imported, 30 skipped
-2026-05-16 11:21:25.126 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:25.190 [JavaFX-Launcher] INFO  com.cinescoop.dao.ActorDAO — ✅ Batch inserted 0 actors.
-2026-05-16 11:21:25.191 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Actors: 300 imported, 0 skipped
-2026-05-16 11:21:25.209 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:25.287 [JavaFX-Launcher] INFO  com.cinescoop.dao.UserDAO — Batch inserted 0 users.
-2026-05-16 11:21:25.289 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Users: 500 imported, 0 skipped
-2026-05-16 11:21:25.296 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:25.363 [JavaFX-Launcher] ERROR com.cinescoop.dao.MovieActorDAO — Batch insert movie_actors failed: Cannot add or update a child row: a foreign key constraint fails (`cinescoop`.`movie_actors`, CONSTRAINT `fk_ma_movie` FOREIGN KEY (`movie_id`) REFERENCES `movies` (`movie_id`) ON DELETE CASCADE)
-2026-05-16 11:21:25.364 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — MovieActors: 800 imported, 0 skipped
-2026-05-16 11:21:25.408 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:25.479 [JavaFX-Launcher] ERROR com.cinescoop.dao.RatingDAO — Batch insert ratings failed: Cannot add or update a child row: a foreign key constraint fails (`cinescoop`.`ratings`, CONSTRAINT `fk_rating_movie` FOREIGN KEY (`movie_id`) REFERENCES `movies` (`movie_id`) ON DELETE CASCADE)
-2026-05-16 11:21:25.480 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Ratings: 1200 imported, 0 skipped
-2026-05-16 11:21:25.480 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — === CSV IMPORT DONE — cleaned: 3970 | skipped: 30 ===
-2026-05-16 11:21:25.480 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — CSV import complete: 3970 rows imported, 30 skipped.
-2026-05-16 11:21:25.652 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:25.657 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:25.659 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:25.660 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:25.662 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:25.664 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:25.666 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:21:25.683 [JavaFX Application Thread] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown initiated...
-2026-05-16 11:21:25.693 [JavaFX Application Thread] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown completed.
-2026-05-16 11:21:25.694 [JavaFX Application Thread] INFO  c.c.database.DatabaseConnection — 🛑 Connection pool shut down.
-2026-05-16 11:21:25.694 [JavaFX Application Thread] INFO  com.cinescoop.main.MainApp — CineScoop AI shut down cleanly.
-2026-05-16 11:22:39.428 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 11:22:39.429 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp —    CineScoop AI  —  starting up        
-2026-05-16 11:22:39.430 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 11:22:39.431 [JavaFX-Launcher] INFO  c.c.database.DatabaseConnection — 📄 Loaded database config from db.properties
-2026-05-16 11:22:39.448 [JavaFX-Launcher] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Starting...
-2026-05-16 11:22:39.620 [JavaFX-Launcher] INFO  com.zaxxer.hikari.pool.HikariPool — CineScoopPool - Added connection com.mysql.cj.jdbc.ConnectionImpl@420bd00a
-2026-05-16 11:22:39.620 [JavaFX-Launcher] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Start completed.
-2026-05-16 11:22:39.621 [JavaFX-Launcher] INFO  c.c.database.DatabaseConnection — ✅ Database connection pool initialised successfully.
-2026-05-16 11:22:39.622 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:39.623 [JavaFX-Launcher] INFO  c.c.database.DatabaseConnection — ✅ Database connectivity test passed.
-2026-05-16 11:22:39.634 [JavaFX-Launcher] INFO  c.c.database.DatabaseInitializer — 🏗️  Initialising CineScoop database schema...
-2026-05-16 11:22:39.634 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:39.640 [JavaFX-Launcher] INFO  c.c.database.DatabaseInitializer — ✅ Schema ready — 14 statements executed.
-2026-05-16 11:22:39.640 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — Pool[CineScoopPool] — active: 0 | idle: 1 | total: 1 | waiting: 0
-2026-05-16 11:22:39.641 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:39.643 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔓 Connection returned to pool.
-2026-05-16 11:22:39.644 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — Tables are empty — importing CSV data...
-2026-05-16 11:22:39.648 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — === CSV IMPORT START ===
-2026-05-16 11:22:39.693 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:39.789 [JavaFX-Launcher] INFO  com.cinescoop.dao.DirectorDAO — ✅ Batch inserted 0 directors.
-2026-05-16 11:22:39.790 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Directors: 200 imported, 0 skipped
-2026-05-16 11:22:39.897 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.006 [JavaFX-Launcher] ERROR com.cinescoop.dao.MovieDAO — ❌ Batch insert movies failed: Cannot add or update a child row: a foreign key constraint fails (`cinescoop`.`movies`, CONSTRAINT `fk_movie_director` FOREIGN KEY (`director_id`) REFERENCES `directors` (`director_id`) ON DELETE SET NULL ON UPDATE CASCADE)
-2026-05-16 11:22:40.006 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Movies: 970 imported, 30 skipped
-2026-05-16 11:22:40.027 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.097 [JavaFX-Launcher] INFO  com.cinescoop.dao.ActorDAO — ✅ Batch inserted 0 actors.
-2026-05-16 11:22:40.098 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Actors: 300 imported, 0 skipped
-2026-05-16 11:22:40.110 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.168 [JavaFX-Launcher] INFO  com.cinescoop.dao.UserDAO — Batch inserted 0 users.
-2026-05-16 11:22:40.170 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Users: 500 imported, 0 skipped
-2026-05-16 11:22:40.173 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.199 [JavaFX-Launcher] ERROR com.cinescoop.dao.MovieActorDAO — Batch insert movie_actors failed: Cannot add or update a child row: a foreign key constraint fails (`cinescoop`.`movie_actors`, CONSTRAINT `fk_ma_movie` FOREIGN KEY (`movie_id`) REFERENCES `movies` (`movie_id`) ON DELETE CASCADE)
-2026-05-16 11:22:40.199 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — MovieActors: 800 imported, 0 skipped
-2026-05-16 11:22:40.226 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.294 [JavaFX-Launcher] ERROR com.cinescoop.dao.RatingDAO — Batch insert ratings failed: Cannot add or update a child row: a foreign key constraint fails (`cinescoop`.`ratings`, CONSTRAINT `fk_rating_movie` FOREIGN KEY (`movie_id`) REFERENCES `movies` (`movie_id`) ON DELETE CASCADE)
-2026-05-16 11:22:40.294 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Ratings: 1200 imported, 0 skipped
-2026-05-16 11:22:40.295 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — === CSV IMPORT DONE — cleaned: 3970 | skipped: 30 ===
-2026-05-16 11:22:40.295 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — CSV import complete: 3970 rows imported, 30 skipped.
-2026-05-16 11:22:40.494 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.499 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.500 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.503 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.505 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.507 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.510 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.547 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.563 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.571 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:22:40.921 [JavaFX Application Thread] INFO  com.cinescoop.main.MainApp — CineScoop AI launched successfully.
-2026-05-16 11:23:04.049 [JavaFX Application Thread] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown initiated...
-2026-05-16 11:23:04.072 [JavaFX Application Thread] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown completed.
-2026-05-16 11:23:04.073 [JavaFX Application Thread] INFO  c.c.database.DatabaseConnection — 🛑 Connection pool shut down.
-2026-05-16 11:23:04.073 [JavaFX Application Thread] INFO  com.cinescoop.main.MainApp — CineScoop AI shut down cleanly.
-2026-05-16 11:28:09.177 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 11:28:09.178 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp —    CineScoop AI  —  starting up        
-2026-05-16 11:28:09.178 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 11:28:09.181 [JavaFX-Launcher] INFO  c.c.database.DatabaseConnection — 📄 Loaded database config from db.properties
-2026-05-16 11:28:09.202 [JavaFX-Launcher] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Starting...
-2026-05-16 11:28:09.398 [JavaFX-Launcher] INFO  com.zaxxer.hikari.pool.HikariPool — CineScoopPool - Added connection com.mysql.cj.jdbc.ConnectionImpl@3639ec63
-2026-05-16 11:28:09.401 [JavaFX-Launcher] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Start completed.
-2026-05-16 11:28:09.402 [JavaFX-Launcher] INFO  c.c.database.DatabaseConnection — ✅ Database connection pool initialised successfully.
-2026-05-16 11:28:09.404 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:09.404 [JavaFX-Launcher] INFO  c.c.database.DatabaseConnection — ✅ Database connectivity test passed.
-2026-05-16 11:28:09.425 [JavaFX-Launcher] INFO  c.c.database.DatabaseInitializer — 🏗️  Initialising CineScoop database schema...
-2026-05-16 11:28:09.426 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:09.445 [JavaFX-Launcher] INFO  c.c.database.DatabaseInitializer — ✅ Schema ready — 14 statements executed.
-2026-05-16 11:28:09.446 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — Pool[CineScoopPool] — active: 0 | idle: 1 | total: 1 | waiting: 0
-2026-05-16 11:28:09.447 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:09.460 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔓 Connection returned to pool.
-2026-05-16 11:28:09.460 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — Tables are empty — importing CSV data...
-2026-05-16 11:28:09.478 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — === CSV IMPORT START ===
-2026-05-16 11:28:09.561 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:09.635 [JavaFX-Launcher] INFO  com.cinescoop.dao.DirectorDAO — ✅ Batch inserted 0 directors.
-2026-05-16 11:28:09.636 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Directors: 200 imported, 0 skipped
-2026-05-16 11:28:09.696 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:09.804 [JavaFX-Launcher] ERROR com.cinescoop.dao.MovieDAO — ❌ Batch insert movies failed: Cannot add or update a child row: a foreign key constraint fails (`cinescoop`.`movies`, CONSTRAINT `fk_movie_director` FOREIGN KEY (`director_id`) REFERENCES `directors` (`director_id`) ON DELETE SET NULL ON UPDATE CASCADE)
-2026-05-16 11:28:09.804 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Movies: 970 imported, 30 skipped
-2026-05-16 11:28:09.817 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:09.864 [JavaFX-Launcher] INFO  com.cinescoop.dao.ActorDAO — ✅ Batch inserted 0 actors.
-2026-05-16 11:28:09.865 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Actors: 300 imported, 0 skipped
-2026-05-16 11:28:09.881 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:09.946 [JavaFX-Launcher] INFO  com.cinescoop.dao.UserDAO — Batch inserted 0 users.
-2026-05-16 11:28:09.947 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Users: 500 imported, 0 skipped
-2026-05-16 11:28:09.951 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:10.004 [JavaFX-Launcher] ERROR com.cinescoop.dao.MovieActorDAO — Batch insert movie_actors failed: Cannot add or update a child row: a foreign key constraint fails (`cinescoop`.`movie_actors`, CONSTRAINT `fk_ma_movie` FOREIGN KEY (`movie_id`) REFERENCES `movies` (`movie_id`) ON DELETE CASCADE)
-2026-05-16 11:28:10.005 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — MovieActors: 800 imported, 0 skipped
-2026-05-16 11:28:10.034 [JavaFX-Launcher] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:10.103 [JavaFX-Launcher] ERROR com.cinescoop.dao.RatingDAO — Batch insert ratings failed: Cannot add or update a child row: a foreign key constraint fails (`cinescoop`.`ratings`, CONSTRAINT `fk_rating_movie` FOREIGN KEY (`movie_id`) REFERENCES `movies` (`movie_id`) ON DELETE CASCADE)
-2026-05-16 11:28:10.103 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — Ratings: 1200 imported, 0 skipped
-2026-05-16 11:28:10.104 [JavaFX-Launcher] INFO  c.cinescoop.service.CsvImportService — === CSV IMPORT DONE — cleaned: 3970 | skipped: 30 ===
-2026-05-16 11:28:10.104 [JavaFX-Launcher] INFO  com.cinescoop.main.MainApp — CSV import complete: 3970 rows imported, 30 skipped.
-2026-05-16 11:28:10.234 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:10.240 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:10.241 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:10.244 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:10.247 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:10.249 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:10.250 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:10.294 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:10.311 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:10.320 [JavaFX Application Thread] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:28:10.623 [JavaFX Application Thread] INFO  com.cinescoop.main.MainApp — CineScoop AI launched successfully.
-2026-05-16 11:46:34.511 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 11:46:34.513 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp —    CineScoop AI  —  ETL Pipeline       
-2026-05-16 11:46:34.513 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 11:46:34.514 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 📄 Loaded database config from db.properties
-2026-05-16 11:46:34.526 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Starting...
-2026-05-16 11:46:34.771 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.pool.HikariPool — CineScoopPool - Added connection com.mysql.cj.jdbc.ConnectionImpl@14a4d2fb
-2026-05-16 11:46:34.778 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Start completed.
-2026-05-16 11:46:34.778 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — ✅ Database connection pool initialised successfully.
-2026-05-16 11:46:34.784 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:46:34.786 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — ✅ Database connectivity test passed.
-2026-05-16 11:46:34.822 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseInitializer — 🏗️  Initialising CineScoop database schema...
-2026-05-16 11:46:34.824 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:46:34.858 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseInitializer — ✅ Schema ready — 14 statements executed.
-2026-05-16 11:46:34.860 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Pool[CineScoopPool] — active: 0 | idle: 1 | total: 1 | waiting: 0
-2026-05-16 11:46:34.860 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Starting Data Extraction and Cleaning process...
-2026-05-16 11:46:36.005 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.MockExcelGenerator — Created Mock Excel file at: movies_data_corrupted.xlsx
-2026-05-16 11:46:36.033 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Starting Excel Import from movies_data_corrupted.xlsx
-2026-05-16 11:46:36.527 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Excel reading complete. Saving 999 cleaned movies to the database...
-2026-05-16 11:46:36.529 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:46:36.690 [com.cinescoop.main.MainApp.main()] ERROR com.cinescoop.dao.MovieDAO — ❌ Batch insert movies failed: Data truncated for column 'status' at row 1
-2026-05-16 11:46:36.690 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Database insertion complete!
-2026-05-16 11:46:36.691 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ETL Process Complete. You can now connect Power BI to the MySQL database to generate the dashboard!
-2026-05-16 11:46:36.691 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown initiated...
-2026-05-16 11:46:36.698 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown completed.
-2026-05-16 11:46:36.698 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 🛑 Connection pool shut down.
-2026-05-16 11:47:35.658 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 11:47:35.658 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp —    CineScoop AI  —  ETL Pipeline       
-2026-05-16 11:47:35.658 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 11:47:35.661 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 📄 Loaded database config from db.properties
-2026-05-16 11:47:35.672 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Starting...
-2026-05-16 11:47:35.963 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.pool.HikariPool — CineScoopPool - Added connection com.mysql.cj.jdbc.ConnectionImpl@14a4d2fb
-2026-05-16 11:47:35.967 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Start completed.
-2026-05-16 11:47:35.967 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — ✅ Database connection pool initialised successfully.
-2026-05-16 11:47:35.972 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:47:35.973 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — ✅ Database connectivity test passed.
-2026-05-16 11:47:35.990 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseInitializer — 🏗️  Initialising CineScoop database schema...
-2026-05-16 11:47:35.999 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:47:36.013 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseInitializer — ✅ Schema ready — 14 statements executed.
-2026-05-16 11:47:36.015 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Pool[CineScoopPool] — active: 0 | idle: 1 | total: 1 | waiting: 0
-2026-05-16 11:47:36.015 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Starting Data Extraction and Cleaning process...
-2026-05-16 11:47:36.028 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Starting Excel Import from movies_data_corrupted.xlsx
-2026-05-16 11:47:37.170 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Excel reading complete. Saving 999 cleaned movies to the database...
-2026-05-16 11:47:37.172 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:47:37.418 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.MovieDAO — ✅ Batch inserted 0 movies.
-2026-05-16 11:47:37.420 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Database insertion complete!
-2026-05-16 11:47:37.421 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ETL Process Complete. You can now connect Power BI to the MySQL database to generate the dashboard!
-2026-05-16 11:47:37.421 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown initiated...
-2026-05-16 11:47:37.429 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown completed.
-2026-05-16 11:47:37.430 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 🛑 Connection pool shut down.
-2026-05-16 11:48:52.431 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 11:48:52.434 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp —    CineScoop AI  —  ETL Pipeline       
-2026-05-16 11:48:52.434 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 11:48:52.435 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 📄 Loaded database config from db.properties
-2026-05-16 11:48:52.445 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Starting...
-2026-05-16 11:48:52.685 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.pool.HikariPool — CineScoopPool - Added connection com.mysql.cj.jdbc.ConnectionImpl@20f6df6c
-2026-05-16 11:48:52.693 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Start completed.
-2026-05-16 11:48:52.695 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — ✅ Database connection pool initialised successfully.
-2026-05-16 11:48:52.706 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:48:52.710 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — ✅ Database connectivity test passed.
-2026-05-16 11:48:52.736 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseInitializer — 🏗️  Initialising CineScoop database schema...
-2026-05-16 11:48:52.738 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:48:52.761 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseInitializer — ✅ Schema ready — 14 statements executed.
-2026-05-16 11:48:52.764 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Pool[CineScoopPool] — active: 0 | idle: 1 | total: 1 | waiting: 0
-2026-05-16 11:48:52.765 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Starting Data Extraction and Cleaning process...
-2026-05-16 11:48:52.783 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Starting Excel Import from movies_data_corrupted.xlsx
-2026-05-16 11:48:53.917 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Excel reading complete. Saving 999 cleaned movies to the database...
-2026-05-16 11:48:53.920 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 11:48:54.133 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.MovieDAO — ✅ Batch inserted 0 movies.
-2026-05-16 11:48:54.135 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Database insertion complete!
-2026-05-16 11:48:54.137 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ETL Process Complete. You can now connect Power BI to the MySQL database to generate the dashboard!
-2026-05-16 11:48:54.137 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown initiated...
-2026-05-16 11:48:54.150 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown completed.
-2026-05-16 11:48:54.151 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 🛑 Connection pool shut down.
-2026-05-16 13:20:17.479 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 13:20:17.481 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp —    CineScoop AI  —  ETL Pipeline       
-2026-05-16 13:20:17.481 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 13:20:17.489 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 📄 Loaded database config from db.properties
-2026-05-16 13:20:17.520 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Starting...
-2026-05-16 13:20:18.862 [com.cinescoop.main.MainApp.main()] ERROR c.c.database.DatabaseConnection — ❌ Failed to initialise database connection pool: Failed to initialize pool: Access denied for user 'root'@'localhost' (using password: YES)
-2026-05-16 13:22:06.071 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 13:22:06.073 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp —    CineScoop AI  —  ETL Pipeline       
-2026-05-16 13:22:06.074 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 13:22:06.076 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 📄 Loaded database config from db.properties
-2026-05-16 13:22:06.089 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Starting...
-2026-05-16 13:22:07.273 [com.cinescoop.main.MainApp.main()] ERROR c.c.database.DatabaseConnection — ❌ Failed to initialise database connection pool: Failed to initialize pool: Access denied for user 'root'@'localhost' (using password: YES)
-2026-05-16 13:22:33.379 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 13:22:33.381 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp —    CineScoop AI  —  ETL Pipeline       
-2026-05-16 13:22:33.381 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 13:22:33.386 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 📄 Loaded database config from db.properties
-2026-05-16 13:22:33.418 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Starting...
-2026-05-16 13:22:33.698 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.pool.HikariPool — CineScoopPool - Added connection com.mysql.cj.jdbc.ConnectionImpl@22ad5451
-2026-05-16 13:22:33.702 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Start completed.
-2026-05-16 13:22:33.702 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — ✅ Database connection pool initialised successfully.
-2026-05-16 13:22:33.704 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:22:33.706 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — ✅ Database connectivity test passed.
-2026-05-16 13:22:33.718 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseInitializer — 🏗️  Initialising CineScoop database schema...
-2026-05-16 13:22:33.718 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:22:33.730 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseInitializer — ✅ Schema ready — 14 statements executed.
-2026-05-16 13:22:33.731 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Pool[CineScoopPool] — active: 0 | idle: 1 | total: 1 | waiting: 0
-2026-05-16 13:22:33.732 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Starting Data Extraction and Cleaning process...
-2026-05-16 13:22:33.740 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Starting Excel Import from movies_data_corrupted.xlsx
-2026-05-16 13:22:34.805 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Excel reading complete. Saving 999 cleaned movies to the database...
-2026-05-16 13:22:34.806 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:22:35.008 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.MovieDAO — ✅ Batch inserted 0 movies.
-2026-05-16 13:22:35.010 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Database insertion complete!
-2026-05-16 13:22:35.011 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Importing remaining relational data from CSVs (Users, Actors, Ratings)...
-2026-05-16 13:22:35.016 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — === CSV IMPORT START ===
-2026-05-16 13:22:35.060 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:22:35.097 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.DirectorDAO — ✅ Batch inserted 0 directors.
-2026-05-16 13:22:35.098 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Directors: 200 imported, 0 skipped
-2026-05-16 13:22:35.107 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:22:35.146 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.ActorDAO — ✅ Batch inserted 0 actors.
-2026-05-16 13:22:35.147 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Actors: 300 imported, 0 skipped
-2026-05-16 13:22:35.159 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:22:35.212 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.UserDAO — Batch inserted 0 users.
-2026-05-16 13:22:35.212 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Users: 500 imported, 0 skipped
-2026-05-16 13:22:35.218 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:22:35.265 [com.cinescoop.main.MainApp.main()] ERROR com.cinescoop.dao.MovieActorDAO — Batch insert movie_actors failed: Cannot add or update a child row: a foreign key constraint fails (`cinescoop`.`movie_actors`, CONSTRAINT `fk_ma_actor` FOREIGN KEY (`actor_id`) REFERENCES `actors` (`actor_id`) ON DELETE CASCADE)
-2026-05-16 13:22:35.266 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — MovieActors: 800 imported, 0 skipped
-2026-05-16 13:22:35.282 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:22:35.353 [com.cinescoop.main.MainApp.main()] ERROR com.cinescoop.dao.RatingDAO — Batch insert ratings failed: Cannot add or update a child row: a foreign key constraint fails (`cinescoop`.`ratings`, CONSTRAINT `fk_rating_user` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE)
-2026-05-16 13:22:35.353 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Ratings: 1200 imported, 0 skipped
-2026-05-16 13:22:35.354 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — === CSV IMPORT DONE — cleaned: 3000 | skipped: 0 ===
-2026-05-16 13:22:35.354 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ETL Process Complete. You can now connect Power BI to the MySQL database to generate the dashboard!
-2026-05-16 13:22:35.354 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown initiated...
-2026-05-16 13:22:35.362 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown completed.
-2026-05-16 13:22:35.362 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 🛑 Connection pool shut down.
-2026-05-16 13:42:20.956 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 13:42:20.957 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp —    CineScoop AI  —  ETL Pipeline       
-2026-05-16 13:42:20.958 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 13:42:20.959 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 📄 Loaded database config from db.properties
-2026-05-16 13:42:20.976 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Starting...
-2026-05-16 13:42:22.111 [com.cinescoop.main.MainApp.main()] ERROR c.c.database.DatabaseConnection — ❌ Failed to initialise database connection pool: Failed to initialize pool: Communications link failure
-2026-05-16 13:43:03.022 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 13:43:03.024 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp —    CineScoop AI  —  ETL Pipeline       
-2026-05-16 13:43:03.025 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
-2026-05-16 13:43:03.026 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 📄 Loaded database config from db.properties
-2026-05-16 13:43:03.038 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Starting...
-2026-05-16 13:43:03.280 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.pool.HikariPool — CineScoopPool - Added connection com.mysql.cj.jdbc.ConnectionImpl@22ad5451
-2026-05-16 13:43:03.282 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Start completed.
-2026-05-16 13:43:03.282 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — ✅ Database connection pool initialised successfully.
-2026-05-16 13:43:03.285 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:43:03.287 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — ✅ Database connectivity test passed.
-2026-05-16 13:43:03.299 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseInitializer — 🏗️  Initialising CineScoop database schema...
-2026-05-16 13:43:03.300 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:43:03.346 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseInitializer — ✅ Schema ready — 14 statements executed.
-2026-05-16 13:43:03.347 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Pool[CineScoopPool] — active: 0 | idle: 1 | total: 1 | waiting: 0
-2026-05-16 13:43:03.348 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Starting Data Extraction and Cleaning process...
-2026-05-16 13:43:03.358 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Starting Excel Import from movies_data_corrupted.xlsx
-2026-05-16 13:43:04.764 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Excel reading complete. Saving 999 cleaned movies to the database...
-2026-05-16 13:43:04.766 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:43:04.956 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.MovieDAO — ✅ Batch inserted 0 movies.
-2026-05-16 13:43:04.957 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Database insertion complete!
-2026-05-16 13:43:04.958 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Importing remaining relational data from CSVs (Users, Actors, Ratings)...
-2026-05-16 13:43:04.965 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — === CSV IMPORT START ===
-2026-05-16 13:43:05.006 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:43:05.048 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.DirectorDAO — ✅ Batch inserted 0 directors.
-2026-05-16 13:43:05.048 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Directors: 200 imported, 0 skipped
-2026-05-16 13:43:05.060 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:43:05.098 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.ActorDAO — ✅ Batch inserted 0 actors.
-2026-05-16 13:43:05.099 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Actors: 300 imported, 0 skipped
-2026-05-16 13:43:05.113 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:43:05.171 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.UserDAO — Batch inserted 0 users.
-2026-05-16 13:43:05.171 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Users: 500 imported, 0 skipped
-2026-05-16 13:43:05.176 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:43:05.217 [com.cinescoop.main.MainApp.main()] ERROR com.cinescoop.dao.MovieActorDAO — Batch insert movie_actors failed: Cannot add or update a child row: a foreign key constraint fails (`cinescoop`.`movie_actors`, CONSTRAINT `fk_ma_actor` FOREIGN KEY (`actor_id`) REFERENCES `actors` (`actor_id`) ON DELETE CASCADE)
-2026-05-16 13:43:05.217 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — MovieActors: 800 imported, 0 skipped
-2026-05-16 13:43:05.239 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
-2026-05-16 13:43:05.337 [com.cinescoop.main.MainApp.main()] ERROR com.cinescoop.dao.RatingDAO — Batch insert ratings failed: Cannot add or update a child row: a foreign key constraint fails (`cinescoop`.`ratings`, CONSTRAINT `fk_rating_user` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE)
-2026-05-16 13:43:05.338 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Ratings: 1200 imported, 0 skipped
-2026-05-16 13:43:05.338 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — === CSV IMPORT DONE — cleaned: 3000 | skipped: 0 ===
-2026-05-16 13:43:05.338 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ETL Process Complete. You can now connect Power BI to the MySQL database to generate the dashboard!
-2026-05-16 13:43:05.339 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown initiated...
-2026-05-16 13:43:05.350 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown completed.
-2026-05-16 13:43:05.350 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 🛑 Connection pool shut down.
+2026-05-17 19:49:38.241 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
+2026-05-17 19:49:38.265 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp —    CineScoop AI  —  ETL Pipeline       
+2026-05-17 19:49:38.266 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
+2026-05-17 19:49:38.271 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 📄 Loaded database config from db.properties
+2026-05-17 19:49:38.302 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Starting...
+2026-05-17 19:49:38.825 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.pool.HikariPool — CineScoopPool - Added connection com.mysql.cj.jdbc.ConnectionImpl@215c6887
+2026-05-17 19:49:38.830 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Start completed.
+2026-05-17 19:49:38.830 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — ✅ Database connection pool initialised successfully.
+2026-05-17 19:49:38.834 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 19:49:38.836 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — ✅ Database connectivity test passed.
+2026-05-17 19:49:38.854 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseInitializer — 🏗️  Initialising CineScoop database schema...
+2026-05-17 19:49:38.855 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 19:49:38.914 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseInitializer — ✅ Schema ready — 15 statements executed.
+2026-05-17 19:49:38.916 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Pool[CineScoopPool] — active: 0 | idle: 1 | total: 1 | waiting: 0
+2026-05-17 19:49:38.917 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Starting ETL Pipeline — Parent Tables...
+2026-05-17 19:49:38.931 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — === CSV IMPORT: PARENTS START ===
+2026-05-17 19:49:39.011 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 19:49:39.139 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.DirectorDAO — ✅ Batch inserted 0 directors.
+2026-05-17 19:49:39.141 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Directors: 200 imported, 0 skipped
+2026-05-17 19:49:39.170 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 19:49:39.265 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.ActorDAO — ✅ Batch inserted 0 actors.
+2026-05-17 19:49:39.266 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Actors: 300 imported, 0 skipped
+2026-05-17 19:49:39.287 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 19:49:39.376 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.UserDAO — Batch inserted 0 users.
+2026-05-17 19:49:39.377 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Users: 500 imported, 0 skipped
+2026-05-17 19:49:39.378 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — === CSV PARENTS DONE — cleaned: 1000 | skipped: 0 ===
+2026-05-17 19:49:39.378 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Starting Movie Extraction and Cleaning (Excel)...
+2026-05-17 19:49:39.382 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Starting Excel Import from movies_data_corrupted.xlsx
+2026-05-17 19:49:41.182 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Excel reading complete. Saving 1009 cleaned movies to the database...
+2026-05-17 19:49:41.185 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 19:49:41.371 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.MovieDAO — ✅ Batch inserted 0 movies.
+2026-05-17 19:49:41.374 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Database insertion complete!
+2026-05-17 19:49:41.375 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Starting Relational Data Import (Ratings & MovieActors)...
+2026-05-17 19:49:41.376 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — === CSV IMPORT: CHILDREN START ===
+2026-05-17 19:49:41.376 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 19:49:41.394 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 19:49:41.412 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 19:49:41.461 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.MovieActorDAO — Batch inserted 0 movie_actors.
+2026-05-17 19:49:41.464 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — MovieActors: 783 imported, 24 skipped due to missing references
+2026-05-17 19:49:41.465 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 19:49:41.471 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 19:49:41.516 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 19:49:41.851 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.RatingDAO — Batch inserted 0 ratings.
+2026-05-17 19:49:41.854 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Ratings: 1163 imported, 37 skipped due to missing references
+2026-05-17 19:49:41.855 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — === CSV CHILDREN DONE — cleaned: 1946 ===
+2026-05-17 19:49:41.855 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ETL Process Complete. You can now connect Power BI to the MySQL database!
+2026-05-17 19:49:41.855 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown initiated...
+2026-05-17 19:49:41.879 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown completed.
+2026-05-17 19:49:41.880 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 🛑 Connection pool shut down.
+2026-05-17 20:02:18.941 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
+2026-05-17 20:02:18.942 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp —    CineScoop AI  —  ETL Pipeline       
+2026-05-17 20:02:18.942 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ═══════════════════════════════════════
+2026-05-17 20:02:18.944 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 📄 Loaded database config from db.properties
+2026-05-17 20:02:18.956 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Starting...
+2026-05-17 20:02:19.171 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.pool.HikariPool — CineScoopPool - Added connection com.mysql.cj.jdbc.ConnectionImpl@44880d7d
+2026-05-17 20:02:19.172 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Start completed.
+2026-05-17 20:02:19.172 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — ✅ Database connection pool initialised successfully.
+2026-05-17 20:02:19.175 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 20:02:19.176 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — ✅ Database connectivity test passed.
+2026-05-17 20:02:19.185 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseInitializer — 🏗️  Initialising CineScoop database schema...
+2026-05-17 20:02:19.186 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 20:02:19.199 [com.cinescoop.main.MainApp.main()] WARN  c.c.database.DatabaseInitializer — ⚠️  DDL skipped or failed: Duplicate column name 'image_url'
+2026-05-17 20:02:19.206 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseInitializer — ✅ Schema ready — 14 statements executed.
+2026-05-17 20:02:19.207 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Pool[CineScoopPool] — active: 0 | idle: 1 | total: 1 | waiting: 0
+2026-05-17 20:02:19.207 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Starting ETL Pipeline — Parent Tables...
+2026-05-17 20:02:19.212 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — === CSV IMPORT: PARENTS START ===
+2026-05-17 20:02:19.251 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 20:02:19.325 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.DirectorDAO — ✅ Batch inserted 0 directors.
+2026-05-17 20:02:19.327 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Directors: 200 imported, 0 skipped
+2026-05-17 20:02:19.343 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 20:02:19.388 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.ActorDAO — ✅ Batch inserted 0 actors.
+2026-05-17 20:02:19.389 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Actors: 300 imported, 0 skipped
+2026-05-17 20:02:19.415 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 20:02:19.483 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.UserDAO — Batch inserted 0 users.
+2026-05-17 20:02:19.484 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Users: 500 imported, 0 skipped
+2026-05-17 20:02:19.484 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — === CSV PARENTS DONE — cleaned: 1000 | skipped: 0 ===
+2026-05-17 20:02:19.484 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Starting Movie Extraction and Cleaning (Excel)...
+2026-05-17 20:02:19.486 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Starting Excel Import from movies_data_corrupted.xlsx
+2026-05-17 20:02:20.386 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Excel reading complete. Saving 1009 cleaned movies to the database...
+2026-05-17 20:02:20.423 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 20:02:20.702 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.MovieDAO — ✅ Batch inserted 0 movies.
+2026-05-17 20:02:20.704 [com.cinescoop.main.MainApp.main()] INFO  c.c.service.ExcelImportService — Database insertion complete!
+2026-05-17 20:02:20.705 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — Starting Relational Data Import (Ratings & MovieActors)...
+2026-05-17 20:02:20.705 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — === CSV IMPORT: CHILDREN START ===
+2026-05-17 20:02:20.705 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 20:02:20.721 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 20:02:20.736 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 20:02:20.796 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.MovieActorDAO — Batch inserted 0 movie_actors.
+2026-05-17 20:02:20.798 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — MovieActors: 783 imported, 24 skipped due to missing references
+2026-05-17 20:02:20.798 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 20:02:20.801 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 20:02:20.845 [com.cinescoop.main.MainApp.main()] DEBUG c.c.database.DatabaseConnection — 🔗 Connection acquired from pool.
+2026-05-17 20:02:20.956 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.dao.RatingDAO — Batch inserted 0 ratings.
+2026-05-17 20:02:20.957 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — Ratings: 1163 imported, 37 skipped due to missing references
+2026-05-17 20:02:20.958 [com.cinescoop.main.MainApp.main()] INFO  c.cinescoop.service.CsvImportService — === CSV CHILDREN DONE — cleaned: 1946 ===
+2026-05-17 20:02:20.958 [com.cinescoop.main.MainApp.main()] INFO  com.cinescoop.main.MainApp — ETL Process Complete. You can now connect Power BI to the MySQL database!
+2026-05-17 20:02:20.958 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown initiated...
+2026-05-17 20:02:20.966 [com.cinescoop.main.MainApp.main()] INFO  com.zaxxer.hikari.HikariDataSource — CineScoopPool - Shutdown completed.
+2026-05-17 20:02:20.967 [com.cinescoop.main.MainApp.main()] INFO  c.c.database.DatabaseConnection — 🛑 Connection pool shut down.

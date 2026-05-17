@@ -15,7 +15,10 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
+import java.sql.*;
 
 /**
  * CsvImportService — reads CSV files, cleans data, and inserts into MySQL.
@@ -40,21 +43,44 @@ public class CsvImportService {
     private int skippedRows = 0;
 
     /**
-     * Import all CSV files from the given base directory.
+     * Step A: Import parent tables that have no FK dependencies.
      */
-    public void importAll(String baseDir) {
-        logger.info("=== CSV IMPORT START ===");
+    public void importParents(String baseDir) {
+        logger.info("=== CSV IMPORT: PARENTS START ===");
         cleanedRows = 0;
         skippedRows = 0;
 
         importDirectors(baseDir + "/directors.csv");
-        // importMovies(baseDir + "/movies.csv"); // Movies are now imported via Excel
         importActors(baseDir + "/actors.csv");
         importUsers(baseDir + "/users.csv");
+        
+        logger.info("=== CSV PARENTS DONE — cleaned: {} | skipped: {} ===", cleanedRows, skippedRows);
+    }
+
+    /**
+     * Step C: Import child tables that depend on Movies, Users, and Actors.
+     */
+    public void importChildren(String baseDir) {
+        logger.info("=== CSV IMPORT: CHILDREN START ===");
+        int startCleaned = cleanedRows;
+        
         importMovieActors(baseDir + "/movie_actors.csv");
         importRatings(baseDir + "/ratings.csv");
 
-        logger.info("=== CSV IMPORT DONE — cleaned: {} | skipped: {} ===", cleanedRows, skippedRows);
+        logger.info("=== CSV CHILDREN DONE — cleaned: {} ===", (cleanedRows - startCleaned));
+    }
+
+    private Set<Integer> fetchValidIds(String table, String column) {
+        Set<Integer> ids = new HashSet<>();
+        String sql = "SELECT " + column + " FROM " + table;
+        try (Connection conn = com.cinescoop.database.DatabaseConnection.getInstance().getConnection();
+             Statement stmt = conn.createStatement();
+             ResultSet rs = stmt.executeQuery(sql)) {
+            while (rs.next()) ids.add(rs.getInt(1));
+        } catch (SQLException e) {
+            logger.error("Failed fetching IDs from {}: {}", table, e.getMessage());
+        }
+        return ids;
     }
 
     // ─── DIRECTORS ───────────────────────────────────────────────
@@ -166,6 +192,12 @@ public class CsvImportService {
                     a.setPhone(clean(row[12]));
                     a.setCity(clean(row[13]));
                     a.setCreatedAt(parseDateTime(row[14]));
+                    if (row.length > 15) {
+                        a.setImageUrl(clean(row[15]));
+                    } else {
+                        // Safe fallback image
+                        a.setImageUrl("https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=256&h=256");
+                    }
                     list.add(a);
                     cleanedRows++;
                 } catch (Exception e) {
@@ -225,16 +257,28 @@ public class CsvImportService {
     private void importMovieActors(String path) {
         List<MovieActor> list = new ArrayList<>();
         int localSkip = 0;
+        
+        Set<Integer> validMovieIds = fetchValidIds("movies", "movie_id");
+        Set<Integer> validActorIds = fetchValidIds("actors", "actor_id");
+
         try (Reader reader = new FileReader(path);
              CSVReader csv = new CSVReaderBuilder(reader).withSkipLines(1).build()) {
 
             String[] row;
             while ((row = csv.readNext()) != null) {
                 try {
+                    int mid = parseInt(row[1]);
+                    int aid = parseInt(row[2]);
+                    
+                    // Validation solution: skip if FK doesn't exist
+                    if (!validMovieIds.contains(mid) || !validActorIds.contains(aid)) {
+                        localSkip++; skippedRows++; continue;
+                    }
+
                     MovieActor ma = new MovieActor();
                     ma.setId(parseInt(row[0]));
-                    ma.setMovieId(parseInt(row[1]));
-                    ma.setActorId(parseInt(row[2]));
+                    ma.setMovieId(mid);
+                    ma.setActorId(aid);
                     ma.setRoleName(clean(row[3]));
                     ma.setScreenTime(parseIntOrNull(row[4]));
                     list.add(ma);
@@ -247,7 +291,7 @@ public class CsvImportService {
             logger.error("Failed reading {}: {}", path, e.getMessage());
         }
         if (!list.isEmpty()) movieActorDAO.insertBatch(list);
-        logger.info("MovieActors: {} imported, {} skipped", list.size(), localSkip);
+        logger.info("MovieActors: {} imported, {} skipped due to missing references", list.size(), localSkip);
     }
 
     // ─── RATINGS ─────────────────────────────────────────────────
@@ -255,16 +299,28 @@ public class CsvImportService {
     private void importRatings(String path) {
         List<Rating> list = new ArrayList<>();
         int localSkip = 0;
+        
+        Set<Integer> validMovieIds = fetchValidIds("movies", "movie_id");
+        Set<Integer> validUserIds = fetchValidIds("users", "user_id");
+
         try (Reader reader = new FileReader(path);
              CSVReader csv = new CSVReaderBuilder(reader).withSkipLines(1).build()) {
 
             String[] row;
             while ((row = csv.readNext()) != null) {
                 try {
+                    int mid = parseInt(row[1]);
+                    int uid = parseInt(row[2]);
+                    
+                    // Validation solution: skip if FK doesn't exist
+                    if (!validMovieIds.contains(mid) || !validUserIds.contains(uid)) {
+                        localSkip++; skippedRows++; continue;
+                    }
+
                     Rating r = new Rating();
                     r.setRatingId(parseInt(row[0]));
-                    r.setMovieId(parseInt(row[1]));
-                    r.setUserId(parseInt(row[2]));
+                    r.setMovieId(mid);
+                    r.setUserId(uid);
                     r.setRatingValue(parseFloatSafe(row[3]));
                     r.setReview(clean(row[4]));
                     r.setReviewDate(parseDate(row[5]));
@@ -286,7 +342,7 @@ public class CsvImportService {
             logger.error("Failed reading {}: {}", path, e.getMessage());
         }
         if (!list.isEmpty()) ratingDAO.insertBatch(list);
-        logger.info("Ratings: {} imported, {} skipped", list.size(), localSkip);
+        logger.info("Ratings: {} imported, {} skipped due to missing references", list.size(), localSkip);
     }
 
     // ═══════════════════════════════════════════════════════════════

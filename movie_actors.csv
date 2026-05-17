@@ -799,3 +799,10 @@ id,movie_id,actor_id,role_name,screen_time
 798,453,248,Protagonist,84
 799,650,50,Love Interest,27
 800,950,261,Villain,22
+9001,1001,147,Dom Cobb,120
+9002,1002,147,Jack Dawson,140
+9003,1001,64,Supporting Agent,15
+9004,1010,8,Black Widow,65
+9005,1010,116,Black Widow (Alt),45
+9006,1004,38,Gwen Stacy,30
+9007,1005,187,Dr. Brand,50
